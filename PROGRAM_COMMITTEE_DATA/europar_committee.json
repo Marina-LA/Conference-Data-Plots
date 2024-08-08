@@ -1,0 +1,2612 @@
+{
+    "2013":{
+        "Bronis R. de Supinski": {
+            "Lawrence Livermore National Laboratory": "US"
+        },
+        "Bettina Krammer": {
+            "Bielefeld University & University of Applied Sciences Bielefeld": "DE"
+        },
+        "Karl Fürlinger": {
+            "Ludwig-Maximilians-Universität": "DE"
+        },
+        "Jesus Labarta": {
+            "Barcelona Supercomputing Center": "ES"
+        },
+        "Dimitrios S. Nikolopoulos": {
+            "Queen's University Belfast": "GB"
+        },
+        "Adolfy Hoisie": {
+            "Pacific Northwest National Laboratory": "US"
+        },
+        "Michael Gerndt": {
+            "Technische Universität München": "DE"
+        },
+        "Shajulin Benedict": {
+            "St. Xavier's Catholic College of Engineering": "IN"
+        },
+        "Thomas Fahringer": {
+            "University of Innsbruck": "AT"
+        },
+        "Vladimir Getov": {
+            "University of Westminster": "GB"
+        },
+        "Scott Pakin": {
+            "Los Alamos National Laboratory": "US"
+        },
+        "Zhihui Du": {
+            "Tsinghua University": "CN"
+        },
+        "Ramin Yahyapour": {
+            "Göttingen University": "DE"
+        },
+        "Yuxiong He": {
+            "Microsoft": "US"
+        },
+        "Nectarios Koziris": {
+            "National Technical University of Athens": "GR"
+        },
+        "Bilha Mendelson": {
+            "IBM Haifa Research Lab": "IL"
+        },
+        "Veronika Sonigo": {
+            "Université de Franche-Comté": "FR"
+        },
+        "Achim Streit": {
+            "Karlsruhe Institute of Technology": "DE"
+        },
+        "Andrei Tchernykh": {
+            "Center for Scientific Research and Higher Education at Ensenada": "MX"
+        },
+        "Denis Barthou": {
+            "INRIA": "FR"
+        },
+        "Wolfgang Karl": {
+            "Karlsruhe Institute of Technology": "DE"
+        },
+        "Ramón Doallo": {
+            "University of A Coruña": "ES"
+        },
+        "Evelyn Duesterwald": {
+            "IBM Research": "US"
+        },
+        "Sami Yehia": {
+            "Intel": "US"
+        },
+        "Maria S. Perez-Hernandez": {
+            "Universidad Politecnica De Madrid": "ES"
+        },
+        "André Brinkmann": {
+            "Johannes Gutenberg University Mainz": "DE"
+        },
+        "Stergios Anastasiadis": {
+            "University of Ioannina": "GR"
+        },
+        "Sandro Fiore": {
+            "Euro Mediterranean Center on Climate Change and University of Salento": "IT"
+        },
+        "Adrien Lèbre": {
+            "Ecole des Mines de Nantes": "FR"
+        },
+        "Kostas Magoutis": {
+            "Foundation for Research and Technology - Hellas": "GR"
+        },
+        "Erwin Laure": {
+            "KTH Royal Institute of Technology": "SE"
+        },
+        "Odej Kao": {
+            "Technische Universität Berlin": "DE"
+        },
+        "Rosa M. Badia": {
+            "Barcelona Supercomputing Center and CSIC": "ES"
+        },
+        "Laurent Lefevre": {
+            "INRIA, University of Lyon": "FR"
+        },
+        "Beniamino Di Martino": {
+            "Seconda Universita' di Napoli": "IT"
+        },
+        "Radu Prodan": {
+            "University of Innsbruck": "AT"
+        },
+        "Matteo Turilli": {
+            "University of Oxford": "GB"
+        },
+        "Daniel Warneke": {
+            "International Computer Science Institute, Berkeley": "US"
+        },
+        "Damiano Carra": {
+            "University of Verona": "IT"
+        },
+        "Thorsten Strufe": {
+            "Technische Universität Darmstadt": "DE"
+        },
+        "György Dán": {
+            "KTH Royal Institute of Technology": "SE"
+        },
+        "Marcel Karnstedt": {
+            "DERI, National University of Ireland Galway": "IE"
+        },
+        "Achour Mostefaoui": {
+            "Université de Nantes": "FR"
+        },
+        "Andreas Polze": {
+            "Hasso-Plattner-Institute, University of Potsdam": "DE"
+        },
+        "Carlos Baquero": {
+            "INESC TEC & Universidade do Minho": "PT"
+        },
+        "Paul Ezhilchelvan": {
+            "University of Newcastle": "GB"
+        },
+        "Lars Lundberg": {
+            "Blekinge Institute of Technology, Karlskrona": "SE"
+        },
+        "José Cunha": {
+            "Universidade Nova de Lisboa": "PT"
+        },
+        "Michael Philippsen": {
+            "Friedrich-Alexander-Universität Erlangen-Nürnberg": "DE"
+        },
+        "Domenico Talia": {
+            "University of Calabria and ICAR-CNR": "IT"
+        },
+        "Ana Lucia Varbanescu": {
+            "Delft University of Technology": "NL"
+        },
+        "Julien Langou": {
+            "University of Colorado Denver": "US"
+        },
+        "Matthias Bolten": {
+            "University of Wuppertal": "DE"
+        },
+        "Laura Grigori": {
+            "INRIA": "FR"
+        },
+        "Marian Vajteršic": {
+            "University of Salzburg": "AT"
+        },
+        "Luiz DeRose": {
+            "Cray Inc.": "US"
+        },
+        "Jan Treibig": {
+            "Friedrich-Alexander-Universität Erlangen-Nürnberg": "DE"
+        },
+        "David Abramson": {
+            "Monash University": "AU"
+        },
+        "Alastair Donaldson": {
+            "Imperial College London": "GB"
+        },
+        "William Jalby": {
+            "University of Versailles Saint-Quentin-en-Yvelines": "FR"
+        },
+        "Alba Cristina M. A. de Melo": {
+            "University of Brasilia": "BR"
+        },
+        "Tomàs Margalef": {
+            "Universitat Autònoma de Barcelona": "ES"
+        },
+        "Giuseppe F. Italiano": {
+            "Università di Roma 2 Tor Vergata": "IT"
+        },
+        "Henning Meyerhenke": {
+            "Karlsruhe Institute of Technology (KIT)": "DE"
+        },
+        "Guy Blelloch": {
+            "Carnegie Mellon University": "US"
+        },
+        "Philippas Tsigas": {
+            "Chalmers University of Technology": "SE"
+        },
+        "Olav Lysne": {
+            "Simula Research Laboratory": "NO"
+        },
+        "Torsten Hoefler": {
+            "Swiss Federal Institute of Technology Zurich": "CH"
+        },
+        "Pedro López": {
+            "Universitat Politècnica de València": "ES"
+        },
+        "Davide Bertozzi": {
+            "University of Ferrara": "IT"
+        },
+        "Turlough P. Downes": {
+            "Dublin City University": "IE"
+        },
+        "Sabine Roller": {
+            "University of Siegen": "DE"
+        },
+        "Ari P. Seitsonen": {
+            "University of Zurich": "CH"
+        },
+        "Sophie Valcke": {
+            "CERFACS": "FR"
+        },
+        "Naoya Maruyama": {
+            "RIKEN Advanced Institute for Computational Science": "JP"
+        },
+        "Leif Kobbelt": {
+            "RWTH Aachen University": "DE"
+        },
+        "Pavan Balaji": {
+            "Argonne National Laboratory": "US"
+        },
+        "Nikola Puzovic": {
+            "Barcelona Supercomputing Center": "ES"
+        },
+        "Samuel Thibault": {
+            "University of Bordeaux": "FR"
+        },
+        "Kun Zhou": {
+            "Zhejiang University": "CN"
+        },
+        "David Keyes": {
+            "King Abdullah University of Science and Technology": "SA"
+        },
+        "Marie-Christine Sawley": {
+            "Intel Exascale Lab Paris": "FR"
+        },
+        "Thomas Schulthess": {
+            "ETH Zurich": "CH"
+        },
+        "John Shalf": {
+            "Lawrence Berkeley National Laboratory": "US"
+        }
+    },
+    "2015":{
+        "Marco Aldinucci": {
+            "University of Torino": "IT"
+        },
+        "Gabriel Antoniu": {
+            "INRIA Rennes": "FR"
+        },
+        "Rosa Badia": {
+            "Barcelona Supercomputing Center": "ES"
+        },
+        "Siegfried Benkner": {
+            "University of Vienna": "AT"
+        },
+        "Paolo Bientinesi": {
+            "RWTH Aachen": "DE"
+        },
+        "André Brinkmann": {
+            "University of Mainz": "DE"
+        },
+        "Laura Carrington": {
+            "SDSC": "US"
+        },
+        "Henri Casanova": {
+            "University of Hawai`i": "US"
+        },
+        "Antonio Casimiro": {
+            "University of Lisbon": "PT"
+        },
+        "Frédéric Desprez": {
+            "INRIA": "FR"
+        },
+        "Marios D. Dikaiakos": {
+            "University of Cyprus": "CY"
+        },
+        "Norbert Eicker": {
+            "Jülich Supercomputing Centre": "DE"
+        },
+        "Robert Elsässer": {
+            "University of Salzburg": "AT"
+        },
+        "Leah Epstein": {
+            "University of Haifa": "IL"
+        },
+        "Christof Fetzer": {
+            "Dresden University of Technology": "DE"
+        },
+        "Franz Franchetti": {
+            "CMU": "US"
+        },
+        "Pierre Fraigniaud": {
+            "Université Paris Diderot - Paris 7": "FR"
+        },
+        "Holger Fröning": {
+            "Heidelberg University": "DE"
+        },
+        "Karl Fürlinger": {
+            "LMU Munich": "DE"
+        },
+        "Todd Gamblin": {
+            "Lawrence Livermore National Laboratory": "US"
+        },
+        "Wilfried Gansterer": {
+            "University of Vienna": "AT"
+        },
+        "José Daniel García": {
+            "U. Carlos III": "ES"
+        },
+        "Benedict Gaster": {
+            "University of the West of England": "GB"
+        },
+        "Michael Gerndt": {
+            "Technische Universität München (TUM)": "DE"
+        },
+        "Bill Gropp": {
+            "UIUC": "US"
+        },
+        "Mitch Gusat": {
+            "IBM Zurich": "CH"
+        },
+        "Torsten Hoefler": {
+            "ETH": "CH"
+        },
+        "Lee Howes": {
+            "Qualcomm": "US"
+        },
+        "Jörg Keller": {
+            "University of Hagen": "DE"
+        },
+        "Hans Kellerer": {
+            "TU Graz": "AT"
+        },
+        "Thilo Kielmann": {
+            "Vrije Universiteit": "NL"
+        },
+        "Michael Klemm": {
+            "Intel": "DE"
+        },
+        "Jens Knoop": {
+            "TU Wien": "AT"
+        },
+        "Harald Kosch": {
+            "University of Passau": "DE"
+        },
+        "Erwin Laure": {
+            "KTH": "SE"
+        },
+        "Adrien Lebre": {
+            "Inria": "FR"
+        },
+        "Vitus Leung": {
+            "Sandia National Laboratories": "US"
+        },
+        "Giorgio Lucarelli": {
+            "LIG Grenoble": "FR"
+        },
+        "Naoya Maruyama": {
+            "RIKEN": "JP"
+        },
+        "Helge Meinhard": {
+            "CERN": "CH"
+        },
+        "Massimiliano Meneghin": {
+            "Autodesk Research": "CA"
+        },
+        "Matthias S. Mueller": {
+            "RWTH Aachen": "DE"
+        },
+        "Mondrian Nüssle": {
+            "Extoll GmbH": "DE"
+        },
+        "Ariel Olieksak": {
+            "Poznan Supercomputing Center": "PL"
+        },
+        "Louis-Noël Pouchet": {
+            "UCLA": "US"
+        },
+        "Marta Patino-Martinez": {
+            "Technical University of Madrid": "ES"
+        },
+        "Miquel Pericàs": {
+            "Chalmers University of Technology": "SE"
+        },
+        "Keshav Pingali": {
+            "The University of Texas at Austin": "US"
+        },
+        "Antoniu Pop": {
+            "University of Manchester": "GB"
+        },
+        "Radu Prodan": {
+            "University of Innsbruck": "AT"
+        },
+        "Geppino Pucci": {
+            "University of Padua": "IT"
+        },
+        "Daniel Ruprecht": {
+            "Università della Svizzera italiana": "CH"
+        },
+        "Franscisco De Sande": {
+            "Universidad de La Laguna": "ES"
+        },
+        "Peter Sanders": {
+            "KIT": "DE"
+        },
+        "André Schiper": {
+            "EPFL": "CH"
+        },
+        "Markus Schordan": {
+            "LLNL": "US"
+        },
+        "Pierre Sens": {
+            "LIP6/Inria Paris Rocquencourt": "FR"
+        },
+        "Natasha Shakhlevich": {
+            "University of Leeds": "GB"
+        },
+        "Veronika Sonigo": {
+            "FEMTO-ST": "FR"
+        },
+        "Rizos Sakellariou": {
+            "University of Manchester": "GB"
+        },
+        "Erik Saule": {
+            "UNC Charlotte": "US"
+        },
+        "Uwe Schwiegelshohn": {
+            "TU Dortmund University": "DE"
+        },
+        "Federico Silla": {
+            "Technical University of Valencia": "ES"
+        },
+        "Tor Skeie": {
+            "University of Oslo": "NO"
+        },
+        "Leonel Sousa": {
+            "University of Lisbon": "PT"
+        },
+        "Andreas Steininger": {
+            "TU Wien": "AT"
+        },
+        "Frédéric Suter": {
+            "IN2P3 Computing Center": "FR"
+        },
+        "Domenico Talia": {
+            "University of Calabria": "IT"
+        },
+        "Nathan R. Tallent": {
+            "Pacific Northwest National Laboratory": "US"
+        },
+        "Rajeev Thakur": {
+            "ANL": "US"
+        },
+        "Samuel Thibault": {
+            "Inria Bordeaux": "FR"
+        },
+        "Massimo Torquati": {
+            "University of Pisa": "IT"
+        },
+        "Sid Touati": {
+            "INRIA": "FR"
+        },
+        "Denis Trystram": {
+            "LIG Grenoble": "FR"
+        },
+        "Marian Vajteršic": {
+            "University of Salzburg": "AT"
+        },
+        "Hans Vandierendonck": {
+            "Queen’s University Belfast": "GB"
+        },
+        "Xavier Vasseur": {
+            "CERFACS": "FR"
+        },
+        "Josef Widder": {
+            "TU Wien": "AT"
+        },
+        "Felix Wolf": {
+            "Technische Universität Darmstadt": "DE"
+        },
+        "Brian Wylie": {
+            "Forschungszentrum Juelich": "DE"
+        },
+        "Ramin Yahyapour": {
+            "Georg-August University of Göttingen": "DE"
+        }
+    }, 
+    "2016":{
+        "Tomàs Margalef": {
+            "Universitat Autònoma de Barcelona": "ES"
+        },
+        "Olivier Richard": {
+            "University of Grenoble Alpes": "FR"
+        },
+        "Siegfried Benkner": {
+            "University of Vienna": "AT"
+        },
+        "Joao Cardoso": {
+            "University of Porto and INESC-TEC": "PT"
+        },
+        "Michael Gerndt": {
+            "Technical University of Munich": "DE"
+        },
+        "Martin Schulz": {
+            "Lawrence Livermore National Laboratory": "US"
+        },
+        "Ana Lucia Varbanescu": {
+            "University of Amsterdam": "NL"
+        },
+        "Laura Carrington": {
+            "San Diego Supercomputer Center": "US"
+        },
+        "Arnaud Legrand": {
+            "CNRS/University of Grenoble": "FR"
+        },
+        "Roy Campbell": {
+            "DOD High Performance Computing Modernization Program": "US"
+        },
+        "Kirk Cameron": {
+            "Virginia Tech": "US"
+        },
+        "Marcos Dias de Assucao": {
+            "LIP/ENS Lyon": "FR"
+        },
+        "Georg Hager": {
+            "Friedrich-Alexander-Universität": "DE"
+        },
+        "Sascha Hunold": {
+            "Vienna University of Technology": "AT"
+        },
+        "Darren Kerbyson": {
+            "Pacific Northwest National Laboratory": "US"
+        },
+        "Shirley Moore": {
+            "The University of Texas at El Paso": "US"
+        },
+        "Rizos Sakellariou": {
+            "University of Manchester": "GB"
+        },
+        "Fanny Pascual": {
+            "Université Pierre et Marie Curie": "FR"
+        },
+        "Luiz Fernando Bittencourt": {
+            "University of Campinas": "BR"
+        },
+        "Florina Ciorba": {
+            "University of Basel": "CH"
+        },
+        "Julita Corbalan": {
+            "Barcelona Supercomputing Center": "ES"
+        },
+        "Ivan Rodero": {
+            "Rutgers University": "US"
+        },
+        "Krzysztof Rzadca": {
+            "University of Warsaw": "PL"
+        },
+        "Uwe Schwiegelshohn": {
+            "TU Dortmund": "DE"
+        },
+        "Henri Bal": {
+            "Vrije Universiteit": "NL"
+        },
+        "Sid Touati": {
+            "University Nice Sophia Antipolis": "FR"
+        },
+        "Eduard Ayguadé": {
+            "Technical University of Catalunya": "ES"
+        },
+        "Pedro Diniz": {
+            "University of South of California": "US"
+        },
+        "Thomas Fahringer": {
+            "University of Innsbruck": "AT"
+        },
+        "David Gregg": {
+            "Trinity College": "IE"
+        },
+        "Wolfgang Karl": {
+            "Karlsruhe Institut für Technologie": "DE"
+        },
+        "Hand Vandierendonck": {
+            "Queen’s University Belfast": "GB"
+        },
+        "Tom Peterka": {
+            "Argonne National Laboratory": "US"
+        },
+        "Bruno Raffin": {
+            "INRIA": "FR"
+        },
+        "Christopher Carothers": {
+            "Rensselaer Polytechnic Institute": "US"
+        },
+        "Toni Cortes": {
+            "BSC": "ES"
+        },
+        "Matthieu Dorier": {
+            "Argonne National Laboratory": "US"
+        },
+        "Wolfgang Frings": {
+            "JSC": "DE"
+        },
+        "Patrick Martin": {
+            "Queen’s University": "CA"
+        },
+        "Yang-Sae Moon": {
+            "Kangwon National University": "KR"
+        },
+        "Adrien Lebre": {
+            "Inria": "FR"
+        },
+        "Ivona Brandic": {
+            "Vienna University of Technology": "AT"
+        },
+        "Fabien Hermenier": {
+            "University Nice Sophia Antipolis": "FR"
+        },
+        "Peter Pietzuch": {
+            "Imperial College London": "GB"
+        },
+        "Ioan Raicu": {
+            "Illinois Institute of Technology": "US"
+        },
+        "Xuanhua Shi": {
+            "Huazhong University of Science and Technology": "CN"
+        },
+        "Wenhong Tian": {
+            "University of Electronic Science and Technology of China": "CN"
+        },
+        "Srikumar Venugopal": {
+            "IBM": "IE"
+        },
+        "Domenico Talia": {
+            "Università della Calabria": "IT"
+        },
+        "Stéphane Devismes": {
+            "University of Grenoble Alpes": "FR"
+        },
+        "Adriana Iamnitchi": {
+            "University of Soth Florida": "US"
+        },
+        "Alexandru Iosup": {
+            "TU Delft": "NL"
+        },
+        "Stefan Schmid": {
+            "TU Berlin / Telekom Innovation Laboratories": "DE"
+        },
+        "Josef Widder": {
+            "TU Wien": "AT"
+        },
+        "Philippe O. A. Navaux": {
+            "INF-UFRGS": "BR"
+        },
+        "Christian Perez": {
+            "INRIA Grenoble": "FR"
+        },
+        "Abhinav Bhatele": {
+            "Lawrence Livermore National Laboratory": "US"
+        },
+        "Alba Cristina De Melo": {
+            "University of Brasilia": "BR"
+        },
+        "Raymond Namyst": {
+            "University of Bordeaux – Inria": "FR"
+        },
+        "Celso Mendes": {
+            "University of Illinois": "US"
+        },
+        "Marco Danelutto": {
+            "Dept. Computer Science – Univ. Pisa": "IT"
+        },
+        "Esteban Meneses": {
+            "Costa Rica Institute of Technology": "CR"
+        },
+        "Kuan-Ching Li": {
+            "Providence University": "TW"
+        },
+        "Michela Taufer": {
+            "University of Delaware": "US"
+        },
+        "Renaud Lachaize": {
+            "University Grenoble Alpes": "FR"
+        },
+        "Michela Becchi": {
+            "University of Missouri": "US"
+        },
+        "Sunita Chandrasekaran": {
+            "University of Delaware": "US"
+        },
+        "Anne Elster": {
+            "NTNU and Univ. of Texas at Austin": "US"
+        },
+        "Naoya Maruyama": {
+            "RIKEN": "JP"
+        },
+        "Dimitrios Nikolopoulos": {
+            "Queen’s University of Belfast": "GB"
+        },
+        "Sabela Ramos Garea": {
+            "ETH Zurich": "CH"
+        },
+        "Guido Juckeland": {
+            "Helmholtz Zentrum Dresden Rossendorf": "DE"
+        },
+        "Graham Lopez": {
+            "Oak Ridge National Laboratory": "US"
+        },
+        "Vania Marangozova-Martin": {
+            "Grenoble University": "FR"
+        },
+        "Klaus Jansen": {
+            "Univ Kiel": "DE"
+        },
+        "Bora Ucar": {
+            "CNRS and ENS Lyon": "FR"
+        },
+        "Petra Berenbrink": {
+            "Simon Fraser University": "CA"
+        },
+        "Christos Kaklamanis": {
+            "University of Patras and CTI “Diophantus”": "GR"
+        },
+        "Nicole Megow": {
+            "Technische Universität München": "DE"
+        },
+        "Erik Saule": {
+            "University of North Carolina at Charlotte": "US"
+        },
+        "Christian Scheideler": {
+            "Universität Paderborn": "DE"
+        },
+        "Jiri Sgall": {
+            "Charles University": "CZ"
+        },
+        "Matthias Bolten": {
+            "Universität Kassel": "DE"
+        },
+        "Laurent Philippe": {
+            "FEMTO-ST": "FR"
+        },
+        "Peter Arbenz": {
+            "ETH Zurich": "CH"
+        },
+        "El Mostafa Daoudi": {
+            "Université Mohammed Premier-Oujda": "MA"
+        },
+        "Maya Neytcheva": {
+            "Uppsala University": "SE"
+        },
+        "Marian Vajtersic": {
+            "Universität Salzburg": "AT"
+        },
+        "Enrique S. Quintana-Orti": {
+            "Universidad Jaume I": "ES"
+        },
+        "Samuel Thibault": {
+            "University of Bordeaux": "FR"
+        },
+        "Taisuke -Arai- Boku": {
+            "University of Tsukuba": "JP"
+        },
+        "Esteban Clua": {
+            "Universidade Federal Fluminense": "BR"
+        },
+        "Hatem Ltaief": {
+            "King Abdullah University of Science and Technology": "SA"
+        },
+        "Jeff Hammond": {
+            "Intel": "US"
+        },
+        "John Stone": {
+            "University of Illinous at Urbana-Champaign": "US"
+        },
+        "Robert Strzodka": {
+            "Universitat Heidelberg": "DE"
+        }
+    }, 
+    "2017":{
+        "Matthias Müller": {
+            "RWTH Aachen University": "DE"
+        },
+        "Andrés Gómez": {
+            "CESGA": "ES"
+        },
+        "Martin Schulz": {
+            "Lawrence Livermore National Laboratory": "US"
+        },
+        "Olivier Richard": {
+            "LIG/INRIA": "FR"
+        },
+        "João M.P. Cardoso": {
+            "University of Porto": "PT"
+        },
+        "Tomás Margalef": {
+            "Universitat Autonoma de Barcelona": "ES"
+        },
+        "Michael Gerndt": {
+            "Technische Universität München": "DE"
+        },
+        "Petr Tůma": {
+            "Charles University": "CZ"
+        },
+        "Basilio Fraguela": {
+            "University of A Coruña": "ES"
+        },
+        "Ana Lucia Varbanescu": {
+            "University of Amsterdam": "NL"
+        },
+        "Denis Barthou": {
+            "Inria": "FR"
+        },
+        "Lizy Kurian John": {
+            "University of Texas": "US"
+        },
+        "Marc Gonzalez Tallada": {
+            "Universitat Politècnica de Catalunya": "ES"
+        },
+        "Andreas Knüpfer": {
+            "T.U. Dresden": "DE"
+        },
+        "Diwakar Krishnamurthy": {
+            "Univ. Calgary": "CA"
+        },
+        "Florina Ciorba": {
+            "University of Basel": "CH"
+        },
+        "Ester Garzón": {
+            "University of Almería": "ES"
+        },
+        "José Luis Bosque Orero": {
+            "Univedrsity of Cantabria": "ES"
+        },
+        "Radu Prodan": {
+            "University of Innsbruck": "AT"
+        },
+        "José Gracia": {
+            "High Performance Computing Center Stuttgart": "DE"
+        },
+        "Ioana Banicescu": {
+            "Mississippi State University": "US"
+        },
+        "Julius Zilinskas": {
+            "Vilnius University": "LT"
+        },
+        "Bora Uçar": {
+            "CNRS and LIP ENS Lyon": "FR"
+        },
+        "Christophe Dubach": {
+            "University of Edinburgh": "GB"
+        },
+        "Juan Touriño": {
+            "University of A Coruña": "ES"
+        },
+        "Aaron Smith": {
+            "Microsoft Research": "US"
+        },
+        "Louis-Nöel Pouchet": {
+            "Colorado State University": "US"
+        },
+        "Laura Pozzi": {
+            "University of Lugano": "CH"
+        },
+        "Jerónimo Castrillón": {
+            "TU Dresden": "DE"
+        },
+        "Thomas Fahringer": {
+            "University of Innsbruck": "AT"
+        },
+        "Chris Adeniyi-Jones": {
+            "ARM": "GB"
+        },
+        "Bruno Raffin": {
+            "INRIA": "FR"
+        },
+        "David E. Singh": {
+            "Carlos III University of Madrid": "ES"
+        },
+        "Julian Kunkel": {
+            "German Climate Computing Center": "DE"
+        },
+        "Lars Nagel": {
+            "Johannes Gutenberg-Universität Mainz": "DE"
+        },
+        "Toni Cortés": {
+            "Barcelona Supercomputing Center": "ES"
+        },
+        "Matthieu Dorier": {
+            "Argonne National Laboratory": "US"
+        },
+        "Wolfgang Frings": {
+            "Jülich Supercomputing Centre": "DE"
+        },
+        "Alfredo Goldman": {
+            "University of São Paulo": "BR"
+        },
+        "Patricia González": {
+            "University of A Coruña": "ES"
+        },
+        "Laura Ricci": {
+            "University of Pisa": "IT"
+        },
+        "Luiz Bittencourt": {
+            "University of Campinas": "BR"
+        },
+        "Ian Foster": {
+            "Argonne National Laboratory": "US"
+        },
+        "Frèderic Desprez": {
+            "INRIA": "FR"
+        },
+        "Ivona Brandic": {
+            "Technische Universität Wien": "AT"
+        },
+        "Giorgio Lucarelli": {
+            "INRIA": "FR"
+        },
+        "Rizos Sakellariou": {
+            "University of Manchester": "GB"
+        },
+        "Ramón Doallo": {
+            "University of A Coruña": "ES"
+        },
+        "Luís Veiga": {
+            "INESC-ID": "PT"
+        },
+        "Rafael Asenjo": {
+            "University of Málaga": "ES"
+        },
+        "Sonia Ben Mokhtar": {
+            "LIRIS CNRS": "FR"
+        },
+        "Óscar Plata González": {
+            "University of Malaga": "ES"
+        },
+        "Gheorghe Almasi": {
+            "IBM": "US"
+        },
+        "Rui Oliveira": {
+            "Universidade do Minho": "PT"
+        },
+        "Javier Navaridas Palma": {
+            "The University of Manchester": "GB"
+        },
+        "Fabio Kon": {
+            "University of São Paulo": "BR"
+        },
+        "María Jesús Garzarán": {
+            "University of Illinois": "US"
+        },
+        "Vicente Blanco": {
+            "University of La Laguna": "ES"
+        },
+        "Maria Angeles Gonzalez Navarro": {
+            "University of Malaga": "ES"
+        },
+        "Evelyn Duesterwald": {
+            "T.J. Watson Research Center, IBM": "US"
+        },
+        "Didem Unat": {
+            "Koç Universitesi": "TR"
+        },
+        "Francisco Almeida": {
+            "University of La Laguna": "ES"
+        },
+        "Georges da Costa": {
+            "Irit": "FR"
+        },
+        "Marco Danelutto": {
+            "University of Pisa": "IT"
+        },
+        "Mary Hall": {
+            "University of Utah": "US"
+        },
+        "Hans Vandierendonck": {
+            "Queen's University": "GB"
+        },
+        "Juan Carlos Pichel": {
+            "University of Santiago de Compostela": "ES"
+        },
+        "Bingsheng He": {
+            "National University of Singapore": "SG"
+        },
+        "Paul Harvey": {
+            "Queen's University Belfast": "GB"
+        },
+        "Michele Weiland": {
+            "EPCC at University of Edinburgh": "GB"
+        },
+        "Yiannis Nikolakopoulos": {
+            "TU Chalmers": "SE"
+        },
+        "Polyvios Pratikakis": {
+            "FORTH": "GR"
+        },
+        "Martin Burtscher": {
+            "Texas State University": "US"
+        },
+        "Georgios Goumas": {
+            "National Technical University of Athens": "GR"
+        },
+        "Rutger Hofman": {
+            "Vrije Universiteit Amsterdam": "NL"
+        },
+        "Vania Marangozova-Martin": {
+            "Grenoble University": "FR"
+        },
+        "Geppino Pucci": {
+            "University of Padua": "IT"
+        },
+        "Pedro Ribeiro": {
+            "University of Porto": "PT"
+        },
+        "Kieran T. Herley": {
+            "University College Cork": "IE"
+        },
+        "Christos Zaroliagis": {
+            "University of Patras": "GR"
+        },
+        "Mauro Bianco": {
+            "Swiss National Supercomputing Centre": "CH"
+        },
+        "Henning Meyerhenke": {
+            "Karlsruher Institut für Technologie": "DE"
+        },
+        "Michele Scquizzato": {
+            "University of Houston": "US"
+        },
+        "Maya Neytcheva": {
+            "Uppsala University": "SE"
+        },
+        "María Martín": {
+            "University of A Coruña": "ES"
+        },
+        "Yvan Notay": {
+            "Université Libre de Bruxelles": "BE"
+        },
+        "Peter Arbenz": {
+            "ETH Zürich": "CH"
+        },
+        "Enrique S. Quintana": {
+            "University Jaime I": "ES"
+        },
+        "Fred Wubs": {
+            "University of Groningen": "NL"
+        },
+        "Osni Marques": {
+            "Lawrence Berkeley National Laboratory": "US"
+        },
+        "Bertil Schmidt": {
+            "Johannes Gutenberg University of Mainz": "DE"
+        },
+        "Arturo González": {
+            "University of Valladolid": "ES"
+        },
+        "Tobias Grosser": {
+            "ETH Zürich": "CH"
+        },
+        "Josef Weidendorfer": {
+            "Technische Universität München": "DE"
+        },
+        "Rob Van Nieuwpoort": {
+            "Netherlands eScience Center": "NL"
+        },
+        "Seyong Lee": {
+            "Oak Ridge National Laboratory": "US"
+        },
+        "Jorge González-Domínguez": {
+            "University of A Coruña": "ES"
+        },
+        "Deming Chen": {
+            "University of Illinois": "US"
+        }
+    }, 
+    "2018":{
+        "Siegfried Benkner": null,
+        "Massimo Coppola": null,
+        "Franz Franchetti": null,
+        "Michael Gerndt": null,
+        "Erwin Laure": null,
+        "Nikos Parlavantzas": null,
+        "Leonel Sousa": null,
+        "Daniele De Sensi": null,
+        "Giorgis Georgakoudis": null,
+        "Aleksandar Ilic": null,
+        "Piotr Luszczek": null,
+        "Federico Silla": null,
+        "Guangming Tan": null,
+        "Pedro Trancoso": null,
+        "Anne Benoit": null,
+        "Enrico Bini": null,
+        "Maciej Drozdowski": null,
+        "Lionel Eyraud-Dubois": null,
+        "José Gracia": null,
+        "Nan Guan": null,
+        "Sascha Hunold": null,
+        "Krzysztof Rzadca": null,
+        "Florian Brandner": null,
+        "Fabio Luporini": null,
+        "Alexandra Jimborean": null,
+        "Frank Hannig": null,
+        "Gihan Mudalige": null,
+        "K. Selçuk Candan": null,
+        "Ruggero Pensa": null,
+        "Lei Chen": null,
+        "Gianmarco De Francisci Morales": null,
+        "Ming Zhao": null,
+        "Ivona Brandić": null,
+        "Domenico Talia": null,
+        "Anne-Cécile Orgerie": null,
+        "Toni Mastelic": null,
+        "Raffaele Montella": null,
+        "Thomas Renner": null,
+        "Rafael Brundo Uriarte": null,
+        "Sonia Ben Mokhtar": null,
+        "Alberto Montresor": null,
+        "Christof Fetzer": null,
+        "Indranil Gupta": null,
+        "J. Daniel García": null,
+        "Patrizio Dazzi": null,
+        "Marcelo Pasin": null,
+        "Mitsuhisa Sato": null,
+        "Paolo Trunfio": null,
+        "Chan-Hyun Youn": null,
+        "Christoph Kessler": null,
+        "Marco Danelutto": null,
+        "Rudolf Eigenmann": null,
+        "Arturo González Escribano": null,
+        "Kevin Hammond": null,
+        "Jesper Träff": null,
+        "Ana Lucia Varbanescu": null,
+        "Christos Zaroliagis": null,
+        "Tiziano de Matteis": null,
+        "Leszek Gąsieniec": null,
+        "Ulrich Meyer": null,
+        "Henning Meyerhenke": null,
+        "Elisabeth Larsson": null,
+        "Pasqua D'Ambra": null,
+        "Aneta Karaivanova": null,
+        "Ángeles Martínez Calomardo": null,
+        "Ulrike Meier Yang": null,
+        "Angeles Navarro": null,
+        "Maurizio Drocco": null,
+        "Raphael de Camargo": null,
+        "Jaejin Lee": null,
+        "Jose Luis Nunez-Yanez": null
+    }, 
+    "2019":{
+        "João M.P. Cardoso": {
+            "University of Porto": "PT"
+        },
+        "Michael Gerndt": {
+            "Technical University of Munich": "DE"
+        },
+        "Giovanni Agosta": {
+            "Politecnico di Milano": "IT"
+        },
+        "Mary Hall": {
+            "University of Utah": "US"
+        },
+        "Sally McKee": {
+            "Clemson University": "US"
+        },
+        "Bernd Mohr": {
+            "Jülich Supercomputing Centre (JSC)": "DE"
+        },
+        "Robert Schöne": {
+            "Technische Universität Dresden": "DE"
+        },
+        "Guangming Tan": {
+            "Chinese Academy of Sciences, Institute of Computing Technology": "CN"
+        },
+        "Andreas Knüpfer": {
+            "Technische Universität Dresden": "DE"
+        },
+        "Kaixi Hou": {
+            "Virginia Tech": "US"
+        },
+        "Jiajia Li": {
+            "Pacific Northwest National Laboratory": "US"
+        },
+        "Eric Liang": {
+            "Peking University": "CN"
+        },
+        "Weifeng Liu": {
+            "China University of Petroleum": "CN"
+        },
+        "Hao Wang": {
+            "The Ohio State University": "US"
+        },
+        "Junmin Xiao": {
+            "Chinese Academy of Sciences, Institute of Computing Technology": "CN"
+        },
+        "Xiaowen Xu": {
+            "IAPCM, Beijing": "CN"
+        },
+        "Liang Yuan": {
+            "Chinese Academy of Sciences, Institute of Computing Technology": "CN"
+        },
+        "Jidong Zhai": {
+            "Tsinghua University": "CN"
+        },
+        "Jing Zhang": {
+            "Virgina Tech": "US"
+        },
+        "Xiuxia Zhang": {
+            "Chinese Academy of Sciences, Institute of Computing Technology": "CN"
+        },
+        "Andrei Tchernykh": {
+            "CICESE Centro de Investigación Científica y de Educación Superior de Ensenada": "MX"
+        },
+        "Sascha Hunold": {
+            "TU Vienna": "AT"
+        },
+        "Zhihui Du": {
+            "Tsinghua University": "CN"
+        },
+        "Fanny Dufossé": {
+            "Inria Grenoble - Rhone-Alpes": "FR"
+        },
+        "Matthias Mnich": {
+            "University of Bonn": "DE"
+        },
+        "Risat Mahmud Pathan": {
+            "Zenuity AB": "SE"
+        },
+        "Krzysztof Rzadca": {
+            "Google and University of Warsaw": "PL"
+        },
+        "Franciszek Seredynski": {
+            "Cardinal Stefan Wyszyński University in Warsaw": "PL"
+        },
+        "Bertrand Simon": {
+            "University of Bremen": "DE"
+        },
+        "Victor Toporkov": {
+            "National Research University \"Moscow Power Engineering Institute\"": "RU"
+        },
+        "Nodari Vakhania": {
+            "Autonomous University of the State of Morelos": "MX"
+        },
+        "Frank Werner": {
+            "University of Magdeburg": "DE"
+        },
+        "Prudence Wong": {
+            "University of Liverpool": "GB"
+        },
+        "Pedro Petersen Moura Trancoso": {
+            "Chalmers University of Technology": "SE"
+        },
+        "Matthias Müller": {
+            "RWTH Aachen": "DE"
+        },
+        "Angelos Arelakis": {
+            "ZeroPoint Technologies": "SE"
+        },
+        "Alexandra Jimborean": {
+            "Uppsala University": "SE"
+        },
+        "Nuno Roma": {
+            "Universidade de Lisboa": "PT"
+        },
+        "Josef Weidendorfer": {
+            "Technical University of Munich": "DE"
+        },
+        "Alexandru Iosup": {
+            "Vrije Universiteit Amsterdam": "NL"
+        },
+        "Morris Riedel": {
+            "Jülich Supercomputing Centre": "DE"
+        },
+        "Zeynep Akata": {
+            "University of Amsterdam": "NL"
+        },
+        "Jorge Amaya": {
+            "Katholieke Universiteit Leuven": null
+        },
+        "Ira Assent": {
+            "Aarhus University": "DK"
+        },
+        "Gabriele Cavallaro": {
+            "Jülich Supercomputing Centre (JSC)": "DE"
+        },
+        "Aaron Ding": {
+            "Delft University of Technology": "NL"
+        },
+        "Dmitry Duplyakin": {
+            "University of Utah": "US"
+        },
+        "Ernir Erlingsson": {
+            "University of Iceland": "IS"
+        },
+        "Jens Henrik Goebbert": {
+            "Jülich Supercomputing Centre (JSC)": "DE"
+        },
+        "Markus Goetz": {
+            "Karlsruhe Institute of Technology (KIT)": "DE"
+        },
+        "Jenia Jitsev": {
+            "Jülich Supercomputing Centre (JSC)": "DE"
+        },
+        "Volodymyr Kindratenko": {
+            "University of Illinois at Urbana-Champaign": "US"
+        },
+        "Kwo-Sen Kuo": {
+            "Bayesics LLC": "US"
+        },
+        "Bastian Leibe": {
+            "RWTH Aachen": "DE"
+        },
+        "Helmut Neukirchen": {
+            "University of Iceland": "IS"
+        },
+        "Rahul Ramachandran": {
+            "NASA": "US"
+        },
+        "Tomas Runarsson": {
+            "University of Iceland": "IS"
+        },
+        "Animesh Trivedi": {
+            "Vrije Universiteit (VU), Amsterdam": "NL"
+        },
+        "Alexandru Uta": {
+            "Vrije Universiteit Amsterdam": "NL"
+        },
+        "Ana Lucia Varbanescu": {
+            "University of Amsterdam": "NL"
+        },
+        "Laurens Versluis": {
+            "Vrije Universiteit Amsterdam": "NL"
+        },
+        "Lin Wang": {
+            "Vrije Universiteit Amsterdam": "NL"
+        },
+        "Xiaoxiang Zhu": {
+            "DLR German Aerospace Center, Oberpfaffenhofen": "DE",
+            "Technische Universität München": "DE"
+        },
+        "Anne-Cécile Orgerie": {
+            "CNRS, IRISA, Rennes": "FR"
+        },
+        "Uwe Schwiegelshohn": {
+            "Technische Universität Dortmund": "DE"
+        },
+        "Alexandra Carpen-Amarie": {
+            "Fraunhofer ITWM, Kaiserslautern": "DE"
+        },
+        "Sebastien Lafond": {
+            "Åbo Akademi University, Turku": "FI"
+        },
+        "Maciej Malawski": {
+            "AGH University of Science and Technology, Krakow": "PL"
+        },
+        "María S. Pérez": {
+            "Universidad Politécnica de Madrid": "ES"
+        },
+        "Rizos Sakellariou": {
+            "University of Manchester": "GB"
+        },
+        "Dick Epema": {
+            "Delft University of Technology": "NL"
+        },
+        "Franz-Josef Pfreundt": {
+            "Fraunhofer Institute for Industrial Mathematics": "DE"
+        },
+        "György Dán": {
+            "KTH - Kungliga Tekniska Högskolan": "SE"
+        },
+        "Asterios Katsifodimos": {
+            "Delft University of Technology": "NL"
+        },
+        "Stefanie Roos": {
+            "Delft University of Technology": "NL"
+        },
+        "François Taïani": {
+            "IRISA/INRIA Rennes": "FR"
+        },
+        "Mitsuhisa Sato": {
+            "RIKEN Centre for Computational Science": "JP"
+        },
+        "Christian Simmendinger": {
+            "T-Systems": "DE"
+        },
+        "Olivier Aumage": {
+            "INRIA, Le Chesnay": "FR"
+        },
+        "Vicenc Beltran": {
+            "Barcelona Supercomputing Center": "ES"
+        },
+        "Marc Gonzalez": {
+            "Universitat Politècnica de Catalunya": "ES"
+        },
+        "Changhee Jung": {
+            "Virginia Tech": "US"
+        },
+        "Karla Morris": {
+            "Sandia National Laboratories": "US"
+        },
+        "Alessandro Pellegrini": {
+            "Sapienza University of Rome": "IT"
+        },
+        "Mirko Rahn": {
+            "Fraunhofer ITWM": "DE"
+        },
+        "Miwako Tsuji": {
+            "RIKEN": "JP"
+        },
+        "Tom Vander Aa": {
+            "Exascience Lab at imec": "BE"
+        },
+        "Masahiro Yasugi": {
+            "Kyushu Institute of Technology": "JP"
+        },
+        "Barbara Chapman": {
+            "Stony Brook University, New York": "US"
+        },
+        "Guido Juckeland": {
+            "Helmholtz-Zentrum Dresden-Rossendorf": "DE"
+        },
+        "Sridutt Bhalachandra": {
+            "Argonne National Laboratory Chicago": "US"
+        },
+        "Sunita Chandrasekaran": {
+            "University of Delaware": "US"
+        },
+        "Rudi Eigenmann": {
+            "University of Delaware": "US"
+        },
+        "Oscar Hernandez": {
+            "Oak Ridge National Laboratory": "US"
+        },
+        "Konstantinos Krommydas": {
+            "Intel": "US"
+        },
+        "Cheng Wang": {
+            "University of Houston": "US"
+        },
+        "Rengan Xu": {
+            "Dell EMC": "US"
+        },
+        "Frédéric Vivien": {
+            "Inria, Le Chesnay": "FR"
+        },
+        "Henning Meyerhenke": {
+            "Humboldt-Universität zu Berlin": "DE"
+        },
+        "Kamer Kaya": {
+            "Sabanci University": "TR"
+        },
+        "Fanny Pascual": {
+            "Sorbonne Université": "FR"
+        },
+        "Cynthia Phillips": {
+            "Sandia National Labs, Albuquerque, NM": "US"
+        },
+        "Peter Sanders": {
+            "Karlsruhe Institute of Technology (KIT)": "DE"
+        },
+        "Daniel Kressner": {
+            "École polytechnique fédérale de Lausanne": "CH"
+        },
+        "Cornelia Grabe": {
+            "DLR German Aerospace Center, Institute of Aerodynamics and Flow Technology Göttingen": "DE"
+        },
+        "Thomas Gerhold": {
+            "DLR German Aerospace Center, High Performance Computing, Institute of Software Methods for Product Virtualization Dresden": "DE"
+        },
+        "Raphael Y. de Camargo": {
+            "Federal University of ABC": "BR"
+        },
+        "Christian Plessl": {
+            "Paderborn University": "DE"
+        },
+        "Pedro Diniz": {
+            "INESC-ID, Lisboa": "PT"
+        },
+        "Holger Fröning": {
+            "University of Heidelberg": "DE"
+        },
+        "Francisco D. Igual": {
+            "Universidad Complutense de Madrid": "ES"
+        },
+        "Miriam Leeser": {
+            "Northern Eastern University": "US"
+        },
+        "Andy Nisbet": {
+            "University of Manchester": "GB"
+        },
+        "Folker Meyer": {
+            "Argonne National Laboratory Chicago": "US"
+        },
+        "Alexander Sczyrba": {
+            "University of Bielefeld": "DE"
+        },
+        "Christophe Blanchet": {
+            "CNRS-IFB": "FR"
+        },
+        "Shane Canon": {
+            "Lawrence Berkeley National Laboratory": "US"
+        },
+        "Rob Finn": {
+            "EBI": "GB"
+        },
+        "Ananth Grama": {
+            "Purdue University": "US"
+        },
+        "Iryna Gurevych": {
+            "Technische Universität Darmstadt": "DE"
+        },
+        "Marco Büchler": {
+            "Leibniz Institute of European History Mainz": "DE"
+        },
+        "Sayeed Choudhury": {
+            "Sheridan Libraries of Johns Hopkins University": "US"
+        },
+        "Eckart de Castilho": {
+            "Technische Universität Darmstadt": "DE"
+        },
+        "Mark Hedges": {
+            "King's College London": "GB"
+        },
+        "Andrea Scharnhorst": {
+            "DANS-KNAW": "NL"
+        }
+    }, 
+    "2020":{
+        "Michael Gerndt": {
+            "Technical University of Munich": "DE"
+        },
+        "Mariusz Sterzel": {
+            "AGH University of Science and Technology": "PL"
+        },
+        "Shajulin Benedict": {
+            "IIIT Kottayam": "IN"
+        },
+        "Thomas Fahringer": {
+            "University of Innsbruck": "AT"
+        },
+        "Erwin Laure": {
+            "KTH/PDC": "SE"
+        },
+        "Phil Roth": {
+            "Oak Ridge National Lab": "US"
+        },
+        "Robert Mijakovic": {
+            "Leibniz Supercomputing Centre": "DE"
+        },
+        "Arnaud Legrand": {
+            "Laboratoire d'Informatique de Grenoble": "FR"
+        },
+        "Ariel Oleksiak": {
+            "Poznan Supercomputing and Networking Center": "PL"
+        },
+        "Jorge G. Barbosa": {
+            "University of Porto": "PT"
+        },
+        "Vicente Blanco": {
+            "La Laguna University": "ES"
+        },
+        "Georges Da Costa": {
+            "IRIT/Toulouse III": "FR"
+        },
+        "Brice Videau": {
+            "Argonne National Laboratory": "US"
+        },
+        "Markus Geimer": {
+            "Juelich Supercomputing Centre": "DE"
+        }, 
+        "Sascha Hunold": {
+            "Vienna University of Technology": "AT"
+        },
+        "Joanna Berlinska": {
+            "Adam Mickiewicz University in Poznań": "PL"
+        },
+        "Malin Rau": {
+            "Grenoble INP": "FR"
+        },
+        "Fanny Pascual": {
+            "LIP6, Université Pierre et Marie Curie - Paris 6": "FR"
+        },
+        "Lauritz Thamsen": {
+            "TU Berlin": "DE"
+        },
+        "Louis-Claude Canon": {
+            "Université de Franche-Comté": "FR"
+        },
+        "Florina M. Ciorba": {
+            "University of Basel": "CH"
+        },
+        "Leonel Sousa": {
+            "Universidade de Lisboa": "PT"
+        },
+        "Paweł Czarnul": {
+            "Gdansk University of Technology": "PL"
+        },
+        "Denis Makoshenko": {
+            "Intel": "US"
+        },
+        "Pedro Diniz": {
+            "INESC-ID": "PT"
+        },
+        "Tomás Burrull": {
+            "Universitat Autonoma de Barcelona": "ES"
+        },
+        "Cristina Silvano": {
+            "Politecnico di Milano": "IT"
+        },
+        "Morris Riedel": {
+            "Juelich Supercomputing Centre": "DE"
+        },
+        "Jacek Sroka": {
+            "University of Warsaw": "PL"
+        },
+        "Peter Steinbach": {
+            "Helmholtz-Zentrum Dresden-Rossendorf": "DE"
+        },
+        "Mihai Capotă": {
+            "Intel": "US"
+        },
+        "Steffen Zeuch": {
+            "DFKI GmbH": "DE"
+        },
+        "Volodymyr Kindratenko": {
+            "University of Illinois at Urbana-Champaign": "US"
+        },
+        "Jorge Amaya": {
+            "Katholieke Universiteit Leuven": "BE"
+        },
+        "Helmut Neukirchen": {
+            "University of Iceland": "IS"
+        },
+        "Markus Goetz": {
+            "Steinbuch Centre for Computing (SCC), Karlsruhe Institute of Technology (KIT)": "DE"
+        },
+        "Gabriele Cavallaro": {
+            "Jülich Supercomputing Centre (JSC)": "DE"
+        },
+        "María S. Pérez": {
+            "Universidad Politecnica de Madrid": "ES"
+        },
+        "Lukasz Dutka": {
+            "AGH University of Science and Technology": "PL"
+        },
+        "Bogdan Nicolae": {
+            "Argonne National Laboratory": "US"
+        },
+        "Rafael Mayo": {
+            "CIEMAT": "ES"
+        },
+        "Michael Kuhn": {
+            "Universität Hamburg": "DE"
+        },
+        "Manolis Marazakis": {
+            "Instutute of Computer Science, FORTH": "GR"
+        },
+        "Paolo Trunfio": {
+            "DEIS, University of Calabria": "IT"
+        },
+        "Helene Coullon": {
+            "INRIA": "FR"
+        },
+        "Alberto Sanchez": {
+            "Universidad Rey Juan Carlos": "ES"
+        },
+        "Eduardo Huedo": {
+            "Universidad Complutense de Madrid": "ES"
+        },
+        "Gabriel Antoniu": {
+            "INRIA": "FR"
+        },
+        "Toni Cortes": {
+            "Universitat Politècnica de Catalunya": "ES"
+        },
+        "Pierre Matri": {
+            "Shuelo": null
+        },
+        "Jesus Carretero": {
+            "Universidad Carlos III de Madrid": "ES"
+        },
+        "Ben Moseley": {
+            "Carnegie Mellon University": "US"
+        },
+        "Marek Klonowski": {
+            "Wroclaw University of Technology": "PL"
+        },
+        "Peter Kling": {
+            "University of Hamburg": "DE"
+        },
+        "Gianluca De Marco": {
+            "University of Salerno": "IT"
+        },
+        "Olivier Beaumont": {
+            "INRIA": "FR"
+        },
+        "Michele Scquizzato": {
+            "University of Padova": "IT"
+        },
+        "Prashant Pandey": {
+            "Berkeley Lab": "US"
+        },
+        "Shikha Singh": {
+            "Williams College": "US"
+        },
+        "Rezaul Chowdhury": {
+            "State University of New York at Stony Brook": "US"
+        },
+        "Phil Trinder": {
+            "University of Glasgow": "GB"
+        },
+        "Wojciech Turek": {
+            "AGH University of Science and Technology": "PL"
+        },
+        "Robert Stewart": {
+            "Heriot Watt University": "GB"
+        },
+        "Melinda Tóth": {
+            "Eotvos Lorand University, Budapest": "HU"
+        },
+        "Patrick Maier": {
+            "Division of Computing Science and Mathematics, University of Stirling": "GB"
+        },
+        "Christian Perez": {
+            "INRIA": "FR"
+        },
+        "Cosmin Oancea": {
+            "Department of Computer Science, University of Copenhagen": "DK"
+        },
+        "Dimitrios Nikolopoulos": {
+            "Virginia Tech": "US"
+        },
+        "Kevin Hammond": null,
+        "Arturo Gonzalez": {
+            "University of Valladolid": "ES"
+        },
+        "Witold Rudnicki": {
+            "University of Bialystok": "PL"
+        },
+        "Bertil Schmidt": {
+            "University of Mainz": "DE"
+        },
+        "Agata Janowska": {
+            "Warsaw University": "PL"
+        },
+        "Sven Karlsson": {
+            "Technical University of Denmark": "DK"
+        },
+        "Christoph Kessler": {
+            "Linköping University": "SE"
+        },
+        "Julian Shun": {
+            "Massachusetts Institute of Technology": "US"
+        },
+        "Jose Daniel Garcia": {
+            "University Carlos III of Madrid": "ES"
+        },
+        "Hatem Ltaief": {
+            "King Abdullah University of Science and Technology": "SA"
+        },
+        "Erin Carson": {
+            "Charles University": "CZ"
+        },
+        "Hartwig Anzt": {
+            "Karlsruhe Institute of Technology": "DE"
+        },
+        "Jakub Šístek": {
+            "Institute of Mathematics, Czech Academy of Sciences": "CZ"
+        },
+        "Penporn Koanantakool": {
+            "Google": "US"
+        },
+        "Sarah Knepper": {
+            "Intel": "US"
+        },
+        "Maciej Wozniak": {
+            "AGH University of Science and Technology": "PL"
+        },
+        "Edgar Solomonik": {
+            "University of Illinois at Urbana-Champaign": "US"
+        },
+        "Piotr Luszczek": {
+            "University of Tennessee Knoxville": "US"
+        },
+        "Ronald Kriemann": {
+            "Max Planck Institute for Mathematics in the Sciences": "DE"
+        },
+        "Jed Brown": {
+            "University of Colorado Boulder": "US"
+        },
+        "Hussam Al Daas": {
+            "Max Planck Institute for Dynamics of Complex Technical Systems": "DE"
+        },
+        "Rio Yokota": {
+            "Tokyo Institute of Technology": "JP"
+        },
+        "Alba Cristina Melo": {
+            "University of Brasilial": "BR"
+        },
+        "Lukasz Szustak": {
+            "Czestochowa University of Technology": "PL"
+        },
+        "Peter Thoman": {
+            "University of Innsbruck": "AT"
+        },
+        "Lin Gan": {
+            "Tsinghua University": "CN"
+        },
+        "Diana Goehringer": {
+            "TU Dresden": "DE"
+        },
+        "Antonio J. Peña": {
+            "Barcelona Supercomputing Center (BSC)": "ES"
+        },
+        "Łukasz Kuczyński": {
+            "Technical University of Czestochowa": "PL"
+        }
+    }, 
+    "2021":{
+        "Frank Hannig": {
+            "Friedrich-Alexander-Universität Erlangen-Nürnberg": "DE"
+        },
+        "Gabriel Falcao": {
+            "Instituto de Telecomunicações, Universidade de Coimbra": "PT"
+        },
+        "Izzat El Hajj": {
+            "American University of Beirut": "LB"
+        },
+        "Simon Garcia de Gonzalo": {
+            "Barcelona Supercomputing Center": "ES"
+        },
+        "Hugh Leather": {
+            "Facebook AI Research & The University of Edinburgh": "GB"
+        },
+        "Josef Weidendorfer": {
+            "TU München": "DE"
+        },
+        "Didem Unat": {
+            "Koç University": "TR"
+        },
+        "Aleksandar Ilic": {
+            "INESC-ID, Universidade de Lisboa": "PT"
+        },
+        "Laura Carrington": {
+            "EP Analytics": "US"
+        },
+        "Milind Chabbi": {
+            "Uber Technologies": "US"
+        },
+        "Bilel Hadri": {
+            "KAUST Supercomputing Lab": "SA"
+        },
+        "Jawad Haj-Yahya": {
+            "ETH Zurich": "CH"
+        },
+        "Andreas Knüpfer": {
+            "TU Dresden": "DE"
+        },
+        "Alexey Lastovetsky": {
+            "University College Dublin": "IE"
+        },
+        "Matthias Mueller": {
+            "RWTH Aachen University": "DE"
+        },
+        "Emmanuelle Saillard": {
+            "CRCN, INRIA Bordeaux": "FR"
+        },
+        "Martin Schulz": {
+            "Technical University Munich": "DE"
+        },
+        "Oliver Sinnen": {
+            "University of Auckland": "NZ"
+        },
+        "Jorge Barbosa": {
+            "Universidade do Porto": "PT"
+        },
+        "Giovanni Agosta": {
+            "Politecnico di Milano": "IT"
+        },
+        "Bertrand Simon": {
+            "University of Bremen": "DE"
+        },
+        "Luiz F. Bittencourt": {
+            "University of Campinas": "BR"
+        },
+        "Lúcia Drummond": {
+            "Universidade Federal Fluminense": "BR"
+        },
+        "Emmanuel Casseau": {
+            "University of Rennes, INRIA, CNRS": "FR"
+        },
+        "Fanny Dufossé": {
+            "INRIA Grenoble": "FR"
+        },
+        "Henri Casanova": {
+            "University of Hawaii at Manoa": "US"
+        },
+        "Loris Marchal": {
+            "CNRS, University of Lyon, LIP": "FR"
+        },
+        "Maciej Malawski": {
+            "AGH University of Science and Technology": "PL"
+        },
+        "Malin Rau": {
+            "Universität Hamburg": "DE"
+        },
+        "Pierre-Francois Dutot": {
+            "Université Grenoble Alpes": "FR"
+        },
+        "Rizos Sakellariou": {
+            "The University of Manchester": "GB"
+        },
+        "Lucas Mello Schnorr": {
+            "Federal University of Rio Grande do Sul": "BR"
+        },
+        "Gang Zeng": {
+            "Nagoya University": "JP"
+        },
+        "Alex Delis": {
+            "University of Athens": "GR"
+        },
+        "Helena Aidos": {
+            "LASIGE, Universidade de Lisboa": "PT"
+        },
+        "Angela Bonifati": {
+            "Lyon 1 University": "FR"
+        },
+        "Pedro M. Ferreira": {
+            "LASIGE, Universidade de Lisboa": "PT"
+        },
+        "Panagiotis Liakos": {
+            "University of Athens": "GR"
+        },
+        "Jorge Lobo": {
+            "Universitat Pompeu Fabra": "ES"
+        },
+        "Paolo Romano": {
+            "INESC-ID, University of Lisbon": "PT"
+        },
+        "Jacek Sroka": {
+            "University of Warsaw": "PL"
+        },
+        "Zahir Tari": {
+            "Royal Melbourne Institute University": "AU"
+        },
+        "Goce Trajcevski": {
+            "Iowa State University": "US"
+        },
+        "Vassilios Verykios": {
+            "Hellenic Open University": "GR"
+        },
+        "Demetris Zeinalipour": {
+            "Nicosia": "CY"
+        },
+        "Radu Prodan": {
+            "University of Klagenfurt": "AT"
+        },
+        "Luís Veiga": {
+            "INESC-ID, Universidade de Lisboa": "PT"
+        },
+        "Juan J. Durillo": {
+            "Leibniz Supercomputing Centre (LRZ)": "DE"
+        },
+        "Felix Freitag": {
+            "Polytechnic University of Catalonia": "ES"
+        },
+        "Aleksandar Karadimche": {
+            "University for Information Science and Technology \"St. Paul the Apostle\"": "MK"
+        },
+        "Attila Kertesz": {
+            "University of Szeged": "HU"
+        },
+        "Vincenzo de Maio": {
+            "Technical University of Vienna": "AT"
+        },
+        "Joan-Manuel Marquès": {
+            "Universitat Oberta de Catalunya": "ES"
+        },
+        "Rolando Martins": {
+            "University of Porto": "PT"
+        },
+        "Hervé Paulino": {
+            "Universidade Nova de Lisboa": "PT"
+        },
+        "Sasko Ristov": {
+            "University of Innsbruck": "AT"
+        },
+        "José Simão": {
+            "INESC-ID, ISEL": "PT"
+        },
+        "Spyros Voulgaris": {
+            "Vrije Universiteit Amsterdam": "NL"
+        },
+        "Andrea Pietracaprina": {
+            "Università di Padova": "IT"
+        },
+        "João Lourenço": {
+            "Universidade Nova de Lisboa": "PT"
+        },
+        "Adrian Francalanza": {
+            "University of Malta": "MT"
+        },
+        "Ganesh Gopalakrishnan": {
+            "University of Utah": "US"
+        },
+        "Klaus Havelund": {
+            "NASA's Jet Propulsion Labratory": "US"
+        },
+        "Ulrich Meyer": {
+            "Goethe-Universität Frankfurt": "DE"
+        },
+        "Emanuele Natale": {
+            "Universite' Côte d’Azur, Inria-CNRS": "FR"
+        },
+        "Yihan Sun": {
+            "University of California, Riverside": "US"
+        },
+        "Alfredo Goldman": {
+            "University of São Paulo": "BR"
+        },
+        "Ricardo Chaves": {
+            "INESC-ID, Universidade de Lisboa": "PT"
+        },
+        "Ivona Brandic": {
+            "Vienna University of Technology": "AT"
+        },
+        "Dilma Da Silva": {
+            "Texas A&M University": "US"
+        },
+        "Laurent Lefevre": {
+            "INRIA": "FR"
+        },
+        "Dejan Milojicic": {
+            "HP Labs": "US"
+        },
+        "Nuno Preguiça": {
+            "Universidade Nova de Lisboa": "PT"
+        },
+        "Omer Rana": {
+            "Cardiff University": "GB"
+        },
+        "Lawrence Rauchwerger": {
+            "University of Illinois at Urbana Champaign": "US"
+        },
+        "Noemi Rodriguez": {
+            "PUC-Rio": "BR"
+        },
+        "Stéphane Zuckerman": {
+            "ETIS Laboratory": "FR"
+        },
+        "Enrique S. Quintana Ortí": {
+            "Universitat Politècnica de València": "ES"
+        },
+        "Nuno Roma": {
+            "INESC-ID, Universidade de Lisboa": "PT"
+        },
+        "Emmanuel Jeannot": {
+            "INRIA": "FR"
+        },
+        "Philippe A. Navaux": {
+            "Federal University of Rio Grande do Sul": "BR"
+        },
+        "Robert Schöne": {
+            "TU Dresden": "DE"
+        },
+        "Stanimire Tomov": {
+            "University of Tennessee": "US"
+        },
+        "Sergio Jimenez": {
+            "Universidad de Extremadura": "ES"
+        },
+        "Hartwig Anzt": {
+            "Karlsruhe Institute of Technology": "DE"
+        },
+        "Alfredo Buttari": {
+            "CNRS/IRIT Toulouse": "FR"
+        },
+        "José M. Granado-Criado": {
+            "University of Extremadura": "ES"
+        },
+        "Hatem Ltaief": {
+            "King Abdullah University of Science and Technology": "SA"
+        },
+        "Álvaro Rubio-Largo": {
+            "University of Extremadura": "ES"
+        },
+        "Samuel Thibault": {
+            "Université de Bordeaux": "FR"
+        },
+        "Pedro Tomás": {
+            "INESC-ID, Universidade de Lisboa": "PT"
+        },
+        "Michaela Blott": {
+            "Xilinx": "IE"
+        },
+        "Toshihiro Hanawa": {
+            "University of Tokyo": "JP"
+        },
+        "Sascha Hunold": {
+            "Vienna University of Technology": "AT"
+        },
+        "Naoya Maruyama": {
+            "NVIDIA": "US"
+        },
+        "Miquel Moreto": {
+            "Barcelona Supercomputing Center": "ES"
+        }
+    }, 
+    "2023":{
+        "Siegfried Benkner": {
+            "University of Vienna": "AT"
+        },
+        "Walter Binder": {
+            "Università della Svizzera italiana": "CH"
+        },
+        "Bruno Loic Alexandre Bodin": {
+            "Yale-NUS College": "SG"
+        },
+        "Jeronimo Castrillon": {
+            "TU Dresden": "DE"
+        },
+        "Stefano Cherubin": {
+            "Edinburgh Napier University": "GB"
+        },
+        "Tom Deakin": {
+            "University of Bristol": "GB"
+        },
+        "Juan Durillo Barrionuevo": {
+            "Leibniz Supercomputing Centre (LRZ)": "DE"
+        },
+        "Bernhard Egger": {
+            "Seoul National University": "KR"
+        },
+        "Juan Fumero": {
+            "The University of Manchester": "GB"
+        },
+        "Sergei Gorlatch": {
+            "University of Muenster": "DE"
+        },
+        "Ramaswamy Govindarajan": {
+            "Indian Institute of Science": "IN"
+        },
+        "Giulia Guidi": {
+            "Cornell University": "US"
+        },
+        "Adrian Jackson": {
+            "University of Edinburgh / EPCC": "GB"
+        },
+        "Abhinav Jangda": {
+            "Microsoft Research": "US"
+        },
+        "Sohan Lal": {
+            "TU Hamburg": "DE"
+        },
+        "Partick McCormick": {
+            "Los Alamos National Laboratory": "US"
+        },
+        "Gihan Mudalige": {
+            "The University of Warwick": "GB"
+        },
+        "Fernando Magno Quintão Pereira": {
+            "Federal University of Minas Gerais": "BR"
+        },
+        "Pablo de Oliveira Castro": {
+            "University of Versailles": "FR"
+        },
+        "Polyvios Pratikakis": {
+            "FORTH": "GR"
+        },
+        "István Reguly": {
+            "Pázmány Péter Catholic University": "HU"
+        },
+        "Ruymán Reyes": {
+            "Codeplay Software / Intel": "GB"
+        },
+        "Bernhard Scholz": {
+            "University of Sydney": "AU"
+        },
+        "Michel Steuwer": {
+            "University of Edinburgh": "GB"
+        },
+        "Giuseppe Tagliavini": {
+            "University of Bologna": "IT"
+        },
+        "Peter Thoman": {
+            "University of Innsbruck": "AT"
+        },
+        "Massimo Torquati": {
+            "University of Pisa": "IT"
+        },
+        "Miwako Tsuji": {
+            "RIKEN Center for Computational Science": "JP"
+        },
+        "Antonino Tumeo": {
+            "Pacific Northwest National Laboratory": "US"
+        },
+        "Didem Unat": {
+            "Koç University": "TR"
+        },
+        "Hans Vandierendonck": {
+            "Queen's University Belfast": "GB"
+        },
+        "Christos Anagnostopoulos": {
+            "University of Glasgow": "GB"
+        },
+        "Atakan Aral": {
+            "University of Vienna": "AT"
+        },
+        "Anne Benoit": {
+            "ENS Lyon": "FR"
+        },
+        "Silvina Caíno-Lores": {
+            "University of Tennessee": "US"
+        },
+        "Valeria Cardellini": {
+            "University of Roma \"Tor Vergata\"": "IT"
+        },
+        "Iacopo Colonnelli": {
+            "Università di Torino": "IT"
+        },
+        "Patrizio Dazzi": {
+            "University of Pisa": "IT"
+        },
+        "Vincenzo De Maio": {
+            "TU Vienna": "AT"
+        },
+        "Rafael Ferreira da Silva": {
+            "Oak Ridge National Laboratory": "US"
+        },
+        "Sukhpal Gill": {
+            "Queen Mary University of London": "GB"
+        },
+        "Anastasios Gounaris": {
+            "Aristotle University of Thessaloniki": "GR"
+        },
+        "Ioannis Konstantinou": {
+            "University of Thessaly": "GR"
+        },
+        "Marco Lapegna": {
+            "Università degli Studi di Napoli Federico II": "IT"
+        },
+        "Simone Leo": {
+            "CRS4": null
+        },
+        "Anirban Mandal": {
+            "Renaissance Computing Institute": "US"
+        },
+        "Loris Marchal": {
+            "CNRS": "FR"
+        },
+        "Doriana Medic": {
+            "University of Torino": "IT"
+        },
+        "Raffaele Montella": {
+            "University of Naples Parthenope": "IT"
+        },
+        "Grégory Mounié": {
+            "University Grenoble-Alpes": "FR"
+        },
+        "Dimitrios Nikolopoulos": {
+            "Virginia Tech": "US"
+        },
+        "Maria S. Perez": {
+            "Universidad Politécnica de Madrid": "ES"
+        },
+        "Artur Podobas": {
+            "KTH Royal Institute of Technology": "SE"
+        },
+        "Alberto Riccardo Martinelli": {
+            "University of Torino": "IT"
+        },
+        "Krzysztof Rzadca": {
+            "University of Warsaw": "PL"
+        },
+        "Uwe Schwiegelshohn": {
+            "TU Dortmund": "DE"
+        },
+        "Jeremy Singer": {
+            "University of Glasgow": "GB"
+        },
+        "Oliver Sinnen": {
+            "University of Auckland": "NZ"
+        },
+        "Athanasios Stratikopoulos": {
+            "University of Manchester": "GB"
+        },
+        "Moysis Symeonidis": {
+            "University of Cyprus": "CY"
+        },
+        "Nguyen Kim Thang": {
+            "University Grenoble-Alpes": "FR"
+        },
+        "Frédéric Vivien": {
+            "INRIA": "FR"
+        },
+        "Ramin Yahyapour": {
+            "University of Göttingen": "DE"
+        },
+        "Jean-Thomas Acquaviva": {
+            "DDN": "FR"
+        },
+        "Giovanni Agosta": {
+            "Politecnico di Milano": "IT"
+        },
+        "Hartwig Anzt": {
+            "University of Tennessee": "US"
+        },
+        "Raja Appuswamy": {
+            "EURECOM": "FR"
+        },
+        "Jean-Baptiste Besnard": {
+            "ParaTools SAS": "FR"
+        },
+        "Jorge G. Barbosa": {
+            "University of Porto": "PT"
+        },
+        "George Bosilca": {
+            "University of Tennessee": "US"
+        },
+        "Xing Cai": {
+            "Simula Research Laboratory": "NO"
+        },
+        "Toshio Endo": {
+            "Tokyo Institute of Technology": "JP"
+        },
+        "Javier Garcia Blas": {
+            "Carlos III University": "ES"
+        },
+        "Brice Goglin": {
+            "INRIA": "FR"
+        },
+        "Alfredo Goldman": {
+            "University of São Paulo": "BR"
+        },
+        "Akihiro Hayashi": {
+            "Georgia Institute of Technology": "US"
+        },
+        "Francisco D. Igual": {
+            "Universidad Complutense de Madrid": "ES"
+        },
+        "Emmanuel Jeannot": {
+            "INRIA": "FR"
+        },
+        "Hatem Ltaief": {
+            "King Abdullah University of Science and Technology": "SA"
+        },
+        "Ravi Reddy Manumachu": {
+            "UCD": "IE"
+        },
+        "Dejan Milojicic": {
+            "Hewlett Packard Enterprise": "US"
+        },
+        "Francesca Palumbo": {
+            "University of Sassari": "IT"
+        },
+        "Oscar Plata": {
+            "University of Malaga": "ES"
+        },
+        "Loïc Pottier": {
+            "Lawrence Livermore National Laboratory": "US"
+        },
+        "Matei Ripeanu": {
+            "The University of British Columbia": "CA"
+        },
+        "Nuno Roma": {
+            "Universidade de Lisboa": "PT"
+        },
+        "Martin Schreiber": {
+            "Université Grenoble Alpes": "FR"
+        },
+        "Estela Suarez": {
+            "Forschungszentrum Juelich": "DE"
+        },
+        "Samuel Thibault": {
+            "Université Bordeaux 1": "FR"
+        },
+        "Juan Tourino": {
+            "University of A Coruña": "ES"
+        },
+        "Pedro Trancoso": {
+            "Chalmers University of Technology": "SE"
+        },
+        "Marc-André Vef": {
+            "Johannes Gutenberg University Mainz": "DE"
+        },
+        "Roman Wyrzykowski": {
+            "Czestochowa University of Technology": "PL"
+        },
+        "Ashiq Anjum": {
+            "University of Leicester": "GB"
+        },
+        "Bartosz Balis": {
+            "AGH University of Science and Technology": "PL"
+        },
+        "Daniel Balouek-Thomert": {
+            "University of Utah": "US"
+        },
+        "Christos Beloukas": {
+            "National Technical University of Athens": "GR"
+        },
+        "Luiz F. Bittencourt": {
+            "University of Campinas": "BR"
+        },
+        "Pascal Bouvry": {
+            "University of Luxembourg": "LU"
+        },
+        "Carmela Comito": {
+            "ICAR CNR": "IT"
+        },
+        "Haleh Dijazi": {
+            "University of Klagenfurt": "AT"
+        },
+        "Pedro Diniz": {
+            "INESC-ID": "PT"
+        },
+        "Reza Farahani": {
+            "University of Klagenfurt": "AT"
+        },
+        "Philipp Gschwandtner": {
+            "University of Innsbruck": "AT"
+        },
+        "Shadi Ibrahim": {
+            "INRIA Rennes": "FR"
+        },
+        "Dalibor Klusacek": {
+            "CESNET Brno": "CZ"
+        },
+        "Young Choon Lee": {
+            "Macquarie University": "AU"
+        },
+        "Jože Rožanec": {
+            "Jožef Stefan Institute": "SI"
+        },
+        "Rabia Saleem": {
+            "University of Derby": "GB"
+        },
+        "Josef Spillner": {
+            "Zurich University of Applied Sciences": "CH"
+        },
+        "Dingwen Tao": {
+            "Indiana University": "US"
+        },
+        "Douglas Thain": {
+            "University of Notre Dame": "US"
+        },
+        "Rafael Tolosana-Calasanz": {
+            "Universidad de Zaragoza": "ES"
+        },
+        "Jidong Zhai": {
+            "Tsinghua University": "CN"
+        },
+        "Vittorio Bilo": {
+            "University of Salento": "IT"
+        },
+        "Costas Busch": {
+            "Augusta University": "US"
+        },
+        "Thomas Erlebach": {
+            "Durham University": "GB"
+        },
+        "Lionel Eyraud-Dubois": {
+            "INRIA Bordeaux Sud-Ouest": "FR"
+        },
+        "Panagiota Fatourou": {
+            "University of Paris": "FR",
+            "University of Crete": "GR"
+        },
+        "Antonio Fernandez Anta": {
+            "IMDEA Networks Institute": "ES"
+        },
+        "Paola Flocchini": {
+            "University of Ottawa": "CA"
+        },
+        "Pierre Fraigniaud": {
+            "Université Paris Cité": "FR",
+            "CNRS": "FR"
+        },
+        "Maurice Herlihy": {
+            "Brown University": "US"
+        },
+        "Sayaka Kamei": {
+            "Hiroshima University": "JP"
+        },
+        "Panagiotis Kanellopoulos": {
+            "University of Essex": "GB"
+        },
+        "Danny Krizanc": {
+            "Wesleyan University": "US"
+        },
+        "Othon Michail": {
+            "University of Liverpool": "GB"
+        },
+        "Achour Mostéfaoui": {
+            "Université Nantes (LINA)": "FR"
+        },
+        "Lata Narayanan": {
+            "Concordia University": "CA"
+        },
+        "Vicky Papadopoulou": {
+            "European University Cyprus": "CY"
+        },
+        "Giuseppe Persiano": {
+            "Università degli Studi di Salerno": "IT"
+        },
+        "Maria Potop-Butucaru": {
+            "Sorbonne University": "FR"
+        },
+        "Geppino Pucci": {
+            "Università di Padova": "IT"
+        },
+        "Peter Sanders": {
+            "Karlsruhe Institute of Technology": "DE"
+        },
+        "Thomas Sauerwald": {
+            "University of Cambridge": "GB"
+        },
+        "Christian Scheideler": {
+            "University of Paderborn": "DE"
+        },
+        "Maria Serna": {
+            "Universitat Politècnica de Catalunya": "ES"
+        },
+        "Gadi Taubenfeld": {
+            "Reichman University": "IL"
+        },
+        "Salvador Abreu": {
+            "University of Évora": "PT"
+        },
+        "Michael Bane": {
+            "Manchester Metropolitan University": "GB"
+        },
+        "Loris Belcastro": {
+            "University of Calabria": "IT"
+        },
+        "Cristiana Bentes": {
+            "State University of Rio de Janeiro": "BR"
+        },
+        "Paolo Bientinesi": {
+            "Umeå University": "SE"
+        },
+        "Vicente Blanco": {
+            "University of La Laguna": "ES"
+        },
+        "Cristina Boeres": {
+            "Universidade Federal Fluminense": "BR"
+        },
+        "Alvaro L. Coutinho": {
+            "Federal University of Rio de Janeiro": "BR"
+        },
+        "Pasqua D'Ambra": {
+            "IAC-CNR": "IT"
+        },
+        "Begüm Demir": {
+            "TU Berlin": "DE"
+        },
+        "David Expósito Singh": {
+            "University Carlos III": "ES"
+        },
+        "Maria Fazio": {
+            "University of Messina": "IT"
+        },
+        "Stefka Fidanova": {
+            "Bulgarian Academy of Sciences": "BG"
+        },
+        "Patricia González": {
+            "University of A Coruña": "ES"
+        },
+        "Nicolás Guil": {
+            "University of Málaga": "ES"
+        },
+        "Juan Angel Lorenzo Del Castillo": {
+            "CY Cergy Paris Université": "FR"
+        },
+        "Stefano Markidis": {
+            "KTH Royal Institute of Technology": "SE"
+        },
+        "Sreeja S. Nair": {
+            "ZettaScale Technology": "FR"
+        },
+        "Enrique S. Quintana-Orti": {
+            "Universitat Politècnica de València": "ES"
+        },
+        "Pedro Ribeiro": {
+            "University of Porto": "PT"
+        },
+        "Tuomo Rossi": {
+            "University of Jyväskylä": "FI"
+        },
+        "Natalia Seoane": {
+            "University of Santiago de Compostela": "ES"
+        },
+        "Paolo Trunfio": {
+            "University of Calabria": "IT"
+        },
+        "Petr Tuma": {
+            "Charles University": "CZ"
+        },
+        "David L. Vilariño": {
+            "University of Santiago de Compostela": "ES"
+        }
+    }
+}
