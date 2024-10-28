@@ -13,3 +13,14 @@
 
 These data may also contain fields that are not extracted by the crawler. This is because the crawler has been modified over time, and some fields that were extracted but not used have been removed in the current version of the crawler (with some minor modifications to the crawler, this can be changed).
 
+# :file_folder: Data Directories
+
+> :heavy_exclamation_mark: It should be noted that there is a large amount of data, and due to its nature and difficult extraction, it may contain errors and empty fields.
+
+- **``CrawlerData``**: This includes all the files obtained with the crawler (some may have been modified afterward). Inside, we find three different directories, one for each crawler's data: ``BaseCrawler``, ``ExtendedCrawler``, and ``CitationsCrawler``.
+
+- **``ProcessedData``**: These are the basic data of the papers, meaning the data we consider most essential for analysis. They do not include citation data. This data was obtained by processing the ``ExtendedCrawler`` data from each of the conferences.
+
+- **``CommitteeData``**: They contain all data on the conference Program Committees. These data were extracted manually (with some help from a crawler). As a result, they may contain some errors.
+
+- **``Databases``**: This folder includes the database files. On the one hand, it has the files that make up the relational database (one for each conference). On the other hand, it contains the ``.dump`` files for the GraphDB (one for each conference). The GraphDB was created using [Neo4j](https://neo4j.com).
