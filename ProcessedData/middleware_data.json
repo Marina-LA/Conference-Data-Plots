@@ -2,6 +2,10 @@
     "2012": [
         {
             "Title": "CrowdMAC: A Crowdsourcing System for Mobile Access.",
+            "Year": "2012",
+            "Predominant Continent": [
+                "NA"
+            ],
             "Authors and Institutions": [
                 {
                     "Author": "Ngoc Do",
@@ -30,14 +34,14 @@
                         }
                     ]
                 }
-            ],
-            "Year": "2012",
-            "Predominant Continent": [
-                "North America"
             ]
         },
         {
             "Title": "Pogo, a Middleware for Mobile Phone Sensing.",
+            "Year": "2012",
+            "Predominant Continent": [
+                "EU"
+            ],
             "Authors and Institutions": [
                 {
                     "Author": "Niels Brouwers",
@@ -57,14 +61,14 @@
                         }
                     ]
                 }
-            ],
-            "Year": "2012",
-            "Predominant Continent": [
-                "Europe"
             ]
         },
         {
             "Title": "m.Site: Efficient Content Adaptation for Mobile Devices.",
+            "Year": "2012",
+            "Predominant Continent": [
+                "NA"
+            ],
             "Authors and Institutions": [
                 {
                     "Author": "Aaron Koehl",
@@ -92,14 +96,14 @@
                         }
                     ]
                 }
-            ],
-            "Year": "2012",
-            "Predominant Continent": [
-                "North America"
             ]
         },
         {
             "Title": "MORENA: A Middleware for Programming NFC-Enabled Android Applications as Distributed Object-Oriented Programs.",
+            "Year": "2012",
+            "Predominant Continent": [
+                "EU"
+            ],
             "Authors and Institutions": [
                 {
                     "Author": "Andoni Lombide Carreton",
@@ -128,14 +132,14 @@
                         }
                     ]
                 }
-            ],
-            "Year": "2012",
-            "Predominant Continent": [
-                "Europe"
             ]
         },
         {
             "Title": "Fmeter: Extracting Indexable Low-Level System Signatures by Counting Kernel Function Calls.",
+            "Year": "2012",
+            "Predominant Continent": [
+                "NA"
+            ],
             "Authors and Institutions": [
                 {
                     "Author": "Tudor Marian",
@@ -173,14 +177,14 @@
                         }
                     ]
                 }
-            ],
-            "Year": "2012",
-            "Predominant Continent": [
-                "North America"
             ]
         },
         {
             "Title": "SPADE: Support for Provenance Auditing in Distributed Environments.",
+            "Year": "2012",
+            "Predominant Continent": [
+                "NA"
+            ],
             "Authors and Institutions": [
                 {
                     "Author": "Ashish Gehani",
@@ -208,14 +212,14 @@
                         }
                     ]
                 }
-            ],
-            "Year": "2012",
-            "Predominant Continent": [
-                "North America"
             ]
         },
         {
             "Title": "VScope: Middleware for Troubleshooting Time-Sensitive Data Center Applications.",
+            "Year": "2012",
+            "Predominant Continent": [
+                "NA"
+            ],
             "Authors and Institutions": [
                 {
                     "Author": "Chengwei Wang",
@@ -275,14 +279,14 @@
                         }
                     ]
                 }
-            ],
-            "Year": "2012",
-            "Predominant Continent": [
-                "North America"
             ]
         },
         {
             "Title": "SOFTScale: Stealing Opportunistically for Transient Scaling.",
+            "Year": "2012",
+            "Predominant Continent": [
+                "NA"
+            ],
             "Authors and Institutions": [
                 {
                     "Author": "Anshul Gandhi",
@@ -320,14 +324,14 @@
                         }
                     ]
                 }
-            ],
-            "Year": "2012",
-            "Predominant Continent": [
-                "North America"
             ]
         },
         {
             "Title": "Taking Garbage Collection Overheads Off the Critical Path in SSDs.",
+            "Year": "2012",
+            "Predominant Continent": [
+                "NA"
+            ],
             "Authors and Institutions": [
                 {
                     "Author": "Myoungsoo Jung",
@@ -356,14 +360,14 @@
                         }
                     ]
                 }
-            ],
-            "Year": "2012",
-            "Predominant Continent": [
-                "North America"
             ]
         },
         {
             "Title": "Unifying Thread-Level Speculation and Transactional Memory.",
+            "Year": "2012",
+            "Predominant Continent": [
+                "EU"
+            ],
             "Authors and Institutions": [
                 {
                     "Author": "João Barreto",
@@ -410,14 +414,14 @@
                         }
                     ]
                 }
-            ],
-            "Year": "2012",
-            "Predominant Continent": [
-                "Europe"
             ]
         },
         {
             "Title": "Message-Passing Concurrency for Scalable, Stateful, Reconfigurable Middleware.",
+            "Year": "2012",
+            "Predominant Continent": [
+                "EU"
+            ],
             "Authors and Institutions": [
                 {
                     "Author": "Cosmin Arad",
@@ -470,14 +474,14 @@
                         }
                     ]
                 }
-            ],
-            "Year": "2012",
-            "Predominant Continent": [
-                "Europe"
             ]
         },
         {
             "Title": "OverStar: An Open Approach to End-to-End Middleware Services in Systems of Systems.",
+            "Year": "2012",
+            "Predominant Continent": [
+                "EU"
+            ],
             "Authors and Institutions": [
                 {
                     "Author": "Paul Grace",
@@ -515,14 +519,14 @@
                         }
                     ]
                 }
-            ],
-            "Year": "2012",
-            "Predominant Continent": [
-                "Europe"
             ]
         },
         {
             "Title": "Opportunistic Multipath Forwarding in Content-Based Publish/Subscribe Overlays.",
+            "Year": "2012",
+            "Predominant Continent": [
+                "NA"
+            ],
             "Authors and Institutions": [
                 {
                     "Author": "Reza Sherafat Kazemzadeh",
@@ -550,14 +554,14 @@
                         }
                     ]
                 }
-            ],
-            "Year": "2012",
-            "Predominant Continent": [
-                "North America"
             ]
         },
         {
             "Title": "PolderCast: Fast, Robust, and Scalable Architecture for P2P Topic-Based Pub/Sub.",
+            "Year": "2012",
+            "Predominant Continent": [
+                "EU"
+            ],
             "Authors and Institutions": [
                 {
                     "Author": "Vinay Setty",
@@ -585,14 +589,14 @@
                     "Author": "Spyros Voulgaris",
                     "Institutions": []
                 }
-            ],
-            "Year": "2012",
-            "Predominant Continent": [
-                "Europe"
             ]
         },
         {
             "Title": "Unification of Publish/Subscribe Systems and Stream Databases - The Impact on Complex Event Processing.",
+            "Year": "2012",
+            "Predominant Continent": [
+                "EU"
+            ],
             "Authors and Institutions": [
                 {
                     "Author": "Joe Sventek",
@@ -612,14 +616,14 @@
                         }
                     ]
                 }
-            ],
-            "Year": "2012",
-            "Predominant Continent": [
-                "Europe"
             ]
         },
         {
             "Title": "High-Performance Location-Aware Publish-Subscribe on GPUs.",
+            "Year": "2012",
+            "Predominant Continent": [
+                "EU"
+            ],
             "Authors and Institutions": [
                 {
                     "Author": "Gianpaolo Cugola",
@@ -639,14 +643,14 @@
                         }
                     ]
                 }
-            ],
-            "Year": "2012",
-            "Predominant Continent": [
-                "Europe"
             ]
         },
         {
             "Title": "Enabling Efficient Placement of Virtual Infrastructures in the Cloud.",
+            "Year": "2012",
+            "Predominant Continent": [
+                "NA"
+            ],
             "Authors and Institutions": [
                 {
                     "Author": "Ioana Giurgiu",
@@ -684,14 +688,14 @@
                         }
                     ]
                 }
-            ],
-            "Year": "2012",
-            "Predominant Continent": [
-                "North America"
             ]
         },
         {
             "Title": "A Scalable Inline Cluster Deduplication Framework for Big Data Protection.",
+            "Year": "2012",
+            "Predominant Continent": [
+                "AS"
+            ],
             "Authors and Institutions": [
                 {
                     "Author": "Yinjin Fu",
@@ -720,14 +724,14 @@
                         }
                     ]
                 }
-            ],
-            "Year": "2012",
-            "Predominant Continent": [
-                "Asia"
             ]
         },
         {
             "Title": "CloudPack - Exploiting Workload Flexibility through Rational Pricing.",
+            "Year": "2012",
+            "Predominant Continent": [
+                "NA"
+            ],
             "Authors and Institutions": [
                 {
                     "Author": "Vatche Ishakian",
@@ -765,14 +769,14 @@
                         }
                     ]
                 }
-            ],
-            "Year": "2012",
-            "Predominant Continent": [
-                "North America"
             ]
         },
         {
             "Title": "Dynamic Software Deployment from Clouds to Mobile Devices.",
+            "Year": "2012",
+            "Predominant Continent": [
+                "EU"
+            ],
             "Authors and Institutions": [
                 {
                     "Author": "Ioana Giurgiu",
@@ -801,14 +805,14 @@
                         }
                     ]
                 }
-            ],
-            "Year": "2012",
-            "Predominant Continent": [
-                "Europe"
             ]
         },
         {
             "Title": "Enhancing the OS against Security Threats in System Administration.",
+            "Year": "2012",
+            "Predominant Continent": [
+                "EU"
+            ],
             "Authors and Institutions": [
                 {
                     "Author": "Nuno Santos",
@@ -837,14 +841,14 @@
                         }
                     ]
                 }
-            ],
-            "Year": "2012",
-            "Predominant Continent": [
-                "Europe"
             ]
         },
         {
             "Title": "On the Practicality of Practical Byzantine Fault Tolerance.",
+            "Year": "2012",
+            "Predominant Continent": [
+                "EU"
+            ],
             "Authors and Institutions": [
                 {
                     "Author": "Nikos Chondros",
@@ -873,14 +877,14 @@
                         }
                     ]
                 }
-            ],
-            "Year": "2012",
-            "Predominant Continent": [
-                "Europe"
             ]
         },
         {
             "Title": "SCORe: A Scalable One-Copy Serializable Partial Replication Protocol.",
+            "Year": "2012",
+            "Predominant Continent": [
+                "EU"
+            ],
             "Authors and Institutions": [
                 {
                     "Author": "Sebastiano Peluso",
@@ -909,14 +913,12 @@
                         }
                     ]
                 }
-            ],
-            "Year": "2012",
-            "Predominant Continent": [
-                "Europe"
             ]
         },
         {
             "Title": "P3S: A Privacy Preserving Publish-Subscribe Middleware.",
+            "Year": "2012",
+            "Predominant Continent": [],
             "Authors and Institutions": [
                 {
                     "Author": "Partha Pal",
@@ -938,14 +940,16 @@
                     "Author": "Joe Loyall",
                     "Institutions": []
                 }
-            ],
-            "Year": "2012",
-            "Predominant Continent": []
+            ]
         }
     ],
     "2013": [
         {
             "Title": "FastCast: A Throughput- and Latency-Efficient Total Order Broadcast Protocol.",
+            "Year": "2013",
+            "Predominant Continent": [
+                "EU"
+            ],
             "Authors and Institutions": [
                 {
                     "Author": "Gautier Berthou",
@@ -965,14 +969,12 @@
                         }
                     ]
                 }
-            ],
-            "Year": "2013",
-            "Predominant Continent": [
-                "Europe"
             ]
         },
         {
             "Title": "VICINITY: A Pinch of Randomness Brings out the Structure.",
+            "Year": "2013",
+            "Predominant Continent": [],
             "Authors and Institutions": [
                 {
                     "Author": "Spyros Voulgaris",
@@ -982,12 +984,14 @@
                     "Author": "Maarten van Steen",
                     "Institutions": []
                 }
-            ],
-            "Year": "2013",
-            "Predominant Continent": []
+            ]
         },
         {
             "Title": "Experiences with Fault-Injection in a Byzantine Fault-Tolerant Protocol.",
+            "Year": "2013",
+            "Predominant Continent": [
+                "NA"
+            ],
             "Authors and Institutions": [
                 {
                     "Author": "Rolando Martins",
@@ -1052,14 +1056,14 @@
                         }
                     ]
                 }
-            ],
-            "Year": "2013",
-            "Predominant Continent": [
-                "North America"
             ]
         },
         {
             "Title": "SplayNet: Distributed User-Space Topology Emulation.",
+            "Year": "2013",
+            "Predominant Continent": [
+                "EU"
+            ],
             "Authors and Institutions": [
                 {
                     "Author": "Valerio Schiavoni",
@@ -1088,14 +1092,14 @@
                         }
                     ]
                 }
-            ],
-            "Year": "2013",
-            "Predominant Continent": [
-                "Europe"
             ]
         },
         {
             "Title": "Assured Cloud-Based Data Analysis with ClusterBFT.",
+            "Year": "2013",
+            "Predominant Continent": [
+                "NA"
+            ],
             "Authors and Institutions": [
                 {
                     "Author": "Julian James Stephen",
@@ -1115,14 +1119,14 @@
                         }
                     ]
                 }
-            ],
-            "Year": "2013",
-            "Predominant Continent": [
-                "North America"
             ]
         },
         {
             "Title": "FlowFlex: Malleable Scheduling for Flows of MapReduce Jobs.",
+            "Year": "2013",
+            "Predominant Continent": [
+                "NA"
+            ],
             "Authors and Institutions": [
                 {
                     "Author": "Viswanath Nagarajan",
@@ -1155,14 +1159,14 @@
                         }
                     ]
                 }
-            ],
-            "Year": "2013",
-            "Predominant Continent": [
-                "North America"
             ]
         },
         {
             "Title": "DVFS Aware CPU Credit Enforcement in a Virtualized System.",
+            "Year": "2013",
+            "Predominant Continent": [
+                "EU"
+            ],
             "Authors and Institutions": [
                 {
                     "Author": "Daniel Hagimont",
@@ -1261,14 +1265,14 @@
                         }
                     ]
                 }
-            ],
-            "Year": "2013",
-            "Predominant Continent": [
-                "Europe"
             ]
         },
         {
             "Title": "Elastic Remote Methods.",
+            "Year": "2013",
+            "Predominant Continent": [
+                "NA"
+            ],
             "Authors and Institutions": [
                 {
                     "Author": "K. R. Jayaram",
@@ -1279,14 +1283,14 @@
                         }
                     ]
                 }
-            ],
-            "Year": "2013",
-            "Predominant Continent": [
-                "North America"
             ]
         },
         {
             "Title": "Atmosphere: A Universal Cross-Cloud Communication Infrastructure.",
+            "Year": "2013",
+            "Predominant Continent": [
+                "NA"
+            ],
             "Authors and Institutions": [
                 {
                     "Author": "Chamikara Jayalath",
@@ -1315,14 +1319,14 @@
                         }
                     ]
                 }
-            ],
-            "Year": "2013",
-            "Predominant Continent": [
-                "North America"
             ]
         },
         {
             "Title": "VMAR: Optimizing I/O Performance and Resource Utilization in the Cloud.",
+            "Year": "2013",
+            "Predominant Continent": [
+                "NA"
+            ],
             "Authors and Institutions": [
                 {
                     "Author": "Zhiming Shen",
@@ -1361,14 +1365,14 @@
                     "Author": "Nicholas Fuller",
                     "Institutions": []
                 }
-            ],
-            "Year": "2013",
-            "Predominant Continent": [
-                "North America"
             ]
         },
         {
             "Title": "12MAP: Cloud Disaster Recovery Based on Image-Instance Mapping.",
+            "Year": "2013",
+            "Predominant Continent": [
+                "AS"
+            ],
             "Authors and Institutions": [
                 {
                     "Author": "Shripad Nadgowda",
@@ -1397,14 +1401,14 @@
                         }
                     ]
                 }
-            ],
-            "Year": "2013",
-            "Predominant Continent": [
-                "Asia"
             ]
         },
         {
             "Title": "Cross-Tier Application and Data Partitioning of Web Applications for Hybrid Cloud Deployment.",
+            "Year": "2013",
+            "Predominant Continent": [
+                "NA"
+            ],
             "Authors and Institutions": [
                 {
                     "Author": "Nima Kaviani",
@@ -1433,14 +1437,14 @@
                         }
                     ]
                 }
-            ],
-            "Year": "2013",
-            "Predominant Continent": [
-                "North America"
             ]
         },
         {
             "Title": "Sprinkler - Reliable Broadcast for Geographically Dispersed Datacenters.",
+            "Year": "2013",
+            "Predominant Continent": [
+                "NA"
+            ],
             "Authors and Institutions": [
                 {
                     "Author": "Haoyan Geng",
@@ -1460,14 +1464,14 @@
                         }
                     ]
                 }
-            ],
-            "Year": "2013",
-            "Predominant Continent": [
-                "North America"
             ]
         },
         {
             "Title": "Transactional Failure Recovery for a Distributed Key-Value Store.",
+            "Year": "2013",
+            "Predominant Continent": [
+                "EU"
+            ],
             "Authors and Institutions": [
                 {
                     "Author": "Muhammad Yousuf Ahmad",
@@ -1514,14 +1518,14 @@
                         }
                     ]
                 }
-            ],
-            "Year": "2013",
-            "Predominant Continent": [
-                "Europe"
             ]
         },
         {
             "Title": "Views and Transactional Storage for Large Graphs.",
+            "Year": "2013",
+            "Predominant Continent": [
+                "NA"
+            ],
             "Authors and Institutions": [
                 {
                     "Author": "Michael Mihn-Jong Lee",
@@ -1577,14 +1581,14 @@
                         }
                     ]
                 }
-            ],
-            "Year": "2013",
-            "Predominant Continent": [
-                "North America"
             ]
         },
         {
             "Title": "Efficient Batched Synchronization in Dropbox-Like Cloud Storage Services.",
+            "Year": "2013",
+            "Predominant Continent": [
+                "NA"
+            ],
             "Authors and Institutions": [
                 {
                     "Author": "Zhenhua Li",
@@ -1670,14 +1674,14 @@
                         }
                     ]
                 }
-            ],
-            "Year": "2013",
-            "Predominant Continent": [
-                "North America"
             ]
         },
         {
             "Title": "Back to the Future: Using Magnetic Tapes in Cloud Based Storage Infrastructures.",
+            "Year": "2013",
+            "Predominant Continent": [
+                "NA"
+            ],
             "Authors and Institutions": [
                 {
                     "Author": "Ved Prakash",
@@ -1715,14 +1719,14 @@
                         }
                     ]
                 }
-            ],
-            "Year": "2013",
-            "Predominant Continent": [
-                "North America"
             ]
         },
         {
             "Title": "Efficient Node Bootstrapping for Decentralised Shared-Nothing Key-Value Stores.",
+            "Year": "2013",
+            "Predominant Continent": [
+                "OC"
+            ],
             "Authors and Institutions": [
                 {
                     "Author": "Li Han",
@@ -1742,14 +1746,14 @@
                         }
                     ]
                 }
-            ],
-            "Year": "2013",
-            "Predominant Continent": [
-                "Oceania"
             ]
         },
         {
             "Title": "Testing Idempotence for Infrastructure as Code.",
+            "Year": "2013",
+            "Predominant Continent": [
+                "NA"
+            ],
             "Authors and Institutions": [
                 {
                     "Author": "Waldemar Hummer",
@@ -1787,14 +1791,14 @@
                         }
                     ]
                 }
-            ],
-            "Year": "2013",
-            "Predominant Continent": [
-                "North America"
             ]
         },
         {
             "Title": "Self-scalable Benchmarking as a Service with Automatic Saturation Detection.",
+            "Year": "2013",
+            "Predominant Continent": [
+                "EU"
+            ],
             "Authors and Institutions": [
                 {
                     "Author": "Alain Tchana",
@@ -1883,14 +1887,14 @@
                         }
                     ]
                 }
-            ],
-            "Year": "2013",
-            "Predominant Continent": [
-                "Europe"
             ]
         },
         {
             "Title": "Ditto - Deterministic Execution Replayability-as-a-Service for Java VM on Multiprocessors.",
+            "Year": "2013",
+            "Predominant Continent": [
+                "EU"
+            ],
             "Authors and Institutions": [
                 {
                     "Author": "J.M Silva",
@@ -1927,14 +1931,14 @@
                         }
                     ]
                 }
-            ],
-            "Year": "2013",
-            "Predominant Continent": [
-                "Europe"
             ]
         },
         {
             "Title": "DynaSoRe: Efficient In-Memory Store for Social Applications.",
+            "Year": "2013",
+            "Predominant Continent": [
+                "EU"
+            ],
             "Authors and Institutions": [
                 {
                     "Author": "Xiao Bai",
@@ -1962,14 +1966,14 @@
                     "Author": "Vincent Leroy",
                     "Institutions": []
                 }
-            ],
-            "Year": "2013",
-            "Predominant Continent": [
-                "Europe"
             ]
         },
         {
             "Title": "O 2 SM: Enabling Efficient Offline Access to Online Social Media and Social Networks.",
+            "Year": "2013",
+            "Predominant Continent": [
+                "NA"
+            ],
             "Authors and Institutions": [
                 {
                     "Author": "Ye Zhao",
@@ -2016,14 +2020,14 @@
                         }
                     ]
                 }
-            ],
-            "Year": "2013",
-            "Predominant Continent": [
-                "North America"
             ]
         },
         {
             "Title": "AnonyLikes: Anonymous Quantitative Feedback on Social Networks.",
+            "Year": "2013",
+            "Predominant Continent": [
+                "EU"
+            ],
             "Authors and Institutions": [
                 {
                     "Author": "Pedro Alves",
@@ -2051,14 +2055,14 @@
                         }
                     ]
                 }
-            ],
-            "Year": "2013",
-            "Predominant Continent": [
-                "Europe"
             ]
         },
         {
             "Title": "Peer-to-Peer Keyword Search: A Retrospective.",
+            "Year": "2013",
+            "Predominant Continent": [
+                "NA"
+            ],
             "Authors and Institutions": [
                 {
                     "Author": "Patrick Reynolds",
@@ -2077,16 +2081,16 @@
                         }
                     ]
                 }
-            ],
-            "Year": "2013",
-            "Predominant Continent": [
-                "North America"
             ]
         }
     ],
     "2014": [
         {
             "Title": "Tiera: towards flexible multi-tiered cloud storage instances.",
+            "Year": "2014",
+            "Predominant Continent": [
+                "NA"
+            ],
             "Authors and Institutions": [
                 {
                     "Author": "Ajaykrishna Raghavan",
@@ -2115,14 +2119,14 @@
                         }
                     ]
                 }
-            ],
-            "Year": "2014",
-            "Predominant Continent": [
-                "North America"
             ]
         },
         {
             "Title": "G-DUR: a middleware for assembling, analyzing, and improving transactional protocols.",
+            "Year": "2014",
+            "Predominant Continent": [
+                "EU"
+            ],
             "Authors and Institutions": [
                 {
                     "Author": "Masoud Saeida Ardekani",
@@ -2141,14 +2145,14 @@
                     "Author": "Marc Shapiro",
                     "Institutions": []
                 }
-            ],
-            "Year": "2014",
-            "Predominant Continent": [
-                "Europe"
             ]
         },
         {
             "Title": "LVD: lean virtual disks.",
+            "Year": "2014",
+            "Predominant Continent": [
+                "AS"
+            ],
             "Authors and Institutions": [
                 {
                     "Author": "Gaurab Basu",
@@ -2177,14 +2181,14 @@
                         }
                     ]
                 }
-            ],
-            "Year": "2014",
-            "Predominant Continent": [
-                "Asia"
             ]
         },
         {
             "Title": "Trustworthy geographically fenced hybrid clouds.",
+            "Year": "2014",
+            "Predominant Continent": [
+                "NA"
+            ],
             "Authors and Institutions": [
                 {
                     "Author": "K. R. Jayaram",
@@ -2240,14 +2244,14 @@
                         }
                     ]
                 }
-            ],
-            "Year": "2014",
-            "Predominant Continent": [
-                "North America"
             ]
         },
         {
             "Title": "StackSync: bringing elasticity to dropbox-like file synchronization.",
+            "Year": "2014",
+            "Predominant Continent": [
+                "EU"
+            ],
             "Authors and Institutions": [
                 {
                     "Author": "Pedro López",
@@ -2294,14 +2298,14 @@
                         }
                     ]
                 }
-            ],
-            "Year": "2014",
-            "Predominant Continent": [
-                "Europe"
             ]
         },
         {
             "Title": "Slider: incremental sliding window analytics.",
+            "Year": "2014",
+            "Predominant Continent": [
+                "EU"
+            ],
             "Authors and Institutions": [
                 {
                     "Author": "Pramod Bhatotia",
@@ -2339,14 +2343,14 @@
                         }
                     ]
                 }
-            ],
-            "Year": "2014",
-            "Predominant Continent": [
-                "Europe"
             ]
         },
         {
             "Title": "Fast, expressive top-k matching.",
+            "Year": "2014",
+            "Predominant Continent": [
+                "NA"
+            ],
             "Authors and Institutions": [
                 {
                     "Author": "William Culhane",
@@ -2375,14 +2379,14 @@
                         }
                     ]
                 }
-            ],
-            "Year": "2014",
-            "Predominant Continent": [
-                "North America"
             ]
         },
         {
             "Title": "HyRec: leveraging browsers for scalable recommenders.",
+            "Year": "2014",
+            "Predominant Continent": [
+                "EU"
+            ],
             "Authors and Institutions": [
                 {
                     "Author": "Antoine Boutet",
@@ -2419,14 +2423,14 @@
                     "Author": "Rhicheek Patra",
                     "Institutions": []
                 }
-            ],
-            "Year": "2014",
-            "Predominant Continent": [
-                "Europe"
             ]
         },
         {
             "Title": "Improving MapReduce performance in heterogeneous environments with adaptive task tuning.",
+            "Year": "2014",
+            "Predominant Continent": [
+                "NA"
+            ],
             "Authors and Institutions": [
                 {
                     "Author": "Dazhao Cheng",
@@ -2464,14 +2468,14 @@
                         }
                     ]
                 }
-            ],
-            "Year": "2014",
-            "Predominant Continent": [
-                "North America"
             ]
         },
         {
             "Title": "Thematic event processing.",
+            "Year": "2014",
+            "Predominant Continent": [
+                "EU"
+            ],
             "Authors and Institutions": [
                 {
                     "Author": "Souleiman Hasan",
@@ -2491,14 +2495,14 @@
                         }
                     ]
                 }
-            ],
-            "Year": "2014",
-            "Predominant Continent": [
-                "Europe"
             ]
         },
         {
             "Title": "Affinity-aware checkpoint restart.",
+            "Year": "2014",
+            "Predominant Continent": [
+                "NA"
+            ],
             "Authors and Institutions": [
                 {
                     "Author": "Ajay Saini",
@@ -2545,14 +2549,14 @@
                         }
                     ]
                 }
-            ],
-            "Year": "2014",
-            "Predominant Continent": [
-                "North America"
             ]
         },
         {
             "Title": "Mutable checkpoint-restart: automating live update for generic server programs.",
+            "Year": "2014",
+            "Predominant Continent": [
+                "EU"
+            ],
             "Authors and Institutions": [
                 {
                     "Author": "Cristiano Giuffrida",
@@ -2576,14 +2580,14 @@
                         }
                     ]
                 }
-            ],
-            "Year": "2014",
-            "Predominant Continent": [
-                "Europe"
             ]
         },
         {
             "Title": "Consensus inside.",
+            "Year": "2014",
+            "Predominant Continent": [
+                "EU"
+            ],
             "Authors and Institutions": [
                 {
                     "Author": "Tudor David",
@@ -2612,14 +2616,14 @@
                         }
                     ]
                 }
-            ],
-            "Year": "2014",
-            "Predominant Continent": [
-                "Europe"
             ]
         },
         {
             "Title": "A framework for the dynamic evolution of highly-available dataflow programs.",
+            "Year": "2014",
+            "Predominant Continent": [
+                "EU"
+            ],
             "Authors and Institutions": [
                 {
                     "Author": "Sebastian Ertel",
@@ -2639,14 +2643,14 @@
                         }
                     ]
                 }
-            ],
-            "Year": "2014",
-            "Predominant Continent": [
-                "Europe"
             ]
         },
         {
             "Title": "Building global and scalable systems with atomic multicast.",
+            "Year": "2014",
+            "Predominant Continent": [
+                "EU"
+            ],
             "Authors and Institutions": [
                 {
                     "Author": "Samuel P. Benz",
@@ -2684,14 +2688,14 @@
                         }
                     ]
                 }
-            ],
-            "Year": "2014",
-            "Predominant Continent": [
-                "Europe"
             ]
         },
         {
             "Title": "Strong consistency in cache augmented SQL systems.",
+            "Year": "2014",
+            "Predominant Continent": [
+                "NA"
+            ],
             "Authors and Institutions": [
                 {
                     "Author": "Shahram Ghandeharizadeh",
@@ -2720,14 +2724,14 @@
                         }
                     ]
                 }
-            ],
-            "Year": "2014",
-            "Predominant Continent": [
-                "North America"
             ]
         },
         {
             "Title": "SOUP: an online social network by the people, for the people.",
+            "Year": "2014",
+            "Predominant Continent": [
+                "EU"
+            ],
             "Authors and Institutions": [
                 {
                     "Author": "David Köll",
@@ -2756,14 +2760,14 @@
                         }
                     ]
                 }
-            ],
-            "Year": "2014",
-            "Predominant Continent": [
-                "Europe"
             ]
         },
         {
             "Title": "SenSocial: a middleware for integrating online social networks and mobile sensing data streams.",
+            "Year": "2014",
+            "Predominant Continent": [
+                "EU"
+            ],
             "Authors and Institutions": [
                 {
                     "Author": "Anil K. Mehrotra",
@@ -2792,14 +2796,14 @@
                         }
                     ]
                 }
-            ],
-            "Year": "2014",
-            "Predominant Continent": [
-                "Europe"
             ]
         },
         {
             "Title": "PLEROMA: a SDN-based high performance publish/subscribe middleware.",
+            "Year": "2014",
+            "Predominant Continent": [
+                "EU"
+            ],
             "Authors and Institutions": [
                 {
                     "Author": "Muhammad Tariq",
@@ -2837,14 +2841,14 @@
                         }
                     ]
                 }
-            ],
-            "Year": "2014",
-            "Predominant Continent": [
-                "Europe"
             ]
         },
         {
             "Title": "CrowdWiFi: efficient crowdsensing of roadside WiFi networks.",
+            "Year": "2014",
+            "Predominant Continent": [
+                "NA"
+            ],
             "Authors and Institutions": [
                 {
                     "Author": "Di Wu",
@@ -2904,14 +2908,14 @@
                         }
                     ]
                 }
-            ],
-            "Year": "2014",
-            "Predominant Continent": [
-                "North America"
             ]
         },
         {
             "Title": "Publish/subscribe network designs for multiplayer games.",
+            "Year": "2014",
+            "Predominant Continent": [
+                "NA"
+            ],
             "Authors and Institutions": [
                 {
                     "Author": "César Cañas",
@@ -2958,14 +2962,14 @@
                         }
                     ]
                 }
-            ],
-            "Year": "2014",
-            "Predominant Continent": [
-                "North America"
             ]
         },
         {
             "Title": "Stage-aware anomaly detection through tracking log points.",
+            "Year": "2014",
+            "Predominant Continent": [
+                "NA"
+            ],
             "Authors and Institutions": [
                 {
                     "Author": "Shamsollah Ghanbari",
@@ -2994,14 +2998,14 @@
                         }
                     ]
                 }
-            ],
-            "Year": "2014",
-            "Predominant Continent": [
-                "North America"
             ]
         },
         {
             "Title": "Archie: a speculative replicated transactional system.",
+            "Year": "2014",
+            "Predominant Continent": [
+                "NA"
+            ],
             "Authors and Institutions": [
                 {
                     "Author": "Sachin Hirve",
@@ -3030,14 +3034,14 @@
                         }
                     ]
                 }
-            ],
-            "Year": "2014",
-            "Predominant Continent": [
-                "North America"
             ]
         },
         {
             "Title": "Mitigating interference in cloud services by middleware reconfiguration.",
+            "Year": "2014",
+            "Predominant Continent": [
+                "NA"
+            ],
             "Authors and Institutions": [
                 {
                     "Author": "Amiya K. Maji",
@@ -3084,14 +3088,14 @@
                         }
                     ]
                 }
-            ],
-            "Year": "2014",
-            "Predominant Continent": [
-                "North America"
             ]
         },
         {
             "Title": "CAMP: a cost adaptive multi-queue eviction policy for key-value stores.",
+            "Year": "2014",
+            "Predominant Continent": [
+                "NA"
+            ],
             "Authors and Institutions": [
                 {
                     "Author": "Shahram Ghandeharizadeh",
@@ -3129,14 +3133,14 @@
                         }
                     ]
                 }
-            ],
-            "Year": "2014",
-            "Predominant Continent": [
-                "North America"
             ]
         },
         {
             "Title": "Stay-Away, protecting sensitive applications from performance interference.",
+            "Year": "2014",
+            "Predominant Continent": [
+                "EU"
+            ],
             "Authors and Institutions": [
                 {
                     "Author": "Navaneeth Rameshan",
@@ -3174,14 +3178,14 @@
                         }
                     ]
                 }
-            ],
-            "Year": "2014",
-            "Predominant Continent": [
-                "Europe"
             ]
         },
         {
             "Title": "Virtual machine consolidation in the wild.",
+            "Year": "2014",
+            "Predominant Continent": [
+                "AS"
+            ],
             "Authors and Institutions": [
                 {
                     "Author": "Akshat Verma",
@@ -3205,16 +3209,16 @@
                     "Author": "Vimmi Jaiswal",
                     "Institutions": []
                 }
-            ],
-            "Year": "2014",
-            "Predominant Continent": [
-                "Asia"
             ]
         }
     ],
     "2015": [
         {
             "Title": "GraPS: A Graph Publish/Subscribe Middleware.",
+            "Year": "2015",
+            "Predominant Continent": [
+                "NA"
+            ],
             "Authors and Institutions": [
                 {
                     "Author": "César Cañas",
@@ -3261,14 +3265,14 @@
                         }
                     ]
                 }
-            ],
-            "Year": "2015",
-            "Predominant Continent": [
-                "North America"
             ]
         },
         {
             "Title": "MERC: Match at Edge and Route intra-Cluster for Content-based Publish/Subscribe Systems.",
+            "Year": "2015",
+            "Predominant Continent": [
+                "AS"
+            ],
             "Authors and Institutions": [
                 {
                     "Author": "Shuping Ji",
@@ -3310,14 +3314,14 @@
                         }
                     ]
                 }
-            ],
-            "Year": "2015",
-            "Predominant Continent": [
-                "Asia"
             ]
         },
         {
             "Title": "Efficient Key Updates through Subscription Re-encryption for Privacy-Preserving Publish/Subscribe.",
+            "Year": "2015",
+            "Predominant Continent": [
+                "EU"
+            ],
             "Authors and Institutions": [
                 {
                     "Author": "Emanuel Onica",
@@ -3355,14 +3359,14 @@
                         }
                     ]
                 }
-            ],
-            "Year": "2015",
-            "Predominant Continent": [
-                "Europe"
             ]
         },
         {
             "Title": "Quartz: A Lightweight Performance Emulator for Persistent Memory Software.",
+            "Year": "2015",
+            "Predominant Continent": [
+                "NA"
+            ],
             "Authors and Institutions": [
                 {
                     "Author": "Haris Volos",
@@ -3400,14 +3404,14 @@
                         }
                     ]
                 }
-            ],
-            "Year": "2015",
-            "Predominant Continent": [
-                "North America"
             ]
         },
         {
             "Title": "Pannier: A Container-based Flash Cache for Compound Objects.",
+            "Year": "2015",
+            "Predominant Continent": [
+                "NA"
+            ],
             "Authors and Institutions": [
                 {
                     "Author": "Cheng Li",
@@ -3445,14 +3449,14 @@
                         }
                     ]
                 }
-            ],
-            "Year": "2015",
-            "Predominant Continent": [
-                "North America"
             ]
         },
         {
             "Title": "Enabling Cost-Effective Flash based Caching with an Array of Commodity SSDs.",
+            "Year": "2015",
+            "Predominant Continent": [
+                "AS"
+            ],
             "Authors and Institutions": [
                 {
                     "Author": "Yongseok Oh",
@@ -3508,14 +3512,14 @@
                         }
                     ]
                 }
-            ],
-            "Year": "2015",
-            "Predominant Continent": [
-                "Asia"
             ]
         },
         {
             "Title": "Write Fast, Read in the Past: Causal Consistency for Client-Side Applications.",
+            "Year": "2015",
+            "Predominant Continent": [
+                "EU"
+            ],
             "Authors and Institutions": [
                 {
                     "Author": "Marek Zawirski",
@@ -3571,14 +3575,14 @@
                         }
                     ]
                 }
-            ],
-            "Year": "2015",
-            "Predominant Continent": [
-                "Europe"
             ]
         },
         {
             "Title": "Q-OPT: Self-tuning Quorum System for Strongly Consistent Software Defined Storage.",
+            "Year": "2015",
+            "Predominant Continent": [
+                "EU"
+            ],
             "Authors and Institutions": [
                 {
                     "Author": "Maria Couceiro",
@@ -3634,14 +3638,14 @@
                         }
                     ]
                 }
-            ],
-            "Year": "2015",
-            "Predominant Continent": [
-                "Europe"
             ]
         },
         {
             "Title": "EpTO: An Epidemic Total Order Algorithm for Large-Scale Distributed Systems.",
+            "Year": "2015",
+            "Predominant Continent": [
+                "EU"
+            ],
             "Authors and Institutions": [
                 {
                     "Author": "Miguel Matos",
@@ -3700,14 +3704,14 @@
                         }
                     ]
                 }
-            ],
-            "Year": "2015",
-            "Predominant Continent": [
-                "Europe"
             ]
         },
         {
             "Title": "Asynchronous Complete Garbage Collection for Graph Data Stores.",
+            "Year": "2015",
+            "Predominant Continent": [
+                "EU"
+            ],
             "Authors and Institutions": [
                 {
                     "Author": "Luís Veiga",
@@ -3736,14 +3740,14 @@
                         }
                     ]
                 }
-            ],
-            "Year": "2015",
-            "Predominant Continent": [
-                "Europe"
             ]
         },
         {
             "Title": "vRead: Efficient Data Access for Hadoop in Virtualized Clouds.",
+            "Year": "2015",
+            "Predominant Continent": [
+                "NA"
+            ],
             "Authors and Institutions": [
                 {
                     "Author": "Cong Xu",
@@ -3785,14 +3789,14 @@
                         }
                     ]
                 }
-            ],
-            "Year": "2015",
-            "Predominant Continent": [
-                "North America"
             ]
         },
         {
             "Title": "UniDrive: Synergize Multiple Consumer Cloud Storage Services.",
+            "Year": "2015",
+            "Predominant Continent": [
+                "AS"
+            ],
             "Authors and Institutions": [
                 {
                     "Author": "Haowen Tang",
@@ -3839,14 +3843,14 @@
                         }
                     ]
                 }
-            ],
-            "Year": "2015",
-            "Predominant Continent": [
-                "Asia"
             ]
         },
         {
             "Title": "R-Storm: Resource-Aware Scheduling in Storm.",
+            "Year": "2015",
+            "Predominant Continent": [
+                "NA"
+            ],
             "Authors and Institutions": [
                 {
                     "Author": "Boyang Peng",
@@ -3893,14 +3897,14 @@
                         }
                     ]
                 }
-            ],
-            "Year": "2015",
-            "Predominant Continent": [
-                "North America"
             ]
         },
         {
             "Title": "Parallel Programming in Actor-Based Applications via OpenCL.",
+            "Year": "2015",
+            "Predominant Continent": [
+                "EU"
+            ],
             "Authors and Institutions": [
                 {
                     "Author": "Paul Harvey",
@@ -3929,14 +3933,14 @@
                         }
                     ]
                 }
-            ],
-            "Year": "2015",
-            "Predominant Continent": [
-                "Europe"
             ]
         },
         {
             "Title": "Consensus-Oriented Parallelization: How to Earn Your First Million.",
+            "Year": "2015",
+            "Predominant Continent": [
+                "EU"
+            ],
             "Authors and Institutions": [
                 {
                     "Author": "Johannes Behl",
@@ -3960,14 +3964,14 @@
                         }
                     ]
                 }
-            ],
-            "Year": "2015",
-            "Predominant Continent": [
-                "Europe"
             ]
         },
         {
             "Title": "Turtle Consensus: Moving Target Defense for Consensus.",
+            "Year": "2015",
+            "Predominant Continent": [
+                "NA"
+            ],
             "Authors and Institutions": [
                 {
                     "Author": "Stavros Nikolaou",
@@ -3987,14 +3991,14 @@
                         }
                     ]
                 }
-            ],
-            "Year": "2015",
-            "Predominant Continent": [
-                "North America"
             ]
         },
         {
             "Title": "Speculative Memory Checkpointing.",
+            "Year": "2015",
+            "Predominant Continent": [
+                "EU"
+            ],
             "Authors and Institutions": [
                 {
                     "Author": "Dirk Vogt",
@@ -4050,14 +4054,14 @@
                         }
                     ]
                 }
-            ],
-            "Year": "2015",
-            "Predominant Continent": [
-                "Europe"
             ]
         },
         {
             "Title": "VeCycle: Recycling VM Checkpoints for Faster Migrations.",
+            "Year": "2015",
+            "Predominant Continent": [
+                "EU"
+            ],
             "Authors and Institutions": [
                 {
                     "Author": "Thomas Knauth",
@@ -4077,14 +4081,14 @@
                         }
                     ]
                 }
-            ],
-            "Year": "2015",
-            "Predominant Continent": [
-                "Europe"
             ]
         },
         {
             "Title": "Improving Preemptive Scheduling with Application-Transparent Checkpointing in Shared Clusters.",
+            "Year": "2015",
+            "Predominant Continent": [
+                "NA"
+            ],
             "Authors and Institutions": [
                 {
                     "Author": "Jack Li",
@@ -4131,14 +4135,15 @@
                         }
                     ]
                 }
-            ],
-            "Year": "2015",
-            "Predominant Continent": [
-                "North America"
             ]
         },
         {
             "Title": "Configuring Distributed Computations Using Response Surfaces.",
+            "Year": "2015",
+            "Predominant Continent": [
+                "EU",
+                "NA"
+            ],
             "Authors and Institutions": [
                 {
                     "Author": "Adem Efe Gencer",
@@ -4192,15 +4197,14 @@
                         }
                     ]
                 }
-            ],
-            "Year": "2015",
-            "Predominant Continent": [
-                "Europe",
-                "North America"
             ]
         },
         {
             "Title": "Scaling Out Link Prediction with SNAPLE: 1 Billion Edges and Beyond.",
+            "Year": "2015",
+            "Predominant Continent": [
+                "EU"
+            ],
             "Authors and Institutions": [
                 {
                     "Author": "Anne-Marie Kermarrec",
@@ -4233,14 +4237,14 @@
                         }
                     ]
                 }
-            ],
-            "Year": "2015",
-            "Predominant Continent": [
-                "Europe"
             ]
         },
         {
             "Title": "Managing the Energy-Delay Tradeoff in Mobile Applications with Tempus.",
+            "Year": "2015",
+            "Predominant Continent": [
+                "NA"
+            ],
             "Authors and Institutions": [
                 {
                     "Author": "Nima Nikzad",
@@ -4278,14 +4282,14 @@
                         }
                     ]
                 }
-            ],
-            "Year": "2015",
-            "Predominant Continent": [
-                "North America"
             ]
         },
         {
             "Title": "Zero-Cost, Fine-Grained Power Monitoring of Datacenters Using Non-Intrusive Power Disaggregation.",
+            "Year": "2015",
+            "Predominant Continent": [
+                "AS"
+            ],
             "Authors and Institutions": [
                 {
                     "Author": "Guoming Tang",
@@ -4332,16 +4336,16 @@
                         }
                     ]
                 }
-            ],
-            "Year": "2015",
-            "Predominant Continent": [
-                "Asia"
             ]
         }
     ],
     "2016": [
         {
             "Title": "Containers and Virtual Machines at Scale: A Comparative Study.",
+            "Year": "2016",
+            "Predominant Continent": [
+                "NA"
+            ],
             "Authors and Institutions": [
                 {
                     "Author": "Prateek Sharma",
@@ -4379,14 +4383,14 @@
                         }
                     ]
                 }
-            ],
-            "Year": "2016",
-            "Predominant Continent": [
-                "North America"
             ]
         },
         {
             "Title": "SDNFV: Flexible and Dynamic Software Defined Control of an Application- and Flow-Aware Data Plane.",
+            "Year": "2016",
+            "Predominant Continent": [
+                "NA"
+            ],
             "Authors and Institutions": [
                 {
                     "Author": "Wei Zhang",
@@ -4442,14 +4446,14 @@
                         }
                     ]
                 }
-            ],
-            "Year": "2016",
-            "Predominant Continent": [
-                "North America"
             ]
         },
         {
             "Title": "Unifying HDFS and GPFS: Enabling Analytics on Software-Defined Storage.",
+            "Year": "2016",
+            "Predominant Continent": [
+                "NA"
+            ],
             "Authors and Institutions": [
                 {
                     "Author": "Ramya Raghavendra",
@@ -4478,14 +4482,12 @@
                         }
                     ]
                 }
-            ],
-            "Year": "2016",
-            "Predominant Continent": [
-                "North America"
             ]
         },
         {
             "Title": "Locality-Aware Routing in Stateful Streaming Applications.",
+            "Year": "2016",
+            "Predominant Continent": [],
             "Authors and Institutions": [
                 {
                     "Author": "Matthieu Caneill",
@@ -4503,12 +4505,14 @@
                     "Author": "Noël De Palma",
                     "Institutions": []
                 }
-            ],
-            "Year": "2016",
-            "Predominant Continent": []
+            ]
         },
         {
             "Title": "ALMA: GC-assisted JVM Live Migration for Java Server Applications.",
+            "Year": "2016",
+            "Predominant Continent": [
+                "EU"
+            ],
             "Authors and Institutions": [
                 {
                     "Author": "Rodrigo Bruno",
@@ -4528,14 +4532,14 @@
                         }
                     ]
                 }
-            ],
-            "Year": "2016",
-            "Predominant Continent": [
-                "Europe"
             ]
         },
         {
             "Title": "Mitigating performance unpredictability in the IaaS using the Kyoto principle.",
+            "Year": "2016",
+            "Predominant Continent": [
+                "EU"
+            ],
             "Authors and Institutions": [
                 {
                     "Author": "Alain Tchana",
@@ -4582,14 +4586,14 @@
                         }
                     ]
                 }
-            ],
-            "Year": "2016",
-            "Predominant Continent": [
-                "Europe"
             ]
         },
         {
             "Title": "AdaptCache: Adaptive Data Partitioning and Migration for Distributed Object Caches.",
+            "Year": "2016",
+            "Predominant Continent": [
+                "NA"
+            ],
             "Authors and Institutions": [
                 {
                     "Author": "Omar Asad",
@@ -4609,14 +4613,14 @@
                         }
                     ]
                 }
-            ],
-            "Year": "2016",
-            "Predominant Continent": [
-                "North America"
             ]
         },
         {
             "Title": "NetAlytics: Cloud-Scale Application Performance Monitoring with SDN and NFV.",
+            "Year": "2016",
+            "Predominant Continent": [
+                "NA"
+            ],
             "Authors and Institutions": [
                 {
                     "Author": "Guyue Liu",
@@ -4654,14 +4658,14 @@
                         }
                     ]
                 }
-            ],
-            "Year": "2016",
-            "Predominant Continent": [
-                "North America"
             ]
         },
         {
             "Title": "BrowserFlow: Imprecise Data Flow Tracking to Prevent Accidental Data Disclosure.",
+            "Year": "2016",
+            "Predominant Continent": [
+                "EU"
+            ],
             "Authors and Institutions": [
                 {
                     "Author": "Ioannis Papagiannis",
@@ -4699,14 +4703,14 @@
                         }
                     ]
                 }
-            ],
-            "Year": "2016",
-            "Predominant Continent": [
-                "Europe"
             ]
         },
         {
             "Title": "Secure Content-Based Routing Using Intel Software Guard Extensions.",
+            "Year": "2016",
+            "Predominant Continent": [
+                "EU"
+            ],
             "Authors and Institutions": [
                 {
                     "Author": "Rafael Pires",
@@ -4744,14 +4748,14 @@
                         }
                     ]
                 }
-            ],
-            "Year": "2016",
-            "Predominant Continent": [
-                "Europe"
             ]
         },
         {
             "Title": "Online Scheduling for Shuffle Grouping in Distributed Stream Processing Systems.",
+            "Year": "2016",
+            "Predominant Continent": [
+                "EU"
+            ],
             "Authors and Institutions": [
                 {
                     "Author": "Nicoló Rivetti",
@@ -4783,14 +4787,14 @@
                     "Author": "Bruno Sericola",
                     "Institutions": []
                 }
-            ],
-            "Year": "2016",
-            "Predominant Continent": [
-                "Europe"
             ]
         },
         {
             "Title": "Bifrost: Supporting Continuous Deployment with Automated Enactment of Multi-Phase Live Testing Strategies.",
+            "Year": "2016",
+            "Predominant Continent": [
+                "EU"
+            ],
             "Authors and Institutions": [
                 {
                     "Author": "Gerald Schermann",
@@ -4828,14 +4832,14 @@
                         }
                     ]
                 }
-            ],
-            "Year": "2016",
-            "Predominant Continent": [
-                "Europe"
             ]
         },
         {
             "Title": "Big ideas paper: Policy-driven middleware for a legally-compliant Internet of Things.",
+            "Year": "2016",
+            "Predominant Continent": [
+                "EU"
+            ],
             "Authors and Institutions": [
                 {
                     "Author": "Jatinder Singh",
@@ -4891,14 +4895,14 @@
                         }
                     ]
                 }
-            ],
-            "Year": "2016",
-            "Predominant Continent": [
-                "Europe"
             ]
         },
         {
             "Title": "SecureKeeper: Confidential ZooKeeper using Intel SGX.",
+            "Year": "2016",
+            "Predominant Continent": [
+                "EU"
+            ],
             "Authors and Institutions": [
                 {
                     "Author": "Stefan Brenner",
@@ -4972,14 +4976,12 @@
                         }
                     ]
                 }
-            ],
-            "Year": "2016",
-            "Predominant Continent": [
-                "Europe"
             ]
         },
         {
             "Title": "Geo-Distribution of Flexible Business Processes over Publish/Subscribe Paradigm.",
+            "Year": "2016",
+            "Predominant Continent": [],
             "Authors and Institutions": [
                 {
                     "Author": "Martin Jergler",
@@ -4993,12 +4995,14 @@
                     "Author": "Hans‐Arno Jacobsen",
                     "Institutions": []
                 }
-            ],
-            "Year": "2016",
-            "Predominant Continent": []
+            ]
         },
         {
             "Title": "Programming Scalable Cloud Services with AEON.",
+            "Year": "2016",
+            "Predominant Continent": [
+                "NA"
+            ],
             "Authors and Institutions": [
                 {
                     "Author": "Bo Sang",
@@ -5049,14 +5053,12 @@
                         }
                     ]
                 }
-            ],
-            "Year": "2016",
-            "Predominant Continent": [
-                "North America"
             ]
         },
         {
             "Title": "Dos and Don'ts in Mobile Phone Sensing Middleware: Learning from a Large-Scale Experiment.",
+            "Year": "2016",
+            "Predominant Continent": [],
             "Authors and Institutions": [
                 {
                     "Author": "Valérie Issarny",
@@ -5082,12 +5084,14 @@
                     "Author": "Raphaël Ventura",
                     "Institutions": []
                 }
-            ],
-            "Year": "2016",
-            "Predominant Continent": []
+            ]
         },
         {
             "Title": "Orion: A Framework for GPU Occupancy Tuning.",
+            "Year": "2016",
+            "Predominant Continent": [
+                "NA"
+            ],
             "Authors and Institutions": [
                 {
                     "Author": "Ari B. Hayes",
@@ -5134,14 +5138,14 @@
                         }
                     ]
                 }
-            ],
-            "Year": "2016",
-            "Predominant Continent": [
-                "North America"
             ]
         },
         {
             "Title": "Atum: Scalable Group Communication Using Volatile Groups.",
+            "Year": "2016",
+            "Predominant Continent": [
+                "EU"
+            ],
             "Authors and Institutions": [
                 {
                     "Author": "Rachid Guerraoui",
@@ -5179,14 +5183,14 @@
                         }
                     ]
                 }
-            ],
-            "Year": "2016",
-            "Predominant Continent": [
-                "Europe"
             ]
         },
         {
             "Title": "Locking Made Easy.",
+            "Year": "2016",
+            "Predominant Continent": [
+                "EU"
+            ],
             "Authors and Institutions": [
                 {
                     "Author": "Jelena Antić",
@@ -5228,14 +5232,14 @@
                         }
                     ]
                 }
-            ],
-            "Year": "2016",
-            "Predominant Continent": [
-                "Europe"
             ]
         },
         {
             "Title": "Dynamic Load Balancing for Ordered Data-Parallel Regions in Distributed Streaming Systems.",
+            "Year": "2016",
+            "Predominant Continent": [
+                "NA"
+            ],
             "Authors and Institutions": [
                 {
                     "Author": "Scott Schneider",
@@ -5282,16 +5286,16 @@
                         }
                     ]
                 }
-            ],
-            "Year": "2016",
-            "Predominant Continent": [
-                "North America"
             ]
         }
     ],
     "2017": [
         {
             "Title": "HyperDrive: exploring hyperparameters with POP scheduling.",
+            "Year": "2017",
+            "Predominant Continent": [
+                "NA"
+            ],
             "Authors and Institutions": [
                 {
                     "Author": "Jeff Rasley",
@@ -5338,14 +5342,14 @@
                         }
                     ]
                 }
-            ],
-            "Year": "2017",
-            "Predominant Continent": [
-                "North America"
             ]
         },
         {
             "Title": "Sieve: actionable insights from monitored metrics in distributed systems.",
+            "Year": "2017",
+            "Predominant Continent": [
+                "EU"
+            ],
             "Authors and Institutions": [
                 {
                     "Author": "Jörg Thalheim",
@@ -5414,14 +5418,14 @@
                         }
                     ]
                 }
-            ],
-            "Year": "2017",
-            "Predominant Continent": [
-                "Europe"
             ]
         },
         {
             "Title": "Rafiki: a middleware for parameter tuning of NoSQL datastores for dynamic metagenomics workloads.",
+            "Year": "2017",
+            "Predominant Continent": [
+                "NA"
+            ],
             "Authors and Institutions": [
                 {
                     "Author": "Ashraf Mahgoub",
@@ -5513,14 +5517,14 @@
                         }
                     ]
                 }
-            ],
-            "Year": "2017",
-            "Predominant Continent": [
-                "North America"
             ]
         },
         {
             "Title": "Rivulet: a fault-tolerant platform for smart-home applications.",
+            "Year": "2017",
+            "Predominant Continent": [
+                "NA"
+            ],
             "Authors and Institutions": [
                 {
                     "Author": "Masoud Saeida Ardekani",
@@ -5575,14 +5579,14 @@
                         }
                     ]
                 }
-            ],
-            "Year": "2017",
-            "Predominant Continent": [
-                "North America"
             ]
         },
         {
             "Title": "Binary compatible graphics support in Android for running iOS apps.",
+            "Year": "2017",
+            "Predominant Continent": [
+                "NA"
+            ],
             "Authors and Institutions": [
                 {
                     "Author": "Jeremy Andrus",
@@ -5611,14 +5615,14 @@
                         }
                     ]
                 }
-            ],
-            "Year": "2017",
-            "Predominant Continent": [
-                "North America"
             ]
         },
         {
             "Title": "Sense-aid: a framework for enabling network as a service for participatory sensing.",
+            "Year": "2017",
+            "Predominant Continent": [
+                "NA"
+            ],
             "Authors and Institutions": [
                 {
                     "Author": "Heng Zhang",
@@ -5665,14 +5669,12 @@
                         }
                     ]
                 }
-            ],
-            "Year": "2017",
-            "Predominant Continent": [
-                "North America"
             ]
         },
         {
             "Title": "ORCA: an ORChestration automata for configuring VNFs.",
+            "Year": "2017",
+            "Predominant Continent": [],
             "Authors and Institutions": [
                 {
                     "Author": "Jesús Omaña Iglesias",
@@ -5690,12 +5692,14 @@
                     "Author": "Diego Lugones",
                     "Institutions": []
                 }
-            ],
-            "Year": "2017",
-            "Predominant Continent": []
+            ]
         },
         {
             "Title": "Improving spark application throughput via memory aware task co-location: a mixture of experts approach.",
+            "Year": "2017",
+            "Predominant Continent": [
+                "EU"
+            ],
             "Authors and Institutions": [
                 {
                     "Author": "Vicent Sanz Marco",
@@ -5733,14 +5737,14 @@
                         }
                     ]
                 }
-            ],
-            "Year": "2017",
-            "Predominant Continent": [
-                "Europe"
             ]
         },
         {
             "Title": "Swayam: distributed autoscaling to meet SLAs of machine learning inference services with resource efficiency.",
+            "Year": "2017",
+            "Predominant Continent": [
+                "EU"
+            ],
             "Authors and Institutions": [
                 {
                     "Author": "Arpan Gujarati",
@@ -5777,14 +5781,14 @@
                         }
                     ]
                 }
-            ],
-            "Year": "2017",
-            "Predominant Continent": [
-                "Europe"
             ]
         },
         {
             "Title": "Data-driven serverless functions for object storage.",
+            "Year": "2017",
+            "Predominant Continent": [
+                "EU"
+            ],
             "Authors and Institutions": [
                 {
                     "Author": "Josep Sampé",
@@ -5822,14 +5826,14 @@
                         }
                     ]
                 }
-            ],
-            "Year": "2017",
-            "Predominant Continent": [
-                "Europe"
             ]
         },
         {
             "Title": "A programming model for application-defined multipath TCP scheduling.",
+            "Year": "2017",
+            "Predominant Continent": [
+                "EU"
+            ],
             "Authors and Institutions": [
                 {
                     "Author": "Alexander Frömmgen",
@@ -5894,14 +5898,14 @@
                         }
                     ]
                 }
-            ],
-            "Year": "2017",
-            "Predominant Continent": [
-                "Europe"
             ]
         },
         {
             "Title": "POLM2: automatic profiling for object lifetime-aware memory management for hotspot big data applications.",
+            "Year": "2017",
+            "Predominant Continent": [
+                "EU"
+            ],
             "Authors and Institutions": [
                 {
                     "Author": "Rodrigo Bruno",
@@ -5921,14 +5925,14 @@
                         }
                     ]
                 }
-            ],
-            "Year": "2017",
-            "Predominant Continent": [
-                "Europe"
             ]
         },
         {
             "Title": "SPECTRE: supporting consumption policies in window-based parallel complex event processing.",
+            "Year": "2017",
+            "Predominant Continent": [
+                "EU"
+            ],
             "Authors and Institutions": [
                 {
                     "Author": "Ruben Mayer",
@@ -5984,14 +5988,14 @@
                         }
                     ]
                 }
-            ],
-            "Year": "2017",
-            "Predominant Continent": [
-                "Europe"
             ]
         },
         {
             "Title": "Efficient covering for top-k filtering in content-based publish/subscribe systems.",
+            "Year": "2017",
+            "Predominant Continent": [
+                "NA"
+            ],
             "Authors and Institutions": [
                 {
                     "Author": "Kaiwen Zhang",
@@ -6023,14 +6027,14 @@
                     "Author": "Hans‐Arno Jacobsen",
                     "Institutions": []
                 }
-            ],
-            "Year": "2017",
-            "Predominant Continent": [
-                "North America"
             ]
         },
         {
             "Title": "StreamApprox: approximate computing for stream analytics.",
+            "Year": "2017",
+            "Predominant Continent": [
+                "EU"
+            ],
             "Authors and Institutions": [
                 {
                     "Author": "Do Le Quoc",
@@ -6080,14 +6084,14 @@
                         }
                     ]
                 }
-            ],
-            "Year": "2017",
-            "Predominant Continent": [
-                "Europe"
             ]
         },
         {
             "Title": "X-search: revisiting private web search using intel SGX.",
+            "Year": "2017",
+            "Predominant Continent": [
+                "EU"
+            ],
             "Authors and Institutions": [
                 {
                     "Author": "Sonia Ben Mokhtar",
@@ -6138,14 +6142,14 @@
                         }
                     ]
                 }
-            ],
-            "Year": "2017",
-            "Predominant Continent": [
-                "Europe"
             ]
         },
         {
             "Title": "Rectify: black-box intrusion recovery in PaaS clouds.",
+            "Year": "2017",
+            "Predominant Continent": [
+                "EU"
+            ],
             "Authors and Institutions": [
                 {
                     "Author": "David R. Matos",
@@ -6186,14 +6190,14 @@
                         }
                     ]
                 }
-            ],
-            "Year": "2017",
-            "Predominant Continent": [
-                "Europe"
             ]
         },
         {
             "Title": "Scheduler activations for interference-resilient SMP virtual machine scheduling.",
+            "Year": "2017",
+            "Predominant Continent": [
+                "NA"
+            ],
             "Authors and Institutions": [
                 {
                     "Author": "Yong Zhao",
@@ -6231,14 +6235,14 @@
                         }
                     ]
                 }
-            ],
-            "Year": "2017",
-            "Predominant Continent": [
-                "North America"
             ]
         },
         {
             "Title": "DoubleDecker: a cooperative disk caching framework for derivative clouds.",
+            "Year": "2017",
+            "Predominant Continent": [
+                "AS"
+            ],
             "Authors and Institutions": [
                 {
                     "Author": "Dillip Kumar Mishra",
@@ -6267,14 +6271,14 @@
                         }
                     ]
                 }
-            ],
-            "Year": "2017",
-            "Predominant Continent": [
-                "Asia"
             ]
         },
         {
             "Title": "Ginja: one-dollar cloud-based disaster recovery for databases.",
+            "Year": "2017",
+            "Predominant Continent": [
+                "EU"
+            ],
             "Authors and Institutions": [
                 {
                     "Author": "Joel Melão Alcântara",
@@ -6315,16 +6319,16 @@
                         }
                     ]
                 }
-            ],
-            "Year": "2017",
-            "Predominant Continent": [
-                "Europe"
             ]
         }
     ],
     "2018": [
         {
             "Title": "All-Spark: Using Simulation Tests Directly in Production Environments to Detect System Bottlenecks in Large-Scale Systems.",
+            "Year": "2018",
+            "Predominant Continent": [
+                "AS"
+            ],
             "Authors and Institutions": [
                 {
                     "Author": "Jialiang Lin",
@@ -6371,14 +6375,14 @@
                         }
                     ]
                 }
-            ],
-            "Year": "2018",
-            "Predominant Continent": [
-                "Asia"
             ]
         },
         {
             "Title": "QueCC: A Queue-oriented, Control-free Concurrency Architecture.",
+            "Year": "2018",
+            "Predominant Continent": [
+                "NA"
+            ],
             "Authors and Institutions": [
                 {
                     "Author": "Thamir M. Qadah",
@@ -6398,14 +6402,14 @@
                         }
                     ]
                 }
-            ],
-            "Year": "2018",
-            "Predominant Continent": [
-                "North America"
             ]
         },
         {
             "Title": "Size Matters: Improving the Performance of Small Files in Hadoop.",
+            "Year": "2018",
+            "Predominant Continent": [
+                "EU"
+            ],
             "Authors and Institutions": [
                 {
                     "Author": "Salman Niazi",
@@ -6443,14 +6447,14 @@
                         }
                     ]
                 }
-            ],
-            "Year": "2018",
-            "Predominant Continent": [
-                "Europe"
             ]
         },
         {
             "Title": "CRIMES: Using Evidence to Secure the Cloud.",
+            "Year": "2018",
+            "Predominant Continent": [
+                "NA"
+            ],
             "Authors and Institutions": [
                 {
                     "Author": "Sundaresan Rajasekaran",
@@ -6506,14 +6510,14 @@
                         }
                     ]
                 }
-            ],
-            "Year": "2018",
-            "Predominant Continent": [
-                "North America"
             ]
         },
         {
             "Title": "Olympian: Scheduling GPU Usage in a Deep Neural Network Model Serving System.",
+            "Year": "2018",
+            "Predominant Continent": [
+                "NA"
+            ],
             "Authors and Institutions": [
                 {
                     "Author": "Yixuan Hu",
@@ -6549,14 +6553,14 @@
                         }
                     ]
                 }
-            ],
-            "Year": "2018",
-            "Predominant Continent": [
-                "North America"
             ]
         },
         {
             "Title": "SpinStreams: a Static Optimization Tool for Data Stream Processing Applications.",
+            "Year": "2018",
+            "Predominant Continent": [
+                "EU"
+            ],
             "Authors and Institutions": [
                 {
                     "Author": "Gabriele Mencagli",
@@ -6585,14 +6589,14 @@
                         }
                     ]
                 }
-            ],
-            "Year": "2018",
-            "Predominant Continent": [
-                "Europe"
             ]
         },
         {
             "Title": "SPADE: Tuning scale-out OLTP on modern RDMA clusters.",
+            "Year": "2018",
+            "Predominant Continent": [
+                "EU"
+            ],
             "Authors and Institutions": [
                 {
                     "Author": "Georgios Chatzopoulos",
@@ -6611,14 +6615,14 @@
                     "Author": "Rachid Guerraoui",
                     "Institutions": []
                 }
-            ],
-            "Year": "2018",
-            "Predominant Continent": [
-                "Europe"
             ]
         },
         {
             "Title": "Adaptive Software Cache Management.",
+            "Year": "2018",
+            "Predominant Continent": [
+                "EU"
+            ],
             "Authors and Institutions": [
                 {
                     "Author": "Gil Einziger",
@@ -6641,14 +6645,14 @@
                     "Author": "Ben Manes",
                     "Institutions": []
                 }
-            ],
-            "Year": "2018",
-            "Predominant Continent": [
-                "Europe"
             ]
         },
         {
             "Title": "RockFS: Cloud-backed File System Resilience to Client-Side Attacks.",
+            "Year": "2018",
+            "Predominant Continent": [
+                "EU"
+            ],
             "Authors and Institutions": [
                 {
                     "Author": "David R. Matos",
@@ -6698,14 +6702,14 @@
                         }
                     ]
                 }
-            ],
-            "Year": "2018",
-            "Predominant Continent": [
-                "Europe"
             ]
         },
         {
             "Title": "Distributed transactional reads: the strong, the quick, the fresh & the impossible.",
+            "Year": "2018",
+            "Predominant Continent": [
+                "EU"
+            ],
             "Authors and Institutions": [
                 {
                     "Author": "Alejandro Z. Tomsic",
@@ -6734,14 +6738,14 @@
                         }
                     ]
                 }
-            ],
-            "Year": "2018",
-            "Predominant Continent": [
-                "Europe"
             ]
         },
         {
             "Title": "Gemini: A Distributed Crash Recovery Protocol for Persistent Caches.",
+            "Year": "2018",
+            "Predominant Continent": [
+                "NA"
+            ],
             "Authors and Institutions": [
                 {
                     "Author": "Shahram Ghandeharizadeh",
@@ -6761,14 +6765,14 @@
                         }
                     ]
                 }
-            ],
-            "Year": "2018",
-            "Predominant Continent": [
-                "North America"
             ]
         },
         {
             "Title": "Pythia: Improving Datacenter Utilization via Precise Contention Prediction for Multiple Co-located Workloads.",
+            "Year": "2018",
+            "Predominant Continent": [
+                "NA"
+            ],
             "Authors and Institutions": [
                 {
                     "Author": "Ran Xu",
@@ -6833,14 +6837,14 @@
                         }
                     ]
                 }
-            ],
-            "Year": "2018",
-            "Predominant Continent": [
-                "North America"
             ]
         },
         {
             "Title": "Omni: An Application Framework for Seamless Device-to-Device Interaction in the Wild.",
+            "Year": "2018",
+            "Predominant Continent": [
+                "NA"
+            ],
             "Authors and Institutions": [
                 {
                     "Author": "Tomasz Kalbarczyk",
@@ -6860,14 +6864,14 @@
                         }
                     ]
                 }
-            ],
-            "Year": "2018",
-            "Predominant Continent": [
-                "North America"
             ]
         },
         {
             "Title": "PreDict: Predictive Dictionary Maintenance for Message Compression in Publish/Subscribe.",
+            "Year": "2018",
+            "Predominant Continent": [
+                "EU"
+            ],
             "Authors and Institutions": [
                 {
                     "Author": "Christoph Doblander",
@@ -6896,14 +6900,14 @@
                         }
                     ]
                 }
-            ],
-            "Year": "2018",
-            "Predominant Continent": [
-                "Europe"
             ]
         },
         {
             "Title": "EActors: Fast and flexible trusted computing using SGX.",
+            "Year": "2018",
+            "Predominant Continent": [
+                "EU"
+            ],
             "Authors and Institutions": [
                 {
                     "Author": "Vasily A. Sartakov",
@@ -6953,14 +6957,14 @@
                         }
                     ]
                 }
-            ],
-            "Year": "2018",
-            "Predominant Continent": [
-                "Europe"
             ]
         },
         {
             "Title": "sgx-perf: A Performance Analysis Tool for Intel SGX Enclaves.",
+            "Year": "2018",
+            "Predominant Continent": [
+                "EU"
+            ],
             "Authors and Institutions": [
                 {
                     "Author": "Nico Weichbrodt",
@@ -6989,14 +6993,14 @@
                         }
                     ]
                 }
-            ],
-            "Year": "2018",
-            "Predominant Continent": [
-                "Europe"
             ]
         },
         {
             "Title": "Speculative Read Write Locks.",
+            "Year": "2018",
+            "Predominant Continent": [
+                "EU"
+            ],
             "Authors and Institutions": [
                 {
                     "Author": "Shady Issa",
@@ -7037,14 +7041,14 @@
                         }
                     ]
                 }
-            ],
-            "Year": "2018",
-            "Predominant Continent": [
-                "Europe"
             ]
         },
         {
             "Title": "GeneaLog: Fine-Grained Data Streaming Provenance at the Edge.",
+            "Year": "2018",
+            "Predominant Continent": [
+                "EU"
+            ],
             "Authors and Institutions": [
                 {
                     "Author": "Dimitris Palyvos-Giannas",
@@ -7073,14 +7077,14 @@
                         }
                     ]
                 }
-            ],
-            "Year": "2018",
-            "Predominant Continent": [
-                "Europe"
             ]
         },
         {
             "Title": "Adaptive Execution of Continuous and Data-intensive Workflows with Machine Learning.",
+            "Year": "2018",
+            "Predominant Continent": [
+                "EU"
+            ],
             "Authors and Institutions": [
                 {
                     "Author": "S. N. Esteves",
@@ -7109,14 +7113,14 @@
                         }
                     ]
                 }
-            ],
-            "Year": "2018",
-            "Predominant Continent": [
-                "Europe"
             ]
         },
         {
             "Title": "Aggressive Synchronization with Partial Processing for Iterative ML Jobs on Clusters.",
+            "Year": "2018",
+            "Predominant Continent": [
+                "NA"
+            ],
             "Authors and Institutions": [
                 {
                     "Author": "Shaoqi Wang",
@@ -7154,14 +7158,14 @@
                         }
                     ]
                 }
-            ],
-            "Year": "2018",
-            "Predominant Continent": [
-                "North America"
             ]
         },
         {
             "Title": "SpecRPC: A General Framework for Performing Speculative Remote Procedure Calls.",
+            "Year": "2018",
+            "Predominant Continent": [
+                "NA"
+            ],
             "Authors and Institutions": [
                 {
                     "Author": "Xinan Yan",
@@ -7226,14 +7230,14 @@
                         }
                     ]
                 }
-            ],
-            "Year": "2018",
-            "Predominant Continent": [
-                "North America"
             ]
         },
         {
             "Title": "FireDeX: a Prioritized IoT Data Exchange Middleware for Emergency Response.",
+            "Year": "2018",
+            "Predominant Continent": [
+                "NA"
+            ],
             "Authors and Institutions": [
                 {
                     "Author": "Kyle Benson",
@@ -7298,16 +7302,16 @@
                         }
                     ]
                 }
-            ],
-            "Year": "2018",
-            "Predominant Continent": [
-                "North America"
             ]
         }
     ],
     "2019": [
         {
             "Title": "SlimGuard: A Secure and Memory-Efficient Heap Allocator.",
+            "Year": "2019",
+            "Predominant Continent": [
+                "NA"
+            ],
             "Authors and Institutions": [
                 {
                     "Author": "Beichen Liu",
@@ -7336,14 +7340,14 @@
                         }
                     ]
                 }
-            ],
-            "Year": "2019",
-            "Predominant Continent": [
-                "North America"
             ]
         },
         {
             "Title": "EnclaveCache: A Secure and Scalable Key-value Cache in Multi-tenant Clouds using Intel SGX.",
+            "Year": "2019",
+            "Predominant Continent": [
+                "AS"
+            ],
             "Authors and Institutions": [
                 {
                     "Author": "Lixia Chen",
@@ -7390,14 +7394,14 @@
                         }
                     ]
                 }
-            ],
-            "Year": "2019",
-            "Predominant Continent": [
-                "Asia"
             ]
         },
         {
             "Title": "OS-Augmented Oversubscription of Opportunistic Memory with a User-Assisted OOM Killer.",
+            "Year": "2019",
+            "Predominant Continent": [
+                "NA"
+            ],
             "Authors and Institutions": [
                 {
                     "Author": "Wei Chen",
@@ -7435,14 +7439,14 @@
                         }
                     ]
                 }
-            ],
-            "Year": "2019",
-            "Predominant Continent": [
-                "North America"
             ]
         },
         {
             "Title": "On the FaaS Track: Building Stateful Distributed Applications with Serverless Architectures.",
+            "Year": "2019",
+            "Predominant Continent": [
+                "EU"
+            ],
             "Authors and Institutions": [
                 {
                     "Author": "Daniel Barcelona-Pons",
@@ -7493,14 +7497,14 @@
                         }
                     ]
                 }
-            ],
-            "Year": "2019",
-            "Predominant Continent": [
-                "Europe"
             ]
         },
         {
             "Title": "Generalized Consensus for Practical Fault Tolerance.",
+            "Year": "2019",
+            "Predominant Continent": [
+                "NA"
+            ],
             "Authors and Institutions": [
                 {
                     "Author": "Mohit Garg",
@@ -7538,14 +7542,14 @@
                         }
                     ]
                 }
-            ],
-            "Year": "2019",
-            "Predominant Continent": [
-                "North America"
             ]
         },
         {
             "Title": "Scalable Data-structures with Hierarchical, Distributed Delegation.",
+            "Year": "2019",
+            "Predominant Continent": [
+                "NA"
+            ],
             "Authors and Institutions": [
                 {
                     "Author": "Yuxin Ren",
@@ -7565,14 +7569,14 @@
                         }
                     ]
                 }
-            ],
-            "Year": "2019",
-            "Predominant Continent": [
-                "North America"
             ]
         },
         {
             "Title": "FfDL: A Flexible Multi-tenant Deep Learning Platform.",
+            "Year": "2019",
+            "Predominant Continent": [
+                "NA"
+            ],
             "Authors and Institutions": [
                 {
                     "Author": "K. R. Jayaram",
@@ -7682,14 +7686,15 @@
                         }
                     ]
                 }
-            ],
-            "Year": "2019",
-            "Predominant Continent": [
-                "North America"
             ]
         },
         {
             "Title": "Pando: Personal Volunteer Computing in Browsers.",
+            "Year": "2019",
+            "Predominant Continent": [
+                "NA",
+                "EU"
+            ],
             "Authors and Institutions": [
                 {
                     "Author": "Erick Lavoie",
@@ -7727,15 +7732,14 @@
                         }
                     ]
                 }
-            ],
-            "Year": "2019",
-            "Predominant Continent": [
-                "North America",
-                "Europe"
             ]
         },
         {
             "Title": "FabricCRDT: A Conflict-Free Replicated Datatypes Approach to Permissioned Blockchains.",
+            "Year": "2019",
+            "Predominant Continent": [
+                "EU"
+            ],
             "Authors and Institutions": [
                 {
                     "Author": "Pezhman Nasirifard",
@@ -7764,14 +7768,14 @@
                         }
                     ]
                 }
-            ],
-            "Year": "2019",
-            "Predominant Continent": [
-                "Europe"
             ]
         },
         {
             "Title": "AccTEE: A WebAssembly-based Two-way Sandbox for Trusted Resource Accounting.",
+            "Year": "2019",
+            "Predominant Continent": [
+                "EU"
+            ],
             "Authors and Institutions": [
                 {
                     "Author": "David Goltzsche",
@@ -7809,14 +7813,14 @@
                         }
                     ]
                 }
-            ],
-            "Year": "2019",
-            "Predominant Continent": [
-                "Europe"
             ]
         },
         {
             "Title": "MooD: MObility Data Privacy as Orphan Disease: Experimentation and Deployment Paper.",
+            "Year": "2019",
+            "Predominant Continent": [
+                "EU"
+            ],
             "Authors and Institutions": [
                 {
                     "Author": "Besma Khalfoun",
@@ -7906,14 +7910,14 @@
                         }
                     ]
                 }
-            ],
-            "Year": "2019",
-            "Predominant Continent": [
-                "Europe"
             ]
         },
         {
             "Title": "Monitorless: Predicting Performance Degradation in Cloud Applications with Machine Learning.",
+            "Year": "2019",
+            "Predominant Continent": [
+                "EU"
+            ],
             "Authors and Institutions": [
                 {
                     "Author": "Johannes Grohmann",
@@ -7960,14 +7964,14 @@
                         }
                     ]
                 }
-            ],
-            "Year": "2019",
-            "Predominant Continent": [
-                "Europe"
             ]
         },
         {
             "Title": "Automating Multi-level Performance Elastic Components for IBM Streams.",
+            "Year": "2019",
+            "Predominant Continent": [
+                "NA"
+            ],
             "Authors and Institutions": [
                 {
                     "Author": "Xiang Ni",
@@ -7994,14 +7998,14 @@
                     "Author": "Kun‐Lung Wu",
                     "Institutions": []
                 }
-            ],
-            "Year": "2019",
-            "Predominant Continent": [
-                "North America"
             ]
         },
         {
             "Title": "Self-adaptive Executors for Big Data Processing.",
+            "Year": "2019",
+            "Predominant Continent": [
+                "EU"
+            ],
             "Authors and Institutions": [
                 {
                     "Author": "Sobhan Omranian Khorasani",
@@ -8030,14 +8034,14 @@
                         }
                     ]
                 }
-            ],
-            "Year": "2019",
-            "Predominant Continent": [
-                "Europe"
             ]
         },
         {
             "Title": "PrivaTube: Privacy-Preserving Edge-Assisted Video Streaming.",
+            "Year": "2019",
+            "Predominant Continent": [
+                "EU"
+            ],
             "Authors and Institutions": [
                 {
                     "Author": "Simon Da Silva",
@@ -8100,14 +8104,14 @@
                         }
                     ]
                 }
-            ],
-            "Year": "2019",
-            "Predominant Continent": [
-                "Europe"
             ]
         },
         {
             "Title": "Differential Approximation and Sprinting for Multi-Priority Big Data Engines.",
+            "Year": "2019",
+            "Predominant Continent": [
+                "EU"
+            ],
             "Authors and Institutions": [
                 {
                     "Author": "Robert Birke",
@@ -8163,14 +8167,14 @@
                         }
                     ]
                 }
-            ],
-            "Year": "2019",
-            "Predominant Continent": [
-                "Europe"
             ]
         },
         {
             "Title": "eSPICE: Probabilistic Load Shedding from Input Event Streams in Complex Event Processing.",
+            "Year": "2019",
+            "Predominant Continent": [
+                "EU"
+            ],
             "Authors and Institutions": [
                 {
                     "Author": "Ahmad Slo",
@@ -8199,14 +8203,14 @@
                         }
                     ]
                 }
-            ],
-            "Year": "2019",
-            "Predominant Continent": [
-                "Europe"
             ]
         },
         {
             "Title": "Boosting concurrency in Parallel State Machine Replication.",
+            "Year": "2019",
+            "Predominant Continent": [
+                "SA"
+            ],
             "Authors and Institutions": [
                 {
                     "Author": "Ian Aragon Escobar",
@@ -8244,14 +8248,14 @@
                         }
                     ]
                 }
-            ],
-            "Year": "2019",
-            "Predominant Continent": [
-                "South America"
             ]
         },
         {
             "Title": "Lazarus: Automatic Management of Diversity in BFT Systems.",
+            "Year": "2019",
+            "Predominant Continent": [
+                "EU"
+            ],
             "Authors and Institutions": [
                 {
                     "Author": "Miguel Garcia",
@@ -8280,14 +8284,14 @@
                         }
                     ]
                 }
-            ],
-            "Year": "2019",
-            "Predominant Continent": [
-                "Europe"
             ]
         },
         {
             "Title": "Combining it all: Cost minimal and low-latency stream processing across distributed heterogeneous infrastructures.",
+            "Year": "2019",
+            "Predominant Continent": [
+                "EU"
+            ],
             "Authors and Institutions": [
                 {
                     "Author": "Henriette Röger",
@@ -8316,14 +8320,14 @@
                         }
                     ]
                 }
-            ],
-            "Year": "2019",
-            "Predominant Continent": [
-                "Europe"
             ]
         },
         {
             "Title": "ProvMark: A Provenance Expressiveness Benchmarking System.",
+            "Year": "2019",
+            "Predominant Continent": [
+                "EU"
+            ],
             "Authors and Institutions": [
                 {
                     "Author": "Sheung Chi Chan",
@@ -8405,14 +8409,14 @@
                         }
                     ]
                 }
-            ],
-            "Year": "2019",
-            "Predominant Continent": [
-                "Europe"
             ]
         },
         {
             "Title": "ReLAQS: Reducing Latency for Multi-Tenant Approximate Queries via Scheduling.",
+            "Year": "2019",
+            "Predominant Continent": [
+                "NA"
+            ],
             "Authors and Institutions": [
                 {
                     "Author": "Logan Stafman",
@@ -8441,14 +8445,14 @@
                         }
                     ]
                 }
-            ],
-            "Year": "2019",
-            "Predominant Continent": [
-                "North America"
             ]
         },
         {
             "Title": "AquaEIS: Middleware Support for Event Identification in Community Water Infrastructures.",
+            "Year": "2019",
+            "Predominant Continent": [
+                "NA"
+            ],
             "Authors and Institutions": [
                 {
                     "Author": "Qing Han",
@@ -8477,14 +8481,14 @@
                         }
                     ]
                 }
-            ],
-            "Year": "2019",
-            "Predominant Continent": [
-                "North America"
             ]
         },
         {
             "Title": "Switchboard: A Middleware for Wide-Area Service Chaining.",
+            "Year": "2019",
+            "Predominant Continent": [
+                "NA"
+            ],
             "Authors and Institutions": [
                 {
                     "Author": "Anurag Sharma",
@@ -8540,14 +8544,14 @@
                         }
                     ]
                 }
-            ],
-            "Year": "2019",
-            "Predominant Continent": [
-                "North America"
             ]
         },
         {
             "Title": "Medley: A Novel Distributed Failure Detector for IoT Networks.",
+            "Year": "2019",
+            "Predominant Continent": [
+                "NA"
+            ],
             "Authors and Institutions": [
                 {
                     "Author": "Rui Yang",
@@ -8585,16 +8589,16 @@
                         }
                     ]
                 }
-            ],
-            "Year": "2019",
-            "Predominant Continent": [
-                "North America"
             ]
         }
     ],
     "2020": [
         {
             "Title": "Prebaking Functions to Warm the Serverless Cold Start.",
+            "Year": "2020",
+            "Predominant Continent": [
+                "SA"
+            ],
             "Authors and Institutions": [
                 {
                     "Author": "Paulo Silva",
@@ -8623,14 +8627,14 @@
                         }
                     ]
                 }
-            ],
-            "Year": "2020",
-            "Predominant Continent": [
-                "South America"
             ]
         },
         {
             "Title": "Resilient Cloud-based Replication with Low Latency.",
+            "Year": "2020",
+            "Predominant Continent": [
+                "EU"
+            ],
             "Authors and Institutions": [
                 {
                     "Author": "Michael Eischer",
@@ -8650,14 +8654,14 @@
                         }
                     ]
                 }
-            ],
-            "Year": "2020",
-            "Predominant Continent": [
-                "Europe"
             ]
         },
         {
             "Title": "Practical Active Revocation.",
+            "Year": "2020",
+            "Predominant Continent": [
+                "EU"
+            ],
             "Authors and Institutions": [
                 {
                     "Author": "Stefan Contiu",
@@ -8681,14 +8685,14 @@
                         }
                     ]
                 }
-            ],
-            "Year": "2020",
-            "Predominant Continent": [
-                "Europe"
             ]
         },
         {
             "Title": "secureTF: A Secure TensorFlow Framework.",
+            "Year": "2020",
+            "Predominant Continent": [
+                "EU"
+            ],
             "Authors and Institutions": [
                 {
                     "Author": "Do Le Quoc",
@@ -8739,14 +8743,14 @@
                         }
                     ]
                 }
-            ],
-            "Year": "2020",
-            "Predominant Continent": [
-                "Europe"
             ]
         },
         {
             "Title": "On Delivery Guarantees in Distributed Content-Based Publish/Subscribe Systems.",
+            "Year": "2020",
+            "Predominant Continent": [
+                "EU"
+            ],
             "Authors and Institutions": [
                 {
                     "Author": "Pooya Salehi",
@@ -8775,14 +8779,14 @@
                         }
                     ]
                 }
-            ],
-            "Year": "2020",
-            "Predominant Continent": [
-                "Europe"
             ]
         },
         {
             "Title": "MATCH: A Decentralized Middleware for Fair Matchmaking In Peer-to-Peer Markets.",
+            "Year": "2020",
+            "Predominant Continent": [
+                "EU"
+            ],
             "Authors and Institutions": [
                 {
                     "Author": "Martijn de Vos",
@@ -8811,14 +8815,14 @@
                         }
                     ]
                 }
-            ],
-            "Year": "2020",
-            "Predominant Continent": [
-                "Europe"
             ]
         },
         {
             "Title": "PipeTune: Pipeline Parallelism of Hyper and System Parameters Tuning for Deep Learning Clusters.",
+            "Year": "2020",
+            "Predominant Continent": [
+                "EU"
+            ],
             "Authors and Institutions": [
                 {
                     "Author": "Isabelly Rocha",
@@ -8874,14 +8878,14 @@
                         }
                     ]
                 }
-            ],
-            "Year": "2020",
-            "Predominant Continent": [
-                "Europe"
             ]
         },
         {
             "Title": "Fast Training of Deep Learning Models over Multiple GPUs.",
+            "Year": "2020",
+            "Predominant Continent": [
+                "NA"
+            ],
             "Authors and Institutions": [
                 {
                     "Author": "Xiaodong Yi",
@@ -8955,14 +8959,14 @@
                         }
                     ]
                 }
-            ],
-            "Year": "2020",
-            "Predominant Continent": [
-                "North America"
             ]
         },
         {
             "Title": "BoLT: Barrier-optimized LSM-Tree.",
+            "Year": "2020",
+            "Predominant Continent": [
+                "AS"
+            ],
             "Authors and Institutions": [
                 {
                     "Author": "Dongui Kim",
@@ -9000,14 +9004,14 @@
                         }
                     ]
                 }
-            ],
-            "Year": "2020",
-            "Predominant Continent": [
-                "Asia"
             ]
         },
         {
             "Title": "JellyFish: A Fast Skip List with MVCC.",
+            "Year": "2020",
+            "Predominant Continent": [
+                "AS"
+            ],
             "Authors and Institutions": [
                 {
                     "Author": "Jeseong Yeon",
@@ -9063,14 +9067,14 @@
                         }
                     ]
                 }
-            ],
-            "Year": "2020",
-            "Predominant Continent": [
-                "Asia"
             ]
         },
         {
             "Title": "Consistent and Secure Network Updates Made Practical.",
+            "Year": "2020",
+            "Predominant Continent": [
+                "EU"
+            ],
             "Authors and Institutions": [
                 {
                     "Author": "James Lembke",
@@ -9116,14 +9120,14 @@
                         }
                     ]
                 }
-            ],
-            "Year": "2020",
-            "Predominant Continent": [
-                "Europe"
             ]
         },
         {
             "Title": "FLeet: Online Federated Learning via Staleness Awareness and Performance Prediction.",
+            "Year": "2020",
+            "Predominant Continent": [
+                "EU"
+            ],
             "Authors and Institutions": [
                 {
                     "Author": "Georgios Damaskinos",
@@ -9178,14 +9182,14 @@
                     "Author": "François Taı̈ani",
                     "Institutions": []
                 }
-            ],
-            "Year": "2020",
-            "Predominant Continent": [
-                "Europe"
             ]
         },
         {
             "Title": "TEEMon: A continuous performance monitoring framework for TEEs.",
+            "Year": "2020",
+            "Predominant Continent": [
+                "EU"
+            ],
             "Authors and Institutions": [
                 {
                     "Author": "Robert Krahn",
@@ -9268,14 +9272,14 @@
                         }
                     ]
                 }
-            ],
-            "Year": "2020",
-            "Predominant Continent": [
-                "Europe"
             ]
         },
         {
             "Title": "FeGAN: Scaling Distributed GANs.",
+            "Year": "2020",
+            "Predominant Continent": [
+                "EU"
+            ],
             "Authors and Institutions": [
                 {
                     "Author": "Rachid Guerraoui",
@@ -9306,14 +9310,14 @@
                         }
                     ]
                 }
-            ],
-            "Year": "2020",
-            "Predominant Continent": [
-                "Europe"
             ]
         },
         {
             "Title": "Poseidon: Safe, Fast and Scalable Persistent Memory Allocator.",
+            "Year": "2020",
+            "Predominant Continent": [
+                "NA"
+            ],
             "Authors and Institutions": [
                 {
                     "Author": "Anthony Demeri",
@@ -9369,14 +9373,14 @@
                         }
                     ]
                 }
-            ],
-            "Year": "2020",
-            "Predominant Continent": [
-                "North America"
             ]
         },
         {
             "Title": "WASP: Wide-area Adaptive Stream Processing.",
+            "Year": "2020",
+            "Predominant Continent": [
+                "NA"
+            ],
             "Authors and Institutions": [
                 {
                     "Author": "Albert Jonathan",
@@ -9417,14 +9421,14 @@
                         }
                     ]
                 }
-            ],
-            "Year": "2020",
-            "Predominant Continent": [
-                "North America"
             ]
         },
         {
             "Title": "SplitServe: Efficiently Splitting Apache Spark Jobs Across FaaS and IaaS.",
+            "Year": "2020",
+            "Predominant Continent": [
+                "NA"
+            ],
             "Authors and Institutions": [
                 {
                     "Author": "Aman Jain",
@@ -9480,14 +9484,14 @@
                         }
                     ]
                 }
-            ],
-            "Year": "2020",
-            "Predominant Continent": [
-                "North America"
             ]
         },
         {
             "Title": "SR3: Customizable Recovery for Stateful Stream Processing Systems.",
+            "Year": "2020",
+            "Predominant Continent": [
+                "NA"
+            ],
             "Authors and Institutions": [
                 {
                     "Author": "Hailu Xu",
@@ -9529,14 +9533,14 @@
                         }
                     ]
                 }
-            ],
-            "Year": "2020",
-            "Predominant Continent": [
-                "North America"
             ]
         },
         {
             "Title": "Sledge: a Serverless-first, Light-weight Wasm Runtime for the Edge.",
+            "Year": "2020",
+            "Predominant Continent": [
+                "NA"
+            ],
             "Authors and Institutions": [
                 {
                     "Author": "Phani Kishore Gadepalli",
@@ -9583,14 +9587,14 @@
                         }
                     ]
                 }
-            ],
-            "Year": "2020",
-            "Predominant Continent": [
-                "North America"
             ]
         },
         {
             "Title": "Fifer: Tackling Resource Underutilization in the Serverless Era.",
+            "Year": "2020",
+            "Predominant Continent": [
+                "NA"
+            ],
             "Authors and Institutions": [
                 {
                     "Author": "Jashwant Raj Gunasekaran",
@@ -9637,14 +9641,14 @@
                         }
                     ]
                 }
-            ],
-            "Year": "2020",
-            "Predominant Continent": [
-                "North America"
             ]
         },
         {
             "Title": "PASTRAMI: Privacy-preserving, Auditable, Scalable & Trustworthy Auctions for Multiple Items.",
+            "Year": "2020",
+            "Predominant Continent": [
+                "EU"
+            ],
             "Authors and Institutions": [
                 {
                     "Author": "Michał Król",
@@ -9691,14 +9695,14 @@
                         }
                     ]
                 }
-            ],
-            "Year": "2020",
-            "Predominant Continent": [
-                "Europe"
             ]
         },
         {
             "Title": "A practical approach for updating an integrity-enforced operating system.",
+            "Year": "2020",
+            "Predominant Continent": [
+                "EU"
+            ],
             "Authors and Institutions": [
                 {
                     "Author": "Wojciech Ozga",
@@ -9727,14 +9731,14 @@
                         }
                     ]
                 }
-            ],
-            "Year": "2020",
-            "Predominant Continent": [
-                "Europe"
             ]
         },
         {
             "Title": "Regaining Lost Seconds: Efficient Page Preloading for SGX Enclaves.",
+            "Year": "2020",
+            "Predominant Continent": [
+                "AS"
+            ],
             "Authors and Institutions": [
                 {
                     "Author": "Ximing Liu",
@@ -9790,14 +9794,14 @@
                         }
                     ]
                 }
-            ],
-            "Year": "2020",
-            "Predominant Continent": [
-                "Asia"
             ]
         },
         {
             "Title": "Improving the Restore Performance via Physical-Locality Middleware for Backup Systems.",
+            "Year": "2020",
+            "Predominant Continent": [
+                "AS"
+            ],
             "Authors and Institutions": [
                 {
                     "Author": "Pengfei Li",
@@ -9851,14 +9855,14 @@
                         }
                     ]
                 }
-            ],
-            "Year": "2020",
-            "Predominant Continent": [
-                "Asia"
             ]
         },
         {
             "Title": "Xanadu: Mitigating cascading cold starts in serverless function chain deployments.",
+            "Year": "2020",
+            "Predominant Continent": [
+                "AS"
+            ],
             "Authors and Institutions": [
                 {
                     "Author": "Nilanjan Daw",
@@ -9887,14 +9891,14 @@
                         }
                     ]
                 }
-            ],
-            "Year": "2020",
-            "Predominant Continent": [
-                "Asia"
             ]
         },
         {
             "Title": "Cost-Effective Data Feeds to Blockchains via Workload-Adaptive Data Replication.",
+            "Year": "2020",
+            "Predominant Continent": [
+                "NA"
+            ],
             "Authors and Institutions": [
                 {
                     "Author": "Kai Li",
@@ -9950,14 +9954,14 @@
                         }
                     ]
                 }
-            ],
-            "Year": "2020",
-            "Predominant Continent": [
-                "North America"
             ]
         },
         {
             "Title": "Mitigating Stragglers in the Decentralized Training on Heterogeneous Clusters.",
+            "Year": "2020",
+            "Predominant Continent": [
+                "NA"
+            ],
             "Authors and Institutions": [
                 {
                     "Author": "Donglin Yang",
@@ -9986,14 +9990,14 @@
                         }
                     ]
                 }
-            ],
-            "Year": "2020",
-            "Predominant Continent": [
-                "North America"
             ]
         },
         {
             "Title": "Coral-Pie: A Geo-Distributed Edge-compute Solution for Space-Time Vehicle Tracking.",
+            "Year": "2020",
+            "Predominant Continent": [
+                "NA"
+            ],
             "Authors and Institutions": [
                 {
                     "Author": "Zhuangdi Xu",
@@ -10022,14 +10026,14 @@
                         }
                     ]
                 }
-            ],
-            "Year": "2020",
-            "Predominant Continent": [
-                "North America"
             ]
         },
         {
             "Title": "An OpenMP Runtime for Transparent Work Sharing Across Cache-Incoherent Heterogeneous Nodes.",
+            "Year": "2020",
+            "Predominant Continent": [
+                "NA"
+            ],
             "Authors and Institutions": [
                 {
                     "Author": "Robert Lyerly",
@@ -10067,14 +10071,14 @@
                         }
                     ]
                 }
-            ],
-            "Year": "2020",
-            "Predominant Continent": [
-                "North America"
             ]
         },
         {
             "Title": "DoubleFaceAD: A New Datastore Driver Architecture to Optimize Fanout Query Performance.",
+            "Year": "2020",
+            "Predominant Continent": [
+                "NA"
+            ],
             "Authors and Institutions": [
                 {
                     "Author": "Shungeng Zhang",
@@ -10121,16 +10125,16 @@
                         }
                     ]
                 }
-            ],
-            "Year": "2020",
-            "Predominant Continent": [
-                "North America"
             ]
         }
     ],
     "2021": [
         {
             "Title": "Precursor: a fast, client-centric and trusted key-value store using RDMA and Intel SGX.",
+            "Year": "2021",
+            "Predominant Continent": [
+                "EU"
+            ],
             "Authors and Institutions": [
                 {
                     "Author": "Ines Messadi",
@@ -10186,14 +10190,14 @@
                         }
                     ]
                 }
-            ],
-            "Year": "2021",
-            "Predominant Continent": [
-                "Europe"
             ]
         },
         {
             "Title": "PProx: efficient privacy for recommendation-as-a-service.",
+            "Year": "2021",
+            "Predominant Continent": [
+                "EU"
+            ],
             "Authors and Institutions": [
                 {
                     "Author": "Guillaume Rosinosky",
@@ -10283,14 +10287,14 @@
                     "Author": "Étienne Rivière",
                     "Institutions": []
                 }
-            ],
-            "Year": "2021",
-            "Predominant Continent": [
-                "Europe"
             ]
         },
         {
             "Title": "FW-KV: improving read guarantees in PSI.",
+            "Year": "2021",
+            "Predominant Continent": [
+                "NA"
+            ],
             "Authors and Institutions": [
                 {
                     "Author": "Masoomeh Javidi Kishi",
@@ -10310,14 +10314,14 @@
                         }
                     ]
                 }
-            ],
-            "Year": "2021",
-            "Predominant Continent": [
-                "North America"
             ]
         },
         {
             "Title": "Towards optimal placement and scheduling of DNN operations with Pesto.",
+            "Year": "2021",
+            "Predominant Continent": [
+                "NA"
+            ],
             "Authors and Institutions": [
                 {
                     "Author": "Ubaid Ullah Hafeez",
@@ -10355,14 +10359,14 @@
                         }
                     ]
                 }
-            ],
-            "Year": "2021",
-            "Predominant Continent": [
-                "North America"
             ]
         },
         {
             "Title": "Prosecutor: an efficient BFT consensus algorithm with behavior-aware penalization against Byzantine attacks.",
+            "Year": "2021",
+            "Predominant Continent": [
+                "NA"
+            ],
             "Authors and Institutions": [
                 {
                     "Author": "Gengrui Zhang",
@@ -10382,14 +10386,14 @@
                         }
                     ]
                 }
-            ],
-            "Year": "2021",
-            "Predominant Continent": [
-                "North America"
             ]
         },
         {
             "Title": "SeBS: a serverless benchmark suite for function-as-a-service computing.",
+            "Year": "2021",
+            "Predominant Continent": [
+                "EU"
+            ],
             "Authors and Institutions": [
                 {
                     "Author": "Marcin Copik",
@@ -10431,14 +10435,12 @@
                         }
                     ]
                 }
-            ],
-            "Year": "2021",
-            "Predominant Continent": [
-                "Europe"
             ]
         },
         {
             "Title": "Magic-Pipe: self-optimizing video analytics pipelines.",
+            "Year": "2021",
+            "Predominant Continent": [],
             "Authors and Institutions": [
                 {
                     "Author": "Giuseppe Coviello",
@@ -10456,12 +10458,14 @@
                     "Author": "Srimat Chakradhar",
                     "Institutions": []
                 }
-            ],
-            "Year": "2021",
-            "Predominant Continent": []
+            ]
         },
         {
             "Title": "sgx-dl: dynamic loading and hot-patching for secure applications: experience paper.",
+            "Year": "2021",
+            "Predominant Continent": [
+                "EU"
+            ],
             "Authors and Institutions": [
                 {
                     "Author": "Nico Weichbrodt",
@@ -10508,14 +10512,14 @@
                         }
                     ]
                 }
-            ],
-            "Year": "2021",
-            "Predominant Continent": [
-                "Europe"
             ]
         },
         {
             "Title": "Xar-trek: run-time execution migration among FPGAs and heterogeneous-ISA CPUs.",
+            "Year": "2021",
+            "Predominant Continent": [
+                "NA"
+            ],
             "Authors and Institutions": [
                 {
                     "Author": "Edson Lemos Horta",
@@ -10575,14 +10579,14 @@
                         }
                     ]
                 }
-            ],
-            "Year": "2021",
-            "Predominant Continent": [
-                "North America"
             ]
         },
         {
             "Title": "SHARC: improving adaptive replacement cache with shadow recency cache management.",
+            "Year": "2021",
+            "Predominant Continent": [
+                "EU"
+            ],
             "Authors and Institutions": [
                 {
                     "Author": "Xueying Du",
@@ -10602,14 +10606,14 @@
                         }
                     ]
                 }
-            ],
-            "Year": "2021",
-            "Predominant Continent": [
-                "Europe"
             ]
         },
         {
             "Title": "Experience Paper: Danaus: isolation and efficiency of container I/O at the client side of network storage.",
+            "Year": "2021",
+            "Predominant Continent": [
+                "EU"
+            ],
             "Authors and Institutions": [
                 {
                     "Author": "Giorgos Kappes",
@@ -10629,14 +10633,14 @@
                         }
                     ]
                 }
-            ],
-            "Year": "2021",
-            "Predominant Continent": [
-                "Europe"
             ]
         },
         {
             "Title": "SwitchFlow: preemptive multitasking for deep learning.",
+            "Year": "2021",
+            "Predominant Continent": [
+                "NA"
+            ],
             "Authors and Institutions": [
                 {
                     "Author": "Xiaofeng Wu",
@@ -10692,14 +10696,14 @@
                         }
                     ]
                 }
-            ],
-            "Year": "2021",
-            "Predominant Continent": [
-                "North America"
             ]
         },
         {
             "Title": "FaaSTCC: efficient transactional causal consistency for serverless computing.",
+            "Year": "2021",
+            "Predominant Continent": [
+                "EU"
+            ],
             "Authors and Institutions": [
                 {
                     "Author": "Taras Lykhenko",
@@ -10740,14 +10744,14 @@
                         }
                     ]
                 }
-            ],
-            "Year": "2021",
-            "Predominant Continent": [
-                "Europe"
             ]
         },
         {
             "Title": "RamCast: RDMA-based atomic multicast.",
+            "Year": "2021",
+            "Predominant Continent": [
+                "EU"
+            ],
             "Authors and Institutions": [
                 {
                     "Author": "Long Hoang Le",
@@ -10785,14 +10789,14 @@
                         }
                     ]
                 }
-            ],
-            "Year": "2021",
-            "Predominant Continent": [
-                "Europe"
             ]
         },
         {
             "Title": "Memory at your service: fast memory allocation for latency-critical services.",
+            "Year": "2021",
+            "Predominant Continent": [
+                "NA"
+            ],
             "Authors and Institutions": [
                 {
                     "Author": "Aidi Pi",
@@ -10830,14 +10834,14 @@
                         }
                     ]
                 }
-            ],
-            "Year": "2021",
-            "Predominant Continent": [
-                "North America"
             ]
         },
         {
             "Title": "Gossip consensus.",
+            "Year": "2021",
+            "Predominant Continent": [
+                "EU"
+            ],
             "Authors and Institutions": [
                 {
                     "Author": "Daniel Cason",
@@ -10870,14 +10874,14 @@
                         }
                     ]
                 }
-            ],
-            "Year": "2021",
-            "Predominant Continent": [
-                "Europe"
             ]
         },
         {
             "Title": "Experience Paper: Towards enhancing cost efficiency in serverless machine learning training.",
+            "Year": "2021",
+            "Predominant Continent": [
+                "EU"
+            ],
             "Authors and Institutions": [
                 {
                     "Author": "Marc Sánchez-Artigas",
@@ -10897,14 +10901,14 @@
                         }
                     ]
                 }
-            ],
-            "Year": "2021",
-            "Predominant Continent": [
-                "Europe"
             ]
         },
         {
             "Title": "CAT: content-aware tracing and analysis for distributed systems.",
+            "Year": "2021",
+            "Predominant Continent": [
+                "EU"
+            ],
             "Authors and Institutions": [
                 {
                     "Author": "Tânia Esteves",
@@ -10942,14 +10946,14 @@
                         }
                     ]
                 }
-            ],
-            "Year": "2021",
-            "Predominant Continent": [
-                "Europe"
             ]
         },
         {
             "Title": "Snarl: entangled merkle trees for improved file availability and storage utilization.",
+            "Year": "2021",
+            "Predominant Continent": [
+                "EU"
+            ],
             "Authors and Institutions": [
                 {
                     "Author": "Racin Nygaard",
@@ -10978,14 +10982,14 @@
                         }
                     ]
                 }
-            ],
-            "Year": "2021",
-            "Predominant Continent": [
-                "Europe"
             ]
         },
         {
             "Title": "Sizeless: predicting the optimal size of serverless functions.",
+            "Year": "2021",
+            "Predominant Continent": [
+                "EU"
+            ],
             "Authors and Institutions": [
                 {
                     "Author": "Simon Eismann",
@@ -11041,14 +11045,14 @@
                         }
                     ]
                 }
-            ],
-            "Year": "2021",
-            "Predominant Continent": [
-                "Europe"
             ]
         },
         {
             "Title": "Let's wait awhile: how temporal workload shifting can reduce carbon emissions in the cloud.",
+            "Year": "2021",
+            "Predominant Continent": [
+                "EU"
+            ],
             "Authors and Institutions": [
                 {
                     "Author": "Philipp Wiesner",
@@ -11095,14 +11099,14 @@
                         }
                     ]
                 }
-            ],
-            "Year": "2021",
-            "Predominant Continent": [
-                "Europe"
             ]
         },
         {
             "Title": "Lognroll: discovering accurate log templates by iterative filtering.",
+            "Year": "2021",
+            "Predominant Continent": [
+                "AS"
+            ],
             "Authors and Institutions": [
                 {
                     "Author": "Byungchul Tak",
@@ -11122,14 +11126,14 @@
                         }
                     ]
                 }
-            ],
-            "Year": "2021",
-            "Predominant Continent": [
-                "Asia"
             ]
         },
         {
             "Title": "Privacy preserving event based transaction system in a decentralized environment.",
+            "Year": "2021",
+            "Predominant Continent": [
+                "NA"
+            ],
             "Authors and Institutions": [
                 {
                     "Author": "Rabimba Karanjai",
@@ -11185,14 +11189,14 @@
                         }
                     ]
                 }
-            ],
-            "Year": "2021",
-            "Predominant Continent": [
-                "North America"
             ]
         },
         {
             "Title": "YASMIN: a real-time middleware for COTS heterogeneous platforms.",
+            "Year": "2021",
+            "Predominant Continent": [
+                "EU"
+            ],
             "Authors and Institutions": [
                 {
                     "Author": "Benjamin Rouxel",
@@ -11221,14 +11225,14 @@
                         }
                     ]
                 }
-            ],
-            "Year": "2021",
-            "Predominant Continent": [
-                "Europe"
             ]
         },
         {
             "Title": "Implicit model specialization through dag-based decentralized federated learning.",
+            "Year": "2021",
+            "Predominant Continent": [
+                "EU"
+            ],
             "Authors and Institutions": [
                 {
                     "Author": "Jossekin Beilharz",
@@ -11284,14 +11288,14 @@
                         }
                     ]
                 }
-            ],
-            "Year": "2021",
-            "Predominant Continent": [
-                "Europe"
             ]
         },
         {
             "Title": "A fresh look at the architecture and performance of contemporary isolation platforms.",
+            "Year": "2021",
+            "Predominant Continent": [
+                "EU"
+            ],
             "Authors and Institutions": [
                 {
                     "Author": "Vincent van Rijn",
@@ -11311,14 +11315,14 @@
                         }
                     ]
                 }
-            ],
-            "Year": "2021",
-            "Predominant Continent": [
-                "Europe"
             ]
         },
         {
             "Title": "Highly-available and consistent group collaboration at the edge with colony.",
+            "Year": "2021",
+            "Predominant Continent": [
+                "EU"
+            ],
             "Authors and Institutions": [
                 {
                     "Author": "Ilyas Toumlilt",
@@ -11351,14 +11355,14 @@
                         }
                     ]
                 }
-            ],
-            "Year": "2021",
-            "Predominant Continent": [
-                "Europe"
             ]
         },
         {
             "Title": "Montsalvat: Intel SGX shielding for GraalVM native images.",
+            "Year": "2021",
+            "Predominant Continent": [
+                "EU"
+            ],
             "Authors and Institutions": [
                 {
                     "Author": "Peterson Yuhala",
@@ -11426,14 +11430,14 @@
                     "Author": "Jean-Pierre Lozi",
                     "Institutions": []
                 }
-            ],
-            "Year": "2021",
-            "Predominant Continent": [
-                "Europe"
             ]
         },
         {
             "Title": "Lachesis: a middleware for customizing OS scheduling of stream processing queries.",
+            "Year": "2021",
+            "Predominant Continent": [
+                "EU"
+            ],
             "Authors and Institutions": [
                 {
                     "Author": "Dimitris Palyvos-Giannas",
@@ -11471,16 +11475,16 @@
                         }
                     ]
                 }
-            ],
-            "Year": "2021",
-            "Predominant Continent": [
-                "Europe"
             ]
         }
     ],
     "2022": [
         {
             "Title": "EdgeTune: Inference-Aware Multi-Parameter Tuning.",
+            "Year": "2022",
+            "Predominant Continent": [
+                "EU"
+            ],
             "Authors and Institutions": [
                 {
                     "Author": "Isabelly Rocha",
@@ -11518,14 +11522,14 @@
                         }
                     ]
                 }
-            ],
-            "Year": "2022",
-            "Predominant Continent": [
-                "Europe"
             ]
         },
         {
             "Title": "GuardiaNN: Fast and Secure On-Device Inference in TrustZone Using Embedded SRAM and Cryptographic Hardware.",
+            "Year": "2022",
+            "Predominant Continent": [
+                "AS"
+            ],
             "Authors and Institutions": [
                 {
                     "Author": "Jinwoo Choi",
@@ -11590,14 +11594,14 @@
                         }
                     ]
                 }
-            ],
-            "Year": "2022",
-            "Predominant Continent": [
-                "Asia"
             ]
         },
         {
             "Title": "SecureLease: Maintaining Execution Control in The Wild using Intel SGX.",
+            "Year": "2022",
+            "Predominant Continent": [
+                "AS"
+            ],
             "Authors and Institutions": [
                 {
                     "Author": "Sandeep Kumar",
@@ -11626,14 +11630,14 @@
                         }
                     ]
                 }
-            ],
-            "Year": "2022",
-            "Predominant Continent": [
-                "Asia"
             ]
         },
         {
             "Title": "Improving Concurrent GC for Latency Critical Services in Multi-tenant Systems.",
+            "Year": "2022",
+            "Predominant Continent": [
+                "NA"
+            ],
             "Authors and Institutions": [
                 {
                     "Author": "Junxian Zhao",
@@ -11680,14 +11684,14 @@
                         }
                     ]
                 }
-            ],
-            "Year": "2022",
-            "Predominant Continent": [
-                "North America"
             ]
         },
         {
             "Title": "SplitBFT: Improving Byzantine Fault Tolerance Safety Using Trusted Compartments.",
+            "Year": "2022",
+            "Predominant Continent": [
+                "EU"
+            ],
             "Authors and Institutions": [
                 {
                     "Author": "Ines Messadi",
@@ -11747,14 +11751,14 @@
                         }
                     ]
                 }
-            ],
-            "Year": "2022",
-            "Predominant Continent": [
-                "Europe"
             ]
         },
         {
             "Title": "Celestial: Virtual Software System Testbeds for the LEO Edge.",
+            "Year": "2022",
+            "Predominant Continent": [
+                "EU"
+            ],
             "Authors and Institutions": [
                 {
                     "Author": "Tobias Pfandzelter",
@@ -11782,14 +11786,14 @@
                         }
                     ]
                 }
-            ],
-            "Year": "2022",
-            "Predominant Continent": [
-                "Europe"
             ]
         },
         {
             "Title": "ROS-SF: A Transparent and Efficient ROS Middleware using Serialization-Free Message.",
+            "Year": "2022",
+            "Predominant Continent": [
+                "AS"
+            ],
             "Authors and Institutions": [
                 {
                     "Author": "Yuping Wang",
@@ -11818,14 +11822,14 @@
                         }
                     ]
                 }
-            ],
-            "Year": "2022",
-            "Predominant Continent": [
-                "Asia"
             ]
         },
         {
             "Title": "Bolt: Fast Inference for Random Forests.",
+            "Year": "2022",
+            "Predominant Continent": [
+                "NA"
+            ],
             "Authors and Institutions": [
                 {
                     "Author": "E Romero",
@@ -11867,14 +11871,14 @@
                     "Author": "Nathaniel Morris",
                     "Institutions": []
                 }
-            ],
-            "Year": "2022",
-            "Predominant Continent": [
-                "North America"
             ]
         },
         {
             "Title": "Aergia: leveraging heterogeneity in federated learning systems.",
+            "Year": "2022",
+            "Predominant Continent": [
+                "EU"
+            ],
             "Authors and Institutions": [
                 {
                     "Author": "Barbara Cox",
@@ -11903,14 +11907,14 @@
                         }
                     ]
                 }
-            ],
-            "Year": "2022",
-            "Predominant Continent": [
-                "Europe"
             ]
         },
         {
             "Title": "MATEE: multimodal attestation for trusted execution environments.",
+            "Year": "2022",
+            "Predominant Continent": [
+                "EU"
+            ],
             "Authors and Institutions": [
                 {
                     "Author": "Anna Galanou",
@@ -11948,14 +11952,12 @@
                         }
                     ]
                 }
-            ],
-            "Year": "2022",
-            "Predominant Continent": [
-                "Europe"
             ]
         },
         {
             "Title": "MixNN: protection of federated learning against inference attacks by mixing neural network layers.",
+            "Year": "2022",
+            "Predominant Continent": [],
             "Authors and Institutions": [
                 {
                     "Author": "Antoine Boutet",
@@ -11973,12 +11975,14 @@
                     "Author": "Adrien Baud",
                     "Institutions": []
                 }
-            ],
-            "Year": "2022",
-            "Predominant Continent": []
+            ]
         },
         {
             "Title": "A seer knows best: optimized object storage shuffling for serverless analytics.",
+            "Year": "2022",
+            "Predominant Continent": [
+                "EU"
+            ],
             "Authors and Institutions": [
                 {
                     "Author": "Marc Sánchez-Artigas",
@@ -11998,14 +12002,12 @@
                         }
                     ]
                 }
-            ],
-            "Year": "2022",
-            "Predominant Continent": [
-                "Europe"
             ]
         },
         {
             "Title": "Femto-containers: lightweight virtualization and fault isolation for small software functions on low-power IoT microcontrollers.",
+            "Year": "2022",
+            "Predominant Continent": [],
             "Authors and Institutions": [
                 {
                     "Author": "Koen Zandberg",
@@ -12027,12 +12029,14 @@
                     "Author": "Jean-Pierre Talpin",
                     "Institutions": []
                 }
-            ],
-            "Year": "2022",
-            "Predominant Continent": []
+            ]
         },
         {
             "Title": "EventChain: a blockchain framework for secure, privacy-preserving event verification.",
+            "Year": "2022",
+            "Predominant Continent": [
+                "EU"
+            ],
             "Authors and Institutions": [
                 {
                     "Author": "Signe Schwarz-Rüsch",
@@ -12106,14 +12110,14 @@
                         }
                     ]
                 }
-            ],
-            "Year": "2022",
-            "Predominant Continent": [
-                "Europe"
             ]
         },
         {
             "Title": "BoFL: bayesian optimized local training pace control for energy efficient federated learning.",
+            "Year": "2022",
+            "Predominant Continent": [
+                "NA"
+            ],
             "Authors and Institutions": [
                 {
                     "Author": "Hongpeng Guo",
@@ -12185,14 +12189,14 @@
                         }
                     ]
                 }
-            ],
-            "Year": "2022",
-            "Predominant Continent": [
-                "North America"
             ]
         },
         {
             "Title": "Multi-resource fair allocation for consolidated flash-based caching systems.",
+            "Year": "2022",
+            "Predominant Continent": [
+                "NA"
+            ],
             "Authors and Institutions": [
                 {
                     "Author": "Won-Il Choi",
@@ -12230,14 +12234,14 @@
                         }
                     ]
                 }
-            ],
-            "Year": "2022",
-            "Predominant Continent": [
-                "North America"
             ]
         },
         {
             "Title": "Light-GC: a lightweight and efficient garbage collection scheme for embedded file systems.",
+            "Year": "2022",
+            "Predominant Continent": [
+                "AS"
+            ],
             "Authors and Institutions": [
                 {
                     "Author": "Diansen Sun",
@@ -12297,14 +12301,14 @@
                         }
                     ]
                 }
-            ],
-            "Year": "2022",
-            "Predominant Continent": [
-                "Asia"
             ]
         },
         {
             "Title": "Slice-Tune: a system for high performance DNN autotuning.",
+            "Year": "2022",
+            "Predominant Continent": [
+                "NA"
+            ],
             "Authors and Institutions": [
                 {
                     "Author": "Aditya Dhakal",
@@ -12351,14 +12355,14 @@
                         }
                     ]
                 }
-            ],
-            "Year": "2022",
-            "Predominant Continent": [
-                "North America"
             ]
         },
         {
             "Title": "CGX: adaptive system support for communication-efficient deep learning.",
+            "Year": "2022",
+            "Predominant Continent": [
+                "EU"
+            ],
             "Authors and Institutions": [
                 {
                     "Author": "Ilia Markov",
@@ -12387,14 +12391,14 @@
                         }
                     ]
                 }
-            ],
-            "Year": "2022",
-            "Predominant Continent": [
-                "Europe"
             ]
         },
         {
             "Title": "Optimizing communication in deep reinforcement learning with XingTian.",
+            "Year": "2022",
+            "Predominant Continent": [
+                "AS"
+            ],
             "Authors and Institutions": [
                 {
                     "Author": "Lichen Pan",
@@ -12459,14 +12463,14 @@
                         }
                     ]
                 }
-            ],
-            "Year": "2022",
-            "Predominant Continent": [
-                "Asia"
             ]
         },
         {
             "Title": "DCert: towards secure, efficient, and versatile blockchain light clients.",
+            "Year": "2022",
+            "Predominant Continent": [
+                "AS"
+            ],
             "Authors and Institutions": [
                 {
                     "Author": "Jun Yang",
@@ -12504,14 +12508,14 @@
                         }
                     ]
                 }
-            ],
-            "Year": "2022",
-            "Predominant Continent": [
-                "Asia"
             ]
         },
         {
             "Title": "ShadowSync: latency long tail caused by hidden synchronization in real-time LSM-tree based stream processing systems.",
+            "Year": "2022",
+            "Predominant Continent": [
+                "NA"
+            ],
             "Authors and Institutions": [
                 {
                     "Author": "Shungeng Zhang",
@@ -12567,14 +12571,14 @@
                         }
                     ]
                 }
-            ],
-            "Year": "2022",
-            "Predominant Continent": [
-                "North America"
             ]
         },
         {
             "Title": "Reversible conflict-free replicated data types.",
+            "Year": "2022",
+            "Predominant Continent": [
+                "NA"
+            ],
             "Authors and Institutions": [
                 {
                     "Author": "Yunhao Mao",
@@ -12603,14 +12607,14 @@
                         }
                     ]
                 }
-            ],
-            "Year": "2022",
-            "Predominant Continent": [
-                "North America"
             ]
         },
         {
             "Title": "Secure and distributed assessment of privacy-preserving GWAS releases.",
+            "Year": "2022",
+            "Predominant Continent": [
+                "EU"
+            ],
             "Authors and Institutions": [
                 {
                     "Author": "Túlio Pascoal",
@@ -12639,14 +12643,14 @@
                         }
                     ]
                 }
-            ],
-            "Year": "2022",
-            "Predominant Continent": [
-                "Europe"
             ]
         },
         {
             "Title": "MicroEdge: a multi-tenant edge cluster system architecture for scalable camera processing.",
+            "Year": "2022",
+            "Predominant Continent": [
+                "NA"
+            ],
             "Authors and Institutions": [
                 {
                     "Author": "Difei Cao",
@@ -12711,14 +12715,14 @@
                         }
                     ]
                 }
-            ],
-            "Year": "2022",
-            "Predominant Continent": [
-                "North America"
             ]
         },
         {
             "Title": "Shielding federated learning systems against inference attacks with ARM TrustZone.",
+            "Year": "2022",
+            "Predominant Continent": [
+                "EU"
+            ],
             "Authors and Institutions": [
                 {
                     "Author": "Aghiles Ait Messaoud",
@@ -12751,16 +12755,16 @@
                         }
                     ]
                 }
-            ],
-            "Year": "2022",
-            "Predominant Continent": [
-                "Europe"
             ]
         }
     ],
     "2023": [
         {
             "Title": "EESMR: Energy Efficient BFT - SMR for the masses.",
+            "Year": "2023",
+            "Predominant Continent": [
+                "NA"
+            ],
             "Authors and Institutions": [
                 {
                     "Author": "Adithya Bhat",
@@ -12816,14 +12820,14 @@
                         }
                     ]
                 }
-            ],
-            "Year": "2023",
-            "Predominant Continent": [
-                "North America"
             ]
         },
         {
             "Title": "Fast VM Replication on Heterogeneous Hypervisors for Robust Fault Tolerance.",
+            "Year": "2023",
+            "Predominant Continent": [
+                "EU"
+            ],
             "Authors and Institutions": [
                 {
                     "Author": "Jean-Baptiste Decourcelle",
@@ -12933,14 +12937,14 @@
                         }
                     ]
                 }
-            ],
-            "Year": "2023",
-            "Predominant Continent": [
-                "Europe"
             ]
         },
         {
             "Title": "Smartpick: Workload Prediction for Serverless-enabled Scalable Data Analytics Systems.",
+            "Year": "2023",
+            "Predominant Continent": [
+                "NA"
+            ],
             "Authors and Institutions": [
                 {
                     "Author": "Anshuman Das Mohapatra",
@@ -12960,14 +12964,14 @@
                         }
                     ]
                 }
-            ],
-            "Year": "2023",
-            "Predominant Continent": [
-                "North America"
             ]
         },
         {
             "Title": "Sora: A Latency Sensitive Approach for Microservice Soft Resource Adaptation.",
+            "Year": "2023",
+            "Predominant Continent": [
+                "NA"
+            ],
             "Authors and Institutions": [
                 {
                     "Author": "Jianshu Liu",
@@ -13014,14 +13018,14 @@
                         }
                     ]
                 }
-            ],
-            "Year": "2023",
-            "Predominant Continent": [
-                "North America"
             ]
         },
         {
             "Title": "INSANE: A Unified Middleware for QoS-aware Network Acceleration in Edge Cloud Computing.",
+            "Year": "2023",
+            "Predominant Continent": [
+                "EU"
+            ],
             "Authors and Institutions": [
                 {
                     "Author": "Lorenzo Rosa",
@@ -13059,14 +13063,14 @@
                         }
                     ]
                 }
-            ],
-            "Year": "2023",
-            "Predominant Continent": [
-                "Europe"
             ]
         },
         {
             "Title": "An End-to-End Performance Comparison of Seven Permissioned Blockchain Systems.",
+            "Year": "2023",
+            "Predominant Continent": [
+                "EU"
+            ],
             "Authors and Institutions": [
                 {
                     "Author": "Frank Geyer",
@@ -13104,14 +13108,14 @@
                         }
                     ]
                 }
-            ],
-            "Year": "2023",
-            "Predominant Continent": [
-                "Europe"
             ]
         },
         {
             "Title": "SinClave: Hardware-assisted Singletons for TEEs.",
+            "Year": "2023",
+            "Predominant Continent": [
+                "EU"
+            ],
             "Authors and Institutions": [
                 {
                     "Author": "Franz Gregor",
@@ -13148,14 +13152,14 @@
                         }
                     ]
                 }
-            ],
-            "Year": "2023",
-            "Predominant Continent": [
-                "Europe"
             ]
         },
         {
             "Title": "LO: An Accountable Mempool for MEV Resistance.",
+            "Year": "2023",
+            "Predominant Continent": [
+                "EU"
+            ],
             "Authors and Institutions": [
                 {
                     "Author": "Bulat Nasrulin",
@@ -13193,14 +13197,12 @@
                         }
                     ]
                 }
-            ],
-            "Year": "2023",
-            "Predominant Continent": [
-                "Europe"
             ]
         },
         {
             "Title": "Basalt: A Rock-Solid Byzantine-Tolerant Peer Sampling for Very Large Decentralized Networks.",
+            "Year": "2023",
+            "Predominant Continent": [],
             "Authors and Institutions": [
                 {
                     "Author": "Alex Auvolat",
@@ -13222,12 +13224,14 @@
                     "Author": "François Taı̈ani",
                     "Institutions": []
                 }
-            ],
-            "Year": "2023",
-            "Predominant Continent": []
+            ]
         },
         {
             "Title": "PrimCast: A Latency-Efficient Atomic Multicast.",
+            "Year": "2023",
+            "Predominant Continent": [
+                "EU"
+            ],
             "Authors and Institutions": [
                 {
                     "Author": "Leandro Pacheco",
@@ -13256,14 +13260,14 @@
                         }
                     ]
                 }
-            ],
-            "Year": "2023",
-            "Predominant Continent": [
-                "Europe"
             ]
         },
         {
             "Title": "OrderlessChain: A CRDT-based BFT Coordination-free Blockchain Without Global Order of Transactions.",
+            "Year": "2023",
+            "Predominant Continent": [
+                "EU"
+            ],
             "Authors and Institutions": [
                 {
                     "Author": "Pezhman Nasirifard",
@@ -13292,14 +13296,14 @@
                         }
                     ]
                 }
-            ],
-            "Year": "2023",
-            "Predominant Continent": [
-                "Europe"
             ]
         },
         {
             "Title": "Characterizing Distributed Machine Learning Workloads on Apache Spark: (Experimentation and Deployment Paper).",
+            "Year": "2023",
+            "Predominant Continent": [
+                "EU"
+            ],
             "Authors and Institutions": [
                 {
                     "Author": "Yasmine Djebrouni",
@@ -13368,14 +13372,14 @@
                         }
                     ]
                 }
-            ],
-            "Year": "2023",
-            "Predominant Continent": [
-                "Europe"
             ]
         },
         {
             "Title": "Pravega: A Tiered Storage System for Data Streams.",
+            "Year": "2023",
+            "Predominant Continent": [
+                "NA"
+            ],
             "Authors and Institutions": [
                 {
                     "Author": "Raúl Gracia-Tinedo",
@@ -13411,14 +13415,14 @@
                         }
                     ]
                 }
-            ],
-            "Year": "2023",
-            "Predominant Continent": [
-                "North America"
             ]
         },
         {
             "Title": "Bridging the Gap of Timing Assumptions in Byzantine Consensus.",
+            "Year": "2023",
+            "Predominant Continent": [
+                "AS"
+            ],
             "Authors and Institutions": [
                 {
                     "Author": "Zixuan Chen",
@@ -13469,14 +13473,14 @@
                         }
                     ]
                 }
-            ],
-            "Year": "2023",
-            "Predominant Continent": [
-                "Asia"
             ]
         },
         {
             "Title": "Kernel-as-a-Service: A Serverless Programming Model for Heterogeneous Hardware Accelerators.",
+            "Year": "2023",
+            "Predominant Continent": [
+                "NA"
+            ],
             "Authors and Institutions": [
                 {
                     "Author": "Tobias Pfandzelter",
@@ -13576,14 +13580,14 @@
                         }
                     ]
                 }
-            ],
-            "Year": "2023",
-            "Predominant Continent": [
-                "North America"
             ]
         },
         {
             "Title": "SecV: Secure Code Partitioning via Multi-Language Secure Values.",
+            "Year": "2023",
+            "Predominant Continent": [
+                "EU"
+            ],
             "Authors and Institutions": [
                 {
                     "Author": "Peterson Yuhala",
@@ -13642,14 +13646,14 @@
                         }
                     ]
                 }
-            ],
-            "Year": "2023",
-            "Predominant Continent": [
-                "Europe"
             ]
         },
         {
             "Title": "Fast, Light-weight, and Accurate Performance Evaluation using Representative Datacenter Behaviors.",
+            "Year": "2023",
+            "Predominant Continent": [
+                "AS"
+            ],
             "Authors and Institutions": [
                 {
                     "Author": "Jong M. Lee",
@@ -13696,14 +13700,14 @@
                         }
                     ]
                 }
-            ],
-            "Year": "2023",
-            "Predominant Continent": [
-                "Asia"
             ]
         },
         {
             "Title": "Systematic Analysis of DDS Implementations.",
+            "Year": "2023",
+            "Predominant Continent": [
+                "EU"
+            ],
             "Authors and Institutions": [
                 {
                     "Author": "Vincent Bode",
@@ -13750,14 +13754,14 @@
                         }
                     ]
                 }
-            ],
-            "Year": "2023",
-            "Predominant Continent": [
-                "Europe"
             ]
         },
         {
             "Title": "Glider: Serverless Ephemeral Stateful Near-Data Computation.",
+            "Year": "2023",
+            "Predominant Continent": [
+                "EU"
+            ],
             "Authors and Institutions": [
                 {
                     "Author": "Daniel Barcelona-Pons",
@@ -13786,14 +13790,14 @@
                         }
                     ]
                 }
-            ],
-            "Year": "2023",
-            "Predominant Continent": [
-                "Europe"
             ]
         },
         {
             "Title": "SnapStore: A Snapshot Storage System for Serverless Systems.",
+            "Year": "2023",
+            "Predominant Continent": [
+                "AS"
+            ],
             "Authors and Institutions": [
                 {
                     "Author": "Abhisek Panda",
@@ -13813,14 +13817,14 @@
                         }
                     ]
                 }
-            ],
-            "Year": "2023",
-            "Predominant Continent": [
-                "Asia"
             ]
         },
         {
             "Title": "DynaCut: A Framework for Dynamic and Adaptive Program Customization.",
+            "Year": "2023",
+            "Predominant Continent": [
+                "NA"
+            ],
             "Authors and Institutions": [
                 {
                     "Author": "Amol G Mahurkar",
@@ -13862,14 +13866,14 @@
                         }
                     ]
                 }
-            ],
-            "Year": "2023",
-            "Predominant Continent": [
-                "North America"
             ]
         },
         {
             "Title": "FlexCast: Genuine Overlay-based Atomic Multicast.",
+            "Year": "2023",
+            "Predominant Continent": [
+                "SA"
+            ],
             "Authors and Institutions": [
                 {
                     "Author": "Eliã Batista",
@@ -13920,14 +13924,14 @@
                         }
                     ]
                 }
-            ],
-            "Year": "2023",
-            "Predominant Continent": [
-                "South America"
             ]
         },
         {
             "Title": "FLIPS: Federated Learning using Intelligent Participant Selection.",
+            "Year": "2023",
+            "Predominant Continent": [
+                "NA"
+            ],
             "Authors and Institutions": [
                 {
                     "Author": "Rahul Atul Bhope",
@@ -13974,14 +13978,14 @@
                         }
                     ]
                 }
-            ],
-            "Year": "2023",
-            "Predominant Continent": [
-                "North America"
             ]
         },
         {
             "Title": "Trustworthy confidential virtual machines for the masses.",
+            "Year": "2023",
+            "Predominant Continent": [
+                "EU"
+            ],
             "Authors and Institutions": [
                 {
                     "Author": "Anna Galanou",
@@ -14027,10 +14031,6 @@
                         }
                     ]
                 }
-            ],
-            "Year": "2023",
-            "Predominant Continent": [
-                "Europe"
             ]
         }
     ]

@@ -2,6 +2,10 @@
     "2013": [
         {
             "Title": "Dynamic Power- and Failure-Aware Cloud Resources Allocation for Sets of Independent Tasks.",
+            "Year": "2013",
+            "Predominant Continent": [
+                "EU"
+            ],
             "Authors and Institutions": [
                 {
                     "Author": "Altino M. Sampaio",
@@ -21,14 +25,14 @@
                         }
                     ]
                 }
-            ],
-            "Year": "2013",
-            "Predominant Continent": [
-                "Europe"
             ]
         },
         {
             "Title": "HPC-Aware VM Placement in Infrastructure Clouds.",
+            "Year": "2013",
+            "Predominant Continent": [
+                "NA"
+            ],
             "Authors and Institutions": [
                 {
                     "Author": "Abhishek Gupta",
@@ -70,14 +74,14 @@
                     "Author": "Susanne M. Balle",
                     "Institutions": []
                 }
-            ],
-            "Year": "2013",
-            "Predominant Continent": [
-                "North America"
             ]
         },
         {
             "Title": "Service Isolation vs. Consolidation: Implications for IaaS Cloud Application Deployment.",
+            "Year": "2013",
+            "Predominant Continent": [
+                "NA"
+            ],
             "Authors and Institutions": [
                 {
                     "Author": "Wes Lloyd",
@@ -133,14 +137,14 @@
                         }
                     ]
                 }
-            ],
-            "Year": "2013",
-            "Predominant Continent": [
-                "North America"
             ]
         },
         {
             "Title": "Cloud Federation: Effects of Federated Compute Resources on Quality of Service and Cost.",
+            "Year": "2013",
+            "Predominant Continent": [
+                "EU"
+            ],
             "Authors and Institutions": [
                 {
                     "Author": "David Bermbach",
@@ -169,14 +173,14 @@
                         }
                     ]
                 }
-            ],
-            "Year": "2013",
-            "Predominant Continent": [
-                "Europe"
             ]
         },
         {
             "Title": "PDS Cloud: Long Term Digital Preservation in the Cloud.",
+            "Year": "2013",
+            "Predominant Continent": [
+                "AS"
+            ],
             "Authors and Institutions": [
                 {
                     "Author": "Simona Rabinovici‐Cohen",
@@ -214,14 +218,14 @@
                         }
                     ]
                 }
-            ],
-            "Year": "2013",
-            "Predominant Continent": [
-                "Asia"
             ]
         },
         {
             "Title": "A Tool for Practical Garbage Collection Analysis in the Cloud.",
+            "Year": "2013",
+            "Predominant Continent": [
+                "NA"
+            ],
             "Authors and Institutions": [
                 {
                     "Author": "Arun Kejariwal",
@@ -232,14 +236,14 @@
                         }
                     ]
                 }
-            ],
-            "Year": "2013",
-            "Predominant Continent": [
-                "North America"
             ]
         },
         {
             "Title": "Towards Self-Adaptive Cloud Collaborations.",
+            "Year": "2013",
+            "Predominant Continent": [
+                "AS"
+            ],
             "Authors and Institutions": [
                 {
                     "Author": "Atul Gohad",
@@ -277,14 +281,14 @@
                         }
                     ]
                 }
-            ],
-            "Year": "2013",
-            "Predominant Continent": [
-                "Asia"
             ]
         },
         {
             "Title": "Employing Service Orientation to Enable Training as a Service in the U.S. Army.",
+            "Year": "2013",
+            "Predominant Continent": [
+                "NA"
+            ],
             "Authors and Institutions": [
                 {
                     "Author": "Jeremy T. Lanman",
@@ -304,25 +308,25 @@
                         }
                     ]
                 }
-            ],
-            "Year": "2013",
-            "Predominant Continent": [
-                "North America"
             ]
         },
         {
             "Title": "Leveraging Cloud for Enterprise Mobile Services Delivery.",
+            "Year": "2013",
+            "Predominant Continent": [],
             "Authors and Institutions": [
                 {
                     "Author": "S. Mastrianni",
                     "Institutions": []
                 }
-            ],
-            "Year": "2013",
-            "Predominant Continent": []
+            ]
         },
         {
             "Title": "Defining the Cloud Battlefield - Supporting Security Assessments by Cloud Customers.",
+            "Year": "2013",
+            "Predominant Continent": [
+                "EU"
+            ],
             "Authors and Institutions": [
                 {
                     "Author": "Sören Bleikertz",
@@ -368,14 +372,14 @@
                     "Author": "Trajce Dimkov",
                     "Institutions": []
                 }
-            ],
-            "Year": "2013",
-            "Predominant Continent": [
-                "Europe"
             ]
         },
         {
             "Title": "Defense-in-Depth Against Malicious Insiders in the Cloud.",
+            "Year": "2013",
+            "Predominant Continent": [
+                "EU"
+            ],
             "Authors and Institutions": [
                 {
                     "Author": "Francisco Rocha",
@@ -404,14 +408,14 @@
                         }
                     ]
                 }
-            ],
-            "Year": "2013",
-            "Predominant Continent": [
-                "Europe"
             ]
         },
         {
             "Title": "Network-Level Access Control Management for the Cloud.",
+            "Year": "2013",
+            "Predominant Continent": [
+                "NA"
+            ],
             "Authors and Institutions": [
                 {
                     "Author": "Kirk Beaty",
@@ -449,14 +453,14 @@
                         }
                     ]
                 }
-            ],
-            "Year": "2013",
-            "Predominant Continent": [
-                "North America"
             ]
         },
         {
             "Title": "Middleware-Layer for Authenticating Mobile Consumers of Amazon S3 Data.",
+            "Year": "2013",
+            "Predominant Continent": [
+                "NA"
+            ],
             "Authors and Institutions": [
                 {
                     "Author": "Richard K. Lomotey",
@@ -476,14 +480,12 @@
                         }
                     ]
                 }
-            ],
-            "Year": "2013",
-            "Predominant Continent": [
-                "North America"
             ]
         },
         {
             "Title": "A Middleware Guaranteeing Client-Centric Consistency on Top of Eventually Consistent Datastores.",
+            "Year": "2013",
+            "Predominant Continent": [],
             "Authors and Institutions": [
                 {
                     "Author": "David Bermbach",
@@ -505,12 +507,14 @@
                     "Author": "Stefan Tai",
                     "Institutions": []
                 }
-            ],
-            "Year": "2013",
-            "Predominant Continent": []
+            ]
         },
         {
             "Title": "An Analysis of the Server Characteristics and Resource Utilization in Google Cloud.",
+            "Year": "2013",
+            "Predominant Continent": [
+                "EU"
+            ],
             "Authors and Institutions": [
                 {
                     "Author": "Peter Garraghan",
@@ -539,14 +543,14 @@
                         }
                     ]
                 }
-            ],
-            "Year": "2013",
-            "Predominant Continent": [
-                "Europe"
             ]
         },
         {
             "Title": "Efficient Inter-cloud Replication for High-Availability Services.",
+            "Year": "2013",
+            "Predominant Continent": [
+                "EU"
+            ],
             "Authors and Institutions": [
                 {
                     "Author": "Abdallah Abouzamazem",
@@ -566,14 +570,14 @@
                         }
                     ]
                 }
-            ],
-            "Year": "2013",
-            "Predominant Continent": [
-                "Europe"
             ]
         },
         {
             "Title": "Distributed Collaborative Filtering on a Single Chip Cloud Computer.",
+            "Year": "2013",
+            "Predominant Continent": [
+                "NA"
+            ],
             "Authors and Institutions": [
                 {
                     "Author": "Aalap Tripathy",
@@ -611,14 +615,14 @@
                         }
                     ]
                 }
-            ],
-            "Year": "2013",
-            "Predominant Continent": [
-                "North America"
             ]
         },
         {
             "Title": "Scaling SeerSuite in the Cloud.",
+            "Year": "2013",
+            "Predominant Continent": [
+                "NA"
+            ],
             "Authors and Institutions": [
                 {
                     "Author": "Pradeep B. Teregowda",
@@ -638,14 +642,14 @@
                         }
                     ]
                 }
-            ],
-            "Year": "2013",
-            "Predominant Continent": [
-                "North America"
             ]
         },
         {
             "Title": "From Monolithic Systems to a Federated e-Learning Cloud System.",
+            "Year": "2013",
+            "Predominant Continent": [
+                "AS"
+            ],
             "Authors and Institutions": [
                 {
                     "Author": "Mon-Yen Luo",
@@ -665,14 +669,15 @@
                         }
                     ]
                 }
-            ],
-            "Year": "2013",
-            "Predominant Continent": [
-                "Asia"
             ]
         },
         {
             "Title": "The Impact of Mobile Multimedia Applications on Data Center Consolidation.",
+            "Year": "2013",
+            "Predominant Continent": [
+                "NA",
+                "EU"
+            ],
             "Authors and Institutions": [
                 {
                     "Author": "Kiryong Ha",
@@ -727,15 +732,14 @@
                         }
                     ]
                 }
-            ],
-            "Year": "2013",
-            "Predominant Continent": [
-                "North America",
-                "Europe"
             ]
         },
         {
             "Title": "Theius: A Streaming Visualization Suite for Hadoop Clusters.",
+            "Year": "2013",
+            "Predominant Continent": [
+                "NA"
+            ],
             "Authors and Institutions": [
                 {
                     "Author": "Jon Tedesco",
@@ -782,14 +786,14 @@
                         }
                     ]
                 }
-            ],
-            "Year": "2013",
-            "Predominant Continent": [
-                "North America"
             ]
         },
         {
             "Title": "Adaptive Fault Detection for Testing Tenant Applications in Multi-tenancy SaaS Systems.",
+            "Year": "2013",
+            "Predominant Continent": [
+                "NA"
+            ],
             "Authors and Institutions": [
                 {
                     "Author": "W.T. Tsai",
@@ -831,14 +835,14 @@
                         }
                     ]
                 }
-            ],
-            "Year": "2013",
-            "Predominant Continent": [
-                "North America"
             ]
         },
         {
             "Title": "Partitioning and Cloud Deployment of Composite Web Services under Security Constraints.",
+            "Year": "2013",
+            "Predominant Continent": [
+                "NA"
+            ],
             "Authors and Institutions": [
                 {
                     "Author": "Elio Goettelmann",
@@ -857,14 +861,14 @@
                     "Author": "Claude Godart",
                     "Institutions": []
                 }
-            ],
-            "Year": "2013",
-            "Predominant Continent": [
-                "North America"
             ]
         },
         {
             "Title": "A Configuration Crawler for Virtual Appliances in Compute Clouds.",
+            "Year": "2013",
+            "Predominant Continent": [
+                "EU"
+            ],
             "Authors and Institutions": [
                 {
                     "Author": "Michael Menzel",
@@ -902,14 +906,14 @@
                         }
                     ]
                 }
-            ],
-            "Year": "2013",
-            "Predominant Continent": [
-                "Europe"
             ]
         },
         {
             "Title": "Performance Optimizations for Interacting Business Processes.",
+            "Year": "2013",
+            "Predominant Continent": [
+                "EU"
+            ],
             "Authors and Institutions": [
                 {
                     "Author": "Sebastian Wagner",
@@ -956,14 +960,14 @@
                         }
                     ]
                 }
-            ],
-            "Year": "2013",
-            "Predominant Continent": [
-                "Europe"
             ]
         },
         {
             "Title": "A Framework for Controlling and Managing Hybrid Cloud Service Integration.",
+            "Year": "2013",
+            "Predominant Continent": [
+                "NA"
+            ],
             "Authors and Institutions": [
                 {
                     "Author": "Gerd Breiter",
@@ -978,14 +982,14 @@
                         }
                     ]
                 }
-            ],
-            "Year": "2013",
-            "Predominant Continent": [
-                "North America"
             ]
         },
         {
             "Title": "Anonymous Searchable Encryption Scheme for Multi-user Databases.",
+            "Year": "2013",
+            "Predominant Continent": [
+                "AS"
+            ],
             "Authors and Institutions": [
                 {
                     "Author": "Vijay Varadharajan",
@@ -1014,14 +1018,14 @@
                         }
                     ]
                 }
-            ],
-            "Year": "2013",
-            "Predominant Continent": [
-                "Asia"
             ]
         },
         {
             "Title": "Total Energy Management System for Cloud Computing.",
+            "Year": "2013",
+            "Predominant Continent": [
+                "AS"
+            ],
             "Authors and Institutions": [
                 {
                     "Author": "fumito Satoh",
@@ -1059,14 +1063,14 @@
                         }
                     ]
                 }
-            ],
-            "Year": "2013",
-            "Predominant Continent": [
-                "Asia"
             ]
         },
         {
             "Title": "Cloud Incident Data: An Empirical Analysis.",
+            "Year": "2013",
+            "Predominant Continent": [
+                "NA"
+            ],
             "Authors and Institutions": [
                 {
                     "Author": "Lance Fiondella",
@@ -1090,14 +1094,14 @@
                     "Author": "Veena Mendiratta",
                     "Institutions": []
                 }
-            ],
-            "Year": "2013",
-            "Predominant Continent": [
-                "North America"
             ]
         },
         {
             "Title": "A Differential Approach for Configuration Fault Localization in Cloud Environments.",
+            "Year": "2013",
+            "Predominant Continent": [
+                "AS"
+            ],
             "Authors and Institutions": [
                 {
                     "Author": "Kalapriya Kannan",
@@ -1117,14 +1121,14 @@
                         }
                     ]
                 }
-            ],
-            "Year": "2013",
-            "Predominant Continent": [
-                "Asia"
             ]
         },
         {
             "Title": "Techniques for Optimizing Cloud Footprint.",
+            "Year": "2013",
+            "Predominant Continent": [
+                "NA"
+            ],
             "Authors and Institutions": [
                 {
                     "Author": "Arun Kejariwal",
@@ -1135,14 +1139,14 @@
                         }
                     ]
                 }
-            ],
-            "Year": "2013",
-            "Predominant Continent": [
-                "North America"
             ]
         },
         {
             "Title": "An Auction-Based Resource Allocation Model for Green Cloud Computing.",
+            "Year": "2013",
+            "Predominant Continent": [
+                "AS"
+            ],
             "Authors and Institutions": [
                 {
                     "Author": "Tram Truong-Huu",
@@ -1162,14 +1166,14 @@
                         }
                     ]
                 }
-            ],
-            "Year": "2013",
-            "Predominant Continent": [
-                "Asia"
             ]
         },
         {
             "Title": "Adaptive Service Workflow Configuration and Agent-Based Virtual Resource Management in the Cloud.",
+            "Year": "2013",
+            "Predominant Continent": [
+                "NA"
+            ],
             "Authors and Institutions": [
                 {
                     "Author": "Yi Wei",
@@ -1189,14 +1193,14 @@
                         }
                     ]
                 }
-            ],
-            "Year": "2013",
-            "Predominant Continent": [
-                "North America"
             ]
         },
         {
             "Title": "Energy Saving in Mobile Cloud Computing.",
+            "Year": "2013",
+            "Predominant Continent": [
+                "NA"
+            ],
             "Authors and Institutions": [
                 {
                     "Author": "Mazedur Rahman",
@@ -1225,14 +1229,14 @@
                         }
                     ]
                 }
-            ],
-            "Year": "2013",
-            "Predominant Continent": [
-                "North America"
             ]
         },
         {
             "Title": "ABACUS: An Auction-Based Approach to Cloud Service Differentiation.",
+            "Year": "2013",
+            "Predominant Continent": [
+                "AS"
+            ],
             "Authors and Institutions": [
                 {
                     "Author": "Zhenjie Zhang",
@@ -1270,14 +1274,12 @@
                         }
                     ]
                 }
-            ],
-            "Year": "2013",
-            "Predominant Continent": [
-                "Asia"
             ]
         },
         {
             "Title": "CloudBench: Experiment Automation for Cloud Environments.",
+            "Year": "2013",
+            "Predominant Continent": [],
             "Authors and Institutions": [
                 {
                     "Author": "M. Silva",
@@ -1303,12 +1305,14 @@
                     "Author": "Dilma Da Silva",
                     "Institutions": []
                 }
-            ],
-            "Year": "2013",
-            "Predominant Continent": []
+            ]
         },
         {
             "Title": "VBoom: Creating a Virtual Machine Real Estate Boom.",
+            "Year": "2013",
+            "Predominant Continent": [
+                "NA"
+            ],
             "Authors and Institutions": [
                 {
                     "Author": "Kyung-Hwa Kim",
@@ -1331,14 +1335,14 @@
                     "Author": "Chunqiang Tang",
                     "Institutions": []
                 }
-            ],
-            "Year": "2013",
-            "Predominant Continent": [
-                "North America"
             ]
         },
         {
             "Title": "Katana: Generalized Data Processing on Peer-to-Peer Overlays.",
+            "Year": "2013",
+            "Predominant Continent": [
+                "AS"
+            ],
             "Authors and Institutions": [
                 {
                     "Author": "Wei Xiang Goh",
@@ -1358,14 +1362,14 @@
                         }
                     ]
                 }
-            ],
-            "Year": "2013",
-            "Predominant Continent": [
-                "Asia"
             ]
         },
         {
             "Title": "System G Data Store: Big, Rich Graph Data Analytics in the Cloud.",
+            "Year": "2013",
+            "Predominant Continent": [
+                "NA"
+            ],
             "Authors and Institutions": [
                 {
                     "Author": "Mustafa Canim",
@@ -1385,14 +1389,14 @@
                         }
                     ]
                 }
-            ],
-            "Year": "2013",
-            "Predominant Continent": [
-                "North America"
             ]
         },
         {
             "Title": "Cross-Phase Optimization in MapReduce.",
+            "Year": "2013",
+            "Predominant Continent": [
+                "NA"
+            ],
             "Authors and Institutions": [
                 {
                     "Author": "Benjamin Heintz",
@@ -1430,16 +1434,16 @@
                         }
                     ]
                 }
-            ],
-            "Year": "2013",
-            "Predominant Continent": [
-                "North America"
             ]
         }
     ],
     "2014": [
         {
             "Title": "Enterprise Database Applications and the Cloud: A Difficult Road Ahead.",
+            "Year": "2014",
+            "Predominant Continent": [
+                "NA"
+            ],
             "Authors and Institutions": [
                 {
                     "Author": "Michael Stonebraker",
@@ -1462,14 +1466,14 @@
                     "Author": "Michael L. Brodie",
                     "Institutions": []
                 }
-            ],
-            "Year": "2014",
-            "Predominant Continent": [
-                "North America"
             ]
         },
         {
             "Title": "Agentless Cloud-Wide Streaming of Guest File System Updates.",
+            "Year": "2014",
+            "Predominant Continent": [
+                "NA"
+            ],
             "Authors and Institutions": [
                 {
                     "Author": "W. Richter",
@@ -1525,14 +1529,14 @@
                         }
                     ]
                 }
-            ],
-            "Year": "2014",
-            "Predominant Continent": [
-                "North America"
             ]
         },
         {
             "Title": "Preservation of Security Configurations in the Cloud.",
+            "Year": "2014",
+            "Predominant Continent": [
+                "NA"
+            ],
             "Authors and Institutions": [
                 {
                     "Author": "Arash Eghtesadi",
@@ -1570,14 +1574,12 @@
                         }
                     ]
                 }
-            ],
-            "Year": "2014",
-            "Predominant Continent": [
-                "North America"
             ]
         },
         {
             "Title": "Benchmarking the Performance Impact of Transport Layer Security in Cloud Database Systems.",
+            "Year": "2014",
+            "Predominant Continent": [],
             "Authors and Institutions": [
                 {
                     "Author": "Steffen Müller",
@@ -1595,12 +1597,14 @@
                     "Author": "Frank Pallas",
                     "Institutions": []
                 }
-            ],
-            "Year": "2014",
-            "Predominant Continent": []
+            ]
         },
         {
             "Title": "Silver Lining: Enforcing Secure Information Flow at the Cloud Edge.",
+            "Year": "2014",
+            "Predominant Continent": [
+                "NA"
+            ],
             "Authors and Institutions": [
                 {
                     "Author": "Safwan Mahmud Khan",
@@ -1629,14 +1633,14 @@
                         }
                     ]
                 }
-            ],
-            "Year": "2014",
-            "Predominant Continent": [
-                "North America"
             ]
         },
         {
             "Title": "Benchmarking Eventual Consistency: Lessons Learned from Long-Term Experimental Studies.",
+            "Year": "2014",
+            "Predominant Continent": [
+                "EU"
+            ],
             "Authors and Institutions": [
                 {
                     "Author": "David Bermbach",
@@ -1656,14 +1660,14 @@
                         }
                     ]
                 }
-            ],
-            "Year": "2014",
-            "Predominant Continent": [
-                "Europe"
             ]
         },
         {
             "Title": "Nebula: Distributed Edge Cloud for Data Intensive Computing.",
+            "Year": "2014",
+            "Predominant Continent": [
+                "NA"
+            ],
             "Authors and Institutions": [
                 {
                     "Author": "Mathew Ryden",
@@ -1701,14 +1705,14 @@
                         }
                     ]
                 }
-            ],
-            "Year": "2014",
-            "Predominant Continent": [
-                "North America"
             ]
         },
         {
             "Title": "Distributed Diversification of Large Datasets.",
+            "Year": "2014",
+            "Predominant Continent": [
+                "NA"
+            ],
             "Authors and Institutions": [
                 {
                     "Author": "Mahbub Hasan",
@@ -1737,14 +1741,14 @@
                         }
                     ]
                 }
-            ],
-            "Year": "2014",
-            "Predominant Continent": [
-                "North America"
             ]
         },
         {
             "Title": "Building Cost-Effective Storage Clouds.",
+            "Year": "2014",
+            "Predominant Continent": [
+                "NA"
+            ],
             "Authors and Institutions": [
                 {
                     "Author": "Ning Zhang",
@@ -1759,14 +1763,12 @@
                     "Author": "Chander Kant",
                     "Institutions": []
                 }
-            ],
-            "Year": "2014",
-            "Predominant Continent": [
-                "North America"
             ]
         },
         {
             "Title": "Combining Declarative and Imperative Cloud Application Provisioning Based on TOSCA.",
+            "Year": "2014",
+            "Predominant Continent": [],
             "Authors and Institutions": [
                 {
                     "Author": "Uwe Breitenbücher",
@@ -1792,12 +1794,14 @@
                     "Author": "Johannes Wettinger",
                     "Institutions": []
                 }
-            ],
-            "Year": "2014",
-            "Predominant Continent": []
+            ]
         },
         {
             "Title": "Migrating a Digital Library to a Private Cloud.",
+            "Year": "2014",
+            "Predominant Continent": [
+                "NA"
+            ],
             "Authors and Institutions": [
                 {
                     "Author": "Jian Wu",
@@ -1871,14 +1875,14 @@
                         }
                     ]
                 }
-            ],
-            "Year": "2014",
-            "Predominant Continent": [
-                "North America"
             ]
         },
         {
             "Title": "Taiwan UniCloud: A Cloud Testbed with Collaborative Cloud Services.",
+            "Year": "2014",
+            "Predominant Continent": [
+                "AS"
+            ],
             "Authors and Institutions": [
                 {
                     "Author": "Wu-Chun Chung",
@@ -1952,14 +1956,14 @@
                         }
                     ]
                 }
-            ],
-            "Year": "2014",
-            "Predominant Continent": [
-                "Asia"
             ]
         },
         {
             "Title": "Towards Software Product Lines Based Cloud Architectures.",
+            "Year": "2014",
+            "Predominant Continent": [
+                "AS"
+            ],
             "Authors and Institutions": [
                 {
                     "Author": "Mohammad Abu Matar",
@@ -1988,14 +1992,14 @@
                         }
                     ]
                 }
-            ],
-            "Year": "2014",
-            "Predominant Continent": [
-                "Asia"
             ]
         },
         {
             "Title": "Template-Based Memory Deduplication Method for Inter-Data Center Live Migration of Virtual Machines.",
+            "Year": "2014",
+            "Predominant Continent": [
+                "AS"
+            ],
             "Authors and Institutions": [
                 {
                     "Author": "Mingyu Li",
@@ -2028,14 +2032,14 @@
                         }
                     ]
                 }
-            ],
-            "Year": "2014",
-            "Predominant Continent": [
-                "Asia"
             ]
         },
         {
             "Title": "An Adaptive Utilization Accelerator for Virtualized Environments.",
+            "Year": "2014",
+            "Predominant Continent": [
+                "AS"
+            ],
             "Authors and Institutions": [
                 {
                     "Author": "David Breitgand",
@@ -2100,14 +2104,14 @@
                         }
                     ]
                 }
-            ],
-            "Year": "2014",
-            "Predominant Continent": [
-                "Asia"
             ]
         },
         {
             "Title": "Scalable Business Process Execution in the Cloud.",
+            "Year": "2014",
+            "Predominant Continent": [
+                "EU"
+            ],
             "Authors and Institutions": [
                 {
                     "Author": "Seven Euting",
@@ -2154,14 +2158,14 @@
                         }
                     ]
                 }
-            ],
-            "Year": "2014",
-            "Predominant Continent": [
-                "Europe"
             ]
         },
         {
             "Title": "Using Network Knowledge to Improve Workload Performance in Virtualized Data Centers.",
+            "Year": "2014",
+            "Predominant Continent": [
+                "NA"
+            ],
             "Authors and Institutions": [
                 {
                     "Author": "David Erickson",
@@ -2199,14 +2203,14 @@
                         }
                     ]
                 }
-            ],
-            "Year": "2014",
-            "Predominant Continent": [
-                "North America"
             ]
         },
         {
             "Title": "Autoscaling Web Applications in Heterogeneous Cloud Infrastructures.",
+            "Year": "2014",
+            "Predominant Continent": [
+                "EU"
+            ],
             "Authors and Institutions": [
                 {
                     "Author": "Héctor Fernández",
@@ -2235,14 +2239,14 @@
                         }
                     ]
                 }
-            ],
-            "Year": "2014",
-            "Predominant Continent": [
-                "Europe"
             ]
         },
         {
             "Title": "Characterizing and Evaluating Different Deployment Approaches for Cloud Applications.",
+            "Year": "2014",
+            "Predominant Continent": [
+                "EU"
+            ],
             "Authors and Institutions": [
                 {
                     "Author": "Johannes Wettinger",
@@ -2280,14 +2284,15 @@
                         }
                     ]
                 }
-            ],
-            "Year": "2014",
-            "Predominant Continent": [
-                "Europe"
             ]
         },
         {
             "Title": "Exploring Models and Mechanisms for Exchanging Resources in a Federated Cloud.",
+            "Year": "2014",
+            "Predominant Continent": [
+                "EU",
+                "NA"
+            ],
             "Authors and Institutions": [
                 {
                     "Author": "Ioan Petri",
@@ -2343,15 +2348,14 @@
                         }
                     ]
                 }
-            ],
-            "Year": "2014",
-            "Predominant Continent": [
-                "Europe",
-                "North America"
             ]
         },
         {
             "Title": "Managing Tiny Tasks for Data-Parallel, Subsampling Workloads.",
+            "Year": "2014",
+            "Predominant Continent": [
+                "NA"
+            ],
             "Authors and Institutions": [
                 {
                     "Author": "Sundeep Kambhampati",
@@ -2393,14 +2397,14 @@
                     "Author": "Rajiv Ramnath",
                     "Institutions": []
                 }
-            ],
-            "Year": "2014",
-            "Predominant Continent": [
-                "North America"
             ]
         },
         {
             "Title": "Discovering the Structure of Cloud Applications Using Sampled Packet Traces.",
+            "Year": "2014",
+            "Predominant Continent": [
+                "NA"
+            ],
             "Authors and Institutions": [
                 {
                     "Author": "Hiroya Matsuba",
@@ -2438,14 +2442,14 @@
                         }
                     ]
                 }
-            ],
-            "Year": "2014",
-            "Predominant Continent": [
-                "North America"
             ]
         },
         {
             "Title": "TIOSA: Testing VM Interoperability at an OS and Application Level - A Hypervisor Testing Method and Interoperability Survey.",
+            "Year": "2014",
+            "Predominant Continent": [
+                "EU"
+            ],
             "Authors and Institutions": [
                 {
                     "Author": "Alexander Lenk",
@@ -2495,14 +2499,14 @@
                     "Author": "Govind Ballabh P",
                     "Institutions": []
                 }
-            ],
-            "Year": "2014",
-            "Predominant Continent": [
-                "Europe"
             ]
         },
         {
             "Title": "Service Usage Metering in Hybrid Cloud Environments.",
+            "Year": "2014",
+            "Predominant Continent": [
+                "NA"
+            ],
             "Authors and Institutions": [
                 {
                     "Author": "Vijay K. Naik",
@@ -2531,14 +2535,14 @@
                         }
                     ]
                 }
-            ],
-            "Year": "2014",
-            "Predominant Continent": [
-                "North America"
             ]
         },
         {
             "Title": "Blueprint for Business Middleware as a Managed Cloud Service.",
+            "Year": "2014",
+            "Predominant Continent": [
+                "NA"
+            ],
             "Authors and Institutions": [
                 {
                     "Author": "Paolo Dettori",
@@ -2561,14 +2565,12 @@
                     "Author": "Pierre Feillet",
                     "Institutions": []
                 }
-            ],
-            "Year": "2014",
-            "Predominant Continent": [
-                "North America"
             ]
         },
         {
             "Title": "Cloud Application Portability with TOSCA, Chef and Openstack.",
+            "Year": "2014",
+            "Predominant Continent": [],
             "Authors and Institutions": [
                 {
                     "Author": "Georgios Katsaros",
@@ -2594,12 +2596,12 @@
                     "Author": "Jacob Eberhardt",
                     "Institutions": []
                 }
-            ],
-            "Year": "2014",
-            "Predominant Continent": []
+            ]
         },
         {
             "Title": "Forensic Virtual Machines: Dynamic Defence in the Cloud via Introspection.",
+            "Year": "2014",
+            "Predominant Continent": [],
             "Authors and Institutions": [
                 {
                     "Author": "Adrian L. Shaw",
@@ -2621,12 +2623,14 @@
                     "Author": "Chris Dalton",
                     "Institutions": []
                 }
-            ],
-            "Year": "2014",
-            "Predominant Continent": []
+            ]
         },
         {
             "Title": "Benchmarking Private Cloud Performance with User-Centric Metrics.",
+            "Year": "2014",
+            "Predominant Continent": [
+                "AS"
+            ],
             "Authors and Institutions": [
                 {
                     "Author": "Bin Sun",
@@ -2673,16 +2677,16 @@
                         }
                     ]
                 }
-            ],
-            "Year": "2014",
-            "Predominant Continent": [
-                "Asia"
             ]
         }
     ],
     "2015": [
         {
             "Title": "Graph Aware Caching Policy for Distributed Graph Stores.",
+            "Year": "2015",
+            "Predominant Continent": [
+                "AS"
+            ],
             "Authors and Institutions": [
                 {
                     "Author": "Hidayet Aksu",
@@ -2729,14 +2733,14 @@
                         }
                     ]
                 }
-            ],
-            "Year": "2015",
-            "Predominant Continent": [
-                "Asia"
             ]
         },
         {
             "Title": "Smart Cache: An Optimized MapReduce Implementation of Frequent Itemset Mining.",
+            "Year": "2015",
+            "Predominant Continent": [
+                "NA"
+            ],
             "Authors and Institutions": [
                 {
                     "Author": "Daixin Huang",
@@ -2774,14 +2778,14 @@
                         }
                     ]
                 }
-            ],
-            "Year": "2015",
-            "Predominant Continent": [
-                "North America"
             ]
         },
         {
             "Title": "Cloud-Based, User-Centric Mobile Application Optimization.",
+            "Year": "2015",
+            "Predominant Continent": [
+                "NA"
+            ],
             "Authors and Institutions": [
                 {
                     "Author": "Jack Kolb",
@@ -2828,14 +2832,14 @@
                         }
                     ]
                 }
-            ],
-            "Year": "2015",
-            "Predominant Continent": [
-                "North America"
             ]
         },
         {
             "Title": "Cloud Desktop Workload: A Characterization Study.",
+            "Year": "2015",
+            "Predominant Continent": [
+                "EU"
+            ],
             "Authors and Institutions": [
                 {
                     "Author": "Emiliano Casalicchio",
@@ -2854,14 +2858,14 @@
                     "Author": "Luca Silvestri",
                     "Institutions": []
                 }
-            ],
-            "Year": "2015",
-            "Predominant Continent": [
-                "Europe"
             ]
         },
         {
             "Title": "Leveraging Linux Containers to Achieve High Availability for Cloud Services.",
+            "Year": "2015",
+            "Predominant Continent": [
+                "NA"
+            ],
             "Authors and Institutions": [
                 {
                     "Author": "Wubin Li",
@@ -2890,14 +2894,14 @@
                         }
                     ]
                 }
-            ],
-            "Year": "2015",
-            "Predominant Continent": [
-                "North America"
             ]
         },
         {
             "Title": "Polyglot Application Auto Scaling Service for Platform as a Service Cloud.",
+            "Year": "2015",
+            "Predominant Continent": [
+                "AS"
+            ],
             "Authors and Institutions": [
                 {
                     "Author": "Seetharami Seelam",
@@ -2920,14 +2924,14 @@
                         }
                     ]
                 }
-            ],
-            "Year": "2015",
-            "Predominant Continent": [
-                "Asia"
             ]
         },
         {
             "Title": "Cloud Storage Infrastructure Optimization Analytics.",
+            "Year": "2015",
+            "Predominant Continent": [
+                "NA"
+            ],
             "Authors and Institutions": [
                 {
                     "Author": "Ramani Routray",
@@ -2938,14 +2942,14 @@
                         }
                     ]
                 }
-            ],
-            "Year": "2015",
-            "Predominant Continent": [
-                "North America"
             ]
         },
         {
             "Title": "In-memory Computing for Scalable Data Analytics.",
+            "Year": "2015",
+            "Predominant Continent": [
+                "NA"
+            ],
             "Authors and Institutions": [
                 {
                     "Author": "Jun Li",
@@ -2956,14 +2960,14 @@
                         }
                     ]
                 }
-            ],
-            "Year": "2015",
-            "Predominant Continent": [
-                "North America"
             ]
         },
         {
             "Title": "Stratus ML: A Layered Cloud Modeling Framework.",
+            "Year": "2015",
+            "Predominant Continent": [
+                "NA"
+            ],
             "Authors and Institutions": [
                 {
                     "Author": "Mohammad Hamdaqa",
@@ -2983,14 +2987,15 @@
                         }
                     ]
                 }
-            ],
-            "Year": "2015",
-            "Predominant Continent": [
-                "North America"
             ]
         },
         {
             "Title": "Kangaroo: A Tenant-Centric Software-Defined Cloud Infrastructure.",
+            "Year": "2015",
+            "Predominant Continent": [
+                "EU",
+                "NA"
+            ],
             "Authors and Institutions": [
                 {
                     "Author": "Kaveh Razavi",
@@ -3040,15 +3045,14 @@
                     "Author": "Thilo Kielmann",
                     "Institutions": []
                 }
-            ],
-            "Year": "2015",
-            "Predominant Continent": [
-                "Europe",
-                "North America"
             ]
         },
         {
             "Title": "Understanding Real World Data Corruptions in Cloud Systems.",
+            "Year": "2015",
+            "Predominant Continent": [
+                "NA"
+            ],
             "Authors and Institutions": [
                 {
                     "Author": "Peipei Wang",
@@ -3077,14 +3081,14 @@
                         }
                     ]
                 }
-            ],
-            "Year": "2015",
-            "Predominant Continent": [
-                "North America"
             ]
         },
         {
             "Title": "An Automated Parallel Approach for Rapid Deployment of Composite Application Servers.",
+            "Year": "2015",
+            "Predominant Continent": [
+                "AS"
+            ],
             "Authors and Institutions": [
                 {
                     "Author": "Yasuharu Katsuno",
@@ -3104,14 +3108,14 @@
                         }
                     ]
                 }
-            ],
-            "Year": "2015",
-            "Predominant Continent": [
-                "Asia"
             ]
         },
         {
             "Title": "Transforming Vertical Web Applications into Elastic Cloud Applications.",
+            "Year": "2015",
+            "Predominant Continent": [
+                "EU"
+            ],
             "Authors and Institutions": [
                 {
                     "Author": "Nikola Tanković",
@@ -3144,14 +3148,14 @@
                         }
                     ]
                 }
-            ],
-            "Year": "2015",
-            "Predominant Continent": [
-                "Europe"
             ]
         },
         {
             "Title": "Flex Tuner: A Flexible Container-Based Tuning System for Cloud Applications.",
+            "Year": "2015",
+            "Predominant Continent": [
+                "NA"
+            ],
             "Authors and Institutions": [
                 {
                     "Author": "Yongen Yu",
@@ -3198,14 +3202,14 @@
                         }
                     ]
                 }
-            ],
-            "Year": "2015",
-            "Predominant Continent": [
-                "North America"
             ]
         },
         {
             "Title": "Efficient Retrieval of Key Material for Inspecting Potentially Malicious Traffic in the Cloud.",
+            "Year": "2015",
+            "Predominant Continent": [
+                "EU"
+            ],
             "Authors and Institutions": [
                 {
                     "Author": "John T. Saxon",
@@ -3234,14 +3238,14 @@
                         }
                     ]
                 }
-            ],
-            "Year": "2015",
-            "Predominant Continent": [
-                "Europe"
             ]
         },
         {
             "Title": "Substring Position Search over Encrypted Cloud Data Using Tree-Based Index.",
+            "Year": "2015",
+            "Predominant Continent": [
+                "NA"
+            ],
             "Authors and Institutions": [
                 {
                     "Author": "Mikhail Strizhov",
@@ -3261,14 +3265,14 @@
                         }
                     ]
                 }
-            ],
-            "Year": "2015",
-            "Predominant Continent": [
-                "North America"
             ]
         },
         {
             "Title": "Verifiable Delegated Set Intersection Operations on Outsourced Encrypted Data.",
+            "Year": "2015",
+            "Predominant Continent": [
+                "NA"
+            ],
             "Authors and Institutions": [
                 {
                     "Author": "Qingji Zheng",
@@ -3288,14 +3292,12 @@
                         }
                     ]
                 }
-            ],
-            "Year": "2015",
-            "Predominant Continent": [
-                "North America"
             ]
         },
         {
             "Title": "Scalable Attestation: A Step Toward Secure and Trusted Clouds.",
+            "Year": "2015",
+            "Predominant Continent": [],
             "Authors and Institutions": [
                 {
                     "Author": "Stefan Berger",
@@ -3321,12 +3323,14 @@
                     "Author": "Mimi Zohar",
                     "Institutions": []
                 }
-            ],
-            "Year": "2015",
-            "Predominant Continent": []
+            ]
         },
         {
             "Title": "Cross-Layer Scheduling in Cloud Systems.",
+            "Year": "2015",
+            "Predominant Continent": [
+                "NA"
+            ],
             "Authors and Institutions": [
                 {
                     "Author": "Hilfi Alkaff",
@@ -3355,14 +3359,14 @@
                         }
                     ]
                 }
-            ],
-            "Year": "2015",
-            "Predominant Continent": [
-                "North America"
             ]
         },
         {
             "Title": "Resource Defragmentation Using Market-Driven Allocation in Virtual Desktop Clouds.",
+            "Year": "2015",
+            "Predominant Continent": [
+                "NA"
+            ],
             "Authors and Institutions": [
                 {
                     "Author": "Prasad Calyam",
@@ -3416,14 +3420,14 @@
                         }
                     ]
                 }
-            ],
-            "Year": "2015",
-            "Predominant Continent": [
-                "North America"
             ]
         },
         {
             "Title": "Using Trustworthy Simulation to Engineer Cloud Schedulers.",
+            "Year": "2015",
+            "Predominant Continent": [
+                "NA"
+            ],
             "Authors and Institutions": [
                 {
                     "Author": "Alexander Pucher",
@@ -3461,14 +3465,14 @@
                         }
                     ]
                 }
-            ],
-            "Year": "2015",
-            "Predominant Continent": [
-                "North America"
             ]
         },
         {
             "Title": "A Multi-resource Sharing-Aware Approximation Algorithm for Virtual Machine Maximization.",
+            "Year": "2015",
+            "Predominant Continent": [
+                "NA"
+            ],
             "Authors and Institutions": [
                 {
                     "Author": "Safraz Rampersaud",
@@ -3488,16 +3492,16 @@
                         }
                     ]
                 }
-            ],
-            "Year": "2015",
-            "Predominant Continent": [
-                "North America"
             ]
         }
     ],
     "2016": [
         {
             "Title": "Not All Joules are Equal: Towards Energy-Efficient and Green-Aware Data Processing Frameworks.",
+            "Year": "2016",
+            "Predominant Continent": [
+                "AS"
+            ],
             "Authors and Institutions": [
                 {
                     "Author": "Zhaojie Niu",
@@ -3526,14 +3530,14 @@
                         }
                     ]
                 }
-            ],
-            "Year": "2016",
-            "Predominant Continent": [
-                "Asia"
             ]
         },
         {
             "Title": "Supporting On-demand Elasticity in Distributed Graph Processing.",
+            "Year": "2016",
+            "Predominant Continent": [
+                "NA"
+            ],
             "Authors and Institutions": [
                 {
                     "Author": "Mayank Pundir",
@@ -3580,14 +3584,14 @@
                         }
                     ]
                 }
-            ],
-            "Year": "2016",
-            "Predominant Continent": [
-                "North America"
             ]
         },
         {
             "Title": "Stela: Enabling Stream Processing Systems to Scale-in and Scale-out On-demand.",
+            "Year": "2016",
+            "Predominant Continent": [
+                "NA"
+            ],
             "Authors and Institutions": [
                 {
                     "Author": "Ling Xu",
@@ -3616,14 +3620,12 @@
                         }
                     ]
                 }
-            ],
-            "Year": "2016",
-            "Predominant Continent": [
-                "North America"
             ]
         },
         {
             "Title": "Awan: Locality-Aware Resource Manager for Geo-Distributed Data-Intensive Applications.",
+            "Year": "2016",
+            "Predominant Continent": [],
             "Authors and Institutions": [
                 {
                     "Author": "Albert Jonathan",
@@ -3637,12 +3639,14 @@
                     "Author": "Jon Weissman",
                     "Institutions": []
                 }
-            ],
-            "Year": "2016",
-            "Predominant Continent": []
+            ]
         },
         {
             "Title": "Information Flow Audit for PaaS Clouds.",
+            "Year": "2016",
+            "Predominant Continent": [
+                "EU"
+            ],
             "Authors and Institutions": [
                 {
                     "Author": "Thomas Pasquier",
@@ -3680,14 +3684,15 @@
                         }
                     ]
                 }
-            ],
-            "Year": "2016",
-            "Predominant Continent": [
-                "Europe"
             ]
         },
         {
             "Title": "Surviving Failures with Performance-Centric Bandwidth Allocation in Private Datacenters.",
+            "Year": "2016",
+            "Predominant Continent": [
+                "NA",
+                "AS"
+            ],
             "Authors and Institutions": [
                 {
                     "Author": "Li Chen",
@@ -3720,15 +3725,12 @@
                         }
                     ]
                 }
-            ],
-            "Year": "2016",
-            "Predominant Continent": [
-                "North America",
-                "Asia"
             ]
         },
         {
             "Title": "LOGAN: Problem Diagnosis in the Cloud Using Log-Based Reference Models.",
+            "Year": "2016",
+            "Predominant Continent": [],
             "Authors and Institutions": [
                 {
                     "Author": "Byung Chul Tak",
@@ -3750,12 +3752,14 @@
                     "Author": "Yaoping Ruan",
                     "Institutions": []
                 }
-            ],
-            "Year": "2016",
-            "Predominant Continent": []
+            ]
         },
         {
             "Title": "The Discovery Cloud: Accelerating and Democratizing Research on a Global Scale.",
+            "Year": "2016",
+            "Predominant Continent": [
+                "NA"
+            ],
             "Authors and Institutions": [
                 {
                     "Author": "Ian Foster",
@@ -3796,14 +3800,14 @@
                         }
                     ]
                 }
-            ],
-            "Year": "2016",
-            "Predominant Continent": [
-                "North America"
             ]
         },
         {
             "Title": "Cost-Aware Scalability of Applications in Public Clouds.",
+            "Year": "2016",
+            "Predominant Continent": [
+                "EU"
+            ],
             "Authors and Institutions": [
                 {
                     "Author": "Daniel Moldovan",
@@ -3832,14 +3836,12 @@
                         }
                     ]
                 }
-            ],
-            "Year": "2016",
-            "Predominant Continent": [
-                "Europe"
             ]
         },
         {
             "Title": "Cloud Instance Management and Resource Prediction for Computation-as-a-Service Platforms.",
+            "Year": "2016",
+            "Predominant Continent": [],
             "Authors and Institutions": [
                 {
                     "Author": "Joseph Doyle",
@@ -3857,12 +3859,14 @@
                     "Author": "Yiannis Andreopoulos",
                     "Institutions": []
                 }
-            ],
-            "Year": "2016",
-            "Predominant Continent": []
+            ]
         },
         {
             "Title": "A Comparative Evaluation of Algorithms for Auction-Based Cloud Pricing Prediction.",
+            "Year": "2016",
+            "Predominant Continent": [
+                "SA"
+            ],
             "Authors and Institutions": [
                 {
                     "Author": "Sara Arevalos",
@@ -3891,14 +3895,14 @@
                         }
                     ]
                 }
-            ],
-            "Year": "2016",
-            "Predominant Continent": [
-                "South America"
             ]
         },
         {
             "Title": "Autoscaling for Hadoop Clusters.",
+            "Year": "2016",
+            "Predominant Continent": [
+                "NA"
+            ],
             "Authors and Institutions": [
                 {
                     "Author": "Anshul Gandhi",
@@ -3930,14 +3934,14 @@
                     "Author": "Li Zhang",
                     "Institutions": []
                 }
-            ],
-            "Year": "2016",
-            "Predominant Continent": [
-                "North America"
             ]
         },
         {
             "Title": "UIE: User-Centric Interference Estimation for Cloud Applications.",
+            "Year": "2016",
+            "Predominant Continent": [
+                "NA"
+            ],
             "Authors and Institutions": [
                 {
                     "Author": "Seyyed Ahmad Javadi",
@@ -3975,14 +3979,14 @@
                         }
                     ]
                 }
-            ],
-            "Year": "2016",
-            "Predominant Continent": [
-                "North America"
             ]
         },
         {
             "Title": "GeoScale: Providing Geo-Elasticity in Distributed Clouds.",
+            "Year": "2016",
+            "Predominant Continent": [
+                "NA"
+            ],
             "Authors and Institutions": [
                 {
                     "Author": "Tian Guo",
@@ -4011,14 +4015,14 @@
                         }
                     ]
                 }
-            ],
-            "Year": "2016",
-            "Predominant Continent": [
-                "North America"
             ]
         },
         {
             "Title": "Attribute-Based Partial Geo-Replication System.",
+            "Year": "2016",
+            "Predominant Continent": [
+                "NA"
+            ],
             "Authors and Institutions": [
                 {
                     "Author": "Hobin Yoon",
@@ -4047,14 +4051,14 @@
                         }
                     ]
                 }
-            ],
-            "Year": "2016",
-            "Predominant Continent": [
-                "North America"
             ]
         },
         {
             "Title": "A Genetic Algorithm for Dynamic Cloud Application Brokerage.",
+            "Year": "2016",
+            "Predominant Continent": [
+                "SA"
+            ],
             "Authors and Institutions": [
                 {
                     "Author": "Lino Chamorro",
@@ -4083,14 +4087,14 @@
                         }
                     ]
                 }
-            ],
-            "Year": "2016",
-            "Predominant Continent": [
-                "South America"
             ]
         },
         {
             "Title": "A Reinforcement Learning-Based Power Management Framework for Green Computing Data Centers.",
+            "Year": "2016",
+            "Predominant Continent": [
+                "NA"
+            ],
             "Authors and Institutions": [
                 {
                     "Author": "Xue Lin",
@@ -4119,14 +4123,14 @@
                         }
                     ]
                 }
-            ],
-            "Year": "2016",
-            "Predominant Continent": [
-                "North America"
             ]
         },
         {
             "Title": "Automatic Extraction of Metrics from SLAs for Cloud Service Management.",
+            "Year": "2016",
+            "Predominant Continent": [
+                "NA"
+            ],
             "Authors and Institutions": [
                 {
                     "Author": "Sudip Mittal",
@@ -4164,14 +4168,14 @@
                         }
                     ]
                 }
-            ],
-            "Year": "2016",
-            "Predominant Continent": [
-                "North America"
             ]
         },
         {
             "Title": "SENDIM for Incremental Development of Cloud Networks: Simulation, Emulation and Deployment Integration Middleware.",
+            "Year": "2016",
+            "Predominant Continent": [
+                "EU"
+            ],
             "Authors and Institutions": [
                 {
                     "Author": "Pradeeban Kathiravelu",
@@ -4199,14 +4203,14 @@
                         }
                     ]
                 }
-            ],
-            "Year": "2016",
-            "Predominant Continent": [
-                "Europe"
             ]
         },
         {
             "Title": "Building Compliance and Security Reference Architectures (CSRA) for Cloud Systems.",
+            "Year": "2016",
+            "Predominant Continent": [
+                "NA"
+            ],
             "Authors and Institutions": [
                 {
                     "Author": "Dereje Yimam",
@@ -4226,14 +4230,15 @@
                         }
                     ]
                 }
-            ],
-            "Year": "2016",
-            "Predominant Continent": [
-                "North America"
             ]
         },
         {
             "Title": "Barrier-Aware Max-Min Fair Bandwidth Sharing and Path Selection in Datacenter Networks.",
+            "Year": "2016",
+            "Predominant Continent": [
+                "NA",
+                "AS"
+            ],
             "Authors and Institutions": [
                 {
                     "Author": "Li Chen",
@@ -4266,15 +4271,14 @@
                         }
                     ]
                 }
-            ],
-            "Year": "2016",
-            "Predominant Continent": [
-                "North America",
-                "Asia"
             ]
         },
         {
             "Title": "Phurti: Application and Network-Aware Flow Scheduling for Multi-tenant MapReduce Clusters.",
+            "Year": "2016",
+            "Predominant Continent": [
+                "NA"
+            ],
             "Authors and Institutions": [
                 {
                     "Author": "Chris X. Cai",
@@ -4316,14 +4320,12 @@
                     "Author": "Franck Le",
                     "Institutions": []
                 }
-            ],
-            "Year": "2016",
-            "Predominant Continent": [
-                "North America"
             ]
         },
         {
             "Title": "Exploring the Use of Tags for Georeplicated Content Placement.",
+            "Year": "2016",
+            "Predominant Continent": [],
             "Authors and Institutions": [
                 {
                     "Author": "Stéphane Delbruel",
@@ -4337,12 +4339,14 @@
                     "Author": "François Taı̈ani",
                     "Institutions": []
                 }
-            ],
-            "Year": "2016",
-            "Predominant Continent": []
+            ]
         },
         {
             "Title": "Multi-cache: Dynamic, Efficient Partitioning for Multi-tier Caches in Consolidated VM Environments.",
+            "Year": "2016",
+            "Predominant Continent": [
+                "NA"
+            ],
             "Authors and Institutions": [
                 {
                     "Author": "Sundaresan Rajasekaran",
@@ -4380,14 +4384,14 @@
                         }
                     ]
                 }
-            ],
-            "Year": "2016",
-            "Predominant Continent": [
-                "North America"
             ]
         },
         {
             "Title": "Container-Based Cloud Virtual Machine Benchmarking.",
+            "Year": "2016",
+            "Predominant Continent": [
+                "EU"
+            ],
             "Authors and Institutions": [
                 {
                     "Author": "Blesson Varghese",
@@ -4425,14 +4429,12 @@
                         }
                     ]
                 }
-            ],
-            "Year": "2016",
-            "Predominant Continent": [
-                "Europe"
             ]
         },
         {
             "Title": "Container and Microservice Driven Design for Cloud Infrastructure DevOps.",
+            "Year": "2016",
+            "Predominant Continent": [],
             "Authors and Institutions": [
                 {
                     "Author": "Hui Kang",
@@ -4446,14 +4448,14 @@
                     "Author": "Tao Shu",
                     "Institutions": []
                 }
-            ],
-            "Year": "2016",
-            "Predominant Continent": []
+            ]
         }
     ],
     "2017": [
         {
             "Title": "iCSI: A Cloud Garbage VM Collector for Addressing Inactive VMs with Machine Learning.",
+            "Year": "2017",
+            "Predominant Continent": [],
             "Authors and Institutions": [
                 {
                     "Author": "In Kee Kim",
@@ -4475,12 +4477,14 @@
                     "Author": "Marty Humphrey",
                     "Institutions": []
                 }
-            ],
-            "Year": "2017",
-            "Predominant Continent": []
+            ]
         },
         {
             "Title": "Dark Shadows: User-Level Guest/Host Linux Process Shadowing.",
+            "Year": "2017",
+            "Predominant Continent": [
+                "NA"
+            ],
             "Authors and Institutions": [
                 {
                     "Author": "Peter A. Dinda",
@@ -4500,14 +4504,15 @@
                         }
                     ]
                 }
-            ],
-            "Year": "2017",
-            "Predominant Continent": [
-                "North America"
             ]
         },
         {
             "Title": "BalCon: A Distributed Elastic SDN Control via Efficient Switch Migration.",
+            "Year": "2017",
+            "Predominant Continent": [
+                "EU",
+                "NA"
+            ],
             "Authors and Institutions": [
                 {
                     "Author": "Marco Cello",
@@ -4553,15 +4558,14 @@
                         }
                     ]
                 }
-            ],
-            "Year": "2017",
-            "Predominant Continent": [
-                "Europe",
-                "North America"
             ]
         },
         {
             "Title": "Agile Composition of Compliant Data Analytics Platforms.",
+            "Year": "2017",
+            "Predominant Continent": [
+                "NA"
+            ],
             "Authors and Institutions": [
                 {
                     "Author": "Michael Le",
@@ -4608,14 +4612,14 @@
                         }
                     ]
                 }
-            ],
-            "Year": "2017",
-            "Predominant Continent": [
-                "North America"
             ]
         },
         {
             "Title": "An Early Functional and Performance Experiment of the MarFS Hybrid Storage EcoSystem.",
+            "Year": "2017",
+            "Predominant Continent": [
+                "NA"
+            ],
             "Authors and Institutions": [
                 {
                     "Author": "Hsing‐Bung Chen",
@@ -4644,14 +4648,14 @@
                         }
                     ]
                 }
-            ],
-            "Year": "2017",
-            "Predominant Continent": [
-                "North America"
             ]
         },
         {
             "Title": "Columbus: Filesystem Tree Introspection for Software Discovery.",
+            "Year": "2017",
+            "Predominant Continent": [
+                "AS"
+            ],
             "Authors and Institutions": [
                 {
                     "Author": "Shripad Nadgowda",
@@ -4674,14 +4678,14 @@
                         }
                     ]
                 }
-            ],
-            "Year": "2017",
-            "Predominant Continent": [
-                "Asia"
             ]
         },
         {
             "Title": "GENPACK: A Generational Scheduler for Cloud Data Centers.",
+            "Year": "2017",
+            "Predominant Continent": [
+                "EU"
+            ],
             "Authors and Institutions": [
                 {
                     "Author": "Aurélien Havet",
@@ -4741,14 +4745,14 @@
                         }
                     ]
                 }
-            ],
-            "Year": "2017",
-            "Predominant Continent": [
-                "Europe"
             ]
         },
         {
             "Title": "CloudGC: Recycling Idle Virtual Machines in the Cloud.",
+            "Year": "2017",
+            "Predominant Continent": [
+                "EU"
+            ],
             "Authors and Institutions": [
                 {
                     "Author": "Bo Zhang",
@@ -4823,14 +4827,14 @@
                         }
                     ]
                 }
-            ],
-            "Year": "2017",
-            "Predominant Continent": [
-                "Europe"
             ]
         },
         {
             "Title": "CoMICon: A Co-Operative Management System for Docker Container Images.",
+            "Year": "2017",
+            "Predominant Continent": [
+                "AS"
+            ],
             "Authors and Institutions": [
                 {
                     "Author": "Senthil Nathan",
@@ -4853,14 +4857,14 @@
                     "Author": "Krishnaprasad Narayanan",
                     "Institutions": []
                 }
-            ],
-            "Year": "2017",
-            "Predominant Continent": [
-                "Asia"
             ]
         },
         {
             "Title": "Cloud Engineering Principles and Technology Enablers for Medical Image Processing-as-a-Service.",
+            "Year": "2017",
+            "Predominant Continent": [
+                "NA"
+            ],
             "Authors and Institutions": [
                 {
                     "Author": "Shunxing Bao",
@@ -4898,14 +4902,14 @@
                         }
                     ]
                 }
-            ],
-            "Year": "2017",
-            "Predominant Continent": [
-                "North America"
             ]
         },
         {
             "Title": "Revising OpenStack to Operate Fog/Edge Computing Infrastructures.",
+            "Year": "2017",
+            "Predominant Continent": [
+                "EU"
+            ],
             "Authors and Institutions": [
                 {
                     "Author": "Adrien Lèbre",
@@ -4963,14 +4967,14 @@
                         }
                     ]
                 }
-            ],
-            "Year": "2017",
-            "Predominant Continent": [
-                "Europe"
             ]
         },
         {
             "Title": "Meeting Latency Target in Transient Burst: A Case on Spark Streaming.",
+            "Year": "2017",
+            "Predominant Continent": [
+                "EU"
+            ],
             "Authors and Institutions": [
                 {
                     "Author": "Robert Birke",
@@ -5003,14 +5007,12 @@
                         }
                     ]
                 }
-            ],
-            "Year": "2017",
-            "Predominant Continent": [
-                "Europe"
             ]
         },
         {
             "Title": "Mitigating Resource Contention and Heterogeneity in Public Clouds for Scientific Modeling Services.",
+            "Year": "2017",
+            "Predominant Continent": [],
             "Authors and Institutions": [
                 {
                     "Author": "Wes Lloyd",
@@ -5032,12 +5034,14 @@
                     "Author": "Ken Rojas",
                     "Institutions": []
                 }
-            ],
-            "Year": "2017",
-            "Predominant Continent": []
+            ]
         },
         {
             "Title": "One Time Trapdoor Based Searchable Encryption.",
+            "Year": "2017",
+            "Predominant Continent": [
+                "AS"
+            ],
             "Authors and Institutions": [
                 {
                     "Author": "Kulvaibhav Kaushik",
@@ -5057,14 +5061,14 @@
                         }
                     ]
                 }
-            ],
-            "Year": "2017",
-            "Predominant Continent": [
-                "Asia"
             ]
         },
         {
             "Title": "QUEST: Search-Driven Management of Cloud-Scale Data Centers.",
+            "Year": "2017",
+            "Predominant Continent": [
+                "NA"
+            ],
             "Authors and Institutions": [
                 {
                     "Author": "Atreyee Maiti",
@@ -5102,14 +5106,14 @@
                         }
                     ]
                 }
-            ],
-            "Year": "2017",
-            "Predominant Continent": [
-                "North America"
             ]
         },
         {
             "Title": "Performance Impact of DDoS Attacks on Three Virtual Machine Hypervisors.",
+            "Year": "2017",
+            "Predominant Continent": [
+                "NA"
+            ],
             "Authors and Institutions": [
                 {
                     "Author": "Pezhman Sheinidashtegol",
@@ -5129,14 +5133,14 @@
                         }
                     ]
                 }
-            ],
-            "Year": "2017",
-            "Predominant Continent": [
-                "North America"
             ]
         },
         {
             "Title": "Trustworthy Services Built on Event-Based Probing for Layered Defense.",
+            "Year": "2017",
+            "Predominant Continent": [
+                "NA"
+            ],
             "Authors and Institutions": [
                 {
                     "Author": "Read Sprabery",
@@ -5192,14 +5196,12 @@
                         }
                     ]
                 }
-            ],
-            "Year": "2017",
-            "Predominant Continent": [
-                "North America"
             ]
         },
         {
             "Title": "VirtusCap: Capability-Based Access Control for Unikernels.",
+            "Year": "2017",
+            "Predominant Continent": [],
             "Authors and Institutions": [
                 {
                     "Author": "Ioannis Sfyrakis",
@@ -5209,14 +5211,16 @@
                     "Author": "Thomas GrosB",
                     "Institutions": []
                 }
-            ],
-            "Year": "2017",
-            "Predominant Continent": []
+            ]
         }
     ],
     "2018": [
         {
             "Title": "Understanding Real-World Timeout Problems in Cloud Server Systems.",
+            "Year": "2018",
+            "Predominant Continent": [
+                "NA"
+            ],
             "Authors and Institutions": [
                 {
                     "Author": "Ting Dai",
@@ -5254,14 +5258,14 @@
                         }
                     ]
                 }
-            ],
-            "Year": "2018",
-            "Predominant Continent": [
-                "North America"
             ]
         },
         {
             "Title": "Hybrid Adaptive Checkpointing for Virtual Machine Fault Tolerance.",
+            "Year": "2018",
+            "Predominant Continent": [
+                "EU"
+            ],
             "Authors and Institutions": [
                 {
                     "Author": "Abel Souza",
@@ -5308,14 +5312,14 @@
                         }
                     ]
                 }
-            ],
-            "Year": "2018",
-            "Predominant Continent": [
-                "Europe"
             ]
         },
         {
             "Title": "STANlite - A Database Engine for Secure Data Processing at Rack-Scale Level.",
+            "Year": "2018",
+            "Predominant Continent": [
+                "EU"
+            ],
             "Authors and Institutions": [
                 {
                     "Author": "Vasily A. Sartakov",
@@ -5362,14 +5366,14 @@
                         }
                     ]
                 }
-            ],
-            "Year": "2018",
-            "Predominant Continent": [
-                "Europe"
             ]
         },
         {
             "Title": "Automatic Dependency Management for Scientific Applications on Clusters.",
+            "Year": "2018",
+            "Predominant Continent": [
+                "NA"
+            ],
             "Authors and Institutions": [
                 {
                     "Author": "Benjamín Tovar",
@@ -5407,14 +5411,14 @@
                         }
                     ]
                 }
-            ],
-            "Year": "2018",
-            "Predominant Continent": [
-                "North America"
             ]
         },
         {
             "Title": "Tracking Causal Order in AWS Lambda Applications.",
+            "Year": "2018",
+            "Predominant Continent": [
+                "EU"
+            ],
             "Authors and Institutions": [
                 {
                     "Author": "Wei-Tsung Lin",
@@ -5479,14 +5483,14 @@
                         }
                     ]
                 }
-            ],
-            "Year": "2018",
-            "Predominant Continent": [
-                "Europe"
             ]
         },
         {
             "Title": "M2: Malleable Metal as a Service.",
+            "Year": "2018",
+            "Predominant Continent": [
+                "NA"
+            ],
             "Authors and Institutions": [
                 {
                     "Author": "Apoorve Mohan",
@@ -5544,14 +5548,14 @@
                     "Author": "Orran Krieger",
                     "Institutions": []
                 }
-            ],
-            "Year": "2018",
-            "Predominant Continent": [
-                "North America"
             ]
         },
         {
             "Title": "Deterministic Container Resource Management in Derivative Clouds.",
+            "Year": "2018",
+            "Predominant Continent": [
+                "AS"
+            ],
             "Authors and Institutions": [
                 {
                     "Author": "Chandra Prakash",
@@ -5589,14 +5593,14 @@
                         }
                     ]
                 }
-            ],
-            "Year": "2018",
-            "Predominant Continent": [
-                "Asia"
             ]
         },
         {
             "Title": "Cross-Layer Optimization for Virtual Machine Resource Management.",
+            "Year": "2018",
+            "Predominant Continent": [
+                "NA"
+            ],
             "Authors and Institutions": [
                 {
                     "Author": "Ming Zhao",
@@ -5634,14 +5638,14 @@
                         }
                     ]
                 }
-            ],
-            "Year": "2018",
-            "Predominant Continent": [
-                "North America"
             ]
         },
         {
             "Title": "OPTiC: Opportunistic Graph Processing in Multi-Tenant Clusters.",
+            "Year": "2018",
+            "Predominant Continent": [
+                "NA"
+            ],
             "Authors and Institutions": [
                 {
                     "Author": "Muntasir Raihan Rahman",
@@ -5674,14 +5678,14 @@
                     "Author": "Haozhen Ding",
                     "Institutions": []
                 }
-            ],
-            "Year": "2018",
-            "Predominant Continent": [
-                "North America"
             ]
         },
         {
             "Title": "Deadline-Aware Scheduling and Routing for Inter-Datacenter Multicast Transfers.",
+            "Year": "2018",
+            "Predominant Continent": [
+                "NA"
+            ],
             "Authors and Institutions": [
                 {
                     "Author": "Siqi Ji",
@@ -5710,14 +5714,14 @@
                         }
                     ]
                 }
-            ],
-            "Year": "2018",
-            "Predominant Continent": [
-                "North America"
             ]
         },
         {
             "Title": "Towards an Adaptive, Fully Automated Performance Modeling Methodology for Cloud Applications.",
+            "Year": "2018",
+            "Predominant Continent": [
+                "EU"
+            ],
             "Authors and Institutions": [
                 {
                     "Author": "Ioannis Giannakopoulos",
@@ -5746,14 +5750,14 @@
                         }
                     ]
                 }
-            ],
-            "Year": "2018",
-            "Predominant Continent": [
-                "Europe"
             ]
         },
         {
             "Title": "Serverless Computing: An Investigation of Factors Influencing Microservice Performance.",
+            "Year": "2018",
+            "Predominant Continent": [
+                "NA"
+            ],
             "Authors and Institutions": [
                 {
                     "Author": "Wes Lloyd",
@@ -5800,14 +5804,14 @@
                         }
                     ]
                 }
-            ],
-            "Year": "2018",
-            "Predominant Continent": [
-                "North America"
             ]
         },
         {
             "Title": "Massive-Scale Deployments in Cloud: The Case of OpenStack Networking.",
+            "Year": "2018",
+            "Predominant Continent": [
+                "EU"
+            ],
             "Authors and Institutions": [
                 {
                     "Author": "Jesús Llorente Santos",
@@ -5827,14 +5831,14 @@
                         }
                     ]
                 }
-            ],
-            "Year": "2018",
-            "Predominant Continent": [
-                "Europe"
             ]
         },
         {
             "Title": "Geospatial Analytics in the Large for Monitoring Depth of Cover for Buried Pipeline Infrastructure.",
+            "Year": "2018",
+            "Predominant Continent": [
+                "EU"
+            ],
             "Authors and Institutions": [
                 {
                     "Author": "Michael Hornáček",
@@ -5908,14 +5912,14 @@
                         }
                     ]
                 }
-            ],
-            "Year": "2018",
-            "Predominant Continent": [
-                "Europe"
             ]
         },
         {
             "Title": "Giving Customers Control Over Their Data: Integrating a Policy Language into the Cloud.",
+            "Year": "2018",
+            "Predominant Continent": [
+                "EU"
+            ],
             "Authors and Institutions": [
                 {
                     "Author": "Jens Hiller",
@@ -6039,14 +6043,14 @@
                         }
                     ]
                 }
-            ],
-            "Year": "2018",
-            "Predominant Continent": [
-                "Europe"
             ]
         },
         {
             "Title": "Scalable Key Management for Distributed Cloud Storage.",
+            "Year": "2018",
+            "Predominant Continent": [
+                "EU"
+            ],
             "Authors and Institutions": [
                 {
                     "Author": "Mathias Björkqvist",
@@ -6084,16 +6088,16 @@
                         }
                     ]
                 }
-            ],
-            "Year": "2018",
-            "Predominant Continent": [
-                "Europe"
             ]
         }
     ],
     "2019": [
         {
             "Title": "Query-Driven Descriptive Analytics for IoT and Edge Computing.",
+            "Year": "2019",
+            "Predominant Continent": [
+                "AS"
+            ],
             "Authors and Institutions": [
                 {
                     "Author": "Moysis Symeonides",
@@ -6140,14 +6144,14 @@
                         }
                     ]
                 }
-            ],
-            "Year": "2019",
-            "Predominant Continent": [
-                "Europe"
             ]
         },
         {
             "Title": "MESH: A Flexible Distributed Hypergraph Processing System.",
+            "Year": "2019",
+            "Predominant Continent": [
+                "NA"
+            ],
             "Authors and Institutions": [
                 {
                     "Author": "Benjamin Heintz",
@@ -6203,14 +6207,14 @@
                         }
                     ]
                 }
-            ],
-            "Year": "2019",
-            "Predominant Continent": [
-                "North America"
             ]
         },
         {
             "Title": "BARISTA: Efficient and Scalable Serverless Serving System for Deep Learning Prediction Services.",
+            "Year": "2019",
+            "Predominant Continent": [
+                "NA"
+            ],
             "Authors and Institutions": [
                 {
                     "Author": "Anirban Bhattacharjee",
@@ -6266,14 +6270,14 @@
                         }
                     ]
                 }
-            ],
-            "Year": "2019",
-            "Predominant Continent": [
-                "North America"
             ]
         },
         {
             "Title": "Towards Self-Managing Cloud Storage with Reinforcement Learning.",
+            "Year": "2019",
+            "Predominant Continent": [
+                "NA"
+            ],
             "Authors and Institutions": [
                 {
                     "Author": "Ridwan Rashid Noel",
@@ -6302,14 +6306,14 @@
                         }
                     ]
                 }
-            ],
-            "Year": "2019",
-            "Predominant Continent": [
-                "North America"
             ]
         },
         {
             "Title": "Information Models: Creating and Preserving Value in Volatile Cloud Resources.",
+            "Year": "2019",
+            "Predominant Continent": [
+                "NA"
+            ],
             "Authors and Institutions": [
                 {
                     "Author": "Chaojie Zhang",
@@ -6342,14 +6346,14 @@
                         }
                     ]
                 }
-            ],
-            "Year": "2019",
-            "Predominant Continent": [
-                "North America"
             ]
         },
         {
             "Title": "Toward a Workload Allocation Optimizer for Power Saving in Data Centers.",
+            "Year": "2019",
+            "Predominant Continent": [
+                "AS"
+            ],
             "Authors and Institutions": [
                 {
                     "Author": "Ying-Feng Hsu",
@@ -6387,14 +6391,14 @@
                         }
                     ]
                 }
-            ],
-            "Year": "2019",
-            "Predominant Continent": [
-                "Asia"
             ]
         },
         {
             "Title": "Edge-Cloud Orchestration: Strategies for Service Placement and Enactment.",
+            "Year": "2019",
+            "Predominant Continent": [
+                "EU"
+            ],
             "Authors and Institutions": [
                 {
                     "Author": "Ioan Petri",
@@ -6432,14 +6436,14 @@
                         }
                     ]
                 }
-            ],
-            "Year": "2019",
-            "Predominant Continent": [
-                "Europe"
             ]
         },
         {
             "Title": "Edge-Assisted Detection and Summarization of Key Global Events from Distributed Crowd-Sensed Data.",
+            "Year": "2019",
+            "Predominant Continent": [
+                "NA"
+            ],
             "Authors and Institutions": [
                 {
                     "Author": "Abdelrahman Fahim",
@@ -6495,14 +6499,14 @@
                         }
                     ]
                 }
-            ],
-            "Year": "2019",
-            "Predominant Continent": [
-                "North America"
             ]
         },
         {
             "Title": "Edge Intelligence: The Convergence of Humans, Things, and AI.",
+            "Year": "2019",
+            "Predominant Continent": [
+                "EU"
+            ],
             "Authors and Institutions": [
                 {
                     "Author": "Thomas Rausch",
@@ -6522,14 +6526,14 @@
                         }
                     ]
                 }
-            ],
-            "Year": "2019",
-            "Predominant Continent": [
-                "Europe"
             ]
         },
         {
             "Title": "The Future of Computing is Boring (and that is exciting!).",
+            "Year": "2019",
+            "Predominant Continent": [
+                "NA"
+            ],
             "Authors and Institutions": [
                 {
                     "Author": "Aleksander Slominski",
@@ -6548,14 +6552,14 @@
                         }
                     ]
                 }
-            ],
-            "Year": "2019",
-            "Predominant Continent": [
-                "North America"
             ]
         },
         {
             "Title": "Host Hypervisor Trace Mining for Virtual Machine Workload Characterization.",
+            "Year": "2019",
+            "Predominant Continent": [
+                "NA"
+            ],
             "Authors and Institutions": [
                 {
                     "Author": "Hani Nemati",
@@ -6584,14 +6588,14 @@
                         }
                     ]
                 }
-            ],
-            "Year": "2019",
-            "Predominant Continent": [
-                "North America"
             ]
         },
         {
             "Title": "ModelOps: Cloud-Based Lifecycle Management for Reliable and Trusted AI.",
+            "Year": "2019",
+            "Predominant Continent": [
+                "NA"
+            ],
             "Authors and Institutions": [
                 {
                     "Author": "Waldemar Hummer",
@@ -6656,14 +6660,14 @@
                         }
                     ]
                 }
-            ],
-            "Year": "2019",
-            "Predominant Continent": [
-                "North America"
             ]
         },
         {
             "Title": "A Study on Container Vulnerability Exploit Detection.",
+            "Year": "2019",
+            "Predominant Continent": [
+                "NA"
+            ],
             "Authors and Institutions": [
                 {
                     "Author": "Olufogorehan Tunde-Onadele",
@@ -6701,14 +6705,14 @@
                         }
                     ]
                 }
-            ],
-            "Year": "2019",
-            "Predominant Continent": [
-                "North America"
             ]
         },
         {
             "Title": "ShadeNF: Testing Online Network Functions.",
+            "Year": "2019",
+            "Predominant Continent": [
+                "NA"
+            ],
             "Authors and Institutions": [
                 {
                     "Author": "Hui Lü",
@@ -6737,14 +6741,14 @@
                         }
                     ]
                 }
-            ],
-            "Year": "2019",
-            "Predominant Continent": [
-                "North America"
             ]
         },
         {
             "Title": "Importance of Application-Level Resource Management in Multi-Cloud Deployments.",
+            "Year": "2019",
+            "Predominant Continent": [
+                "EU"
+            ],
             "Authors and Institutions": [
                 {
                     "Author": "Zoran Dimitrijević",
@@ -6782,14 +6786,14 @@
                         }
                     ]
                 }
-            ],
-            "Year": "2019",
-            "Predominant Continent": [
-                "Europe"
             ]
         },
         {
             "Title": "Understanding Synchronization Costs for Distributed ML on Transient Cloud Resources.",
+            "Year": "2019",
+            "Predominant Continent": [
+                "NA"
+            ],
             "Authors and Institutions": [
                 {
                     "Author": "Pradeep Ambati",
@@ -6845,14 +6849,14 @@
                         }
                     ]
                 }
-            ],
-            "Year": "2019",
-            "Predominant Continent": [
-                "North America"
             ]
         },
         {
             "Title": "Addressing the Fragmentation Problem in Distributed and Decentralized Edge Computing: A Vision.",
+            "Year": "2019",
+            "Predominant Continent": [
+                "NA"
+            ],
             "Authors and Institutions": [
                 {
                     "Author": "Ketan Bhardwaj",
@@ -6926,14 +6930,14 @@
                         }
                     ]
                 }
-            ],
-            "Year": "2019",
-            "Predominant Continent": [
-                "North America"
             ]
         },
         {
             "Title": "ConfAdvisor: A Performance-centric Configuration Tuning Framework for Containers on Kubernetes.",
+            "Year": "2019",
+            "Predominant Continent": [
+                "AS"
+            ],
             "Authors and Institutions": [
                 {
                     "Author": "Tatsuhiro Chiba",
@@ -6980,14 +6984,14 @@
                         }
                     ]
                 }
-            ],
-            "Year": "2019",
-            "Predominant Continent": [
-                "Asia"
             ]
         },
         {
             "Title": "Maintenance Scheduling for Cloud Infrastructure with Timing Constraints of Live Migration.",
+            "Year": "2019",
+            "Predominant Continent": [
+                "AS"
+            ],
             "Authors and Institutions": [
                 {
                     "Author": "Shingo Okuno",
@@ -7016,14 +7020,14 @@
                         }
                     ]
                 }
-            ],
-            "Year": "2019",
-            "Predominant Continent": [
-                "Asia"
             ]
         },
         {
             "Title": "ContainerVisor: Customized Control of Container Resources.",
+            "Year": "2019",
+            "Predominant Continent": [
+                "NA"
+            ],
             "Authors and Institutions": [
                 {
                     "Author": "Tianlin Li",
@@ -7052,14 +7056,14 @@
                         }
                     ]
                 }
-            ],
-            "Year": "2019",
-            "Predominant Continent": [
-                "North America"
             ]
         },
         {
             "Title": "Predicting the End-to-End Tail Latency of Containerized Microservices in the Cloud.",
+            "Year": "2019",
+            "Predominant Continent": [
+                "NA"
+            ],
             "Authors and Institutions": [
                 {
                     "Author": "Joy Rahman",
@@ -7079,14 +7083,14 @@
                         }
                     ]
                 }
-            ],
-            "Year": "2019",
-            "Predominant Continent": [
-                "North America"
             ]
         },
         {
             "Title": "FECBench: A Holistic Interference-aware Approach for Application Performance Modeling.",
+            "Year": "2019",
+            "Predominant Continent": [
+                "NA"
+            ],
             "Authors and Institutions": [
                 {
                     "Author": "Yogesh Barve",
@@ -7160,14 +7164,14 @@
                         }
                     ]
                 }
-            ],
-            "Year": "2019",
-            "Predominant Continent": [
-                "North America"
             ]
         },
         {
             "Title": "Analyzing AWS Spot Instance Pricing.",
+            "Year": "2019",
+            "Predominant Continent": [
+                "NA"
+            ],
             "Authors and Institutions": [
                 {
                     "Author": "Gareth George",
@@ -7205,16 +7209,16 @@
                         }
                     ]
                 }
-            ],
-            "Year": "2019",
-            "Predominant Continent": [
-                "North America"
             ]
         }
     ],
     "2020": [
         {
             "Title": "IoTWC: Analytic Hierarchy Process Based Internet of Things Workflow Composition System.",
+            "Year": "2020",
+            "Predominant Continent": [
+                "EU"
+            ],
             "Authors and Institutions": [
                 {
                     "Author": "Yinhao Li",
@@ -7270,14 +7274,14 @@
                         }
                     ]
                 }
-            ],
-            "Year": "2020",
-            "Predominant Continent": [
-                "Europe"
             ]
         },
         {
             "Title": "CloudPush: Smart Delivery of Push Notification to Secure Multi-User Support for IoT Devices.",
+            "Year": "2020",
+            "Predominant Continent": [
+                "AS"
+            ],
             "Authors and Institutions": [
                 {
                     "Author": "Md. Shamsul Arifin Mozumder",
@@ -7292,14 +7296,14 @@
                         }
                     ]
                 }
-            ],
-            "Year": "2020",
-            "Predominant Continent": [
-                "Asia"
             ]
         },
         {
             "Title": "Smart Food Scanner System Based on Mobile Edge Computing.",
+            "Year": "2020",
+            "Predominant Continent": [
+                "OC"
+            ],
             "Authors and Institutions": [
                 {
                     "Author": "Bahman Javadi",
@@ -7337,14 +7341,14 @@
                         }
                     ]
                 }
-            ],
-            "Year": "2020",
-            "Predominant Continent": [
-                "Oceania"
             ]
         },
         {
             "Title": "MDINFERENCE: Balancing Inference Accuracy and Latency for Mobile Applications.",
+            "Year": "2020",
+            "Predominant Continent": [
+                "NA"
+            ],
             "Authors and Institutions": [
                 {
                     "Author": "Samuel S. Ogden",
@@ -7364,14 +7368,14 @@
                         }
                     ]
                 }
-            ],
-            "Year": "2020",
-            "Predominant Continent": [
-                "North America"
             ]
         },
         {
             "Title": "EdgeSum: Edge-Based Video Summarization with Dash Cams.",
+            "Year": "2020",
+            "Predominant Continent": [
+                "OC"
+            ],
             "Authors and Institutions": [
                 {
                     "Author": "Jayden King",
@@ -7418,14 +7422,14 @@
                         }
                     ]
                 }
-            ],
-            "Year": "2020",
-            "Predominant Continent": [
-                "Oceania"
             ]
         },
         {
             "Title": "Energy-Aware Resource Management in Vehicular Edge Computing Systems.",
+            "Year": "2020",
+            "Predominant Continent": [
+                "NA"
+            ],
             "Authors and Institutions": [
                 {
                     "Author": "Tayebeh Bahreini",
@@ -7454,14 +7458,14 @@
                         }
                     ]
                 }
-            ],
-            "Year": "2020",
-            "Predominant Continent": [
-                "North America"
             ]
         },
         {
             "Title": "Facilitating plausible deniability for cloud providers regarding tenants' activities using trusted execution.",
+            "Year": "2020",
+            "Predominant Continent": [
+                "EU"
+            ],
             "Authors and Institutions": [
                 {
                     "Author": "Dan O’Keeffe",
@@ -7499,14 +7503,12 @@
                         }
                     ]
                 }
-            ],
-            "Year": "2020",
-            "Predominant Continent": [
-                "Europe"
             ]
         },
         {
             "Title": "PERSEUS: Characterizing Performance and Cost of Multi-Tenant Serving for CNN Models.",
+            "Year": "2020",
+            "Predominant Continent": [],
             "Authors and Institutions": [
                 {
                     "Author": "Matthew A. Lemay",
@@ -7520,12 +7522,14 @@
                     "Author": "Tian Guo",
                     "Institutions": []
                 }
-            ],
-            "Year": "2020",
-            "Predominant Continent": []
+            ]
         },
         {
             "Title": "uPredict: A User-Level Profiler-Based Predictive Framework in Multi-Tenant Clouds.",
+            "Year": "2020",
+            "Predominant Continent": [
+                "NA"
+            ],
             "Authors and Institutions": [
                 {
                     "Author": "Hamidreza Moradi",
@@ -7563,14 +7567,14 @@
                         }
                     ]
                 }
-            ],
-            "Year": "2020",
-            "Predominant Continent": [
-                "North America"
             ]
         },
         {
             "Title": "Data Flow Dependent Component Placement of Data Processing Cloud Applications.",
+            "Year": "2020",
+            "Predominant Continent": [
+                "EU"
+            ],
             "Authors and Institutions": [
                 {
                     "Author": "Michael Zimmermann",
@@ -7617,14 +7621,14 @@
                         }
                     ]
                 }
-            ],
-            "Year": "2020",
-            "Predominant Continent": [
-                "Europe"
             ]
         },
         {
             "Title": "Realising Edge Analytics for Early Prediction of Readmission: A Case Study.",
+            "Year": "2020",
+            "Predominant Continent": [
+                "OC"
+            ],
             "Authors and Institutions": [
                 {
                     "Author": "Yucen Nan",
@@ -7671,14 +7675,14 @@
                         }
                     ]
                 }
-            ],
-            "Year": "2020",
-            "Predominant Continent": [
-                "Oceania"
             ]
         },
         {
             "Title": "Hedge Your Bets: Optimizing Long-term Cloud Costs by Mixing VM Purchasing Options.",
+            "Year": "2020",
+            "Predominant Continent": [
+                "NA"
+            ],
             "Authors and Institutions": [
                 {
                     "Author": "Pradeep Ambati",
@@ -7725,14 +7729,14 @@
                         }
                     ]
                 }
-            ],
-            "Year": "2020",
-            "Predominant Continent": [
-                "North America"
             ]
         },
         {
             "Title": "RLSK: A Job Scheduler for Federated Kubernetes Clusters based on Reinforcement Learning.",
+            "Year": "2020",
+            "Predominant Continent": [
+                "AS"
+            ],
             "Authors and Institutions": [
                 {
                     "Author": "Jiaming Huang",
@@ -7761,14 +7765,14 @@
                         }
                     ]
                 }
-            ],
-            "Year": "2020",
-            "Predominant Continent": [
-                "Asia"
             ]
         },
         {
             "Title": "On The Scalability of Blockchain Systems.",
+            "Year": "2020",
+            "Predominant Continent": [
+                "OC"
+            ],
             "Authors and Institutions": [
                 {
                     "Author": "Nasrin Sohrabi",
@@ -7788,14 +7792,15 @@
                         }
                     ]
                 }
-            ],
-            "Year": "2020",
-            "Predominant Continent": [
-                "Oceania"
             ]
         },
         {
             "Title": "Decentralized Runtime Monitoring Approach Relying on the Ethereum Blockchain Infrastructure.",
+            "Year": "2020",
+            "Predominant Continent": [
+                "OC",
+                "EU"
+            ],
             "Authors and Institutions": [
                 {
                     "Author": "Ahmed Taha",
@@ -7823,15 +7828,14 @@
                         }
                     ]
                 }
-            ],
-            "Year": "2020",
-            "Predominant Continent": [
-                "Oceania",
-                "Europe"
             ]
         },
         {
             "Title": "WLEC: A Not So Cold Architecture to Mitigate Cold Start Problem in Serverless Computing.",
+            "Year": "2020",
+            "Predominant Continent": [
+                "AS"
+            ],
             "Authors and Institutions": [
                 {
                     "Author": "Khondokar Solaiman",
@@ -7851,14 +7855,14 @@
                         }
                     ]
                 }
-            ],
-            "Year": "2020",
-            "Predominant Continent": [
-                "Asia"
             ]
         },
         {
             "Title": "The Ifs and Buts of Less is More: A Serverless Computing Reality Check.",
+            "Year": "2020",
+            "Predominant Continent": [
+                "EU"
+            ],
             "Authors and Institutions": [
                 {
                     "Author": "Jörn Kuhlenkamp",
@@ -7887,14 +7891,14 @@
                         }
                     ]
                 }
-            ],
-            "Year": "2020",
-            "Predominant Continent": [
-                "Europe"
             ]
         },
         {
             "Title": "Characterizing Public Cloud Resource Contention to Support Virtual Machine Co-residency Prediction.",
+            "Year": "2020",
+            "Predominant Continent": [
+                "NA"
+            ],
             "Authors and Institutions": [
                 {
                     "Author": "Xinlei Han",
@@ -7941,14 +7945,14 @@
                         }
                     ]
                 }
-            ],
-            "Year": "2020",
-            "Predominant Continent": [
-                "North America"
             ]
         },
         {
             "Title": "Towards Non-Intrusive Software Introspection and Beyond.",
+            "Year": "2020",
+            "Predominant Continent": [
+                "NA"
+            ],
             "Authors and Institutions": [
                 {
                     "Author": "Apoorve Mohan",
@@ -8020,16 +8024,16 @@
                         }
                     ]
                 }
-            ],
-            "Year": "2020",
-            "Predominant Continent": [
-                "North America"
             ]
         }
     ],
     "2021": [
         {
             "Title": "BeFaaS: An Application-Centric Benchmarking Framework for FaaS Platforms.",
+            "Year": "2021",
+            "Predominant Continent": [
+                "EU"
+            ],
             "Authors and Institutions": [
                 {
                     "Author": "Martin Grambow",
@@ -8109,14 +8113,14 @@
                         }
                     ]
                 }
-            ],
-            "Year": "2021",
-            "Predominant Continent": [
-                "Europe"
             ]
         },
         {
             "Title": "Container Workload Characterization Through Host System Tracing.",
+            "Year": "2021",
+            "Predominant Continent": [
+                "NA"
+            ],
             "Authors and Institutions": [
                 {
                     "Author": "Madeline Janecek",
@@ -8145,14 +8149,14 @@
                         }
                     ]
                 }
-            ],
-            "Year": "2021",
-            "Predominant Continent": [
-                "North America"
             ]
         },
         {
             "Title": "DeepEdgeBench: Benchmarking Deep Neural Networks on Edge Devices.",
+            "Year": "2021",
+            "Predominant Continent": [
+                "EU"
+            ],
             "Authors and Institutions": [
                 {
                     "Author": "Stephan Patrick Baller",
@@ -8190,14 +8194,14 @@
                         }
                     ]
                 }
-            ],
-            "Year": "2021",
-            "Predominant Continent": [
-                "Europe"
             ]
         },
         {
             "Title": "A Comprehensive Performance Evaluation of Different Kubernetes CNI Plugins for Edge-based and Containerized Publish/Subscribe Applications.",
+            "Year": "2021",
+            "Predominant Continent": [
+                "NA"
+            ],
             "Authors and Institutions": [
                 {
                     "Author": "Zhuangwei Kang",
@@ -8235,14 +8239,14 @@
                         }
                     ]
                 }
-            ],
-            "Year": "2021",
-            "Predominant Continent": [
-                "North America"
             ]
         },
         {
             "Title": "C3O: Collaborative Cluster Configuration Optimization for Distributed Data Processing in Public Clouds.",
+            "Year": "2021",
+            "Predominant Continent": [
+                "EU"
+            ],
             "Authors and Institutions": [
                 {
                     "Author": "Jonathan Will",
@@ -8289,14 +8293,14 @@
                         }
                     ]
                 }
-            ],
-            "Year": "2021",
-            "Predominant Continent": [
-                "Europe"
             ]
         },
         {
             "Title": "Short Paper: Highly Compatible Fast Container Startup with Lazy Layer Pull.",
+            "Year": "2021",
+            "Predominant Continent": [
+                "AS"
+            ],
             "Authors and Institutions": [
                 {
                     "Author": "Shotaro Gotanda",
@@ -8316,14 +8320,14 @@
                         }
                     ]
                 }
-            ],
-            "Year": "2021",
-            "Predominant Continent": [
-                "Asia"
             ]
         },
         {
             "Title": "Optimizing Goodput of Real-time Serverless Functions using Dynamic Slicing with vGPUs.",
+            "Year": "2021",
+            "Predominant Continent": [
+                "AS"
+            ],
             "Authors and Institutions": [
                 {
                     "Author": "Chandra Prakash",
@@ -8388,14 +8392,14 @@
                         }
                     ]
                 }
-            ],
-            "Year": "2021",
-            "Predominant Continent": [
-                "Asia"
             ]
         },
         {
             "Title": "Energy and Runtime Performance Optimization of Node.js Web Requests.",
+            "Year": "2021",
+            "Predominant Continent": [
+                "NA"
+            ],
             "Authors and Institutions": [
                 {
                     "Author": "Maria Patrou",
@@ -8428,14 +8432,14 @@
                     "Author": "Michael Dawson",
                     "Institutions": []
                 }
-            ],
-            "Year": "2021",
-            "Predominant Continent": [
-                "North America"
             ]
         },
         {
             "Title": "FaaSter Troubleshooting - Evaluating Distributed Tracing Approaches for Serverless Applications.",
+            "Year": "2021",
+            "Predominant Continent": [
+                "EU"
+            ],
             "Authors and Institutions": [
                 {
                     "Author": "Maria Carolina Borges",
@@ -8464,14 +8468,14 @@
                         }
                     ]
                 }
-            ],
-            "Year": "2021",
-            "Predominant Continent": [
-                "Europe"
             ]
         },
         {
             "Title": "Evaluation of Load Prediction Techniques for Distributed Stream Processing.",
+            "Year": "2021",
+            "Predominant Continent": [
+                "EU"
+            ],
             "Authors and Institutions": [
                 {
                     "Author": "Kordian Gontarska",
@@ -8539,14 +8543,14 @@
                         }
                     ]
                 }
-            ],
-            "Year": "2021",
-            "Predominant Continent": [
-                "Europe"
             ]
         },
         {
             "Title": "Quantifying and Improving Performance of Distributed Deep Learning with Cloud Storage.",
+            "Year": "2021",
+            "Predominant Continent": [
+                "NA"
+            ],
             "Authors and Institutions": [
                 {
                     "Author": "Nicholas Krichevsky",
@@ -8575,14 +8579,14 @@
                         }
                     ]
                 }
-            ],
-            "Year": "2021",
-            "Predominant Continent": [
-                "North America"
             ]
         },
         {
             "Title": "Cocoa: Towards a Scalable Compute Cost-aware Data Analytics System.",
+            "Year": "2021",
+            "Predominant Continent": [
+                "NA"
+            ],
             "Authors and Institutions": [
                 {
                     "Author": "Kwangsung Oh",
@@ -8602,14 +8606,12 @@
                         }
                     ]
                 }
-            ],
-            "Year": "2021",
-            "Predominant Continent": [
-                "North America"
             ]
         },
         {
             "Title": "NEUKONFIG: Reducing Edge Service Downtime When Repartitioning DNNs.",
+            "Year": "2021",
+            "Predominant Continent": [],
             "Authors and Institutions": [
                 {
                     "Author": "Ayesha Abdul Majeed",
@@ -8627,12 +8629,14 @@
                     "Author": "Blesson Varghese",
                     "Institutions": []
                 }
-            ],
-            "Year": "2021",
-            "Predominant Continent": []
+            ]
         },
         {
             "Title": "SLO-aware Virtual Rebalancing for Edge Stream Processing.",
+            "Year": "2021",
+            "Predominant Continent": [
+                "NA"
+            ],
             "Authors and Institutions": [
                 {
                     "Author": "Peng Kang",
@@ -8661,14 +8665,14 @@
                         }
                     ]
                 }
-            ],
-            "Year": "2021",
-            "Predominant Continent": [
-                "North America"
             ]
         },
         {
             "Title": "LIBRA: An Economical Hybrid Approach for Cloud Applications with Strict SLAs.",
+            "Year": "2021",
+            "Predominant Continent": [
+                "NA"
+            ],
             "Authors and Institutions": [
                 {
                     "Author": "Ali Raza",
@@ -8695,14 +8699,15 @@
                     "Author": "Ibrahim Matta",
                     "Institutions": []
                 }
-            ],
-            "Year": "2021",
-            "Predominant Continent": [
-                "North America"
             ]
         },
         {
             "Title": "Community-based Placement of Registries to Speed up Application Deployment on Edge Computing.",
+            "Year": "2021",
+            "Predominant Continent": [
+                "SA",
+                "EU"
+            ],
             "Authors and Institutions": [
                 {
                     "Author": "Luis Augusto Dias Knob",
@@ -8748,15 +8753,14 @@
                         }
                     ]
                 }
-            ],
-            "Year": "2021",
-            "Predominant Continent": [
-                "South America",
-                "Europe"
             ]
         },
         {
             "Title": "Forecasting SQL Query Cost at Twitter.",
+            "Year": "2021",
+            "Predominant Continent": [
+                "NA"
+            ],
             "Authors and Institutions": [
                 {
                     "Author": "Chunxu Tang",
@@ -8879,14 +8883,14 @@
                         }
                     ]
                 }
-            ],
-            "Year": "2021",
-            "Predominant Continent": [
-                "North America"
             ]
         },
         {
             "Title": "Memory-Efficient Deep Learning Inference in Trusted Execution Environments.",
+            "Year": "2021",
+            "Predominant Continent": [
+                "NA"
+            ],
             "Authors and Institutions": [
                 {
                     "Author": "Jean-Baptiste Truong",
@@ -8924,14 +8928,14 @@
                         }
                     ]
                 }
-            ],
-            "Year": "2021",
-            "Predominant Continent": [
-                "North America"
             ]
         },
         {
             "Title": "Nomad: Cross-Platform Computational Offloading and Migration in Femtoclouds Using WebAssembly.",
+            "Year": "2021",
+            "Predominant Continent": [
+                "NA"
+            ],
             "Authors and Institutions": [
                 {
                     "Author": "Mohammed Nurul-Hoque",
@@ -8951,14 +8955,14 @@
                         }
                     ]
                 }
-            ],
-            "Year": "2021",
-            "Predominant Continent": [
-                "North America"
             ]
         },
         {
             "Title": "PEDaLS: Persisting Versioned Data Structures.",
+            "Year": "2021",
+            "Predominant Continent": [
+                "NA"
+            ],
             "Authors and Institutions": [
                 {
                     "Author": "Nazmus Saquib",
@@ -8987,14 +8991,14 @@
                         }
                     ]
                 }
-            ],
-            "Year": "2021",
-            "Predominant Continent": [
-                "North America"
             ]
         },
         {
             "Title": "Edge MLOps: An Automation Framework for AIoT Applications.",
+            "Year": "2021",
+            "Predominant Continent": [
+                "EU"
+            ],
             "Authors and Institutions": [
                 {
                     "Author": "E. George Dharma Prakash Raj",
@@ -9027,14 +9031,12 @@
                         }
                     ]
                 }
-            ],
-            "Year": "2021",
-            "Predominant Continent": [
-                "Europe"
             ]
         },
         {
             "Title": "Distributed Framework for Accelerating Training of Deep Learning Models through Prioritization.",
+            "Year": "2021",
+            "Predominant Continent": [],
             "Authors and Institutions": [
                 {
                     "Author": "Tian Zhou",
@@ -9044,12 +9046,14 @@
                     "Author": "Lixin Gao",
                     "Institutions": []
                 }
-            ],
-            "Year": "2021",
-            "Predominant Continent": []
+            ]
         },
         {
             "Title": "Credentials as a Service Providing Self Sovereign Identity as a Cloud Service Using Trusted Execution Environments.",
+            "Year": "2021",
+            "Predominant Continent": [
+                "AS"
+            ],
             "Authors and Institutions": [
                 {
                     "Author": "Hira Siddiqui",
@@ -9086,14 +9090,14 @@
                     "Author": "Christof Fetzer",
                     "Institutions": []
                 }
-            ],
-            "Year": "2021",
-            "Predominant Continent": [
-                "Asia"
             ]
         },
         {
             "Title": "Auto-adaptive Fault Prediction System for Edge Cloud Environments in the Presence of Concept Drift.",
+            "Year": "2021",
+            "Predominant Continent": [
+                "NA"
+            ],
             "Authors and Institutions": [
                 {
                     "Author": "Behshid Shayesteh",
@@ -9135,14 +9139,14 @@
                         }
                     ]
                 }
-            ],
-            "Year": "2021",
-            "Predominant Continent": [
-                "North America"
             ]
         },
         {
             "Title": "On the Future of Cloud Engineering.",
+            "Year": "2021",
+            "Predominant Continent": [
+                "NA"
+            ],
             "Authors and Institutions": [
                 {
                     "Author": "David Bermbach",
@@ -9233,16 +9237,16 @@
                         }
                     ]
                 }
-            ],
-            "Year": "2021",
-            "Predominant Continent": [
-                "North America"
             ]
         }
     ],
     "2022": [
         {
             "Title": "Network Emulation in Large-Scale Virtual Edge Testbeds: A Note of Caution and the Way Forward.",
+            "Year": "2022",
+            "Predominant Continent": [
+                "EU"
+            ],
             "Authors and Institutions": [
                 {
                     "Author": "Sören Becker",
@@ -9289,14 +9293,14 @@
                         }
                     ]
                 }
-            ],
-            "Year": "2022",
-            "Predominant Continent": [
-                "Europe"
             ]
         },
         {
             "Title": "IoTreeplay: Synchronous Distributed Traffic Replay in IoT Environments.",
+            "Year": "2022",
+            "Predominant Continent": [
+                "EU"
+            ],
             "Authors and Institutions": [
                 {
                     "Author": "Markus Toll",
@@ -9325,14 +9329,14 @@
                         }
                     ]
                 }
-            ],
-            "Year": "2022",
-            "Predominant Continent": [
-                "Europe"
             ]
         },
         {
             "Title": "Integration of C-V2X Into a Hybrid Testbed to Co-Simulate ITS Applications and Scenarios.",
+            "Year": "2022",
+            "Predominant Continent": [
+                "EU"
+            ],
             "Authors and Institutions": [
                 {
                     "Author": "Paul Geppert",
@@ -9360,14 +9364,14 @@
                         }
                     ]
                 }
-            ],
-            "Year": "2022",
-            "Predominant Continent": [
-                "Europe"
             ]
         },
         {
             "Title": "An End-to-End Framework for Benchmarking Edge-Cloud Cluster Management Techniques.",
+            "Year": "2022",
+            "Predominant Continent": [
+                "EU"
+            ],
             "Authors and Institutions": [
                 {
                     "Author": "Philipp Raith",
@@ -9414,14 +9418,15 @@
                         }
                     ]
                 }
-            ],
-            "Year": "2022",
-            "Predominant Continent": [
-                "Europe"
             ]
         },
         {
             "Title": "Towards Energy Consumption and Carbon Footprint Testing for AI-driven IoT Services.",
+            "Year": "2022",
+            "Predominant Continent": [
+                "AS",
+                "EU"
+            ],
             "Authors and Institutions": [
                 {
                     "Author": "Demetris Trihinas",
@@ -9463,14 +9468,14 @@
                         }
                     ]
                 }
-            ],
-            "Year": "2022",
-            "Predominant Continent": [
-                "Europe"
             ]
         },
         {
             "Title": "Decentralized Computation Market for Stream Processing Applications.",
+            "Year": "2022",
+            "Predominant Continent": [
+                "NA"
+            ],
             "Authors and Institutions": [
                 {
                     "Author": "Scott Eisele",
@@ -9544,14 +9549,14 @@
                         }
                     ]
                 }
-            ],
-            "Year": "2022",
-            "Predominant Continent": [
-                "North America"
             ]
         },
         {
             "Title": "Efficient Transmission and Reconstruction of Dependent Data Streams via Edge Sampling.",
+            "Year": "2022",
+            "Predominant Continent": [
+                "NA"
+            ],
             "Authors and Institutions": [
                 {
                     "Author": "Joel Wolfrath",
@@ -9571,14 +9576,14 @@
                         }
                     ]
                 }
-            ],
-            "Year": "2022",
-            "Predominant Continent": [
-                "North America"
             ]
         },
         {
             "Title": "Get Your Memory Right: The Crispy Resource Allocation Assistant for Large-Scale Data Processing.",
+            "Year": "2022",
+            "Predominant Continent": [
+                "EU"
+            ],
             "Authors and Institutions": [
                 {
                     "Author": "Jonathan Will",
@@ -9625,14 +9630,14 @@
                         }
                     ]
                 }
-            ],
-            "Year": "2022",
-            "Predominant Continent": [
-                "Europe"
             ]
         },
         {
             "Title": "Streaming vs. Functions: A Cost Perspective on Cloud Event Processing.",
+            "Year": "2022",
+            "Predominant Continent": [
+                "EU"
+            ],
             "Authors and Institutions": [
                 {
                     "Author": "Tobias Pfandzelter",
@@ -9691,14 +9696,14 @@
                         }
                     ]
                 }
-            ],
-            "Year": "2022",
-            "Predominant Continent": [
-                "Europe"
             ]
         },
         {
             "Title": "HARDLESS: A Generalized Serverless Compute Architecture for Hardware Processing Accelerators.",
+            "Year": "2022",
+            "Predominant Continent": [
+                "EU"
+            ],
             "Authors and Institutions": [
                 {
                     "Author": "Sebastian Werner",
@@ -9722,14 +9727,14 @@
                         }
                     ]
                 }
-            ],
-            "Year": "2022",
-            "Predominant Continent": [
-                "Europe"
             ]
         },
         {
             "Title": "Fusionize: Improving Serverless Application Performance through Feedback-Driven Function Fusion.",
+            "Year": "2022",
+            "Predominant Continent": [
+                "EU"
+            ],
             "Authors and Institutions": [
                 {
                     "Author": "Trever Schirmer",
@@ -9783,14 +9788,14 @@
                         }
                     ]
                 }
-            ],
-            "Year": "2022",
-            "Predominant Continent": [
-                "Europe"
             ]
         },
         {
             "Title": "TriggerBench: A Performance Benchmark for Serverless Function Triggers.",
+            "Year": "2022",
+            "Predominant Continent": [
+                "EU"
+            ],
             "Authors and Institutions": [
                 {
                     "Author": "Joel Scheuner",
@@ -9883,14 +9888,14 @@
                         }
                     ]
                 }
-            ],
-            "Year": "2022",
-            "Predominant Continent": [
-                "Europe"
             ]
         },
         {
             "Title": "Function Memory Optimization for Heterogeneous Serverless Platforms with CPU Time Accounting.",
+            "Year": "2022",
+            "Predominant Continent": [
+                "NA"
+            ],
             "Authors and Institutions": [
                 {
                     "Author": "Robert Cordingly",
@@ -9919,14 +9924,14 @@
                         }
                     ]
                 }
-            ],
-            "Year": "2022",
-            "Predominant Continent": [
-                "North America"
             ]
         },
         {
             "Title": "Pay-as-you-Train: Efficient ways of Serverless Training.",
+            "Year": "2022",
+            "Predominant Continent": [
+                "AS"
+            ],
             "Authors and Institutions": [
                 {
                     "Author": "Dheeraj Chahal",
@@ -9973,14 +9978,14 @@
                         }
                     ]
                 }
-            ],
-            "Year": "2022",
-            "Predominant Continent": [
-                "Asia"
             ]
         },
         {
             "Title": "Log-Based CRDT for Edge Applications.",
+            "Year": "2022",
+            "Predominant Continent": [
+                "NA"
+            ],
             "Authors and Institutions": [
                 {
                     "Author": "Nazmus Saquib",
@@ -10009,14 +10014,14 @@
                         }
                     ]
                 }
-            ],
-            "Year": "2022",
-            "Predominant Continent": [
-                "North America"
             ]
         },
         {
             "Title": "Privacy-Preserving Storage in the Fog.",
+            "Year": "2022",
+            "Predominant Continent": [
+                "EU"
+            ],
             "Authors and Institutions": [
                 {
                     "Author": "Michael Fabsich",
@@ -10044,14 +10049,14 @@
                     "Author": "Stefan Schulte",
                     "Institutions": []
                 }
-            ],
-            "Year": "2022",
-            "Predominant Continent": [
-                "Europe"
             ]
         },
         {
             "Title": "Magpie: Automatically Tuning Static Parameters for Distributed File Systems using Deep Reinforcement Learning.",
+            "Year": "2022",
+            "Predominant Continent": [
+                "EU"
+            ],
             "Authors and Institutions": [
                 {
                     "Author": "Houkun Zhu",
@@ -10098,14 +10103,14 @@
                         }
                     ]
                 }
-            ],
-            "Year": "2022",
-            "Predominant Continent": [
-                "Europe"
             ]
         },
         {
             "Title": "Novel Abstraction and Offload Mechanisms for High Performance Cloud-native Distributed Object Stores.",
+            "Year": "2022",
+            "Predominant Continent": [
+                "NA"
+            ],
             "Authors and Institutions": [
                 {
                     "Author": "Anoop Reddy",
@@ -10141,14 +10146,14 @@
                     "Author": "Subin Francis",
                     "Institutions": []
                 }
-            ],
-            "Year": "2022",
-            "Predominant Continent": [
-                "North America"
             ]
         },
         {
             "Title": "4DHI: An index for approximate kNN search of remotely sensed images in Key-Value databases.",
+            "Year": "2022",
+            "Predominant Continent": [
+                "EU"
+            ],
             "Authors and Institutions": [
                 {
                     "Author": "Chamin Nalinda Lokugam Hewage",
@@ -10195,14 +10200,14 @@
                         }
                     ]
                 }
-            ],
-            "Year": "2022",
-            "Predominant Continent": [
-                "Europe"
             ]
         },
         {
             "Title": "Scalable Collaborative Software Visualization as a Service: Short Industry and Experience Paper.",
+            "Year": "2022",
+            "Predominant Continent": [
+                "EU"
+            ],
             "Authors and Institutions": [
                 {
                     "Author": "Alexander Krause-Glau",
@@ -10222,14 +10227,14 @@
                         }
                     ]
                 }
-            ],
-            "Year": "2022",
-            "Predominant Continent": [
-                "Europe"
             ]
         },
         {
             "Title": "CloudBruno: A Low-Overhead Online Workload Prediction Framework for Cloud Computing.",
+            "Year": "2022",
+            "Predominant Continent": [
+                "NA"
+            ],
             "Authors and Institutions": [
                 {
                     "Author": "Vinodh Kumaran Jayakumar",
@@ -10267,14 +10272,14 @@
                         }
                     ]
                 }
-            ],
-            "Year": "2022",
-            "Predominant Continent": [
-                "North America"
             ]
         },
         {
             "Title": "UnifiedNetManagement: Unified Network Management for Heterogeneous Edge Enterprise Network.",
+            "Year": "2022",
+            "Predominant Continent": [
+                "NA"
+            ],
             "Authors and Institutions": [
                 {
                     "Author": "Chinlin Chen",
@@ -10316,15 +10321,14 @@
                         }
                     ]
                 }
-            ],
-            "Year": "2022",
-            "Predominant Continent": [
-                "Unknown",
-                "North America"
             ]
         },
         {
             "Title": "Optimum VM Placement for NFV Infrastructures.",
+            "Year": "2022",
+            "Predominant Continent": [
+                "EU"
+            ],
             "Authors and Institutions": [
                 {
                     "Author": "Tommaso Cucinotta",
@@ -10380,14 +10384,14 @@
                         }
                     ]
                 }
-            ],
-            "Year": "2022",
-            "Predominant Continent": [
-                "Europe"
             ]
         },
         {
             "Title": "Workload-aware Dynamic GPU Resource Management in Component-based Applications.",
+            "Year": "2022",
+            "Predominant Continent": [
+                "NA"
+            ],
             "Authors and Institutions": [
                 {
                     "Author": "Hoda Sedighi",
@@ -10416,14 +10420,14 @@
                         }
                     ]
                 }
-            ],
-            "Year": "2022",
-            "Predominant Continent": [
-                "North America"
             ]
         },
         {
             "Title": "MicroBlind: Flexible and Secure File System Middleware for Application Sandboxes.",
+            "Year": "2022",
+            "Predominant Continent": [
+                "AS"
+            ],
             "Authors and Institutions": [
                 {
                     "Author": "Saketh Maddamsetty",
@@ -10452,14 +10456,14 @@
                         }
                     ]
                 }
-            ],
-            "Year": "2022",
-            "Predominant Continent": [
-                "Asia"
             ]
         },
         {
             "Title": "Guarding Against Universal Adversarial Perturbations in Data-driven Cloud/Edge Services.",
+            "Year": "2022",
+            "Predominant Continent": [
+                "NA"
+            ],
             "Authors and Institutions": [
                 {
                     "Author": "Xingyu Zhou",
@@ -10524,14 +10528,14 @@
                         }
                     ]
                 }
-            ],
-            "Year": "2022",
-            "Predominant Continent": [
-                "North America"
             ]
         },
         {
             "Title": "Understanding Software Security Vulnerabilities in Cloud Server Systems.",
+            "Year": "2022",
+            "Predominant Continent": [
+                "NA"
+            ],
             "Authors and Institutions": [
                 {
                     "Author": "Olufogorehan Tunde-Onadele",
@@ -10569,14 +10573,14 @@
                         }
                     ]
                 }
-            ],
-            "Year": "2022",
-            "Predominant Continent": [
-                "North America"
             ]
         },
         {
             "Title": "Automated Traces-based Anomaly Detection and Root Cause Analysis in Cloud Platforms.",
+            "Year": "2022",
+            "Predominant Continent": [
+                "NA"
+            ],
             "Authors and Institutions": [
                 {
                     "Author": "Mbarka Soualhia",
@@ -10596,14 +10600,14 @@
                         }
                     ]
                 }
-            ],
-            "Year": "2022",
-            "Predominant Continent": [
-                "North America"
             ]
         },
         {
             "Title": "PACED: Provenance-based Automated Container Escape Detection.",
+            "Year": "2022",
+            "Predominant Continent": [
+                "NA"
+            ],
             "Authors and Institutions": [
                 {
                     "Author": "Mashal Abbas",
@@ -10670,16 +10674,16 @@
                         }
                     ]
                 }
-            ],
-            "Year": "2022",
-            "Predominant Continent": [
-                "North America"
             ]
         }
     ],
     "2023": [
         {
             "Title": "Efficient Container Image Updating in Low-bandwidth Networks with Delta Encoding.",
+            "Year": "2023",
+            "Predominant Continent": [
+                "AS"
+            ],
             "Authors and Institutions": [
                 {
                     "Author": "Naoki Matsumoto",
@@ -10708,14 +10712,14 @@
                         }
                     ]
                 }
-            ],
-            "Year": "2023",
-            "Predominant Continent": [
-                "Asia"
             ]
         },
         {
             "Title": "Protocol-Independent Context Propagation for Sharing Microservices in Multiple Environments.",
+            "Year": "2023",
+            "Predominant Continent": [
+                "AS"
+            ],
             "Authors and Institutions": [
                 {
                     "Author": "Hiroya Onoe",
@@ -10744,14 +10748,14 @@
                         }
                     ]
                 }
-            ],
-            "Year": "2023",
-            "Predominant Continent": [
-                "Asia"
             ]
         },
         {
             "Title": "Enriching Cloud-native Applications with Sustainability Features.",
+            "Year": "2023",
+            "Predominant Continent": [
+                "EU"
+            ],
             "Authors and Institutions": [
                 {
                     "Author": "Monica Vitali",
@@ -10780,14 +10784,14 @@
                         }
                     ]
                 }
-            ],
-            "Year": "2023",
-            "Predominant Continent": [
-                "Europe"
             ]
         },
         {
             "Title": "Breaking the Vicious Circle: Self-Adaptive Microservice Circuit Breaking and Retry.",
+            "Year": "2023",
+            "Predominant Continent": [
+                "EU"
+            ],
             "Authors and Institutions": [
                 {
                     "Author": "Mohammad Reza Saleh Sedghpour",
@@ -10834,14 +10838,14 @@
                         }
                     ]
                 }
-            ],
-            "Year": "2023",
-            "Predominant Continent": [
-                "Europe"
             ]
         },
         {
             "Title": "A Framework for Enabling Cloud Services to Leverage Energy Data.",
+            "Year": "2023",
+            "Predominant Continent": [
+                "EU"
+            ],
             "Authors and Institutions": [
                 {
                     "Author": "Vasileios Karagiannis",
@@ -10941,14 +10945,14 @@
                     "Author": "Stefan Schulte",
                     "Institutions": []
                 }
-            ],
-            "Year": "2023",
-            "Predominant Continent": [
-                "Europe"
             ]
         },
         {
             "Title": "Energy-efficient OECT Sensor Data Analysis on Constrained Edge Devices.",
+            "Year": "2023",
+            "Predominant Continent": [
+                "EU"
+            ],
             "Authors and Institutions": [
                 {
                     "Author": "Francesco Saccani",
@@ -10986,14 +10990,14 @@
                         }
                     ]
                 }
-            ],
-            "Year": "2023",
-            "Predominant Continent": [
-                "Europe"
             ]
         },
         {
             "Title": "Towards Serverless Sky Computing: An Investigation on Global Workload Distribution to Mitigate Carbon Intensity, Network Latency, and Cost.",
+            "Year": "2023",
+            "Predominant Continent": [
+                "NA"
+            ],
             "Authors and Institutions": [
                 {
                     "Author": "Robert Cordingly",
@@ -11031,14 +11035,14 @@
                         }
                     ]
                 }
-            ],
-            "Year": "2023",
-            "Predominant Continent": [
-                "North America"
             ]
         },
         {
             "Title": "GreenCoin: A Renewable Energy-Aware Cryptocurrency.",
+            "Year": "2023",
+            "Predominant Continent": [
+                "NA"
+            ],
             "Authors and Institutions": [
                 {
                     "Author": "Nazmus Saquib",
@@ -11085,14 +11089,14 @@
                         }
                     ]
                 }
-            ],
-            "Year": "2023",
-            "Predominant Continent": [
-                "North America"
             ]
         },
         {
             "Title": "CloudFactory: An Open Toolkit to Generate Production-like Workloads for Cloud Infrastructures.",
+            "Year": "2023",
+            "Predominant Continent": [
+                "EU"
+            ],
             "Authors and Institutions": [
                 {
                     "Author": "Pierre Jacquet",
@@ -11145,14 +11149,14 @@
                         }
                     ]
                 }
-            ],
-            "Year": "2023",
-            "Predominant Continent": [
-                "Europe"
             ]
         },
         {
             "Title": "Towards a Benchmark for Fog Data Processing.",
+            "Year": "2023",
+            "Predominant Continent": [
+                "EU"
+            ],
             "Authors and Institutions": [
                 {
                     "Author": "Tobias Pfandzelter",
@@ -11172,14 +11176,14 @@
                         }
                     ]
                 }
-            ],
-            "Year": "2023",
-            "Predominant Continent": [
-                "Europe"
             ]
         },
         {
             "Title": "Studying the Energy Consumption of Stream Processing Engines in the Cloud.",
+            "Year": "2023",
+            "Predominant Continent": [
+                "EU"
+            ],
             "Authors and Institutions": [
                 {
                     "Author": "Govind Kp",
@@ -11198,14 +11202,14 @@
                         }
                     ]
                 }
-            ],
-            "Year": "2023",
-            "Predominant Continent": [
-                "Europe"
             ]
         },
         {
             "Title": "Inducing Huge Tail Latency on a MongoDB deployment.",
+            "Year": "2023",
+            "Predominant Continent": [
+                "EU"
+            ],
             "Authors and Institutions": [
                 {
                     "Author": "Remo Andreoli",
@@ -11225,14 +11229,14 @@
                         }
                     ]
                 }
-            ],
-            "Year": "2023",
-            "Predominant Continent": [
-                "Europe"
             ]
         },
         {
             "Title": "Learning to Score: Tuning Cluster Schedulers through Reinforcement Learning.",
+            "Year": "2023",
+            "Predominant Continent": [
+                "EU"
+            ],
             "Authors and Institutions": [
                 {
                     "Author": "Martin Asenov",
@@ -11274,14 +11278,14 @@
                         }
                     ]
                 }
-            ],
-            "Year": "2023",
-            "Predominant Continent": [
-                "Europe"
             ]
         },
         {
             "Title": "A Reinforcement Learning Approach for Performance-aware Reduction in Power Consumption of Data Center Compute Nodes.",
+            "Year": "2023",
+            "Predominant Continent": [
+                "NA"
+            ],
             "Authors and Institutions": [
                 {
                     "Author": "Akhilesh Raj",
@@ -11310,14 +11314,14 @@
                         }
                     ]
                 }
-            ],
-            "Year": "2023",
-            "Predominant Continent": [
-                "North America"
             ]
         },
         {
             "Title": "Voda: A GPU Scheduling Platform for Elastic Deep Learning in Kubernetes Clusters.",
+            "Year": "2023",
+            "Predominant Continent": [
+                "AS"
+            ],
             "Authors and Institutions": [
                 {
                     "Author": "Tsung‐Hsin Hsieh",
@@ -11337,14 +11341,14 @@
                         }
                     ]
                 }
-            ],
-            "Year": "2023",
-            "Predominant Continent": [
-                "Asia"
             ]
         },
         {
             "Title": "Exploring the Impact of Serverless Computing on Peer To Peer Training Machine Learning.",
+            "Year": "2023",
+            "Predominant Continent": [
+                "NA"
+            ],
             "Authors and Institutions": [
                 {
                     "Author": "Amine Barrak",
@@ -11377,14 +11381,14 @@
                     "Author": "Fábio Petrillo",
                     "Institutions": []
                 }
-            ],
-            "Year": "2023",
-            "Predominant Continent": [
-                "North America"
             ]
         },
         {
             "Title": "Cost-Effective Scheduling for Kubernetes in the Edge-to-Cloud Continuum.",
+            "Year": "2023",
+            "Predominant Continent": [
+                "EU"
+            ],
             "Authors and Institutions": [
                 {
                     "Author": "Samuel Rac",
@@ -11404,14 +11408,14 @@
                         }
                     ]
                 }
-            ],
-            "Year": "2023",
-            "Predominant Continent": [
-                "Europe"
             ]
         },
         {
             "Title": "Vela: A 3-Phase Distributed Scheduler for the Edge-Cloud Continuum.",
+            "Year": "2023",
+            "Predominant Continent": [
+                "EU"
+            ],
             "Authors and Institutions": [
                 {
                     "Author": "Thomas Pusztai",
@@ -11467,14 +11471,14 @@
                         }
                     ]
                 }
-            ],
-            "Year": "2023",
-            "Predominant Continent": [
-                "Europe"
             ]
         },
         {
             "Title": "Multi-Objective Workflow Scheduling to Serverless Architecture in a Multi-Cloud Environment.",
+            "Year": "2023",
+            "Predominant Continent": [
+                "AS"
+            ],
             "Authors and Institutions": [
                 {
                     "Author": "Manju Ramesh",
@@ -11512,14 +11516,14 @@
                         }
                     ]
                 }
-            ],
-            "Year": "2023",
-            "Predominant Continent": [
-                "Asia"
             ]
         },
         {
             "Title": "REFORM: Increase alerts value using data driven approach.",
+            "Year": "2023",
+            "Predominant Continent": [
+                "NA"
+            ],
             "Authors and Institutions": [
                 {
                     "Author": "Anupama Jagannathan",
@@ -11555,14 +11559,14 @@
                     "Author": "Emily Ford",
                     "Institutions": []
                 }
-            ],
-            "Year": "2023",
-            "Predominant Continent": [
-                "North America"
             ]
         },
         {
             "Title": "Service Function Chaining Implementation using VNFs and CNFs.",
+            "Year": "2023",
+            "Predominant Continent": [
+                "NA"
+            ],
             "Authors and Institutions": [
                 {
                     "Author": "Abdullah Bittar",
@@ -11591,14 +11595,14 @@
                         }
                     ]
                 }
-            ],
-            "Year": "2023",
-            "Predominant Continent": [
-                "North America"
             ]
         },
         {
             "Title": "Evaluation of Data Enrichment Methods for Distributed Stream Processing Systems.",
+            "Year": "2023",
+            "Predominant Continent": [
+                "EU"
+            ],
             "Authors and Institutions": [
                 {
                     "Author": "Dominik Scheinert",
@@ -11645,14 +11649,14 @@
                         }
                     ]
                 }
-            ],
-            "Year": "2023",
-            "Predominant Continent": [
-                "Europe"
             ]
         },
         {
             "Title": "A Crowdsensing Approach for Deriving Surface Quality of Cycling Infrastructure.",
+            "Year": "2023",
+            "Predominant Continent": [
+                "EU"
+            ],
             "Authors and Institutions": [
                 {
                     "Author": "Ahmet-Serdar Karakaya",
@@ -11698,10 +11702,6 @@
                         }
                     ]
                 }
-            ],
-            "Year": "2023",
-            "Predominant Continent": [
-                "Europe"
             ]
         }
     ]
