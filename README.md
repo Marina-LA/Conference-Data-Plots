@@ -21,8 +21,8 @@ These data may also contain fields that are not extracted by the crawler. This i
 
 - **``ProcessedData``**: These are the basic data of the papers, meaning the data we consider most essential for analysis. They do not include citation data. This data was obtained by processing the ``ExtendedCrawler`` data from each of the conferences.
 
+    - ***``unifiedPaperData.csv``*** - Additional CSV that consolidates the main data from the papers. This data includes the conference where the paper was published, the year of publication, the paper title, and the continent assigned as predominant.
+
 - **``CommitteeData``**: They contain all data on the conference Program Committees. These data were extracted manually (with some help from a crawler). As a result, they may contain some errors.
 
-- **``Databases``**: This folder includes the database files. On the one hand, it has the files that make up the relational database (one for each conference). On the other hand, it contains the ``.dump`` files for the GraphDB (one for each conference). The GraphDB was created using [Neo4j](https://neo4j.com).
-
-    - ***``unidiedPaperData.csv``*** - Additional CSV that consolidates the main data from the papers. This data includes the conference where the paper was published, the year of publication, the paper title, and the continent assigned as predominant.
+- **``Databases``**: This folder includes the database files. On the one hand, it has the files that make up the relational database (one for each conference). On the other hand, it contains the ``.dump`` files for the GraphDB (one for each conference). The GraphDB was created using [Neo4j](https://neo4j.com)
