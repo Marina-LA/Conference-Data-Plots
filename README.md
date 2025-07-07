@@ -23,6 +23,8 @@ These data may also contain fields that are not extracted by the crawler. This i
 
     - ***``unifiedPaperData.csv``*** - Additional CSV that consolidates the main data from the papers. This data includes the conference where the paper was published, the year of publication, the paper title, and the continent assigned as predominant.
 
+    - ***``unifiedCitationData.csv``*** - Additional CSV that consolidates the main continent data from the cited papers. This data includes the conference to which the papers that have cited other papers belong, the predominant continent of the papers that have been cited in that conference, and the number of papers belonging to each of the different continents.
+
 - **``CommitteeData``**: They contain all data on the conference Program Committees. These data were extracted manually (with some help from a crawler). As a result, they may contain some errors.
 
 - **``Databases``**: This folder includes the database files. On the one hand, it has the files that make up the relational database (one for each conference). On the other hand, it contains the ``.dump`` files for the GraphDB (one for each conference). The GraphDB was created using [Neo4j](https://neo4j.com)
