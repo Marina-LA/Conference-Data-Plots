@@ -317,6 +317,9 @@ create_comparison_plot <- function(df) {
     )
 }
 
+#' Create violin plot with distribution of percentages by conference
+#' @param df Dataframe with Conference, Year, Percentage columns
+#' @return ggplot object
 create_violin_plot <- function(df) {
   # Calculate year breaks
   years <- as.numeric(as.character(df$Year))
@@ -507,6 +510,7 @@ pipeline_continent_trend_distribution <- function(csv_path, output_path, contine
   # Order by continent percentage (after labels are applied)
   df_plot <- order_by_median(df_plot, continent, "Continent", "Percentage")
 
+  # Filter for the specified continent
   df_continent <- df_plot %>%
     filter(Continent == continent)
   
