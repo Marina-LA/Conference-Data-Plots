@@ -20357,5 +20357,3121 @@
                 "W4288310158"
             ]
         }
+    ],
+    "2024": [
+        {
+            "Title": "Enhancing Effective Bidirectional Isolation for Function Fusion in Serverless Architectures.",
+            "Year": "2024",
+            "DOI Number": "10.1145/3652892.3654778",
+            "OpenAlex Link": "https://api.openalex.org/works/doi:10.1145%2F3652892.3654778",
+            "Authors and Institutions": [
+                {
+                    "Author": "Tianyu Li",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Shanghai Jiao Tong University",
+                            "Country": "CN"
+                        },
+                        {
+                            "Institution Name": "KU Leuven",
+                            "Country": "BE"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Yingpeng Chen",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Shanghai Jiao Tong University",
+                            "Country": "CN"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Donghui Yu",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Shanghai Jiao Tong University",
+                            "Country": "CN"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Yuanyuan Zhang",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Shanghai Jiao Tong University",
+                            "Country": "CN"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Bert Lagaisse",
+                    "Institutions": [
+                        {
+                            "Institution Name": "KU Leuven",
+                            "Country": "BE"
+                        }
+                    ]
+                }
+            ],
+            "OpenAlex Referenced Works": [
+                "W10911613",
+                "W2036329595",
+                "W2734941459",
+                "W2912797383",
+                "W2914630606",
+                "W3036557299",
+                "W3089947917",
+                "W3174733737",
+                "W4200386091",
+                "W4214792716",
+                "W4232212103",
+                "W4232865065"
+            ]
+        },
+        {
+            "Title": "STRATA: Random Forests going Serverless.",
+            "Year": "2024",
+            "DOI Number": "10.1145/3652892.3654791",
+            "OpenAlex Link": "https://api.openalex.org/works/doi:10.1145%2F3652892.3654791",
+            "Authors and Institutions": [
+                {
+                    "Author": "Dimitrios Tomaras",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Athens University of Economics and Business",
+                            "Country": "GR"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Sebastian Buschjäger",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Lamarr Institute for Machine Learning and Artificial Intelligence",
+                            "Country": null
+                        }
+                    ]
+                },
+                {
+                    "Author": "Vana Kalogeraki",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Athens University of Economics and Business",
+                            "Country": "GR"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Katharina Morik",
+                    "Institutions": [
+                        {
+                            "Institution Name": "TU Dortmund University",
+                            "Country": "DE"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Dimitrios Gunopulos",
+                    "Institutions": [
+                        {
+                            "Institution Name": "National and Kapodistrian University of Athens",
+                            "Country": "GR"
+                        }
+                    ]
+                }
+            ],
+            "OpenAlex Referenced Works": [
+                "W1583837637",
+                "W1588100052",
+                "W1998446685",
+                "W2008183828",
+                "W2056132907",
+                "W2101234009",
+                "W2113242816",
+                "W2149706766",
+                "W2171647935",
+                "W2220384803",
+                "W2605800822",
+                "W2789426250",
+                "W2886518140",
+                "W2894436658",
+                "W2900182564",
+                "W2911964244",
+                "W2918828872",
+                "W2945003059",
+                "W2964193741",
+                "W2971172474",
+                "W2982560534",
+                "W3081125651",
+                "W3109267637",
+                "W3159219445",
+                "W3175954176",
+                "W3188270315",
+                "W3204860324",
+                "W3214262270",
+                "W410850256",
+                "W4210473334",
+                "W4212883601",
+                "W4220980201",
+                "W4238297360",
+                "W4242509916",
+                "W4282019144",
+                "W4285506300",
+                "W4288064558",
+                "W4289546285",
+                "W4312038612",
+                "W4312080239",
+                "W4312661868",
+                "W4324325338",
+                "W4362566358",
+                "W4388989636",
+                "W91851626"
+            ]
+        },
+        {
+            "Title": "Optimal Resource Efficiency with Fairness in Heterogeneous GPU Clusters.",
+            "Year": "2024",
+            "DOI Number": "10.1145/3652892.3654792",
+            "OpenAlex Link": "https://api.openalex.org/works/doi:10.1145%2F3652892.3654792",
+            "Authors and Institutions": [
+                {
+                    "Author": "Zizhao Mo",
+                    "Institutions": [
+                        {
+                            "Institution Name": "University of Macau",
+                            "Country": "MO"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Huanle Xu",
+                    "Institutions": [
+                        {
+                            "Institution Name": "University of Macau",
+                            "Country": "MO"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Wing Cheong Lau",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Chinese University of Hong Kong",
+                            "Country": "HK"
+                        }
+                    ]
+                }
+            ],
+            "OpenAlex Referenced Works": [
+                "W1670635083",
+                "W1969844906",
+                "W1987354455",
+                "W2013901835",
+                "W2104338317",
+                "W2123878303",
+                "W2128426273",
+                "W2219413783",
+                "W2612690371",
+                "W2808563793",
+                "W2912720049",
+                "W3145843217",
+                "W4236974103",
+                "W4237645939"
+            ]
+        },
+        {
+            "Title": "L3: Latency-aware Load Balancing in Multi-Cluster Service Mesh.",
+            "Year": "2024",
+            "DOI Number": "10.1145/3652892.3654793",
+            "OpenAlex Link": "https://api.openalex.org/works/doi:10.1145%2F3652892.3654793",
+            "Authors and Institutions": [
+                {
+                    "Author": "Olivier Michaelis",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Technische Universität Berlin",
+                            "Country": "DE"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Stefan Schmid",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Technische Universität Berlin",
+                            "Country": "DE"
+                        },
+                        {
+                            "Institution Name": "Fraunhofer Institute for Secure Information Technology",
+                            "Country": "DE"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Habib Mostafaei",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Eindhoven University of Technology",
+                            "Country": "NL"
+                        }
+                    ]
+                }
+            ],
+            "OpenAlex Referenced Works": [
+                "W1982063824",
+                "W2914997739",
+                "W2964906425",
+                "W3092080090",
+                "W3126231714",
+                "W4200085882",
+                "W4285124351",
+                "W4286373633",
+                "W4308995001",
+                "W4313404747",
+                "W95608104"
+            ]
+        },
+        {
+            "Title": "sMVX: Multi-Variant Execution on Selected Code Paths.",
+            "Year": "2024",
+            "DOI Number": "10.1145/3652892.3654794",
+            "OpenAlex Link": "https://api.openalex.org/works/doi:10.1145%2F3652892.3654794",
+            "Authors and Institutions": [
+                {
+                    "Author": "SengMing Yeoh",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Virginia Tech",
+                            "Country": "US"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Xiaoguang Wang",
+                    "Institutions": [
+                        {
+                            "Institution Name": "University of Illinois Chicago",
+                            "Country": "US"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Joo-Young Jang",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Virginia Tech",
+                            "Country": "US"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Binoy Ravindran",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Virginia Tech",
+                            "Country": "US"
+                        }
+                    ]
+                }
+            ],
+            "OpenAlex Referenced Works": [
+                "W1512773843",
+                "W2332347785",
+                "W2734941459",
+                "W2794407475",
+                "W2898518680",
+                "W2911686476",
+                "W2913607605",
+                "W2914982603",
+                "W2934715626",
+                "W4220834613",
+                "W4232172926",
+                "W4241395538",
+                "W4297927038",
+                "W4299301436",
+                "W4321993631"
+            ]
+        },
+        {
+            "Title": "SpotVerse: Optimizing Bioinformatics Workflows with Multi-Region Spot Instances in Galaxy and Beyond.",
+            "Year": "2024",
+            "DOI Number": "10.1145/3652892.3700750",
+            "OpenAlex Link": "https://api.openalex.org/works/doi:10.1145%2F3652892.3700750",
+            "Authors and Institutions": [
+                {
+                    "Author": "Myungjun Son",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Pennsylvania State University",
+                            "Country": "US"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Gulsum Gudukbay Akbulut",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Pennsylvania State University",
+                            "Country": "US"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Mahmut Kandemir",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Pennsylvania State University",
+                            "Country": "US"
+                        }
+                    ]
+                }
+            ],
+            "OpenAlex Referenced Works": [
+                "W2126218947",
+                "W2290712622",
+                "W2323958835",
+                "W2613409207",
+                "W2743544008",
+                "W2785694006",
+                "W2913398112",
+                "W3003007226",
+                "W3016236086",
+                "W3034006655",
+                "W3038835228",
+                "W3148179782",
+                "W3200441984",
+                "W3214415385",
+                "W3215932031",
+                "W4226051960",
+                "W4226065614",
+                "W4229005870",
+                "W4230156124",
+                "W4250950580",
+                "W4285337599",
+                "W4311357972",
+                "W4318570903",
+                "W4321791555",
+                "W4362475854",
+                "W4383711164",
+                "W95608104"
+            ]
+        },
+        {
+            "Title": "UTwinVM: Reliable hints on the effects of hypervisor updates on VMs in the Cloud.",
+            "Year": "2024",
+            "DOI Number": "10.1145/3652892.3700752",
+            "OpenAlex Link": "https://api.openalex.org/works/doi:10.1145%2F3652892.3700752",
+            "Authors and Institutions": [
+                {
+                    "Author": "Djob Mvondo",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Université de Rennes",
+                            "Country": "FR"
+                        },
+                        {
+                            "Institution Name": "Centre National de la Recherche Scientifique",
+                            "Country": "FR"
+                        },
+                        {
+                            "Institution Name": "Institut de Recherche en Informatique et Systèmes Aléatoires",
+                            "Country": "FR"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Tong Xing",
+                    "Institutions": [
+                        {
+                            "Institution Name": "University of Edinburgh",
+                            "Country": "GB"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Antonio Barbalace",
+                    "Institutions": [
+                        {
+                            "Institution Name": "University of Edinburgh",
+                            "Country": "GB"
+                        }
+                    ]
+                }
+            ],
+            "OpenAlex Referenced Works": [
+                "W1965370830",
+                "W1969265940",
+                "W1970689075",
+                "W1997269120",
+                "W2020064991",
+                "W2022570654",
+                "W2078348653",
+                "W2098098075",
+                "W2101219357",
+                "W2104105007",
+                "W2107710541",
+                "W2116672036",
+                "W2134894205",
+                "W2158023065",
+                "W2295252432",
+                "W2320836487",
+                "W2467941640",
+                "W2539777030",
+                "W2554427106",
+                "W2604272474",
+                "W2604804407",
+                "W2613793605",
+                "W2734941459",
+                "W2768181417",
+                "W2794611157",
+                "W2796062256",
+                "W2796645376",
+                "W2933160410",
+                "W2976854232",
+                "W3046282487",
+                "W3090489718",
+                "W3155613051",
+                "W3161317821",
+                "W4214570460",
+                "W4245532963"
+            ]
+        },
+        {
+            "Title": "Dexter: A Performance-Cost Efficient Resource Allocation Manager for Serverless Data Analytics.",
+            "Year": "2024",
+            "DOI Number": "10.1145/3652892.3700753",
+            "OpenAlex Link": "https://api.openalex.org/works/doi:10.1145%2F3652892.3700753",
+            "Authors and Institutions": [
+                {
+                    "Author": "Anna Maria Nestorov",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Universitat Politècnica de Catalunya",
+                            "Country": "ES"
+                        },
+                        {
+                            "Institution Name": "Barcelona Supercomputing Center",
+                            "Country": "ES"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Diego Marrón",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Universitat Politècnica de Catalunya",
+                            "Country": "ES"
+                        },
+                        {
+                            "Institution Name": "Barcelona Supercomputing Center",
+                            "Country": "ES"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Alberto Gutierrez-Torre",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Universitat Politècnica de Catalunya",
+                            "Country": "ES"
+                        },
+                        {
+                            "Institution Name": "Barcelona Supercomputing Center",
+                            "Country": "ES"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Chen Wang",
+                    "Institutions": [
+                        {
+                            "Institution Name": "IBM Research - Thomas J. Watson Research Center",
+                            "Country": "US"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Claudia Misale",
+                    "Institutions": [
+                        {
+                            "Institution Name": "IBM Research - Thomas J. Watson Research Center",
+                            "Country": "US"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Alaa Youssef",
+                    "Institutions": [
+                        {
+                            "Institution Name": "IBM Research - Thomas J. Watson Research Center",
+                            "Country": "US"
+                        }
+                    ]
+                },
+                {
+                    "Author": "David Carrera",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Barcelona Supercomputing Center",
+                            "Country": "ES"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Josep Ll. Berral",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Universitat Politècnica de Catalunya",
+                            "Country": "ES"
+                        },
+                        {
+                            "Institution Name": "Barcelona Supercomputing Center",
+                            "Country": "ES"
+                        }
+                    ]
+                }
+            ],
+            "OpenAlex Referenced Works": [
+                "W1557418592",
+                "W2591324491",
+                "W2734941459",
+                "W2756859730",
+                "W2889893539",
+                "W2911964244",
+                "W2918828872",
+                "W2949259904",
+                "W2987607480",
+                "W2991101735",
+                "W2993353322",
+                "W3085960807",
+                "W3100711529",
+                "W3101868768",
+                "W3159219445",
+                "W3196442060",
+                "W4214690606",
+                "W4236491543",
+                "W4241618768",
+                "W4249726634",
+                "W4285075526",
+                "W4285126174",
+                "W4292958535",
+                "W4386265727",
+                "W95608104"
+            ]
+        },
+        {
+            "Title": "BASS: A Resource Orchestrator to Account for Vagaries in Network Conditions in Community Wi-Fi Mesh.",
+            "Year": "2024",
+            "DOI Number": "10.1145/3652892.3700754",
+            "OpenAlex Link": "https://api.openalex.org/works/doi:10.1145%2F3652892.3700754",
+            "Authors and Institutions": [
+                {
+                    "Author": "Manasvini Sethuraman",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Atlanta Technical College",
+                            "Country": "US"
+                        },
+                        {
+                            "Institution Name": "Georgia Institute of Technology",
+                            "Country": "US"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Anirudh Sarma",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Atlanta Technical College",
+                            "Country": "US"
+                        },
+                        {
+                            "Institution Name": "Georgia Institute of Technology",
+                            "Country": "US"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Netra Ghaisas",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Atlanta Technical College",
+                            "Country": "US"
+                        },
+                        {
+                            "Institution Name": "Georgia Institute of Technology",
+                            "Country": "US"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Adwait Bauskar",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Atlanta Technical College",
+                            "Country": "US"
+                        },
+                        {
+                            "Institution Name": "Georgia Institute of Technology",
+                            "Country": "US"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Ashutosh Dhekne",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Georgia Institute of Technology",
+                            "Country": "US"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Anand Sivasubramaniam",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Pennsylvania State University",
+                            "Country": "US"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Umakishore Ramachandran",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Atlanta Technical College",
+                            "Country": "US"
+                        },
+                        {
+                            "Institution Name": "Georgia Institute of Technology",
+                            "Country": "US"
+                        }
+                    ]
+                }
+            ],
+            "OpenAlex Referenced Works": [
+                "W2085452764",
+                "W2122466336",
+                "W2141033252",
+                "W2163408062",
+                "W2171275063",
+                "W2794011704",
+                "W2809811157",
+                "W2839047802",
+                "W2893768869",
+                "W2897807975",
+                "W2914317637",
+                "W2931122162",
+                "W2966753637",
+                "W2968701173",
+                "W2982778158",
+                "W3048145331",
+                "W3092080090",
+                "W3153922888",
+                "W3184435488",
+                "W4220848902",
+                "W4229995453",
+                "W4233029263",
+                "W4234835238",
+                "W4251369139",
+                "W4285124351",
+                "W4300502652",
+                "W4312199008",
+                "W4313524839",
+                "W4372260324",
+                "W4388685204"
+            ]
+        },
+        {
+            "Title": "Chasing Lightspeed Consensus: Fast Wide-Area Byzantine Replication with Mercury.",
+            "Year": "2024",
+            "DOI Number": "10.1145/3652892.3700756",
+            "OpenAlex Link": "https://api.openalex.org/works/doi:10.1145%2F3652892.3700756",
+            "Authors and Institutions": [
+                {
+                    "Author": "Christian Berger",
+                    "Institutions": [
+                        {
+                            "Institution Name": "University of Passau",
+                            "Country": "DE"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Lívio Rodrigues",
+                    "Institutions": [
+                        {
+                            "Institution Name": "University of Lisbon",
+                            "Country": "PT"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Hans P. Reiser",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Reykjavík University",
+                            "Country": "IS"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Vinicius V. Cogo",
+                    "Institutions": [
+                        {
+                            "Institution Name": "University of Lisbon",
+                            "Country": "PT"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Alysson Bessani",
+                    "Institutions": [
+                        {
+                            "Institution Name": "University of Lisbon",
+                            "Country": "PT"
+                        }
+                    ]
+                }
+            ],
+            "OpenAlex Referenced Works": [
+                "W2003214215",
+                "W2030698973",
+                "W2058322902",
+                "W2101939036",
+                "W2114925953",
+                "W2119795353",
+                "W2124037649",
+                "W2137934532",
+                "W2152465173",
+                "W2342652621",
+                "W2560746131",
+                "W2977984277",
+                "W3011637755",
+                "W3099773961",
+                "W4288083744"
+            ]
+        },
+        {
+            "Title": "Near-Storage Processing in FaaS Environments with Funclets.",
+            "Year": "2024",
+            "DOI Number": "10.1145/3652892.3700755",
+            "OpenAlex Link": "https://api.openalex.org/works/doi:10.1145%2F3652892.3700755",
+            "Authors and Institutions": [
+                {
+                    "Author": "Alan Nair",
+                    "Institutions": [
+                        {
+                            "Institution Name": "University of Edinburgh",
+                            "Country": "GB"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Raven Szewczyk",
+                    "Institutions": [
+                        {
+                            "Institution Name": "University of Edinburgh",
+                            "Country": "GB"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Donald Jennings",
+                    "Institutions": [
+                        {
+                            "Institution Name": "University of Edinburgh",
+                            "Country": "GB"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Antonio Barbalace",
+                    "Institutions": [
+                        {
+                            "Institution Name": "University of Edinburgh",
+                            "Country": "GB"
+                        }
+                    ]
+                }
+            ],
+            "OpenAlex Referenced Works": [
+                "W2007339694",
+                "W2911595481",
+                "W2913647445",
+                "W3046831270",
+                "W3117789502",
+                "W3185891223",
+                "W4239721031",
+                "W4247832916",
+                "W4249371737",
+                "W4255357946",
+                "W4312069222",
+                "W66242921",
+                "W95608104"
+            ]
+        },
+        {
+            "Title": "Menos: Split Fine-Tuning Large Language Models with Efficient GPU Memory Sharing.",
+            "Year": "2024",
+            "DOI Number": "10.1145/3652892.3700758",
+            "OpenAlex Link": "https://api.openalex.org/works/doi:10.1145%2F3652892.3700758",
+            "Authors and Institutions": [
+                {
+                    "Author": "Chuntian Hu",
+                    "Institutions": [
+                        {
+                            "Institution Name": "University of Toronto",
+                            "Country": "CA"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Baochun Li",
+                    "Institutions": [
+                        {
+                            "Institution Name": "University of Toronto",
+                            "Country": "CA"
+                        }
+                    ]
+                }
+            ],
+            "OpenAlex Referenced Works": [
+                "W2112168774",
+                "W2768663569",
+                "W2963209930",
+                "W4249128574",
+                "W4367046738",
+                "W4378697396",
+                "W4396758529"
+            ]
+        },
+        {
+            "Title": "In Serverless, OS Scheduler Choice Costs Money: A Hybrid Scheduling Approach for Cheaper FaaS.",
+            "Year": "2024",
+            "DOI Number": "10.1145/3652892.3700757",
+            "OpenAlex Link": "https://api.openalex.org/works/doi:10.1145%2F3652892.3700757",
+            "Authors and Institutions": [
+                {
+                    "Author": "Yuxuan Zhao",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Leiden University",
+                            "Country": "NL"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Weikang Weng",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Leiden University",
+                            "Country": "NL"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Rob V. van Nieuwpoort",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Leiden University",
+                            "Country": "NL"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Alexandru Uta",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Leiden University",
+                            "Country": "NL"
+                        }
+                    ]
+                }
+            ],
+            "OpenAlex Referenced Works": [
+                "W1602617099",
+                "W2099648702",
+                "W2607836879",
+                "W2734941459",
+                "W2912271380",
+                "W2912416028",
+                "W2912894509",
+                "W4200208024",
+                "W4200372399",
+                "W4205427197",
+                "W4205983429",
+                "W4242509916",
+                "W4248953716",
+                "W4252478058",
+                "W4285337599",
+                "W4285776552",
+                "W4301647871",
+                "W4308426104",
+                "W4368408108",
+                "W4372267410",
+                "W4385585322",
+                "W4404343279",
+                "W95608104"
+            ]
+        },
+        {
+            "Title": "B-Side: Binary-Level Static System Call Identification.",
+            "Year": "2024",
+            "DOI Number": "10.1145/3652892.3700761",
+            "OpenAlex Link": "https://api.openalex.org/works/doi:10.1145%2F3652892.3700761",
+            "Authors and Institutions": [
+                {
+                    "Author": "Gaspard Thévenon",
+                    "Institutions": [
+                        {
+                            "Institution Name": "École Normale Supérieure de Lyon",
+                            "Country": "FR"
+                        },
+                        {
+                            "Institution Name": "Institut polytechnique de Grenoble",
+                            "Country": "FR"
+                        },
+                        {
+                            "Institution Name": "Orange (France)",
+                            "Country": "FR"
+                        },
+                        {
+                            "Institution Name": "University of Manchester",
+                            "Country": "GB"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Kevin Nguetchouang",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Institut polytechnique de Grenoble",
+                            "Country": "FR"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Kahina Lazri",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Orange (France)",
+                            "Country": "FR"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Alain Tchana",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Institut polytechnique de Grenoble",
+                            "Country": "FR"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Pierre Olivier",
+                    "Institutions": [
+                        {
+                            "Institution Name": "University of Manchester",
+                            "Country": "GB"
+                        }
+                    ]
+                }
+            ],
+            "OpenAlex Referenced Works": [
+                "W1984350393",
+                "W1988143662",
+                "W2101512909",
+                "W2129860818",
+                "W22858107",
+                "W2337699331",
+                "W2350778671",
+                "W2514974017",
+                "W2741175893",
+                "W2765325137",
+                "W2930757500",
+                "W2954975888",
+                "W3102468935",
+                "W3106913944",
+                "W3200325357",
+                "W4220976077",
+                "W4308391469",
+                "W4327930458",
+                "W4388856815"
+            ]
+        },
+        {
+            "Title": "Towards SLO-Compliant and Cost-Effective Serverless Computing on Emerging GPU Architectures.",
+            "Year": "2024",
+            "DOI Number": "10.1145/3652892.3700760",
+            "OpenAlex Link": "https://api.openalex.org/works/doi:10.1145%2F3652892.3700760",
+            "Authors and Institutions": [
+                {
+                    "Author": "Vivek M. Bhasi",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Pennsylvania State University",
+                            "Country": "US"
+                        },
+                        {
+                            "Institution Name": "Park University",
+                            "Country": "US"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Aman Sharma",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Pennsylvania State University",
+                            "Country": "US"
+                        },
+                        {
+                            "Institution Name": "Park University",
+                            "Country": "US"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Rishabh Jain",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Pennsylvania State University",
+                            "Country": "US"
+                        },
+                        {
+                            "Institution Name": "Park University",
+                            "Country": "US"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Jashwant Raj Gunasekaran",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Adobe Systems (United States)",
+                            "Country": "US"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Ashutosh Pattnaik",
+                    "Institutions": [
+                        {
+                            "Institution Name": "American Rock Mechanics Association",
+                            "Country": "US"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Mahmut Kandemir",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Pennsylvania State University",
+                            "Country": "US"
+                        },
+                        {
+                            "Institution Name": "Park University",
+                            "Country": "US"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Chita R. Das",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Pennsylvania State University",
+                            "Country": "US"
+                        },
+                        {
+                            "Institution Name": "Park University",
+                            "Country": "US"
+                        }
+                    ]
+                }
+            ],
+            "OpenAlex Referenced Works": [
+                "W1597962932",
+                "W1982063824",
+                "W2117539524",
+                "W2153704625",
+                "W2511730936",
+                "W2734941459",
+                "W2738535327",
+                "W2796438033",
+                "W2805722953",
+                "W2896457183",
+                "W2928897890",
+                "W2949650786",
+                "W2951975363",
+                "W2955425717",
+                "W2962835968",
+                "W2965373594",
+                "W2978017171",
+                "W2982157693",
+                "W2996428491",
+                "W3003011076",
+                "W3032532958",
+                "W3033187248",
+                "W3033188311",
+                "W3043433718",
+                "W3043571714",
+                "W3043692235",
+                "W3126380638",
+                "W3158207578",
+                "W3173555539",
+                "W3187259510",
+                "W3205898353",
+                "W3209259988",
+                "W3209593805",
+                "W3210617645",
+                "W4214690606",
+                "W4214764640",
+                "W4239385313",
+                "W4253773507",
+                "W4280633167",
+                "W4285504009",
+                "W4287755028",
+                "W4297775537",
+                "W4300435436",
+                "W4304192541",
+                "W4308426122",
+                "W4308426784",
+                "W4309845474",
+                "W4312060067",
+                "W4318541537",
+                "W4318603275",
+                "W4360831842",
+                "W4380881110",
+                "W4387544292",
+                "W4394643157",
+                "W4400410040"
+            ]
+        },
+        {
+            "Title": "zkStream: a Framework for Trustworthy Stream Processing.",
+            "Year": "2024",
+            "DOI Number": "10.1145/3652892.3700763",
+            "OpenAlex Link": "https://api.openalex.org/works/doi:10.1145%2F3652892.3700763",
+            "Authors and Institutions": [
+                {
+                    "Author": "Janwillem Swalens",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Nokia (Belgium)",
+                            "Country": "BE"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Lode Hoste",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Nokia (Belgium)",
+                            "Country": "BE"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Emad Heydari Beni",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Nokia (Belgium)",
+                            "Country": "BE"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Lieven Trappeniers",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Nokia (Belgium)",
+                            "Country": "BE"
+                        }
+                    ]
+                }
+            ],
+            "OpenAlex Referenced Works": [
+                "W1552694902",
+                "W1563556756",
+                "W1569778844",
+                "W1610688607",
+                "W2029039689",
+                "W2067700169",
+                "W2075419264",
+                "W2098843110",
+                "W2144752539",
+                "W2147383536",
+                "W2165005140",
+                "W2166670067",
+                "W2484588551",
+                "W2502753018",
+                "W2513989210",
+                "W2530314904",
+                "W2561342496",
+                "W2730936454",
+                "W2734941459",
+                "W2754080593",
+                "W2811448169",
+                "W2911981000",
+                "W2915399950",
+                "W2968774960",
+                "W2969468102",
+                "W2979325626",
+                "W2986455874",
+                "W2989230924",
+                "W3007615622",
+                "W3166471020",
+                "W3195598474",
+                "W4200186003",
+                "W4205983429",
+                "W4246774680",
+                "W4299301436",
+                "W4301477203",
+                "W4318541683",
+                "W4401719136",
+                "W95608104"
+            ]
+        },
+        {
+            "Title": "Privagic: automatic code partitioning with explicit secure typing.",
+            "Year": "2024",
+            "DOI Number": "10.1145/3652892.3700759",
+            "OpenAlex Link": "https://api.openalex.org/works/doi:10.1145%2F3652892.3700759",
+            "Authors and Institutions": [
+                {
+                    "Author": "Subashiny Tanigassalame",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Département d'Informatique",
+                            "Country": "FR"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Yohan Pipereau",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Telecom SudParis",
+                            "Country": null
+                        }
+                    ]
+                },
+                {
+                    "Author": "Adam Chader",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Département d'Informatique",
+                            "Country": "FR"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Jana Toljaga",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Institut Polytechnique de Paris",
+                            "Country": "FR"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Gaël Thomas",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Institut national de recherche en sciences et technologies du numérique",
+                            "Country": "FR"
+                        }
+                    ]
+                }
+            ],
+            "OpenAlex Referenced Works": [
+                "W1972484642",
+                "W1985229168",
+                "W1987455670",
+                "W2043100293",
+                "W2095115578",
+                "W2095881341",
+                "W2100357382",
+                "W2112735498",
+                "W2131135493",
+                "W2144344516",
+                "W2148144728",
+                "W2166510103",
+                "W2166743230",
+                "W2368101144",
+                "W2605470470",
+                "W2612012086",
+                "W2625154275",
+                "W2751343396",
+                "W2766188225",
+                "W2794357950",
+                "W2902734607",
+                "W2913096406",
+                "W2979463730",
+                "W3123735584",
+                "W3173940409",
+                "W3215660704",
+                "W4385691620",
+                "W4387962987",
+                "W4394574321"
+            ]
+        },
+        {
+            "Title": "RoleML: a Role-Oriented Programming Model for Customizable Distributed Machine Learning on Edges.",
+            "Year": "2024",
+            "DOI Number": "10.1145/3652892.3700765",
+            "OpenAlex Link": "https://api.openalex.org/works/doi:10.1145%2F3652892.3700765",
+            "Authors and Institutions": [
+                {
+                    "Author": "Tan Yue-sheng",
+                    "Institutions": [
+                        {
+                            "Institution Name": "South China University of Technology",
+                            "Country": "CN"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Lei Yang",
+                    "Institutions": [
+                        {
+                            "Institution Name": "South China University of Technology",
+                            "Country": "CN"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Wenhao Li",
+                    "Institutions": [
+                        {
+                            "Institution Name": "South China University of Technology",
+                            "Country": "CN"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Y. Wu",
+                    "Institutions": [
+                        {
+                            "Institution Name": "South China University of Technology",
+                            "Country": "CN"
+                        }
+                    ]
+                }
+            ],
+            "OpenAlex Referenced Works": [
+                "W2112796928",
+                "W2559655401",
+                "W2612690371",
+                "W2900182564",
+                "W2950865323",
+                "W2953738034",
+                "W3011751313",
+                "W3107401959",
+                "W3112048118",
+                "W3116992856",
+                "W3134672306",
+                "W3206636350",
+                "W3208693455",
+                "W4205429547",
+                "W4205651827",
+                "W4210490391",
+                "W4226329799",
+                "W4287116725",
+                "W4294692178",
+                "W4323343894",
+                "W4385585435",
+                "W4387126727",
+                "W4387356123",
+                "W4392901776"
+            ]
+        },
+        {
+            "Title": "On the Semantic Overlap of Operators in Stream Processing Engines.",
+            "Year": "2024",
+            "DOI Number": "10.1145/3652892.3654790",
+            "OpenAlex Link": "https://api.openalex.org/works/doi:10.1145%2F3652892.3654790",
+            "Authors and Institutions": [
+                {
+                    "Author": "Vincenzo Gulisano",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Chalmers University of Technology",
+                            "Country": "SE"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Marina Papatriantafilou",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Chalmers University of Technology",
+                            "Country": "SE"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Alessandro Margara",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Politecnico di Milano",
+                            "Country": "IT"
+                        }
+                    ]
+                }
+            ],
+            "OpenAlex Referenced Works": [
+                "W1973026225",
+                "W2008503861",
+                "W2017203676",
+                "W2082171780",
+                "W2099395665",
+                "W2144973160",
+                "W2148222209",
+                "W2156972533",
+                "W2247317079",
+                "W2542459869",
+                "W2547005097",
+                "W2566979091",
+                "W2608747526",
+                "W2753910905",
+                "W2805011039",
+                "W2913854892",
+                "W2963035510",
+                "W2964273806",
+                "W3013273041",
+                "W3122095170",
+                "W3205626426",
+                "W3216570827",
+                "W4200280487",
+                "W4385653242"
+            ]
+        },
+        {
+            "Title": "SeqCDC: Hashless Content-Defined Chunking for Data Deduplication.",
+            "Year": "2024",
+            "DOI Number": "10.1145/3652892.3700766",
+            "OpenAlex Link": "https://api.openalex.org/works/doi:10.1145%2F3652892.3700766",
+            "Authors and Institutions": [
+                {
+                    "Author": "Sreeharsha Udayashankar",
+                    "Institutions": [
+                        {
+                            "Institution Name": "University of Waterloo",
+                            "Country": "CA"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Abdelrahman Baba",
+                    "Institutions": [
+                        {
+                            "Institution Name": "University of Waterloo",
+                            "Country": "CA"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Samer Al-Kiswany",
+                    "Institutions": [
+                        {
+                            "Institution Name": "University of Waterloo",
+                            "Country": "CA"
+                        }
+                    ]
+                }
+            ],
+            "OpenAlex Referenced Works": [
+                "W1553098517",
+                "W1969335064",
+                "W1976024527",
+                "W1986313415",
+                "W1992637701",
+                "W2008185810",
+                "W2038908732",
+                "W2056980397",
+                "W2073643620",
+                "W2119565742",
+                "W2124632914",
+                "W2128643848",
+                "W22807665",
+                "W2475932436",
+                "W2587323806",
+                "W2734941459",
+                "W2912122742",
+                "W2955130489",
+                "W4235705169",
+                "W4401943323"
+            ]
+        },
+        {
+            "Title": "Cannikin: Optimal Adaptive Distributed DNN Training over Heterogeneous Clusters.",
+            "Year": "2024",
+            "DOI Number": "10.1145/3652892.3700767",
+            "OpenAlex Link": "https://api.openalex.org/works/doi:10.1145%2F3652892.3700767",
+            "Authors and Institutions": [
+                {
+                    "Author": "Chengyi Nie",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Stony Brook University",
+                            "Country": "US"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Jessica Maghakian",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Stony Brook University",
+                            "Country": "US"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Zhenhua Liu",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Stony Brook University",
+                            "Country": "US"
+                        }
+                    ]
+                }
+            ],
+            "OpenAlex Referenced Works": [
+                "W1602617099",
+                "W1980032585",
+                "W2010798306",
+                "W2057332538",
+                "W2114853176",
+                "W2193413348",
+                "W2219888463",
+                "W2296335794",
+                "W2525778437",
+                "W2551437525",
+                "W2612690371",
+                "W2734941459",
+                "W2773689216",
+                "W2896457183",
+                "W2904125685",
+                "W2949650786",
+                "W2951707557",
+                "W2953212265",
+                "W2953384591",
+                "W2973727699",
+                "W3004702456",
+                "W4200492323",
+                "W4214651231",
+                "W4230025303",
+                "W4237498818",
+                "W4237687284",
+                "W4242509916",
+                "W4249142012",
+                "W4254240460",
+                "W4288083766",
+                "W4293775467",
+                "W4293999362",
+                "W4312411608",
+                "W4387302738"
+            ]
+        },
+        {
+            "Title": "Guardian: Safe GPU Sharing in Multi-Tenant Environments.",
+            "Year": "2024",
+            "DOI Number": "10.1145/3652892.3700768",
+            "OpenAlex Link": "https://api.openalex.org/works/doi:10.1145%2F3652892.3700768",
+            "Authors and Institutions": [
+                {
+                    "Author": "Manos Pavlidakis",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Foundation for Research and Technology Hellas",
+                            "Country": "GR"
+                        },
+                        {
+                            "Institution Name": "FORTH Institute of Computer Science",
+                            "Country": "GR"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Giorgos Vasiliadis",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Mediterranean University",
+                            "Country": "ME"
+                        },
+                        {
+                            "Institution Name": "Hellenic Mediterranean University",
+                            "Country": "GR"
+                        },
+                        {
+                            "Institution Name": "Foundation for Research and Technology Hellas",
+                            "Country": "GR"
+                        },
+                        {
+                            "Institution Name": "FORTH Institute of Computer Science",
+                            "Country": "GR"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Stelios Mavridis",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Foundation for Research and Technology Hellas",
+                            "Country": "GR"
+                        },
+                        {
+                            "Institution Name": "FORTH Institute of Computer Science",
+                            "Country": "GR"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Anargyros Argyros",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Foundation for Research and Technology Hellas",
+                            "Country": "GR"
+                        },
+                        {
+                            "Institution Name": "FORTH Institute of Computer Science",
+                            "Country": "GR"
+                        },
+                        {
+                            "Institution Name": "University of Crete",
+                            "Country": "GR"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Antony Chazapis",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Foundation for Research and Technology Hellas",
+                            "Country": "GR"
+                        },
+                        {
+                            "Institution Name": "FORTH Institute of Computer Science",
+                            "Country": "GR"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Angelos Bilas",
+                    "Institutions": [
+                        {
+                            "Institution Name": "University of Crete",
+                            "Country": "GR"
+                        },
+                        {
+                            "Institution Name": "Foundation for Research and Technology Hellas",
+                            "Country": "GR"
+                        },
+                        {
+                            "Institution Name": "FORTH Institute of Computer Science",
+                            "Country": "GR"
+                        }
+                    ]
+                }
+            ],
+            "OpenAlex Referenced Works": [
+                "W1938355940",
+                "W2112796928",
+                "W2271604353",
+                "W2914695977",
+                "W3003011076",
+                "W3124474054"
+            ]
+        },
+        {
+            "Title": "Targeting Tail Latency in Replicated Systems with Proactive Rejection.",
+            "Year": "2024",
+            "DOI Number": "10.1145/3652892.3700775",
+            "OpenAlex Link": "https://api.openalex.org/works/doi:10.1145%2F3652892.3700775",
+            "Authors and Institutions": [
+                {
+                    "Author": "Laura Lawniczak",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Friedrich-Alexander-Universität Erlangen-Nürnberg",
+                            "Country": "DE"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Tobias Distler",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Friedrich-Alexander-Universität Erlangen-Nürnberg",
+                            "Country": "DE"
+                        }
+                    ]
+                }
+            ],
+            "OpenAlex Referenced Works": [
+                "W1794148987",
+                "W1973861090",
+                "W1977774371",
+                "W1982063824",
+                "W2002016612",
+                "W2006579059",
+                "W2021851424",
+                "W2025017133",
+                "W2075854425",
+                "W2077671984",
+                "W2080046268",
+                "W2113852631",
+                "W2152465173",
+                "W2157782847",
+                "W2751343396",
+                "W2759513358",
+                "W2801175776",
+                "W2962756066",
+                "W3013608101",
+                "W3100217861",
+                "W3100435238",
+                "W3130685565",
+                "W4213083935",
+                "W4229793898",
+                "W4247645091",
+                "W4254234063"
+            ]
+        },
+        {
+            "Title": "Ripple: Large-Scale Service and Configuration Management in the Cloud.",
+            "Year": "2024",
+            "DOI Number": "10.1145/3652892.3700777",
+            "OpenAlex Link": "https://api.openalex.org/works/doi:10.1145%2F3652892.3700777",
+            "Authors and Institutions": [
+                {
+                    "Author": "Shuping Ji",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Institute of Software",
+                            "Country": "CN"
+                        },
+                        {
+                            "Institution Name": "Chinese Academy of Sciences",
+                            "Country": "CN"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Zhen Tang",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Chinese Academy of Sciences",
+                            "Country": "CN"
+                        },
+                        {
+                            "Institution Name": "University of Chinese Academy of Sciences",
+                            "Country": "CN"
+                        },
+                        {
+                            "Institution Name": "Institute of Software",
+                            "Country": "CN"
+                        },
+                        {
+                            "Institution Name": "Nanjing University of Chinese Medicine",
+                            "Country": "CN"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Wei Wang",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Institute of Software",
+                            "Country": "CN"
+                        },
+                        {
+                            "Institution Name": "Chinese Academy of Sciences",
+                            "Country": "CN"
+                        },
+                        {
+                            "Institution Name": "University of Chinese Academy of Sciences",
+                            "Country": "CN"
+                        },
+                        {
+                            "Institution Name": "Nanjing Institute of Technology",
+                            "Country": "CN"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Hui Li",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Institute of Software",
+                            "Country": "CN"
+                        },
+                        {
+                            "Institution Name": "Chinese Academy of Sciences",
+                            "Country": "CN"
+                        },
+                        {
+                            "Institution Name": "University of Chinese Academy of Sciences",
+                            "Country": "CN"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Jianguo Yao",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Shanghai Jiao Tong University",
+                            "Country": "CN"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Hans‐Arno Jacobsen",
+                    "Institutions": [
+                        {
+                            "Institution Name": "University of Toronto",
+                            "Country": "CA"
+                        }
+                    ]
+                }
+            ],
+            "OpenAlex Referenced Works": [
+                "W1563579290",
+                "W1572499759",
+                "W1604182559",
+                "W180220702",
+                "W2021651899",
+                "W2023953679",
+                "W2079994203",
+                "W2118428193",
+                "W2131185826",
+                "W2156644501",
+                "W2734941459",
+                "W2913452630",
+                "W2913509425",
+                "W2914189542",
+                "W2915025126",
+                "W4230746672",
+                "W4237873879",
+                "W4247146431",
+                "W4254009646",
+                "W51883144",
+                "W56996233",
+                "W73268920"
+            ]
+        },
+        {
+            "Title": "FLEdge: Benchmarking Federated Learning Applications in Edge Computing Systems.",
+            "Year": "2024",
+            "DOI Number": "10.1145/3652892.3700751",
+            "OpenAlex Link": "https://api.openalex.org/works/doi:10.1145%2F3652892.3700751",
+            "Authors and Institutions": [
+                {
+                    "Author": "Herbert Woisetschläger",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Technical University of Munich",
+                            "Country": "DE"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Alexander Erben",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Technical University of Munich",
+                            "Country": "DE"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Ruben Mayer",
+                    "Institutions": [
+                        {
+                            "Institution Name": "University of Bayreuth",
+                            "Country": "DE"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Shiqiang Wang",
+                    "Institutions": [
+                        {
+                            "Institution Name": "IBM (United States)",
+                            "Country": "US"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Hans‐Arno Jacobsen",
+                    "Institutions": [
+                        {
+                            "Institution Name": "University of Toronto",
+                            "Country": "CA"
+                        }
+                    ]
+                }
+            ],
+            "OpenAlex Referenced Works": [
+                "W1981276685",
+                "W1991238593",
+                "W2087000178",
+                "W2119242743",
+                "W2624989916",
+                "W2784621220",
+                "W2800102422",
+                "W2921018545",
+                "W2941219224",
+                "W2946193510",
+                "W2960833983",
+                "W2962804345",
+                "W2970214107",
+                "W2983389693",
+                "W2989289980",
+                "W2994848660",
+                "W3020847852",
+                "W3038022836",
+                "W3044211235",
+                "W3093755649",
+                "W3110974438",
+                "W3172129612",
+                "W3209564325",
+                "W4205228770",
+                "W4224227775",
+                "W4229017932",
+                "W4281867538",
+                "W4281988564",
+                "W4283328778",
+                "W4288358239",
+                "W4289147229",
+                "W4297060071",
+                "W4297687186",
+                "W4297775537",
+                "W4299283926",
+                "W4318619660",
+                "W4321321095",
+                "W4322153971",
+                "W4360891213",
+                "W4401042217"
+            ]
+        },
+        {
+            "Title": "PvCC: A vCPU Scheduling Policy for DPDK-applied Systems at Multi-Tenant Edge Data Centers.",
+            "Year": "2024",
+            "DOI Number": "10.1145/3652892.3700779",
+            "OpenAlex Link": "https://api.openalex.org/works/doi:10.1145%2F3652892.3700779",
+            "Authors and Institutions": [
+                {
+                    "Author": "Yuki Tsujimoto",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Keio University",
+                            "Country": "JP"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Yoshihiro Satō",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Keio University",
+                            "Country": "JP"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Kenichi Yasukata",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Keio University",
+                            "Country": "JP"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Kenta Ishiguro",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Keio University",
+                            "Country": "JP"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Kenji Kono",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Keio University",
+                            "Country": "JP"
+                        }
+                    ]
+                }
+            ],
+            "OpenAlex Referenced Works": [
+                "W168893953",
+                "W2416799949",
+                "W2734941459",
+                "W2768475350",
+                "W2912894509",
+                "W2960833983",
+                "W2976854232",
+                "W3021951958",
+                "W4206549161",
+                "W4237183560",
+                "W4242509916",
+                "W4285776552",
+                "W4308426104",
+                "W4386265727",
+                "W4404343279"
+            ]
+        },
+        {
+            "Title": "Spyker: Asynchronous Multi-Server Federated Learning for Geo-Distributed Clients.",
+            "Year": "2024",
+            "DOI Number": "10.1145/3652892.3700778",
+            "OpenAlex Link": "https://api.openalex.org/works/doi:10.1145%2F3652892.3700778",
+            "Authors and Institutions": [
+                {
+                    "Author": "Yuncong Zuo",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Delft University of Technology",
+                            "Country": "NL"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Bart Cox",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Delft University of Technology",
+                            "Country": "NL"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Lydia Y. Chen",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Delft University of Technology",
+                            "Country": "NL"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Jérémie Decouchant",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Delft University of Technology",
+                            "Country": "NL"
+                        }
+                    ]
+                }
+            ],
+            "OpenAlex Referenced Works": [
+                "W2339765813",
+                "W2783522756",
+                "W2888523397",
+                "W2962697687",
+                "W3014718068",
+                "W3015613093",
+                "W3040685212",
+                "W3045638580",
+                "W3086590218",
+                "W3100779497",
+                "W3113593351",
+                "W3135099698",
+                "W3136022984",
+                "W3156717451",
+                "W3157232501",
+                "W4281868833",
+                "W4281892601",
+                "W4292387408",
+                "W4310512843",
+                "W4312080239"
+            ]
+        },
+        {
+            "Title": "Deep Optimizer States: Towards Scalable Training of Transformer Models using Interleaved Offloading.",
+            "Year": "2024",
+            "DOI Number": "10.1145/3652892.3700781",
+            "OpenAlex Link": "https://api.openalex.org/works/doi:10.1145%2F3652892.3700781",
+            "Authors and Institutions": [
+                {
+                    "Author": "Avinash Maurya",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Rochester Institute of Technology",
+                            "Country": "US"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Jie Ye",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Illinois Institute of Technology",
+                            "Country": "US"
+                        }
+                    ]
+                },
+                {
+                    "Author": "M. Mustafa Rafique",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Rochester Institute of Technology",
+                            "Country": "US"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Franck Cappello",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Argonne National Laboratory",
+                            "Country": "US"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Bogdan Nicolae",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Argonne National Laboratory",
+                            "Country": "US"
+                        }
+                    ]
+                }
+            ],
+            "OpenAlex Referenced Works": [
+                "W1810943226",
+                "W2734941459",
+                "W2763421725",
+                "W2969388332",
+                "W2985738161",
+                "W3010830594",
+                "W3021124033",
+                "W3081168214",
+                "W3129831491",
+                "W3205803342",
+                "W3206606249",
+                "W4321636578",
+                "W4384918448",
+                "W4385623144",
+                "W4386707654",
+                "W4387559225",
+                "W4393186514",
+                "W4399794472"
+            ]
+        },
+        {
+            "Title": "vPIM: Processing-in-Memory Virtualization.",
+            "Year": "2024",
+            "DOI Number": "10.1145/3652892.3700782",
+            "OpenAlex Link": "https://api.openalex.org/works/doi:10.1145%2F3652892.3700782",
+            "Authors and Institutions": [
+                {
+                    "Author": "Dufy Teguia",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Université Grenoble Alpes",
+                            "Country": "FR"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Jiaxuan Chen",
+                    "Institutions": [
+                        {
+                            "Institution Name": "McGill University",
+                            "Country": "CA"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Stella Bitchebe",
+                    "Institutions": [
+                        {
+                            "Institution Name": "McGill University",
+                            "Country": "CA"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Oana Balmau",
+                    "Institutions": [
+                        {
+                            "Institution Name": "McGill University",
+                            "Country": "CA"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Alain Tchana",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Institut polytechnique de Grenoble",
+                            "Country": "FR"
+                        }
+                    ]
+                }
+            ],
+            "OpenAlex Referenced Works": [
+                "W1508947956",
+                "W1971739358",
+                "W1975237352",
+                "W1996212904",
+                "W2009475335",
+                "W2067231500",
+                "W2086112773",
+                "W2094332102",
+                "W2100846455",
+                "W2279541644",
+                "W2342427079",
+                "W2508602506",
+                "W2517657787",
+                "W2518668491",
+                "W2787183097",
+                "W2807281109",
+                "W3155243801",
+                "W3174399477",
+                "W3202917172",
+                "W3210580311",
+                "W4248265791",
+                "W4255745893",
+                "W4362489986",
+                "W4372263745",
+                "W4376134501",
+                "W4376455467",
+                "W4377235497",
+                "W4393407040"
+            ]
+        },
+        {
+            "Title": "Towards Practical Homomorphic Aggregation in Byzantine-Resilient Distributed Learning.",
+            "Year": "2024",
+            "DOI Number": "10.1145/3652892.3700783",
+            "OpenAlex Link": "https://api.openalex.org/works/doi:10.1145%2F3652892.3700783",
+            "Authors and Institutions": [
+                {
+                    "Author": "Antoine Choffrut",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Laboratoire d'Intégration des Systèmes et des Technologies",
+                            "Country": "FR"
+                        },
+                        {
+                            "Institution Name": "Université Paris-Saclay",
+                            "Country": "FR"
+                        },
+                        {
+                            "Institution Name": "Commissariat à l'Énergie Atomique et aux Énergies Alternatives",
+                            "Country": "FR"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Rachid Guerraoui",
+                    "Institutions": [
+                        {
+                            "Institution Name": "École Polytechnique Fédérale de Lausanne",
+                            "Country": "CH"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Rafaël Pinot",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Sorbonne Université",
+                            "Country": "FR"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Renaud Sirdey",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Laboratoire d'Intégration des Systèmes et des Technologies",
+                            "Country": "FR"
+                        },
+                        {
+                            "Institution Name": "Université Paris-Saclay",
+                            "Country": "FR"
+                        },
+                        {
+                            "Institution Name": "Commissariat à l'Énergie Atomique et aux Énergies Alternatives",
+                            "Country": "FR"
+                        }
+                    ]
+                },
+                {
+                    "Author": "John Stephan",
+                    "Institutions": [
+                        {
+                            "Institution Name": "École Polytechnique Fédérale de Lausanne",
+                            "Country": "CH"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Martin Zuber",
+                    "Institutions": [
+                        {
+                            "Institution Name": "CryptoExperts (France)",
+                            "Country": "FR"
+                        }
+                    ]
+                }
+            ],
+            "OpenAlex Referenced Works": [
+                "W1603765807",
+                "W1621599745",
+                "W2007339694",
+                "W2055580199",
+                "W2069448237",
+                "W2226167778",
+                "W2398715209",
+                "W2400700555",
+                "W2535690855",
+                "W2591882872",
+                "W2613808774",
+                "W2752689052",
+                "W2767079719",
+                "W2768174108",
+                "W2781091734",
+                "W2914630606",
+                "W2963334472",
+                "W2970606380",
+                "W2972570881",
+                "W2999783367",
+                "W3036496141",
+                "W3044906355",
+                "W3082394795",
+                "W3118840986",
+                "W3138597937",
+                "W3151268345",
+                "W3157813311",
+                "W3172836181",
+                "W3173677040",
+                "W3183165740",
+                "W3184417486",
+                "W3191782051",
+                "W3214271738",
+                "W4200245155",
+                "W4205423013",
+                "W4210630707",
+                "W4252654521",
+                "W4285414182",
+                "W4285607018",
+                "W4289656845",
+                "W4307823742",
+                "W4308632285",
+                "W4311081048",
+                "W4381326144",
+                "W95608104"
+            ]
+        },
+        {
+            "Title": "HORSE: Ultra-low latency workloads on FaaS platforms.",
+            "Year": "2024",
+            "DOI Number": "10.1145/3652892.3700784",
+            "OpenAlex Link": "https://api.openalex.org/works/doi:10.1145%2F3652892.3700784",
+            "Authors and Institutions": [
+                {
+                    "Author": "Djob Mvondo",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Université de Rennes",
+                            "Country": "FR"
+                        },
+                        {
+                            "Institution Name": "Centre National de la Recherche Scientifique",
+                            "Country": "FR"
+                        },
+                        {
+                            "Institution Name": "Institut de Recherche en Informatique et Systèmes Aléatoires",
+                            "Country": "FR"
+                        }
+                    ]
+                },
+                {
+                    "Author": "François Taı̈ani",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Institut de Recherche en Informatique et Systèmes Aléatoires",
+                            "Country": "FR"
+                        },
+                        {
+                            "Institution Name": "Université de Rennes",
+                            "Country": "FR"
+                        },
+                        {
+                            "Institution Name": "Centre National de la Recherche Scientifique",
+                            "Country": "FR"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Yérom-David Bromberg",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Centre National de la Recherche Scientifique",
+                            "Country": "FR"
+                        },
+                        {
+                            "Institution Name": "Université de Rennes",
+                            "Country": "FR"
+                        },
+                        {
+                            "Institution Name": "Institut de Recherche en Informatique et Systèmes Aléatoires",
+                            "Country": "FR"
+                        }
+                    ]
+                }
+            ],
+            "OpenAlex Referenced Works": [
+                "W1963703110",
+                "W1982063824",
+                "W2036003010",
+                "W2164740236",
+                "W2577489668",
+                "W2734941459",
+                "W2735574181",
+                "W2752182461",
+                "W2761338514",
+                "W2761578098",
+                "W2919539315",
+                "W2925744458",
+                "W2931551785",
+                "W2967018380",
+                "W2976854232",
+                "W2979479406",
+                "W2999202099",
+                "W3012028616",
+                "W3105875719",
+                "W3159401322",
+                "W3203063759",
+                "W3205941417",
+                "W3209190856",
+                "W4220661638",
+                "W4220796798",
+                "W4220848902",
+                "W4235007850",
+                "W4237249260",
+                "W4308083498",
+                "W4308084258",
+                "W4308426108",
+                "W4318541693",
+                "W4321636606",
+                "W4386396633",
+                "W4387321645",
+                "W95608104"
+            ]
+        },
+        {
+            "Title": "Personalized Privacy-Preserving Federated Learning.",
+            "Year": "2024",
+            "DOI Number": "10.1145/3652892.3700785",
+            "OpenAlex Link": "https://api.openalex.org/works/doi:10.1145%2F3652892.3700785",
+            "Authors and Institutions": [
+                {
+                    "Author": "Cédric Boscher",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Laboratoire d'Informatique en Images et Systèmes d'Information",
+                            "Country": "FR"
+                        },
+                        {
+                            "Institution Name": "Institut National des Sciences Appliquées de Lyon",
+                            "Country": "FR"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Nawel Benarba",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Institut National des Sciences Appliquées de Lyon",
+                            "Country": "FR"
+                        },
+                        {
+                            "Institution Name": "Laboratoire d'Informatique en Images et Systèmes d'Information",
+                            "Country": "FR"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Fatima Elhattab",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Institut National des Sciences Appliquées de Lyon",
+                            "Country": "FR"
+                        },
+                        {
+                            "Institution Name": "Laboratoire d'Informatique en Images et Systèmes d'Information",
+                            "Country": "FR"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Sara Bouchenak",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Institut National des Sciences Appliquées de Lyon",
+                            "Country": "FR"
+                        },
+                        {
+                            "Institution Name": "Laboratoire d'Informatique en Images et Systèmes d'Information",
+                            "Country": "FR"
+                        }
+                    ]
+                }
+            ],
+            "OpenAlex Referenced Works": [
+                "W2056716515",
+                "W2057571146",
+                "W2131384516",
+                "W2146502635",
+                "W2560674852",
+                "W2605800822",
+                "W3024959708",
+                "W3093791164",
+                "W3111512201",
+                "W3132478455",
+                "W3176778145",
+                "W3185219982",
+                "W4210485920",
+                "W4225821859",
+                "W4283073496",
+                "W4306931546",
+                "W4320719463"
+            ]
+        },
+        {
+            "Title": "LightZone: Lightweight Hardware-Assisted In-Process Isolation for ARM64.",
+            "Year": "2024",
+            "DOI Number": "10.1145/3652892.3700786",
+            "OpenAlex Link": "https://api.openalex.org/works/doi:10.1145%2F3652892.3700786",
+            "Authors and Institutions": [
+                {
+                    "Author": "Ziqi Yuan",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Zhejiang University",
+                            "Country": "CN"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Siyu Hong",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Zhejiang University",
+                            "Country": "CN"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Ren Guo",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Zhejiang University",
+                            "Country": "CN"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Rui Chang",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Zhejiang University",
+                            "Country": "CN"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Mingyu Gao",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Tsinghua University",
+                            "Country": "CN"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Wenbo Shen",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Zhejiang University",
+                            "Country": "CN"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Yajin Zhou",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Zhejiang University",
+                            "Country": "CN"
+                        }
+                    ]
+                }
+            ],
+            "OpenAlex Referenced Works": [
+                "W1547775332",
+                "W1563579290",
+                "W2131660501",
+                "W2157116240",
+                "W2171482413",
+                "W2322411027",
+                "W2579632738",
+                "W2734941459",
+                "W2742855437",
+                "W2792952820",
+                "W2796933658",
+                "W2912416028",
+                "W2913344024",
+                "W2914040074",
+                "W2914062858",
+                "W2914630606",
+                "W2943086984",
+                "W3029492007",
+                "W3191393953",
+                "W4205983429",
+                "W4213153339",
+                "W4221079727",
+                "W4233448680",
+                "W4242289848",
+                "W4243210229",
+                "W4245602507",
+                "W4251954952",
+                "W4252917185",
+                "W4254641500",
+                "W4297927038",
+                "W4299301436",
+                "W4306406240",
+                "W4311165758",
+                "W4383221423",
+                "W4388867283",
+                "W4395020689"
+            ]
+        },
+        {
+            "Title": "Amalgam: A Framework for Obfuscated Neural Network Training on the Cloud.",
+            "Year": "2024",
+            "DOI Number": "10.1145/3652892.3700762",
+            "OpenAlex Link": "https://api.openalex.org/works/doi:10.1145%2F3652892.3700762",
+            "Authors and Institutions": [
+                {
+                    "Author": "Sifat Ut Taki",
+                    "Institutions": [
+                        {
+                            "Institution Name": "University of Notre Dame",
+                            "Country": "US"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Spyridon Mastorakis",
+                    "Institutions": [
+                        {
+                            "Institution Name": "University of Notre Dame",
+                            "Country": "US"
+                        }
+                    ]
+                }
+            ],
+            "OpenAlex Referenced Works": [
+                "W1658920975",
+                "W1840208138",
+                "W1873763122",
+                "W1981276685",
+                "W2007339694",
+                "W2053801139",
+                "W2108598243",
+                "W2112796928",
+                "W2531638282",
+                "W2591922920",
+                "W2612690371",
+                "W2767201895",
+                "W2799040448",
+                "W2884585870",
+                "W2901312569",
+                "W2903850320",
+                "W2942094298",
+                "W2963752132",
+                "W2967497108",
+                "W2984644945",
+                "W3008983606",
+                "W3016063723",
+                "W3036001318",
+                "W3041133507",
+                "W3090527015",
+                "W3102078694",
+                "W3118608800",
+                "W3126904548",
+                "W3173069197",
+                "W3173128495",
+                "W3175006004",
+                "W3190255372",
+                "W4225672218",
+                "W4244143958",
+                "W4293580221",
+                "W4380551114"
+            ]
+        },
+        {
+            "Title": "Banyan: Fast Rotating Leader BFT.",
+            "Year": "2024",
+            "DOI Number": "10.1145/3652892.3700788",
+            "OpenAlex Link": "https://api.openalex.org/works/doi:10.1145%2F3652892.3700788",
+            "Authors and Institutions": [
+                {
+                    "Author": "Yann Vonlanthen",
+                    "Institutions": [
+                        {
+                            "Institution Name": "ETH Zurich",
+                            "Country": "CH"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Jakub Sliwinski",
+                    "Institutions": [
+                        {
+                            "Institution Name": "ETH Zurich",
+                            "Country": "CH"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Massimo Albarello",
+                    "Institutions": [
+                        {
+                            "Institution Name": "ETH Zurich",
+                            "Country": "CH"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Roger Wattenhofer",
+                    "Institutions": [
+                        {
+                            "Institution Name": "ETH Zurich",
+                            "Country": "CH"
+                        }
+                    ]
+                }
+            ],
+            "OpenAlex Referenced Works": [
+                "W1479796684",
+                "W1794148987",
+                "W1988655303",
+                "W2003214215",
+                "W2030698973",
+                "W2058322902",
+                "W2103178123",
+                "W2119795353",
+                "W2124037649",
+                "W2131848219",
+                "W2139359217",
+                "W2163451499",
+                "W2165838660",
+                "W2763398287",
+                "W2811448169",
+                "W2902905458",
+                "W2964159515",
+                "W2969395421",
+                "W3013530784",
+                "W3016124762",
+                "W3137092842",
+                "W3177492523",
+                "W3183732253",
+                "W3185672164",
+                "W3186862114",
+                "W4220853208",
+                "W4220883364",
+                "W4248175462"
+            ]
+        },
+        {
+            "Title": "QuickDrop: Efficient Federated Unlearning via Synthetic Data Generation.",
+            "Year": "2024",
+            "DOI Number": "10.1145/3652892.3700764",
+            "OpenAlex Link": "https://api.openalex.org/works/doi:10.1145%2F3652892.3700764",
+            "Authors and Institutions": [
+                {
+                    "Author": "Akash Dhasade",
+                    "Institutions": [
+                        {
+                            "Institution Name": "École Polytechnique Fédérale de Lausanne",
+                            "Country": "CH"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Yaohong Ding",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Hong Kong Polytechnic University",
+                            "Country": "HK"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Song Guo",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Hong Kong University of Science and Technology",
+                            "Country": "HK"
+                        },
+                        {
+                            "Institution Name": "University of Hong Kong",
+                            "Country": "HK"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Anne-Marie Kermarrec",
+                    "Institutions": [
+                        {
+                            "Institution Name": "École Polytechnique Fédérale de Lausanne",
+                            "Country": "CH"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Martijn de Vos",
+                    "Institutions": [
+                        {
+                            "Institution Name": "École Polytechnique Fédérale de Lausanne",
+                            "Country": "CH"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Leijie Wu",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Hong Kong Polytechnic University",
+                            "Country": "HK"
+                        }
+                    ]
+                }
+            ],
+            "OpenAlex Referenced Works": [
+                "W2335728318",
+                "W2912213068",
+                "W2912568927",
+                "W3023153742",
+                "W3093603503",
+                "W3099185017",
+                "W3118608800",
+                "W3154155772",
+                "W3172075261",
+                "W3196371845",
+                "W3209576002",
+                "W4285081128",
+                "W4301329292",
+                "W4312641524",
+                "W4312738800",
+                "W4321521256",
+                "W4362714589",
+                "W4366371549",
+                "W4396571825"
+            ]
+        },
+        {
+            "Title": "Consensus-Agnostic State-Machine Replication.",
+            "Year": "2024",
+            "DOI Number": "10.1145/3652892.3700776",
+            "OpenAlex Link": "https://api.openalex.org/works/doi:10.1145%2F3652892.3700776",
+            "Authors and Institutions": [
+                {
+                    "Author": "Alexander Heß",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Universität Ulm",
+                            "Country": "DE"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Franz J. Hauck",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Universität Ulm",
+                            "Country": "DE"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Dominik Meißner",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Universität Ulm",
+                            "Country": "DE"
+                        }
+                    ]
+                }
+            ],
+            "OpenAlex Referenced Works": [
+                "W2003214215",
+                "W2014239329",
+                "W2035362408",
+                "W2038345682",
+                "W2056554492",
+                "W2114579022",
+                "W2124037649",
+                "W2126924915",
+                "W2131314877",
+                "W2152465173",
+                "W2153272111",
+                "W3118714613",
+                "W3137092842",
+                "W60121356"
+            ]
+        },
+        {
+            "Title": "Towards Affordable Reproducibility Using Scalable Capture and Comparison of Intermediate Multi-Run Results.",
+            "Year": "2024",
+            "DOI Number": "10.1145/3652892.3700780",
+            "OpenAlex Link": "https://api.openalex.org/works/doi:10.1145%2F3652892.3700780",
+            "Authors and Institutions": [
+                {
+                    "Author": "Nigel Tan",
+                    "Institutions": [
+                        {
+                            "Institution Name": "University of Tennessee at Knoxville",
+                            "Country": "US"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Kevin Assogba",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Rochester Institute of Technology",
+                            "Country": "US"
+                        }
+                    ]
+                },
+                {
+                    "Author": "W. Jay Ashworth",
+                    "Institutions": [
+                        {
+                            "Institution Name": "University of Tennessee at Knoxville",
+                            "Country": "US"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Befikir Bogale",
+                    "Institutions": [
+                        {
+                            "Institution Name": "University of Tennessee at Knoxville",
+                            "Country": "US"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Franck Cappello",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Argonne National Laboratory",
+                            "Country": "US"
+                        }
+                    ]
+                },
+                {
+                    "Author": "M. Mustafa Rafique",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Rochester Institute of Technology",
+                            "Country": "US"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Michela Taufer",
+                    "Institutions": [
+                        {
+                            "Institution Name": "University of Tennessee at Knoxville",
+                            "Country": "US"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Bogdan Nicolae",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Argonne National Laboratory",
+                            "Country": "US"
+                        }
+                    ]
+                }
+            ],
+            "OpenAlex Referenced Works": [
+                "W2066547829",
+                "W2102852529",
+                "W2605897695",
+                "W2735633771",
+                "W2741024749",
+                "W2927577455",
+                "W2937207334",
+                "W3032937495",
+                "W3041643290",
+                "W3132502413",
+                "W4205739714",
+                "W4206677916",
+                "W4301394917",
+                "W4317214137",
+                "W4368317817",
+                "W4384131549",
+                "W4399427731"
+            ]
+        },
+        {
+            "Title": "AsyncFilter: Detecting Poisoning Attacks in Asynchronous Federated Learning.",
+            "Year": "2024",
+            "DOI Number": "10.1145/3652892.3700787",
+            "OpenAlex Link": "https://api.openalex.org/works/doi:10.1145%2F3652892.3700787",
+            "Authors and Institutions": [
+                {
+                    "Author": "Yufei Kang",
+                    "Institutions": [
+                        {
+                            "Institution Name": "University of Toronto",
+                            "Country": "CA"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Baochun Li",
+                    "Institutions": [
+                        {
+                            "Institution Name": "University of Toronto",
+                            "Country": "CA"
+                        }
+                    ]
+                }
+            ],
+            "OpenAlex Referenced Works": [
+                "W2007339694",
+                "W2112796928",
+                "W2187089797",
+                "W3138153888",
+                "W4283837358",
+                "W4290948380",
+                "W4311165757",
+                "W4382318866"
+            ]
+        }
     ]
 }

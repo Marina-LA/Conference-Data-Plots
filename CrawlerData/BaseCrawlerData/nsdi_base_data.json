@@ -39868,5 +39868,4323 @@
             ],
             "OpenAlex Referenced Works": null
         }
+    ],
+    "2024": [
+        {
+            "Title": "Pudica: Toward Near-Zero Queuing Delay in Congestion Control for Cloud Gaming.",
+            "Year": "2024",
+            "DOI Number": null,
+            "OpenAlex Link": null,
+            "Authors and Institutions": [
+                {
+                    "Author": "Shibo Wang",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Shusen Yang",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Xiao Kong",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Chenglei Wu",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Longwei Jiang",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Chenren Xu",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Cong Zhao",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Xuesong Yang",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Jianjun Xiao",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Xin Liu",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Changxi Zheng",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Jing Wang",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Honghao Liu",
+                    "Institutions": null
+                }
+            ],
+            "OpenAlex Referenced Works": null
+        },
+        {
+            "Title": "Fast Vector Query Processing for Large Datasets Beyond GPU Memory with Reordered Pipelining.",
+            "Year": "2024",
+            "DOI Number": null,
+            "OpenAlex Link": null,
+            "Authors and Institutions": [
+                {
+                    "Author": "Zili Zhang",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Fangyue Liu",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Gang Huang",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Xuanzhe Liu",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Xin Jin",
+                    "Institutions": null
+                }
+            ],
+            "OpenAlex Referenced Works": null
+        },
+        {
+            "Title": "Jolteon: Unleashing the Promise of Serverless for Serverless Workflows.",
+            "Year": "2024",
+            "DOI Number": null,
+            "OpenAlex Link": null,
+            "Authors and Institutions": [
+                {
+                    "Author": "Zili Zhang",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Chao Jin",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Xin Jin",
+                    "Institutions": null
+                }
+            ],
+            "OpenAlex Referenced Works": null
+        },
+        {
+            "Title": "Autothrottle: A Practical Bi-Level Approach to Resource Management for SLO-Targeted Microservices.",
+            "Year": "2024",
+            "DOI Number": null,
+            "OpenAlex Link": null,
+            "Authors and Institutions": [
+                {
+                    "Author": "Zibo Wang",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Pinghe Li",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Chieh-Jan Mike Liang",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Feng Wu",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Francis Y. Yan",
+                    "Institutions": null
+                }
+            ],
+            "OpenAlex Referenced Works": null
+        },
+        {
+            "Title": "Horus: Granular In-Network Task Scheduler for Cloud Datacenters.",
+            "Year": "2024",
+            "DOI Number": null,
+            "OpenAlex Link": null,
+            "Authors and Institutions": [
+                {
+                    "Author": "Parham Yassini",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Khaled Diab",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Saeed Mahloujifar",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Mohamed Hefeeda",
+                    "Institutions": null
+                }
+            ],
+            "OpenAlex Referenced Works": null
+        },
+        {
+            "Title": "MuCache: A General Framework for Caching in Microservice Graphs.",
+            "Year": "2024",
+            "DOI Number": null,
+            "OpenAlex Link": null,
+            "Authors and Institutions": [
+                {
+                    "Author": "Haoran Zhang",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Konstantinos Kallas",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Spyros Pavlatos",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Rajeev Alur",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Sebastian Angel",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Vincent Liu",
+                    "Institutions": null
+                }
+            ],
+            "OpenAlex Referenced Works": null
+        },
+        {
+            "Title": "TECC: Towards Efficient QUIC Tunneling via Collaborative Transmission Control.",
+            "Year": "2024",
+            "DOI Number": null,
+            "OpenAlex Link": null,
+            "Authors and Institutions": [
+                {
+                    "Author": "Jiaxing Zhang",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Furong Yang",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Ting Liu",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Qinghua Wu",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Wu Zhao",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Yuanbo Zhang",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Wentao Chen",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Yanmei Liu",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Hongyu Guo",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Yunfei Ma",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Zhenyu Li",
+                    "Institutions": null
+                }
+            ],
+            "OpenAlex Referenced Works": null
+        },
+        {
+            "Title": "LoLKV: The Logless, Linearizable, RDMA-based Key-Value Storage System.",
+            "Year": "2024",
+            "DOI Number": null,
+            "OpenAlex Link": null,
+            "Authors and Institutions": [
+                {
+                    "Author": "Ahmed Alquraan",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Sreeharsha Udayashankar",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Virendra J. Marathe",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Bernard Wong",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Samer Al-Kiswany",
+                    "Institutions": null
+                }
+            ],
+            "OpenAlex Referenced Works": null
+        },
+        {
+            "Title": "Can't Be Late: Optimizing Spot Instance Savings under Deadlines.",
+            "Year": "2024",
+            "DOI Number": null,
+            "OpenAlex Link": null,
+            "Authors and Institutions": [
+                {
+                    "Author": "Zhanghao Wu",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Wei-Lin Chiang",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Ziming Mao",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Zongheng Yang",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Eric J. Friedman",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Scott Shenker",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Ion Stoica",
+                    "Institutions": null
+                }
+            ],
+            "OpenAlex Referenced Works": null
+        },
+        {
+            "Title": "Sifter: An Inversion-Free and Large-Capacity Programmable Packet Scheduler.",
+            "Year": "2024",
+            "DOI Number": null,
+            "OpenAlex Link": null,
+            "Authors and Institutions": [
+                {
+                    "Author": "Peixuan Gao",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Anthony Dalleggio",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Jiajin Liu",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Chen Peng",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Yang Xu",
+                    "Institutions": null
+                },
+                {
+                    "Author": "H. Jonathan Chao",
+                    "Institutions": null
+                }
+            ],
+            "OpenAlex Referenced Works": null
+        },
+        {
+            "Title": "Flow Scheduling with Imprecise Knowledge.",
+            "Year": "2024",
+            "DOI Number": null,
+            "OpenAlex Link": null,
+            "Authors and Institutions": [
+                {
+                    "Author": "Wenxin Li",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Xin He",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Yuan Liu",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Keqiu Li",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Kai Chen",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Zhao Ge",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Zewei Guan",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Heng Qi",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Song Zhang",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Guyue Liu",
+                    "Institutions": null
+                }
+            ],
+            "OpenAlex Referenced Works": null
+        },
+        {
+            "Title": "Towards Intelligent Automobile Cockpit via A New Container Architecture.",
+            "Year": "2024",
+            "DOI Number": null,
+            "OpenAlex Link": null,
+            "Authors and Institutions": [
+                {
+                    "Author": "Lin Jiang",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Feiyu Zhang",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Jiang Ming",
+                    "Institutions": null
+                }
+            ],
+            "OpenAlex Referenced Works": null
+        },
+        {
+            "Title": "Revisiting Congestion Control for Lossless Ethernet.",
+            "Year": "2024",
+            "DOI Number": null,
+            "OpenAlex Link": null,
+            "Authors and Institutions": [
+                {
+                    "Author": "Yiran Zhang",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Qingkai Meng",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Chaolei Hu",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Fengyuan Ren",
+                    "Institutions": null
+                }
+            ],
+            "OpenAlex Referenced Works": null
+        },
+        {
+            "Title": "Making Kernel Bypass Practical for the Cloud with Junction.",
+            "Year": "2024",
+            "DOI Number": null,
+            "OpenAlex Link": null,
+            "Authors and Institutions": [
+                {
+                    "Author": "Joshua Fried",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Gohar Irfan Chaudhry",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Enrique Saurez",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Esha Choukse",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Íñigo Goiri",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Sameh Elnikety",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Rodrigo Fonseca",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Adam Belay",
+                    "Institutions": null
+                }
+            ],
+            "OpenAlex Referenced Works": null
+        },
+        {
+            "Title": "A large-scale deployment of DCTCP.",
+            "Year": "2024",
+            "DOI Number": null,
+            "OpenAlex Link": null,
+            "Authors and Institutions": [
+                {
+                    "Author": "Abhishek Dhamija",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Balasubramanian Madhavan",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Hechao Li",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Jie Meng",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Shrikrishna Khare",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Madhavi Rao",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Lawrence Brakmo",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Neil Spring",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Prashanth Kannan",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Srikanth Sundaresan",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Soudeh Ghorbani",
+                    "Institutions": null
+                }
+            ],
+            "OpenAlex Referenced Works": null
+        },
+        {
+            "Title": "iStack: A General and Stateful Name-based Protocol Stack for Named Data Networking.",
+            "Year": "2024",
+            "DOI Number": null,
+            "OpenAlex Link": null,
+            "Authors and Institutions": [
+                {
+                    "Author": "Tianlong Li",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Tian Song",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Yating Yang",
+                    "Institutions": null
+                }
+            ],
+            "OpenAlex Referenced Works": null
+        },
+        {
+            "Title": "Cloudcast: High-Throughput, Cost-Aware Overlay Multicast in the Cloud.",
+            "Year": "2024",
+            "DOI Number": null,
+            "OpenAlex Link": null,
+            "Authors and Institutions": [
+                {
+                    "Author": "Sarah Wooders",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Shu Liu",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Paras Jain",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Xiangxi Mo",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Joseph E. Gonzalez",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Vincent Liu",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Ion Stoica",
+                    "Institutions": null
+                }
+            ],
+            "OpenAlex Referenced Works": null
+        },
+        {
+            "Title": "Understanding Routable PCIe Performance for Composable Infrastructures.",
+            "Year": "2024",
+            "DOI Number": null,
+            "OpenAlex Link": null,
+            "Authors and Institutions": [
+                {
+                    "Author": "Wentao Hou",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Jie Zhang",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Zeke Wang",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Ming Liu",
+                    "Institutions": null
+                }
+            ],
+            "OpenAlex Referenced Works": null
+        },
+        {
+            "Title": "Alea-BFT: Practical Asynchronous Byzantine Fault Tolerance.",
+            "Year": "2024",
+            "DOI Number": null,
+            "OpenAlex Link": null,
+            "Authors and Institutions": [
+                {
+                    "Author": "Diogo S. Antunes",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Afonso N. Oliveira",
+                    "Institutions": null
+                },
+                {
+                    "Author": "André Breda",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Matheus Guilherme Franco",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Henrique Moniz",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Rodrigo Rodrigues",
+                    "Institutions": null
+                }
+            ],
+            "OpenAlex Referenced Works": null
+        },
+        {
+            "Title": "Harmony: A Congestion-free Datacenter Architecture.",
+            "Year": "2024",
+            "DOI Number": null,
+            "OpenAlex Link": null,
+            "Authors and Institutions": [
+                {
+                    "Author": "Saksham Agarwal",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Qizhe Cai",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Rachit Agarwal",
+                    "Institutions": null
+                },
+                {
+                    "Author": "David B. Shmoys",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Amin Vahdat",
+                    "Institutions": null
+                }
+            ],
+            "OpenAlex Referenced Works": null
+        },
+        {
+            "Title": "SwiftPaxos: Fast Geo-Replicated State Machines.",
+            "Year": "2024",
+            "DOI Number": null,
+            "OpenAlex Link": null,
+            "Authors and Institutions": [
+                {
+                    "Author": "Fedor Ryabinin",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Alexey Gotsman",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Pierre Sutra",
+                    "Institutions": null
+                }
+            ],
+            "OpenAlex Referenced Works": null
+        },
+        {
+            "Title": "The Bedrock of Byzantine Fault Tolerance: A Unified Platform for BFT Protocols Analysis, Implementation, and Experimentation.",
+            "Year": "2024",
+            "DOI Number": null,
+            "OpenAlex Link": null,
+            "Authors and Institutions": [
+                {
+                    "Author": "Mohammad Javad Amiri",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Chenyuan Wu",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Divyakant Agrawal",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Amr El Abbadi",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Boon Thau Loo",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Mohammad Sadoghi",
+                    "Institutions": null
+                }
+            ],
+            "OpenAlex Referenced Works": null
+        },
+        {
+            "Title": "DINT: Fast In-Kernel Distributed Transactions with eBPF.",
+            "Year": "2024",
+            "DOI Number": null,
+            "OpenAlex Link": null,
+            "Authors and Institutions": [
+                {
+                    "Author": "Yang Zhou",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Xingyu Xiang",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Matthew Kiley",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Sowmya Dharanipragada",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Minlan Yu",
+                    "Institutions": null
+                }
+            ],
+            "OpenAlex Referenced Works": null
+        },
+        {
+            "Title": "Brain-on-Switch: Towards Advanced Intelligent Network Data Plane via NN-Driven Traffic Analysis at Line-Speed.",
+            "Year": "2024",
+            "DOI Number": null,
+            "OpenAlex Link": null,
+            "Authors and Institutions": [
+                {
+                    "Author": "Jinzhu Yan",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Haotian Xu",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Zhuotao Liu",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Qi Li",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Ke Xu",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Mingwei Xu",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Jianping Wu",
+                    "Institutions": null
+                }
+            ],
+            "OpenAlex Referenced Works": null
+        },
+        {
+            "Title": "The Eternal Tussle: Exploring the Role of Centralization in IPFS.",
+            "Year": "2024",
+            "DOI Number": null,
+            "OpenAlex Link": null,
+            "Authors and Institutions": [
+                {
+                    "Author": "Yiluo Wei",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Dennis Trautwein",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Yiannis Psaras",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Ignacio Castro",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Will Scott",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Aravindh Raman",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Gareth Tyson",
+                    "Institutions": null
+                }
+            ],
+            "OpenAlex Referenced Works": null
+        },
+        {
+            "Title": "BBQ: A Fast and Scalable Integer Priority Queue for Hardware Packet Scheduling.",
+            "Year": "2024",
+            "DOI Number": null,
+            "OpenAlex Link": null,
+            "Authors and Institutions": [
+                {
+                    "Author": "Nirav Atre",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Hugo Sadok",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Justine Sherry",
+                    "Institutions": null
+                }
+            ],
+            "OpenAlex Referenced Works": null
+        },
+        {
+            "Title": "Sirius: Composing Network Function Chains into P4-Capable Edge Gateways.",
+            "Year": "2024",
+            "DOI Number": null,
+            "OpenAlex Link": null,
+            "Authors and Institutions": [
+                {
+                    "Author": "Jiaqi Gao",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Jiamin Cao",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Yifan Li",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Mengqi Liu",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Ming Tang",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Dennis Cai",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Ennan Zhai",
+                    "Institutions": null
+                }
+            ],
+            "OpenAlex Referenced Works": null
+        },
+        {
+            "Title": "Empower Programmable Pipeline for Advanced Stateful Packet Processing.",
+            "Year": "2024",
+            "DOI Number": null,
+            "OpenAlex Link": null,
+            "Authors and Institutions": [
+                {
+                    "Author": "Yong Feng",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Zhikang Chen",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Haoyu Song",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Yinchao Zhang",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Hanyi Zhou",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Ruoyu Sun",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Wenkuo Dong",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Peng Lu",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Shuxin Liu",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Chuwen Zhang",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Yang Xu",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Bin Liu",
+                    "Institutions": null
+                }
+            ],
+            "OpenAlex Referenced Works": null
+        },
+        {
+            "Title": "GRACE: Loss-Resilient Real-Time Video through Neural Codecs.",
+            "Year": "2024",
+            "DOI Number": null,
+            "OpenAlex Link": null,
+            "Authors and Institutions": [
+                {
+                    "Author": "Yihua Cheng",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Ziyi Zhang",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Hanchen Li",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Anton Arapin",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Yue Zhang",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Qizheng Zhang",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Yuhan Liu",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Kuntai Du",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Xu Zhang",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Francis Y. Yan",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Amrita Mazumdar",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Nick Feamster",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Junchen Jiang",
+                    "Institutions": null
+                }
+            ],
+            "OpenAlex Referenced Works": null
+        },
+        {
+            "Title": "LiFteR: Unleash Learned Codecs in Video Streaming with Loose Frame Referencing.",
+            "Year": "2024",
+            "DOI Number": null,
+            "OpenAlex Link": null,
+            "Authors and Institutions": [
+                {
+                    "Author": "Bo Chen",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Zhisheng Yan",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Yinjie Zhang",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Zhe Yang",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Klara Nahrstedt",
+                    "Institutions": null
+                }
+            ],
+            "OpenAlex Referenced Works": null
+        },
+        {
+            "Title": "MadEye: Boosting Live Video Analytics Accuracy with Adaptive Camera Configurations.",
+            "Year": "2024",
+            "DOI Number": null,
+            "OpenAlex Link": null,
+            "Authors and Institutions": [
+                {
+                    "Author": "Mike Wong",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Murali Ramanujam",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Guha Balakrishnan",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Ravi Netravali",
+                    "Institutions": null
+                }
+            ],
+            "OpenAlex Referenced Works": null
+        },
+        {
+            "Title": "Gemino: Practical and Robust Neural Compression for Video Conferencing.",
+            "Year": "2024",
+            "DOI Number": null,
+            "OpenAlex Link": null,
+            "Authors and Institutions": [
+                {
+                    "Author": "Vibhaalakshmi Sivaraman",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Pantea Karimi",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Vedantha Venkatapathy",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Mehrdad Khani Shirkoohi",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Sadjad Fouladi",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Mohammad Alizadeh",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Frédo Durand",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Vivienne Sze",
+                    "Institutions": null
+                }
+            ],
+            "OpenAlex Referenced Works": null
+        },
+        {
+            "Title": "ARTEMIS: Adaptive Bitrate Ladder Optimization for Live Video Streaming.",
+            "Year": "2024",
+            "DOI Number": null,
+            "OpenAlex Link": null,
+            "Authors and Institutions": [
+                {
+                    "Author": "Farzad Tashtarian",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Abdelhak Bentaleb",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Hadi Amirpour",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Sergey Gorinsky",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Junchen Jiang",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Hermann Hellwagner",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Christian Timmerer",
+                    "Institutions": null
+                }
+            ],
+            "OpenAlex Referenced Works": null
+        },
+        {
+            "Title": "Credence: Augmenting Datacenter Switch Buffer Sharing with ML Predictions.",
+            "Year": "2024",
+            "DOI Number": null,
+            "OpenAlex Link": null,
+            "Authors and Institutions": [
+                {
+                    "Author": "Vamsi Addanki",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Maciej Pacut",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Stefan Schmid",
+                    "Institutions": null
+                }
+            ],
+            "OpenAlex Referenced Works": null
+        },
+        {
+            "Title": "Seer: Enabling Future-Aware Online Caching in Networked Systems.",
+            "Year": "2024",
+            "DOI Number": null,
+            "OpenAlex Link": null,
+            "Authors and Institutions": [
+                {
+                    "Author": "Jason Lei",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Vishal Shrivastav",
+                    "Institutions": null
+                }
+            ],
+            "OpenAlex Referenced Works": null
+        },
+        {
+            "Title": "Reverie: Low Pass Filter-Based Switch Buffer Sharing for Datacenters with RDMA and TCP Traffic.",
+            "Year": "2024",
+            "DOI Number": null,
+            "OpenAlex Link": null,
+            "Authors and Institutions": [
+                {
+                    "Author": "Vamsi Addanki",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Wei Bai",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Stefan Schmid",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Maria Apostolaki",
+                    "Institutions": null
+                }
+            ],
+            "OpenAlex Referenced Works": null
+        },
+        {
+            "Title": "Precise Data Center Traffic Engineering with Constrained Hardware Resources.",
+            "Year": "2024",
+            "DOI Number": null,
+            "OpenAlex Link": null,
+            "Authors and Institutions": [
+                {
+                    "Author": "Shawn Shuoshuo Chen",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Keqiang He",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Rui Wang",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Srinivasan Seshan",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Peter Steenkiste",
+                    "Institutions": null
+                }
+            ],
+            "OpenAlex Referenced Works": null
+        },
+        {
+            "Title": "Multitenant In-Network Acceleration with SwitchVM.",
+            "Year": "2024",
+            "DOI Number": null,
+            "OpenAlex Link": null,
+            "Authors and Institutions": [
+                {
+                    "Author": "Sajy Khashab",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Alon Rashelbach",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Mark Silberstein",
+                    "Institutions": null
+                }
+            ],
+            "OpenAlex Referenced Works": null
+        },
+        {
+            "Title": "Characterization of Large Language Model Development in the Datacenter.",
+            "Year": "2024",
+            "DOI Number": null,
+            "OpenAlex Link": null,
+            "Authors and Institutions": [
+                {
+                    "Author": "Qinghao Hu",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Zhisheng Ye",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Zerui Wang",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Guoteng Wang",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Meng Zhang",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Qiaoling Chen",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Peng Sun",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Dahua Lin",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Xiaolin Wang",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Yingwei Luo",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Yonggang Wen",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Tianwei Zhang",
+                    "Institutions": null
+                }
+            ],
+            "OpenAlex Referenced Works": null
+        },
+        {
+            "Title": "QuickUpdate: a Real-Time Personalization System for Large-Scale Recommendation Models.",
+            "Year": "2024",
+            "DOI Number": null,
+            "OpenAlex Link": null,
+            "Authors and Institutions": [
+                {
+                    "Author": "Kiran Kumar Matam",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Hani Ramezani",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Fan Wang",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Zeliang Chen",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Yue Dong",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Maomao Ding",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Zhiwei Zhao",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Zhengyu Zhang",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Ellie Wen",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Assaf Eisenman",
+                    "Institutions": null
+                }
+            ],
+            "OpenAlex Referenced Works": null
+        },
+        {
+            "Title": "MegaScale: Scaling Large Language Model Training to More Than 10, 000 GPUs.",
+            "Year": "2024",
+            "DOI Number": null,
+            "OpenAlex Link": null,
+            "Authors and Institutions": [
+                {
+                    "Author": "Ziheng Jiang",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Haibin Lin",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Yinmin Zhong",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Qi Huang",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Yangrui Chen",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Zhi Zhang",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Yanghua Peng",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Xiang Li",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Cong Xie",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Shibiao Nong",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Yulu Jia",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Sun He",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Hongmin Chen",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Zhihao Bai",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Qi Hou",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Shipeng Yan",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Ding Zhou",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Yiyao Sheng",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Zhuo Jiang",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Haohan Xu",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Haoran Wei",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Zhang Zhang",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Pengfei Nie",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Leqi Zou",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Sida Zhao",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Liang Xiang",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Zherui Liu",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Zhe Li",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Xiaoying Jia",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Jianxi Ye",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Xin Jin",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Xin Liu",
+                    "Institutions": null
+                }
+            ],
+            "OpenAlex Referenced Works": null
+        },
+        {
+            "Title": "Resiliency at Scale: Managing Google's TPUv4 Machine Learning Supercomputer.",
+            "Year": "2024",
+            "DOI Number": null,
+            "OpenAlex Link": null,
+            "Authors and Institutions": [
+                {
+                    "Author": "Yazhou Zu",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Alireza Ghaffarkhah",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Hoang-Vu Dang",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Brian Towles",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Steven Hand",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Safeen Huda",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Adekunle Bello",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Alexander Kolbasov",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Arash Rezaei",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Dayou Du",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Steve Lacy",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Hang Wang",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Aaron Wisner",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Chris Lewis",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Henri Bahini",
+                    "Institutions": null
+                }
+            ],
+            "OpenAlex Referenced Works": null
+        },
+        {
+            "Title": "NN-Defined Modulator: Reconfigurable and Portable Software Modulator on IoT Gateways.",
+            "Year": "2024",
+            "DOI Number": null,
+            "OpenAlex Link": null,
+            "Authors and Institutions": [
+                {
+                    "Author": "Jiazhao Wang",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Wenchao Jiang",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Ruofeng Liu",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Bin Hu",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Demin Gao",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Shuai Wang",
+                    "Institutions": null
+                }
+            ],
+            "OpenAlex Referenced Works": null
+        },
+        {
+            "Title": "Democratizing Direct-to-Cell Low Earth Orbit Satellite Networks.",
+            "Year": "2024",
+            "DOI Number": null,
+            "OpenAlex Link": null,
+            "Authors and Institutions": [
+                {
+                    "Author": "Lixin Liu",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Yuanjie Li",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Hewu Li",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Jiabo Yang",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Wei Liu",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Jingyi Lan",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Yufeng Wang",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Jiarui Li",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Jianping Wu",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Qian Wu",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Jun Liu",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Zeqi Lai",
+                    "Institutions": null
+                }
+            ],
+            "OpenAlex Referenced Works": null
+        },
+        {
+            "Title": "Known Knowns and Unknowns: Near-realtime Earth Observation Via Query Bifurcation in Serval.",
+            "Year": "2024",
+            "DOI Number": null,
+            "OpenAlex Link": null,
+            "Authors and Institutions": [
+                {
+                    "Author": "Bill Tao",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Om Chabra",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Ishani Janveja",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Indranil Gupta",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Deepak Vasisht",
+                    "Institutions": null
+                }
+            ],
+            "OpenAlex Referenced Works": null
+        },
+        {
+            "Title": "Spectrumize: Spectrum-efficient Satellite Networks for the Internet of Things.",
+            "Year": "2024",
+            "DOI Number": null,
+            "OpenAlex Link": null,
+            "Authors and Institutions": [
+                {
+                    "Author": "Vaibhav Singh",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Tusher Chakraborty",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Suraj Jog",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Om Chabra",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Deepak Vasisht",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Ranveer Chandra",
+                    "Institutions": null
+                }
+            ],
+            "OpenAlex Referenced Works": null
+        },
+        {
+            "Title": "Application-Level Service Assurance with 5G RAN Slicing.",
+            "Year": "2024",
+            "DOI Number": null,
+            "OpenAlex Link": null,
+            "Authors and Institutions": [
+                {
+                    "Author": "Arjun Balasingam",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Manikanta Kotaru",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Paramvir Bahl",
+                    "Institutions": null
+                }
+            ],
+            "OpenAlex Referenced Works": null
+        },
+        {
+            "Title": "LuoShen: A Hyper-Converged Programmable Gateway for Multi-Tenant Multi-Service Edge Clouds.",
+            "Year": "2024",
+            "DOI Number": null,
+            "OpenAlex Link": null,
+            "Authors and Institutions": [
+                {
+                    "Author": "Tian Pan",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Kun Liu",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Xionglie Wei",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Yisong Qiao",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Jun Hu",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Zhiguo Li",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Jun Liang",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Tiesheng Cheng",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Wenqiang Su",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Jie Lu",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Yuke Hong",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Zhengzhong Wang",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Zhi Xu",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Chongjing Dai",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Peiqiao Wang",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Xuetao Jia",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Jianyuan Lu",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Enge Song",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Jun Zeng",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Biao Lyu",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Ennan Zhai",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Jiao Zhang",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Tao Huang",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Dennis Cai",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Shunmin Zhu",
+                    "Institutions": null
+                }
+            ],
+            "OpenAlex Referenced Works": null
+        },
+        {
+            "Title": "Sprinter: Speeding Up High-Fidelity Crawling of the Modern Web.",
+            "Year": "2024",
+            "DOI Number": null,
+            "OpenAlex Link": null,
+            "Authors and Institutions": [
+                {
+                    "Author": "Ayush Goel",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Jingyuan Zhu",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Ravi Netravali",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Harsha V. Madhyastha",
+                    "Institutions": null
+                }
+            ],
+            "OpenAlex Referenced Works": null
+        },
+        {
+            "Title": "Hairpin: Rethinking Packet Loss Recovery in Edge-based Interactive Video Streaming.",
+            "Year": "2024",
+            "DOI Number": null,
+            "OpenAlex Link": null,
+            "Authors and Institutions": [
+                {
+                    "Author": "Zili Meng",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Xiao Kong",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Jing Chen",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Bo Wang",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Mingwei Xu",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Rui Han",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Honghao Liu",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Venkat Arun",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Hongxin Hu",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Xue Wei",
+                    "Institutions": null
+                }
+            ],
+            "OpenAlex Referenced Works": null
+        },
+        {
+            "Title": "Finding Adversarial Inputs for Heuristics using Multi-level Optimization.",
+            "Year": "2024",
+            "DOI Number": null,
+            "OpenAlex Link": null,
+            "Authors and Institutions": [
+                {
+                    "Author": "Pooria Namyar",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Behnaz Arzani",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Ryan Beckett",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Santiago Segarra",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Himanshu Raj",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Umesh Krishnaswamy",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Ramesh Govindan",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Srikanth Kandula",
+                    "Institutions": null
+                }
+            ],
+            "OpenAlex Referenced Works": null
+        },
+        {
+            "Title": "Towards provably performant congestion control.",
+            "Year": "2024",
+            "DOI Number": null,
+            "OpenAlex Link": null,
+            "Authors and Institutions": [
+                {
+                    "Author": "Anup Agarwal",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Venkat Arun",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Devdeep Ray",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Ruben Martins",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Srinivasan Seshan",
+                    "Institutions": null
+                }
+            ],
+            "OpenAlex Referenced Works": null
+        },
+        {
+            "Title": "EPVerifier: Accelerating Update Storms Verification with Edge-Predicate.",
+            "Year": "2024",
+            "DOI Number": null,
+            "OpenAlex Link": null,
+            "Authors and Institutions": [
+                {
+                    "Author": "Chenyang Zhao",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Yuebin Guo",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Jingyu Wang",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Qi Qi",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Zirui Zhuang",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Haifeng Sun",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Lingqi Guo",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Yuming Xie",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Jianxin Liao",
+                    "Institutions": null
+                }
+            ],
+            "OpenAlex Referenced Works": null
+        },
+        {
+            "Title": "Netcastle: Network Infrastructure Testing At Scale.",
+            "Year": "2024",
+            "DOI Number": null,
+            "OpenAlex Link": null,
+            "Authors and Institutions": [
+                {
+                    "Author": "Rob Sherwood",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Jinghao Shi",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Ying Zhang",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Neil Spring",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Srikanth Sundaresan",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Jasmeet Bagga",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Prathyusha Peddi",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Vineela Kukkadapu",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Rashmi Shrivastava",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Manikantan K.",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Pavan Patil",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Srikrishna Gopu",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Varun Varadan",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Ethan Shi",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Hany Morsy",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Yuting Bu",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Renjie Yang",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Rasmus Jonsson",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Wei Zhang",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Jesus Jussepen Arredondo",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Diana Saha",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Sean Choi",
+                    "Institutions": null
+                }
+            ],
+            "OpenAlex Referenced Works": null
+        },
+        {
+            "Title": "MESSI: Behavioral Testing of BGP Implementations.",
+            "Year": "2024",
+            "DOI Number": null,
+            "OpenAlex Link": null,
+            "Authors and Institutions": [
+                {
+                    "Author": "Rathin Singha",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Rajdeep Mondal",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Ryan Beckett",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Siva Kesava Reddy Kakarla",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Todd D. Millstein",
+                    "Institutions": null
+                },
+                {
+                    "Author": "George Varghese",
+                    "Institutions": null
+                }
+            ],
+            "OpenAlex Referenced Works": null
+        },
+        {
+            "Title": "A High-Performance Design, Implementation, Deployment, and Evaluation of The Slim Fly Network.",
+            "Year": "2024",
+            "DOI Number": null,
+            "OpenAlex Link": null,
+            "Authors and Institutions": [
+                {
+                    "Author": "Nils Blach",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Maciej Besta",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Daniele De Sensi",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Jens Domke",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Hussein Harake",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Shigang Li",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Patrick Iff",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Marek Konieczny",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Kartik Lakhotia",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Ales Kubicek",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Marcel Ferrari",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Fabrizio Petrini",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Torsten Hoefler",
+                    "Institutions": null
+                }
+            ],
+            "OpenAlex Referenced Works": null
+        },
+        {
+            "Title": "Crescent: Emulating Heterogeneous Production Network at Scale.",
+            "Year": "2024",
+            "DOI Number": null,
+            "OpenAlex Link": null,
+            "Authors and Institutions": [
+                {
+                    "Author": "Zhaoyu Gao",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Anubhavnidhi Abhashkumar",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Zhen Sun",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Weirong Jiang",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Yi Wang",
+                    "Institutions": null
+                }
+            ],
+            "OpenAlex Referenced Works": null
+        },
+        {
+            "Title": "Reasoning about Network Traffic Load Property at Production Scale.",
+            "Year": "2024",
+            "DOI Number": null,
+            "OpenAlex Link": null,
+            "Authors and Institutions": [
+                {
+                    "Author": "Ruihan Li",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Fangdan Ye",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Yifei Yuan",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Ruizhen Yang",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Bingchuan Tian",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Tianchen Guo",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Hao Wu",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Xiaobo Zhu",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Zhongyu Guan",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Qing Ma",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Xianlong Zeng",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Chenren Xu",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Dennis Cai",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Ennan Zhai",
+                    "Institutions": null
+                }
+            ],
+            "OpenAlex Referenced Works": null
+        },
+        {
+            "Title": "POSEIDON: A Consolidated Virtual Network Controller that Manages Millions of Tenants via Config Tree.",
+            "Year": "2024",
+            "DOI Number": null,
+            "OpenAlex Link": null,
+            "Authors and Institutions": [
+                {
+                    "Author": "Biao Lyu",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Enge Song",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Tian Pan",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Jianyuan Lu",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Shize Zhang",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Xiaoqing Sun",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Lei Gao",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Chenxiao Wang",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Han Xiao",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Yong Pan",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Xiuheng Chen",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Yandong Duan",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Weisheng Wang",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Jinpeng Long",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Yanfeng Wang",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Kunpeng Zhou",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Zhigang Zong",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Xing Li",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Guangwang Li",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Pengyu Zhang",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Peng Cheng",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Jiming Chen",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Shunmin Zhu",
+                    "Institutions": null
+                }
+            ],
+            "OpenAlex Referenced Works": null
+        },
+        {
+            "Title": "OPPerTune: Post-Deployment Configuration Tuning of Services Made Easy.",
+            "Year": "2024",
+            "DOI Number": null,
+            "OpenAlex Link": null,
+            "Authors and Institutions": [
+                {
+                    "Author": "Gagan Somashekar",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Karan Tandon",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Anush Kini",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Chieh-Chun Chang",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Petr Husak",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Ranjita Bhagwan",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Mayukh Das",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Anshul Gandhi",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Nagarajan Natarajan",
+                    "Institutions": null
+                }
+            ],
+            "OpenAlex Referenced Works": null
+        },
+        {
+            "Title": "Parcae: Proactive, Liveput-Optimized DNN Training on Preemptible Instances.",
+            "Year": "2024",
+            "DOI Number": null,
+            "OpenAlex Link": null,
+            "Authors and Institutions": [
+                {
+                    "Author": "Jiangfei Duan",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Ziang Song",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Xupeng Miao",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Xiaoli Xi",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Dahua Lin",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Harry Xu",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Minjia Zhang",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Zhihao Jia",
+                    "Institutions": null
+                }
+            ],
+            "OpenAlex Referenced Works": null
+        },
+        {
+            "Title": "Accelerating Neural Recommendation Training with Embedding Scheduling.",
+            "Year": "2024",
+            "DOI Number": null,
+            "OpenAlex Link": null,
+            "Authors and Institutions": [
+                {
+                    "Author": "Chaoliang Zeng",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Xudong Liao",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Xiaodian Cheng",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Han Tian",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Xinchen Wan",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Hao Wang",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Kai Chen",
+                    "Institutions": null
+                }
+            ],
+            "OpenAlex Referenced Works": null
+        },
+        {
+            "Title": "DISTMM: Accelerating Distributed Multimodal Model Training.",
+            "Year": "2024",
+            "DOI Number": null,
+            "OpenAlex Link": null,
+            "Authors and Institutions": [
+                {
+                    "Author": "Jun Huang",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Zhen Zhang",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Shuai Zheng",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Feng Qin",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Yida Wang",
+                    "Institutions": null
+                }
+            ],
+            "OpenAlex Referenced Works": null
+        },
+        {
+            "Title": "Approximate Caching for Efficiently Serving Text-to-Image Diffusion Models.",
+            "Year": "2024",
+            "DOI Number": null,
+            "OpenAlex Link": null,
+            "Authors and Institutions": [
+                {
+                    "Author": "Shubham Agarwal",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Subrata Mitra",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Sarthak Chakraborty",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Srikrishna Karanam",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Koyel Mukherjee",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Shiv Kumar Saini",
+                    "Institutions": null
+                }
+            ],
+            "OpenAlex Referenced Works": null
+        },
+        {
+            "Title": "THC: Accelerating Distributed Deep Learning Using Tensor Homomorphic Compression.",
+            "Year": "2024",
+            "DOI Number": null,
+            "OpenAlex Link": null,
+            "Authors and Institutions": [
+                {
+                    "Author": "Minghao Li",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Ran Ben Basat",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Shay Vargaftik",
+                    "Institutions": null
+                },
+                {
+                    "Author": "ChonLam Lao",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Kevin Xu",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Michael Mitzenmacher",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Minlan Yu",
+                    "Institutions": null
+                }
+            ],
+            "OpenAlex Referenced Works": null
+        },
+        {
+            "Title": "Accelerating Skewed Workloads With Performance Multipliers in the TurboDB Distributed Database.",
+            "Year": "2024",
+            "DOI Number": null,
+            "OpenAlex Link": null,
+            "Authors and Institutions": [
+                {
+                    "Author": "Jennifer Lam",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Jeffrey Helt",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Wyatt Lloyd",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Haonan Lu",
+                    "Institutions": null
+                }
+            ],
+            "OpenAlex Referenced Works": null
+        },
+        {
+            "Title": "SIEVE is Simpler than LRU: an Efficient Turn-Key Eviction Algorithm for Web Caches.",
+            "Year": "2024",
+            "DOI Number": null,
+            "OpenAlex Link": null,
+            "Authors and Institutions": [
+                {
+                    "Author": "Yazhuo Zhang",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Juncheng Yang",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Yao Yue",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Ymir Vigfusson",
+                    "Institutions": null
+                },
+                {
+                    "Author": "K. V. Rashmi",
+                    "Institutions": null
+                }
+            ],
+            "OpenAlex Referenced Works": null
+        },
+        {
+            "Title": "Harvesting Idle Memory for Application-managed Soft State with Midas.",
+            "Year": "2024",
+            "DOI Number": null,
+            "OpenAlex Link": null,
+            "Authors and Institutions": [
+                {
+                    "Author": "Yifan Qiao",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Zhenyuan Ruan",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Haoran Ma",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Adam Belay",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Miryung Kim",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Harry Xu",
+                    "Institutions": null
+                }
+            ],
+            "OpenAlex Referenced Works": null
+        },
+        {
+            "Title": "Efficient Exposure of Partial Failure Bugs in Distributed Systems with Inferred Abstract States.",
+            "Year": "2024",
+            "DOI Number": null,
+            "OpenAlex Link": null,
+            "Authors and Institutions": [
+                {
+                    "Author": "Haoze Wu",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Jia Pan",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Peng Huang",
+                    "Institutions": null
+                }
+            ],
+            "OpenAlex Referenced Works": null
+        },
+        {
+            "Title": "Load is not what you should balance: Introducing Prequal.",
+            "Year": "2024",
+            "DOI Number": null,
+            "OpenAlex Link": null,
+            "Authors and Institutions": [
+                {
+                    "Author": "Bartek Wydrowski",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Robert Kleinberg",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Stephen M. Rumble",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Aaron Archer",
+                    "Institutions": null
+                }
+            ],
+            "OpenAlex Referenced Works": null
+        },
+        {
+            "Title": "Orthcatter: High-throughput In-band OFDM Backscatter with Over-the-Air Code Division.",
+            "Year": "2024",
+            "DOI Number": null,
+            "OpenAlex Link": null,
+            "Authors and Institutions": [
+                {
+                    "Author": "Caihui Du",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Jihong Yu",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Rongrong Zhang",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Ju Ren",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Jianping An",
+                    "Institutions": null
+                }
+            ],
+            "OpenAlex Referenced Works": null
+        },
+        {
+            "Title": "EdgeRIC: Empowering Real-time Intelligent Optimization and Control in NextG Cellular Networks.",
+            "Year": "2024",
+            "DOI Number": null,
+            "OpenAlex Link": null,
+            "Authors and Institutions": [
+                {
+                    "Author": "Woo-Hyun Ko",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Ushasi Ghosh",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Ujwal Dinesha",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Raini Wu",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Srinivas Shakkottai",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Dinesh Bharadia",
+                    "Institutions": null
+                }
+            ],
+            "OpenAlex Referenced Works": null
+        },
+        {
+            "Title": "ADR-X: ANN-Assisted Wireless Link Rate Adaptation for Compute-Constrained Embedded Gaming Devices.",
+            "Year": "2024",
+            "DOI Number": null,
+            "OpenAlex Link": null,
+            "Authors and Institutions": [
+                {
+                    "Author": "Hao Yin",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Murali Ramanujam",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Joe Schaefer",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Stan Adermann",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Srihari Narlanka",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Perry Lea",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Ravi Netravali",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Krishna Chintalapudi",
+                    "Institutions": null
+                }
+            ],
+            "OpenAlex Referenced Works": null
+        },
+        {
+            "Title": "RFID+: Spatially Controllable Identification of UHF RFIDs via Controlled Magnetic Fields.",
+            "Year": "2024",
+            "DOI Number": null,
+            "OpenAlex Link": null,
+            "Authors and Institutions": [
+                {
+                    "Author": "Donghui Dai",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Zhenlin An",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Zheng Gong",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Qingrui Pan",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Lei Yang",
+                    "Institutions": null
+                }
+            ],
+            "OpenAlex Referenced Works": null
+        },
+        {
+            "Title": "SMUFF: Towards Line Rate Wi-Fi Direct Transport with Orchestrated On-device Buffer Management.",
+            "Year": "2024",
+            "DOI Number": null,
+            "OpenAlex Link": null,
+            "Authors and Institutions": [
+                {
+                    "Author": "Chengke Wang",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Hao Wang",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Yuhan Zhou",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Yunzhe Ni",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Feng Qian",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Chenren Xu",
+                    "Institutions": null
+                }
+            ],
+            "OpenAlex Referenced Works": null
+        },
+        {
+            "Title": "Vulcan: Automatic Query Planning for Live ML Analytics.",
+            "Year": "2024",
+            "DOI Number": null,
+            "OpenAlex Link": null,
+            "Authors and Institutions": [
+                {
+                    "Author": "Yiwen Zhang",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Xumiao Zhang",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Ganesh Ananthanarayanan",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Anand P. Iyer",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Yuanchao Shu",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Victor Bahl",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Z. Morley Mao",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Mosharaf Chowdhury",
+                    "Institutions": null
+                }
+            ],
+            "OpenAlex Referenced Works": null
+        },
+        {
+            "Title": "CASSINI: Network-Aware Job Scheduling in Machine Learning Clusters.",
+            "Year": "2024",
+            "DOI Number": null,
+            "OpenAlex Link": null,
+            "Authors and Institutions": [
+                {
+                    "Author": "Sudarsanan Rajasekaran",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Manya Ghobadi",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Aditya Akella",
+                    "Institutions": null
+                }
+            ],
+            "OpenAlex Referenced Works": null
+        },
+        {
+            "Title": "Towards Domain-Specific Network Transport for Distributed DNN Training.",
+            "Year": "2024",
+            "DOI Number": null,
+            "OpenAlex Link": null,
+            "Authors and Institutions": [
+                {
+                    "Author": "Hao Wang",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Han Tian",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Jingrong Chen",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Xinchen Wan",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Jiacheng Xia",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Gaoxiong Zeng",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Wei Bai",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Junchen Jiang",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Yong Wang",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Kai Chen",
+                    "Institutions": null
+                }
+            ],
+            "OpenAlex Referenced Works": null
+        },
+        {
+            "Title": "Swing: Short-cutting Rings for Higher Bandwidth Allreduce.",
+            "Year": "2024",
+            "DOI Number": null,
+            "OpenAlex Link": null,
+            "Authors and Institutions": [
+                {
+                    "Author": "Daniele De Sensi",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Tommaso Bonato",
+                    "Institutions": null
+                },
+                {
+                    "Author": "David Saam",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Torsten Hoefler",
+                    "Institutions": null
+                }
+            ],
+            "OpenAlex Referenced Works": null
+        },
+        {
+            "Title": "LitePred: Transferable and Scalable Latency Prediction for Hardware-Aware Neural Architecture Search.",
+            "Year": "2024",
+            "DOI Number": null,
+            "OpenAlex Link": null,
+            "Authors and Institutions": [
+                {
+                    "Author": "Chengquan Feng",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Li Lyna Zhang",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Yuanchi Liu",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Jiahang Xu",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Chengruidong Zhang",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Zhiyuan Wang",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Ting Cao",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Mao Yang",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Haisheng Tan",
+                    "Institutions": null
+                }
+            ],
+            "OpenAlex Referenced Works": null
+        },
+        {
+            "Title": "Harmonic: Hardware-assisted RDMA Performance Isolation for Public Clouds.",
+            "Year": "2024",
+            "DOI Number": null,
+            "OpenAlex Link": null,
+            "Authors and Institutions": [
+                {
+                    "Author": "Jiaqi Lou",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Xinhao Kong",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Jinghan Huang",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Wei Bai",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Nam Sung Kim",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Danyang Zhuo",
+                    "Institutions": null
+                }
+            ],
+            "OpenAlex Referenced Works": null
+        },
+        {
+            "Title": "LDB: An Efficient Latency Profiling Tool for Multithreaded Applications.",
+            "Year": "2024",
+            "DOI Number": null,
+            "OpenAlex Link": null,
+            "Authors and Institutions": [
+                {
+                    "Author": "Inho Cho",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Seo Jin Park",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Ahmed Saeed",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Mohammad Alizadeh",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Adam Belay",
+                    "Institutions": null
+                }
+            ],
+            "OpenAlex Referenced Works": null
+        },
+        {
+            "Title": "UFO: The Ultimate QoS-Aware Core Management for Virtualized and Oversubscribed Public Clouds.",
+            "Year": "2024",
+            "DOI Number": null,
+            "OpenAlex Link": null,
+            "Authors and Institutions": [
+                {
+                    "Author": "Yajuan Peng",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Shuang Chen",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Yi Zhao",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Zhibin Yu",
+                    "Institutions": null
+                }
+            ],
+            "OpenAlex Referenced Works": null
+        },
+        {
+            "Title": "Automatic Parallelization of Software Network Functions.",
+            "Year": "2024",
+            "DOI Number": null,
+            "OpenAlex Link": null,
+            "Authors and Institutions": [
+                {
+                    "Author": "Francisco Pereira",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Fernando M. V. Ramos",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Luis Pedrosa",
+                    "Institutions": null
+                }
+            ],
+            "OpenAlex Referenced Works": null
+        },
+        {
+            "Title": "AutoSketch: Automatic Sketch-Oriented Compiler for Query-driven Network Telemetry.",
+            "Year": "2024",
+            "DOI Number": null,
+            "OpenAlex Link": null,
+            "Authors and Institutions": [
+                {
+                    "Author": "Haifeng Sun",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Qun Huang",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Jinbo Sun",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Wei Wang",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Jiaheng Li",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Fuliang Li",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Yungang Bao",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Xin Yao",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Gong Zhang",
+                    "Institutions": null
+                }
+            ],
+            "OpenAlex Referenced Works": null
+        },
+        {
+            "Title": "Leo: Online ML-based Traffic Classification at Multi-Terabit Line Rate.",
+            "Year": "2024",
+            "DOI Number": null,
+            "OpenAlex Link": null,
+            "Authors and Institutions": [
+                {
+                    "Author": "Syed Usman Jafri",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Sanjay G. Rao",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Vishal Shrivastav",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Mohit Tawarmalani",
+                    "Institutions": null
+                }
+            ],
+            "OpenAlex Referenced Works": null
+        },
+        {
+            "Title": "Sequence Abstractions for Flexible, Line-Rate Network Monitoring.",
+            "Year": "2024",
+            "DOI Number": null,
+            "OpenAlex Link": null,
+            "Authors and Institutions": [
+                {
+                    "Author": "Andrew Johnson",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Ryan Beckett",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Xiaoqi Chen",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Ratul Mahajan",
+                    "Institutions": null
+                },
+                {
+                    "Author": "David Walker",
+                    "Institutions": null
+                }
+            ],
+            "OpenAlex Referenced Works": null
+        },
+        {
+            "Title": "OctoSketch: Enabling Real-Time, Continuous Network Monitoring over Multiple Cores.",
+            "Year": "2024",
+            "DOI Number": null,
+            "OpenAlex Link": null,
+            "Authors and Institutions": [
+                {
+                    "Author": "Yinda Zhang",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Peiqing Chen",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Zaoxing Liu",
+                    "Institutions": null
+                }
+            ],
+            "OpenAlex Referenced Works": null
+        },
+        {
+            "Title": "NR-Surface: NextG-ready µW-reconfigurable mmWave Metasurface.",
+            "Year": "2024",
+            "DOI Number": null,
+            "OpenAlex Link": null,
+            "Authors and Institutions": [
+                {
+                    "Author": "Minseok Kim",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Namjo Ahn",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Song Min Kim",
+                    "Institutions": null
+                }
+            ],
+            "OpenAlex Referenced Works": null
+        },
+        {
+            "Title": "Cyclops: A Nanomaterial-based, Battery-Free Intraocular Pressure (IOP) Monitoring System inside Contact Lens.",
+            "Year": "2024",
+            "DOI Number": null,
+            "OpenAlex Link": null,
+            "Authors and Institutions": [
+                {
+                    "Author": "Liyao Li",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Bozhao Shang",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Yun Wu",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Jie Xiong",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Xiaojiang Chen",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Yaxiong Xie",
+                    "Institutions": null
+                }
+            ],
+            "OpenAlex Referenced Works": null
+        },
+        {
+            "Title": "Habitus: Boosting Mobile Immersive Content Delivery through Full-body Pose Tracking and Multipath Networking.",
+            "Year": "2024",
+            "DOI Number": null,
+            "OpenAlex Link": null,
+            "Authors and Institutions": [
+                {
+                    "Author": "Anlan Zhang",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Chendong Wang",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Yuming Hu",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Ahmad Hassan",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Zejun Zhang",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Bo Han",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Feng Qian",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Shichang Xu",
+                    "Institutions": null
+                }
+            ],
+            "OpenAlex Referenced Works": null
+        },
+        {
+            "Title": "BFMSense: WiFi Sensing Using Beamforming Feedback Matrix.",
+            "Year": "2024",
+            "DOI Number": null,
+            "OpenAlex Link": null,
+            "Authors and Institutions": [
+                {
+                    "Author": "Enze Yi",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Dan Wu",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Jie Xiong",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Fusang Zhang",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Kai Niu",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Wenwei Li",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Daqing Zhang",
+                    "Institutions": null
+                }
+            ],
+            "OpenAlex Referenced Works": null
+        },
+        {
+            "Title": "mmComb: High-speed mmWave Commodity WiFi Backscatter.",
+            "Year": "2024",
+            "DOI Number": null,
+            "OpenAlex Link": null,
+            "Authors and Institutions": [
+                {
+                    "Author": "Yoon Chae",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Zhenzhe Lin",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Kangmin Bae",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Song Min Kim",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Parth Pathak",
+                    "Institutions": null
+                }
+            ],
+            "OpenAlex Referenced Works": null
+        },
+        {
+            "Title": "Where The Wild Things Are: Brute-Force SSH Attacks In The Wild And How To Stop Them.",
+            "Year": "2024",
+            "DOI Number": null,
+            "OpenAlex Link": null,
+            "Authors and Institutions": [
+                {
+                    "Author": "Sachin Kumar Singh",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Shreeman Gautam",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Cameron Cartier",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Sameer Patil",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Robert Ricci",
+                    "Institutions": null
+                }
+            ],
+            "OpenAlex Referenced Works": null
+        },
+        {
+            "Title": "A System to Detect Forged-Origin BGP Hijacks.",
+            "Year": "2024",
+            "DOI Number": null,
+            "OpenAlex Link": null,
+            "Authors and Institutions": [
+                {
+                    "Author": "Thomas Holterbach",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Thomas Alfroy",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Amreesh Phokeer",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Alberto Dainotti",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Cristel Pelsser",
+                    "Institutions": null
+                }
+            ],
+            "OpenAlex Referenced Works": null
+        },
+        {
+            "Title": "NetVigil: Robust and Low-Cost Anomaly Detection for East-West Data Center Security.",
+            "Year": "2024",
+            "DOI Number": null,
+            "OpenAlex Link": null,
+            "Authors and Institutions": [
+                {
+                    "Author": "Kevin Hsieh",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Mike Wong",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Santiago Segarra",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Sathiya Kumaran Mani",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Trevor Eberl",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Anatoliy Panasyuk",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Ravi Netravali",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Ranveer Chandra",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Srikanth Kandula",
+                    "Institutions": null
+                }
+            ],
+            "OpenAlex Referenced Works": null
+        },
+        {
+            "Title": "TANGO: Secure Collaborative Route Control across the Public Internet.",
+            "Year": "2024",
+            "DOI Number": null,
+            "OpenAlex Link": null,
+            "Authors and Institutions": [
+                {
+                    "Author": "Henry Birge-Lee",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Sophia Yoo",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Benjamin Herber",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Jennifer Rexford",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Maria Apostolaki",
+                    "Institutions": null
+                }
+            ],
+            "OpenAlex Referenced Works": null
+        },
+        {
+            "Title": "Sidekick: In-Network Assistance for Secure End-to-End Transport Protocols.",
+            "Year": "2024",
+            "DOI Number": null,
+            "OpenAlex Link": null,
+            "Authors and Institutions": [
+                {
+                    "Author": "Gina Yuan",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Matthew Sotoudeh",
+                    "Institutions": null
+                },
+                {
+                    "Author": "David K. Zhang",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Michael Welzl",
+                    "Institutions": null
+                },
+                {
+                    "Author": "David Mazières",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Keith Winstein",
+                    "Institutions": null
+                }
+            ],
+            "OpenAlex Referenced Works": null
+        },
+        {
+            "Title": "VILAM: Infrastructure-assisted 3D Visual Localization and Mapping for Autonomous Driving.",
+            "Year": "2024",
+            "DOI Number": null,
+            "OpenAlex Link": null,
+            "Authors and Institutions": [
+                {
+                    "Author": "Jiahe Cui",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Shuyao Shi",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Yuze He",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Jianwei Niu",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Guoliang Xing",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Zhenchao Ouyang",
+                    "Institutions": null
+                }
+            ],
+            "OpenAlex Referenced Works": null
+        },
+        {
+            "Title": "Catch Me If You Can: Laser Tethering with Highly Mobile Targets.",
+            "Year": "2024",
+            "DOI Number": null,
+            "OpenAlex Link": null,
+            "Authors and Institutions": [
+                {
+                    "Author": "Charles J. Carver",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Hadleigh Schwartz",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Qijia Shao",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Nicholas Shade",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Joseph P. Lazzaro",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Xiaoxin Wang",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Jifeng Liu",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Eric R. Fossum",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Xia Zhou",
+                    "Institutions": null
+                }
+            ],
+            "OpenAlex Referenced Works": null
+        },
+        {
+            "Title": "MobileConfig: Remote Configuration Management for Mobile Apps at Hyperscale.",
+            "Year": "2024",
+            "DOI Number": null,
+            "OpenAlex Link": null,
+            "Authors and Institutions": [
+                {
+                    "Author": "Matt Guo",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Soteris Demetriou",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Joey Yang",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Michael Leighton",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Diedi Hu",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Tong Bao",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Amit Adhikari",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Thawan Kooburat",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Annie Kim",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Chunqiang Tang",
+                    "Institutions": null
+                }
+            ],
+            "OpenAlex Referenced Works": null
+        },
+        {
+            "Title": "Passengers' Safety Matters: Experiences of Deploying a Large-Scale Indoor Delivery Monitoring System.",
+            "Year": "2024",
+            "DOI Number": null,
+            "OpenAlex Link": null,
+            "Authors and Institutions": [
+                {
+                    "Author": "Xiubin Fan",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Zhongming Lin",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Yuming Hu",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Tianrui Jiang",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Feng Qian",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Zhimeng Yin",
+                    "Institutions": null
+                },
+                {
+                    "Author": "S.-H. Gary Chan",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Dapeng Wu",
+                    "Institutions": null
+                }
+            ],
+            "OpenAlex Referenced Works": null
+        },
+        {
+            "Title": "AUGUR: Practical Mobile Multipath Transport Service for Low Tail Latency in Real-Time Streaming.",
+            "Year": "2024",
+            "DOI Number": null,
+            "OpenAlex Link": null,
+            "Authors and Institutions": [
+                {
+                    "Author": "Yuhan Zhou",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Tingfeng Wang",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Liying Wang",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Nian Wen",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Rui Han",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Jing Wang",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Chenglei Wu",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Jiafeng Chen",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Longwei Jiang",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Shibo Wang",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Honghao Liu",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Chenren Xu",
+                    "Institutions": null
+                }
+            ],
+            "OpenAlex Referenced Works": null
+        },
+        {
+            "Title": "Zombie: Middleboxes that Don't Snoop.",
+            "Year": "2024",
+            "DOI Number": null,
+            "OpenAlex Link": null,
+            "Authors and Institutions": [
+                {
+                    "Author": "Collin Zhang",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Zachary DeStefano",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Arasu Arun",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Joseph Bonneau",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Paul Grubbs",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Michael Walfish",
+                    "Institutions": null
+                }
+            ],
+            "OpenAlex Referenced Works": null
+        },
+        {
+            "Title": "Solving Max-Min Fair Resource Allocations Quickly on Large Graphs.",
+            "Year": "2024",
+            "DOI Number": null,
+            "OpenAlex Link": null,
+            "Authors and Institutions": [
+                {
+                    "Author": "Pooria Namyar",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Behnaz Arzani",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Srikanth Kandula",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Santiago Segarra",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Daniel Crankshaw",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Umesh Krishnaswamy",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Ramesh Govindan",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Himanshu Raj",
+                    "Institutions": null
+                }
+            ],
+            "OpenAlex Referenced Works": null
+        },
+        {
+            "Title": "Cloud-LoRa: Enabling Cloud Radio Access LoRa Networks Using Reinforcement Learning Based Bandwidth-Adaptive Compression.",
+            "Year": "2024",
+            "DOI Number": null,
+            "OpenAlex Link": null,
+            "Authors and Institutions": [
+                {
+                    "Author": "Muhammad Osama Shahid",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Daniel Jay Koch",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Jayaram Raghuram",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Bhuvana Krishnaswamy",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Krishna Chintalapudi",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Suman Banerjee",
+                    "Institutions": null
+                }
+            ],
+            "OpenAlex Referenced Works": null
+        },
+        {
+            "Title": "Cloudy with a Chance of Cyberattacks: Dangling Resources Abuse on Cloud Platforms.",
+            "Year": "2024",
+            "DOI Number": null,
+            "OpenAlex Link": null,
+            "Authors and Institutions": [
+                {
+                    "Author": "Jens Frieß",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Tobias Gattermayer",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Nethanel Gelernter",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Haya Schulmann",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Michael Waidner",
+                    "Institutions": null
+                }
+            ],
+            "OpenAlex Referenced Works": null
+        },
+        {
+            "Title": "CAPA: An Architecture For Operating Cluster Networks With High Availability.",
+            "Year": "2024",
+            "DOI Number": null,
+            "OpenAlex Link": null,
+            "Authors and Institutions": [
+                {
+                    "Author": "Bingzhe Liu",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Colin Scott",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Mukarram Tariq",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Andrew D. Ferguson",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Phillipa Gill",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Richard Alimi",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Omid Alipourfard",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Deepak Arulkannan",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Virginia Beauregard",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Patrick Conner",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Philip Brighten Godfrey",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Xander Lin",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Joon Ong",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Mayur Patel",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Amr Sabaa",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Arjun Singh",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Alex Smirnov",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Manish Verma",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Prerepa V. Viswanadham",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Amin Vahdat",
+                    "Institutions": null
+                }
+            ],
+            "OpenAlex Referenced Works": null
+        },
+        {
+            "Title": "NetAssistant: Dialogue Based Network Diagnosis in Data Center Networks.",
+            "Year": "2024",
+            "DOI Number": null,
+            "OpenAlex Link": null,
+            "Authors and Institutions": [
+                {
+                    "Author": "Haopei Wang",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Anubhavnidhi Abhashkumar",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Changyu Lin",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Tianrong Zhang",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Xiaoming Gu",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Ning Ma",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Chang Wu",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Songlin Liu",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Wei Zhou",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Yongbin Dong",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Weirong Jiang",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Yi Wang",
+                    "Institutions": null
+                }
+            ],
+            "OpenAlex Referenced Works": null
+        },
+        {
+            "Title": "Klonet: an Easy-to-Use and Scalable Platform for Computer Networks Education.",
+            "Year": "2024",
+            "DOI Number": null,
+            "OpenAlex Link": null,
+            "Authors and Institutions": [
+                {
+                    "Author": "Tie Ma",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Long Luo",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Hongfang Yu",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Xi Chen",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Jingzhao Xie",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Chongxi Ma",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Yunhan Xie",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Gang Sun",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Tianxi Wei",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Li Chen",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Yanwei Xu",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Nicholas Zhang",
+                    "Institutions": null
+                }
+            ],
+            "OpenAlex Referenced Works": null
+        },
+        {
+            "Title": "ExChain: Exception Dependency Analysis for Root Cause Diagnosis.",
+            "Year": "2024",
+            "DOI Number": null,
+            "OpenAlex Link": null,
+            "Authors and Institutions": [
+                {
+                    "Author": "Ao Li",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Shan Lu",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Suman Nath",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Rohan Padhye",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Vyas Sekar",
+                    "Institutions": null
+                }
+            ],
+            "OpenAlex Referenced Works": null
+        },
+        {
+            "Title": "CHISEL: An optical slice of the wide-area network.",
+            "Year": "2024",
+            "DOI Number": null,
+            "OpenAlex Link": null,
+            "Authors and Institutions": [
+                {
+                    "Author": "Abhishek Vijaya Kumar",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Bill Owens",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Nikolaj S. Bjørner",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Binbin Guan",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Yawei Yin",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Paramvir Bahl",
+                    "Institutions": null
+                },
+                {
+                    "Author": "Rachee Singh",
+                    "Institutions": null
+                }
+            ],
+            "OpenAlex Referenced Works": null
+        }
     ]
 }

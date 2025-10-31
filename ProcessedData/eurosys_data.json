@@ -5409,8 +5409,8 @@
             "Title": "NBA (network balancing act): a high-performance packet processing framework for heterogeneous processors.",
             "Year": "2015",
             "Predominant Continent": [
-                "AS",
-                "NA"
+                "NA",
+                "AS"
             ],
             "Authors and Institutions": [
                 {
@@ -14037,8 +14037,8 @@
             "Title": "Matrix Algebra Framework for Portable, Scalable and Efficient Query Engines for RDF Graphs.",
             "Year": "2019",
             "Predominant Continent": [
-                "AS",
-                "NA"
+                "NA",
+                "AS"
             ],
             "Authors and Institutions": [
                 {
@@ -23178,7 +23178,12 @@
                 },
                 {
                     "Author": "Xiayue Charles Lin",
-                    "Institutions": []
+                    "Institutions": [
+                        {
+                            "Institution Name": "Anyscale",
+                            "Country": "US"
+                        }
+                    ]
                 },
                 {
                     "Author": "Jose M. Faleiro",
@@ -23262,7 +23267,12 @@
                 },
                 {
                     "Author": "Rodrigo Fonseca",
-                    "Institutions": []
+                    "Institutions": [
+                        {
+                            "Institution Name": "Microsoft (United States)",
+                            "Country": "US"
+                        }
+                    ]
                 },
                 {
                     "Author": "Rodrigo Rodrigues",
@@ -23962,23 +23972,48 @@
                 },
                 {
                     "Author": "Thomas A. Unger",
-                    "Institutions": []
+                    "Institutions": [
+                        {
+                            "Institution Name": "Boston University",
+                            "Country": "US"
+                        }
+                    ]
                 },
                 {
                     "Author": "Matthew Boyd",
-                    "Institutions": []
+                    "Institutions": [
+                        {
+                            "Institution Name": "MIT CSAIL",
+                            "Country": "US"
+                        }
+                    ]
                 },
                 {
                     "Author": "Eric B Munson",
-                    "Institutions": []
+                    "Institutions": [
+                        {
+                            "Institution Name": "Boston University",
+                            "Country": "US"
+                        }
+                    ]
                 },
                 {
                     "Author": "Parul Sohal",
-                    "Institutions": []
+                    "Institutions": [
+                        {
+                            "Institution Name": "Boston University",
+                            "Country": "US"
+                        }
+                    ]
                 },
                 {
                     "Author": "Ulrich Drepper",
-                    "Institutions": []
+                    "Institutions": [
+                        {
+                            "Institution Name": "Red Hat",
+                            "Country": "DE"
+                        }
+                    ]
                 },
                 {
                     "Author": "Richard Jones",
@@ -23991,7 +24026,12 @@
                 },
                 {
                     "Author": "Daniel Bristot de Oliveira",
-                    "Institutions": []
+                    "Institutions": [
+                        {
+                            "Institution Name": "Red Hat, Pontedera",
+                            "Country": "IT"
+                        }
+                    ]
                 },
                 {
                     "Author": "Larry Woodman",
@@ -24039,7 +24079,8 @@
             "Title": "FlexPass: A Case for Flexible Credit-based Transport for Datacenter Networks.",
             "Year": "2023",
             "Predominant Continent": [
-                "AS"
+                "AS",
+                "NA"
             ],
             "Authors and Institutions": [
                 {
@@ -24062,11 +24103,21 @@
                 },
                 {
                     "Author": "Inho Cho",
-                    "Institutions": []
+                    "Institutions": [
+                        {
+                            "Institution Name": "MIT CSAIL",
+                            "Country": "US"
+                        }
+                    ]
                 },
                 {
                     "Author": "Keon Jang",
-                    "Institutions": []
+                    "Institutions": [
+                        {
+                            "Institution Name": "Rubrik",
+                            "Country": "US"
+                        }
+                    ]
                 },
                 {
                     "Author": "Wei Bai",
@@ -24177,7 +24228,12 @@
                 },
                 {
                     "Author": "Ye Ji",
-                    "Institutions": []
+                    "Institutions": [
+                        {
+                            "Institution Name": "Cockroach Labs",
+                            "Country": "US"
+                        }
+                    ]
                 },
                 {
                     "Author": "Shuai Mu",
@@ -24383,7 +24439,12 @@
                 },
                 {
                     "Author": "Vijay Chidambaram",
-                    "Institutions": []
+                    "Institutions": [
+                        {
+                            "Institution Name": "The University of Texas at Austin and VMware Research",
+                            "Country": "US"
+                        }
+                    ]
                 }
             ]
         },
@@ -24489,7 +24550,12 @@
             "Authors and Institutions": [
                 {
                     "Author": "Gyewon Lee",
-                    "Institutions": []
+                    "Institutions": [
+                        {
+                            "Institution Name": "FriendliAI",
+                            "Country": "KR"
+                        }
+                    ]
                 },
                 {
                     "Author": "Jaewoo Maeng",
@@ -24529,7 +24595,12 @@
                 },
                 {
                     "Author": "Youngseok Yang",
-                    "Institutions": []
+                    "Institutions": [
+                        {
+                            "Institution Name": "Mirny Inc.",
+                            "Country": "KR"
+                        }
+                    ]
                 },
                 {
                     "Author": "Taegeon Um",
@@ -24627,7 +24698,12 @@
                 },
                 {
                     "Author": "Jung-Soo Park",
-                    "Institutions": []
+                    "Institutions": [
+                        {
+                            "Institution Name": "WineSOFT",
+                            "Country": "KR"
+                        }
+                    ]
                 },
                 {
                     "Author": "Eunji Lee",
@@ -24761,8 +24837,7 @@
             "Title": "Lyra: Elastic Scheduling for Deep Learning Clusters.",
             "Year": "2023",
             "Predominant Continent": [
-                "AS",
-                "NA"
+                "AS"
             ],
             "Authors and Institutions": [
                 {
@@ -24776,7 +24851,12 @@
                 },
                 {
                     "Author": "Hong Xu",
-                    "Institutions": []
+                    "Institutions": [
+                        {
+                            "Institution Name": "The Chinese University of Hong Kong",
+                            "Country": "HK"
+                        }
+                    ]
                 },
                 {
                     "Author": "Yibo Zhu",
@@ -24789,7 +24869,12 @@
                 },
                 {
                     "Author": "Zherui Liu",
-                    "Institutions": []
+                    "Institutions": [
+                        {
+                            "Institution Name": "ByteDance Inc.",
+                            "Country": "CH"
+                        }
+                    ]
                 },
                 {
                     "Author": "Chuanxiong Guo",
@@ -25023,6 +25108,4670 @@
                     "Institutions": [
                         {
                             "Institution Name": "Microsoft Research Asia (China)",
+                            "Country": "CN"
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "2024": [
+        {
+            "Title": "WiseGraph: Optimizing GNN with Joint Workload Partition of Graph and Operations.",
+            "Year": "2024",
+            "Predominant Continent": [
+                "AS"
+            ],
+            "Authors and Institutions": [
+                {
+                    "Author": "Kezhao Huang",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Tsinghua University",
+                            "Country": "CN"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Jidong Zhai",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Tsinghua University",
+                            "Country": "CN"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Liyan Zheng",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Tsinghua University",
+                            "Country": "CN"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Haojie Wang",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Tsinghua University",
+                            "Country": "CN"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Yuyang Jin",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Tsinghua University",
+                            "Country": "CN"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Qihao Zhang",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Tsinghua University",
+                            "Country": "CN"
+                        }
+                    ]
+                },
+                {
+                    "Author": "R.‐H. Zhang",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Tsinghua University",
+                            "Country": "CN"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Zhen Zheng",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Microsoft Research (United Kingdom)",
+                            "Country": "GB"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Youngmin Yi",
+                    "Institutions": [
+                        {
+                            "Institution Name": "University of Seoul",
+                            "Country": "KR"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Xipeng Shen",
+                    "Institutions": [
+                        {
+                            "Institution Name": "North Carolina State University",
+                            "Country": "US"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "Title": "Contigra: Graph Mining with Containment Constraints.",
+            "Year": "2024",
+            "Predominant Continent": [
+                "NA"
+            ],
+            "Authors and Institutions": [
+                {
+                    "Author": "Joanna Che",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Simon Fraser University",
+                            "Country": "CA"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Kasra Jamshidi",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Simon Fraser University",
+                            "Country": "CA"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Keval Vora",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Simon Fraser University",
+                            "Country": "CA"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "Title": "Core Graph: Exploiting Edge Centrality to Speedup the Evaluation of Iterative Graph Queries.",
+            "Year": "2024",
+            "Predominant Continent": [
+                "NA"
+            ],
+            "Authors and Institutions": [
+                {
+                    "Author": "Xiaolin Jiang",
+                    "Institutions": [
+                        {
+                            "Institution Name": "University of California, Riverside",
+                            "Country": "US"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Mahbod Afarin",
+                    "Institutions": [
+                        {
+                            "Institution Name": "University of California, Riverside",
+                            "Country": "US"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Zhijia Zhao",
+                    "Institutions": [
+                        {
+                            "Institution Name": "University of California, Riverside",
+                            "Country": "US"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Nael Abu‐Ghazaleh",
+                    "Institutions": [
+                        {
+                            "Institution Name": "University of California, Riverside",
+                            "Country": "US"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Rajiv Gupta",
+                    "Institutions": [
+                        {
+                            "Institution Name": "University of California, Riverside",
+                            "Country": "US"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "Title": "LSGraph: A Locality-centric High-performance Streaming Graph Engine.",
+            "Year": "2024",
+            "Predominant Continent": [
+                "AS"
+            ],
+            "Authors and Institutions": [
+                {
+                    "Author": "Hao Qi",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Huazhong University of Science and Technology",
+                            "Country": "CN"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Y. Wu",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Huazhong University of Science and Technology",
+                            "Country": "CN"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Ligang He",
+                    "Institutions": [
+                        {
+                            "Institution Name": "University of Warwick",
+                            "Country": "GB"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Yu Zhang",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Huazhong University of Science and Technology",
+                            "Country": "CN"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Kang Luo",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Huazhong University of Science and Technology",
+                            "Country": "CN"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Miaona Cai",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Huazhong University of Science and Technology",
+                            "Country": "CN"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Hai Jin",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Huazhong University of Science and Technology",
+                            "Country": "CN"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Zhan Zhang",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Zhejiang Lab",
+                            "Country": "CN"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Jin Zhao",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Huazhong University of Science and Technology",
+                            "Country": "CN"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "Title": "Hoda: a High-performance Open vSwitch Dataplane with Multiple Specialized Data Paths.",
+            "Year": "2024",
+            "Predominant Continent": [
+                "AS"
+            ],
+            "Authors and Institutions": [
+                {
+                    "Author": "Heng Pan",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Computer Network Information Center",
+                            "Country": "CN"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Peng He",
+                    "Institutions": []
+                },
+                {
+                    "Author": "Zhenyu Li",
+                    "Institutions": [
+                        {
+                            "Institution Name": "International Centre for Theoretical Physics Asia-Pacific",
+                            "Country": "CN"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Pan Zhang",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Intel (United Kingdom)",
+                            "Country": "GB"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Junjie Wan",
+                    "Institutions": []
+                },
+                {
+                    "Author": "Yuhao Zhou",
+                    "Institutions": []
+                },
+                {
+                    "Author": "Xiongchun Duan",
+                    "Institutions": []
+                },
+                {
+                    "Author": "Yu Zhang",
+                    "Institutions": []
+                },
+                {
+                    "Author": "Gaogang Xie",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Computer Network Information Center",
+                            "Country": "CN"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "Title": "Halflife: An Adaptive Flowlet-based Load Balancer with Fading Timeout in Data Center Networks.",
+            "Year": "2024",
+            "Predominant Continent": [
+                "AS"
+            ],
+            "Authors and Institutions": [
+                {
+                    "Author": "Sen Liu",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Fudan University",
+                            "Country": "CN"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Yongbo Gao",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Fudan University",
+                            "Country": "CN"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Zixuan Chen",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Fudan University",
+                            "Country": "CN"
+                        }
+                    ]
+                },
+                {
+                    "Author": "J Ye",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Fudan University",
+                            "Country": "CN"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Haiyang Xu",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Fudan University",
+                            "Country": "CN"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Furong Liang",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Fudan University",
+                            "Country": "CN"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Wei Yan",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Fudan University",
+                            "Country": "CN"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Zerui Tian",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Fudan University",
+                            "Country": "CN"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Quanwei Sun",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Fudan University",
+                            "Country": "CN"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Zehua Guo",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Qingdao Academy of Intelligent Industries",
+                            "Country": "CN"
+                        },
+                        {
+                            "Institution Name": "Zhejiang Lab",
+                            "Country": "CN"
+                        },
+                        {
+                            "Institution Name": "Beijing Institute of Technology",
+                            "Country": "CN"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Yang Xu",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Peng Cheng Laboratory",
+                            "Country": "CN"
+                        },
+                        {
+                            "Institution Name": "Fudan University",
+                            "Country": "CN"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "Title": "Serialization/Deserialization-free State Transfer in Serverless Workflows.",
+            "Year": "2024",
+            "Predominant Continent": [
+                "AS"
+            ],
+            "Authors and Institutions": [
+                {
+                    "Author": "Fangming Lu",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Shanghai Jiao Tong University",
+                            "Country": "CN"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Xingda Wei",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Shanghai Artificial Intelligence Laboratory",
+                            "Country": null
+                        },
+                        {
+                            "Institution Name": "Shanghai Jiao Tong University",
+                            "Country": "CN"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Zhuobin Huang",
+                    "Institutions": [
+                        {
+                            "Institution Name": "University of Electronic Science and Technology of China",
+                            "Country": "CN"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Rong Chen",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Shanghai Artificial Intelligence Laboratory",
+                            "Country": null
+                        },
+                        {
+                            "Institution Name": "Shanghai Jiao Tong University",
+                            "Country": "CN"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Minyu Wu",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Shanghai Artificial Intelligence Laboratory",
+                            "Country": null
+                        },
+                        {
+                            "Institution Name": "Shanghai Jiao Tong University",
+                            "Country": "CN"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Haibo Chen",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Shanghai Jiao Tong University",
+                            "Country": "CN"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "Title": "Unison: A Parallel-Efficient and User-Transparent Network Simulation Kernel.",
+            "Year": "2024",
+            "Predominant Continent": [
+                "AS"
+            ],
+            "Authors and Institutions": [
+                {
+                    "Author": "Songyuan Bai",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Nanjing University",
+                            "Country": "CN"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Hao Zheng",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Nanjing University",
+                            "Country": "CN"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Chen Tian",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Nanjing University",
+                            "Country": "CN"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Xiaoliang Wang",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Nanjing University",
+                            "Country": "CN"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Chang Liu",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Nanjing University",
+                            "Country": "CN"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Xin Jin",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Peking University",
+                            "Country": "CN"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Fu Xiao",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Nanjing University of Posts and Telecommunications",
+                            "Country": "CN"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Qiao Xiang",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Xiamen University",
+                            "Country": "CN"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Wanchun Dou",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Nanjing University",
+                            "Country": "CN"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Guihai Chen",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Nanjing University",
+                            "Country": "CN"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "Title": "Astraea: Towards Fair and Efficient Learning-based Congestion Control.",
+            "Year": "2024",
+            "Predominant Continent": [
+                "AS"
+            ],
+            "Authors and Institutions": [
+                {
+                    "Author": "Xudong Liao",
+                    "Institutions": [
+                        {
+                            "Institution Name": "University of Hong Kong",
+                            "Country": "HK"
+                        },
+                        {
+                            "Institution Name": "Hong Kong University of Science and Technology",
+                            "Country": "HK"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Han Tian",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Hong Kong University of Science and Technology",
+                            "Country": "HK"
+                        },
+                        {
+                            "Institution Name": "University of Hong Kong",
+                            "Country": "HK"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Chaoliang Zeng",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Hong Kong University of Science and Technology",
+                            "Country": "HK"
+                        },
+                        {
+                            "Institution Name": "University of Hong Kong",
+                            "Country": "HK"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Xinchen Wan",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Hong Kong University of Science and Technology",
+                            "Country": "HK"
+                        },
+                        {
+                            "Institution Name": "University of Hong Kong",
+                            "Country": "HK"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Kai Chen",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Hong Kong University of Science and Technology",
+                            "Country": "HK"
+                        },
+                        {
+                            "Institution Name": "University of Hong Kong",
+                            "Country": "HK"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "Title": "Occam: A Programming System for Reliable Network Management.",
+            "Year": "2024",
+            "Predominant Continent": [
+                "NA"
+            ],
+            "Authors and Institutions": [
+                {
+                    "Author": "Jiarong Xing",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Rice University",
+                            "Country": "US"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Kuo-Feng Hsu",
+                    "Institutions": []
+                },
+                {
+                    "Author": "Yiting Xia",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Max Planck Institute for Informatics",
+                            "Country": "DE"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Yan Cai",
+                    "Institutions": []
+                },
+                {
+                    "Author": "Yanping Li",
+                    "Institutions": []
+                },
+                {
+                    "Author": "Ying Zhang",
+                    "Institutions": []
+                },
+                {
+                    "Author": "Ang Chen",
+                    "Institutions": [
+                        {
+                            "Institution Name": "University of Michigan",
+                            "Country": "US"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "Title": "Aceso: Efficient Parallel DNN Training through Iterative Bottleneck Alleviation.",
+            "Year": "2024",
+            "Predominant Continent": [
+                "AS"
+            ],
+            "Authors and Institutions": [
+                {
+                    "Author": "G. H. Liu",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Microsoft Research Asia (China)",
+                            "Country": "CN"
+                        },
+                        {
+                            "Institution Name": "Institute of Computing Technology",
+                            "Country": "CN"
+                        },
+                        {
+                            "Institution Name": "University of Chinese Academy of Sciences",
+                            "Country": "CN"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Youshan Miao",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Microsoft Research (United Kingdom)",
+                            "Country": "GB"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Zhiqi Lin",
+                    "Institutions": [
+                        {
+                            "Institution Name": "University of Science and Technology of China",
+                            "Country": "CN"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Xiaoxiang Shi",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Shanghai Jiao Tong University",
+                            "Country": "CN"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Saeed Maleki",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Microsoft Research (United Kingdom)",
+                            "Country": "GB"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Fan Yang",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Microsoft Research (United Kingdom)",
+                            "Country": "GB"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Yungang Bao",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Institute of Computing Technology",
+                            "Country": "CN"
+                        },
+                        {
+                            "Institution Name": "University of Chinese Academy of Sciences",
+                            "Country": "CN"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Sa Wang",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Institute of Computing Technology",
+                            "Country": "CN"
+                        },
+                        {
+                            "Institution Name": "University of Chinese Academy of Sciences",
+                            "Country": "CN"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "Title": "Totoro: A Scalable Federated Learning Engine for the Edge.",
+            "Year": "2024",
+            "Predominant Continent": [
+                "NA"
+            ],
+            "Authors and Institutions": [
+                {
+                    "Author": "Cheng-Wei Ching",
+                    "Institutions": [
+                        {
+                            "Institution Name": "University of California, Santa Cruz",
+                            "Country": "US"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Xin Chen",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Georgia Institute of Technology",
+                            "Country": "US"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Taehwan Kim",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Virginia Tech",
+                            "Country": "US"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Bo Ji",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Virginia Tech",
+                            "Country": "US"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Qingyang Wang",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Louisiana State University",
+                            "Country": "US"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Dilma Da Silva",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Texas A&M University",
+                            "Country": "US"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Liting Hu",
+                    "Institutions": [
+                        {
+                            "Institution Name": "University of California, Santa Cruz",
+                            "Country": "US"
+                        },
+                        {
+                            "Institution Name": "Virginia Tech",
+                            "Country": "US"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "Title": "ScheMoE: An Extensible Mixture-of-Experts Distributed Training System with Tasks Scheduling.",
+            "Year": "2024",
+            "Predominant Continent": [
+                "AS"
+            ],
+            "Authors and Institutions": [
+                {
+                    "Author": "Shaohuai Shi",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Harbin Institute of Technology",
+                            "Country": "CN"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Xinglin Pan",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Hong Kong University of Science and Technology",
+                            "Country": "HK"
+                        },
+                        {
+                            "Institution Name": "University of Hong Kong",
+                            "Country": "HK"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Qiang Wang",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Harbin Institute of Technology",
+                            "Country": "CN"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Chengjian Liu",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Shenzhen Technology University",
+                            "Country": "CN"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Xiaozhe Ren",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Huawei Technologies (United Kingdom)",
+                            "Country": "GB"
+                        },
+                        {
+                            "Institution Name": "Central Research Institute",
+                            "Country": "IN"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Zhongzhe Hu",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Huawei Technologies (United Kingdom)",
+                            "Country": "GB"
+                        },
+                        {
+                            "Institution Name": "Central Research Institute",
+                            "Country": "IN"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Yu Yang",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Huawei Technologies (United Kingdom)",
+                            "Country": "GB"
+                        },
+                        {
+                            "Institution Name": "Central Research Institute",
+                            "Country": "IN"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Bo Li",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Hong Kong University of Science and Technology",
+                            "Country": "HK"
+                        },
+                        {
+                            "Institution Name": "University of Hong Kong",
+                            "Country": "HK"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Xiaowen Chu",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Hong Kong University of Science and Technology",
+                            "Country": "HK"
+                        },
+                        {
+                            "Institution Name": "University of Hong Kong",
+                            "Country": "HK"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "Title": "FLOAT: Federated Learning Optimizations with Automated Tuning.",
+            "Year": "2024",
+            "Predominant Continent": [
+                "NA"
+            ],
+            "Authors and Institutions": [
+                {
+                    "Author": "Ahmad Faraz Khan",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Virginia Tech",
+                            "Country": "US"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Azal Ahmad Khan",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Indian Institute of Technology Guwahati",
+                            "Country": "IN"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Ahmed M. Abdelmoniem",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Queen Mary University of London",
+                            "Country": "GB"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Samuel Fountain",
+                    "Institutions": [
+                        {
+                            "Institution Name": "University of Minnesota System",
+                            "Country": "US"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Ali R. Butt",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Virginia Tech",
+                            "Country": "US"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Ali Anwar",
+                    "Institutions": [
+                        {
+                            "Institution Name": "University of Minnesota System",
+                            "Country": "US"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "Title": "DeTA: Minimizing Data Leaks in Federated Learning via Decentralized and Trustworthy Aggregation.",
+            "Year": "2024",
+            "Predominant Continent": [
+                "NA"
+            ],
+            "Authors and Institutions": [
+                {
+                    "Author": "Pau-Chen Cheng",
+                    "Institutions": []
+                },
+                {
+                    "Author": "Kevin Eykholt",
+                    "Institutions": []
+                },
+                {
+                    "Author": "Zhongshu Gu",
+                    "Institutions": []
+                },
+                {
+                    "Author": "Hani Jamjoom",
+                    "Institutions": []
+                },
+                {
+                    "Author": "K. R. Jayaram",
+                    "Institutions": []
+                },
+                {
+                    "Author": "Enriquillo Valdez",
+                    "Institutions": []
+                },
+                {
+                    "Author": "Ashish Verma",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Amazon (United States)",
+                            "Country": "US"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "Title": "Dashing and Star: Byzantine Fault Tolerance with Weak Certificates.",
+            "Year": "2024",
+            "Predominant Continent": [
+                "AS"
+            ],
+            "Authors and Institutions": [
+                {
+                    "Author": "Sisi Duan",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Tsinghua University",
+                            "Country": "CN"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Haibin Zhang",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Yangtze River Delta Physics Research Center (China)",
+                            "Country": "CN"
+                        },
+                        {
+                            "Institution Name": "Tsinghua University",
+                            "Country": "CN"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Xiao Sui",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Shandong University",
+                            "Country": "CN"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Baohan Huang",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Beijing Institute of Technology",
+                            "Country": "CN"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Chongyuan Mu",
+                    "Institutions": [
+                        {
+                            "Institution Name": "People's Bank of China",
+                            "Country": "CN"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Gang Di",
+                    "Institutions": [
+                        {
+                            "Institution Name": "People's Bank of China",
+                            "Country": "CN"
+                        },
+                        {
+                            "Institution Name": "Tsinghua University",
+                            "Country": "CN"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Xiaoyun Wang",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Tsinghua University",
+                            "Country": "CN"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "Title": "Bandle: Asynchronous State Machine Replication Made Efficient.",
+            "Year": "2024",
+            "Predominant Continent": [
+                "AS"
+            ],
+            "Authors and Institutions": [
+                {
+                    "Author": "Bo Wang",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Shanghai Jiao Tong University",
+                            "Country": "CN"
+                        },
+                        {
+                            "Institution Name": "Central South University",
+                            "Country": "CN"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Shengyun Liu",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Shanghai Jiao Tong University",
+                            "Country": "CN"
+                        }
+                    ]
+                },
+                {
+                    "Author": "He Dong",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Shanghai Jiao Tong University",
+                            "Country": "CN"
+                        }
+                    ]
+                },
+                {
+                    "Author": "X. Tony Wang",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Shanghai Jiao Tong University",
+                            "Country": "CN"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Wenbo Xu",
+                    "Institutions": []
+                },
+                {
+                    "Author": "Jingjing Zhang",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Fudan University",
+                            "Country": "CN"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Ping Zhong",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Central South University",
+                            "Country": "CN"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Yiming Zhang",
+                    "Institutions": []
+                }
+            ]
+        },
+        {
+            "Title": "Pronghorn: Effective Checkpoint Orchestration for Serverless Hot-Starts.",
+            "Year": "2024",
+            "Predominant Continent": [
+                "NA"
+            ],
+            "Authors and Institutions": [
+                {
+                    "Author": "Sumer Kohli",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Stanford University",
+                            "Country": "US"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Shreyas Kharbanda",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Cornell University",
+                            "Country": "US"
+                        },
+                        {
+                            "Institution Name": "Purdue University West Lafayette",
+                            "Country": "US"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Rodrigo Bruno",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Instituto de Engenharia de Sistemas e Computadores Investigação e Desenvolvimento",
+                            "Country": "PT"
+                        }
+                    ]
+                },
+                {
+                    "Author": "João Carreira",
+                    "Institutions": [
+                        {
+                            "Institution Name": "University of California, Berkeley",
+                            "Country": "US"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Pedro Fonseca",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Purdue University West Lafayette",
+                            "Country": "US"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "Title": "Characterization and Reclamation of Frozen Garbage in Managed FaaS Workloads.",
+            "Year": "2024",
+            "Predominant Continent": [
+                "AS"
+            ],
+            "Authors and Institutions": [
+                {
+                    "Author": "Ziming Zhao",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Shanghai Jiao Tong University",
+                            "Country": "CN"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Mingyu Wu",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Shanghai Jiao Tong University",
+                            "Country": "CN"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Haibo Chen",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Shanghai Jiao Tong University",
+                            "Country": "CN"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Binyu Zang",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Shanghai Jiao Tong University",
+                            "Country": "CN"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "Title": "Draconis: Network-Accelerated Scheduling for Microsecond-Scale Workloads.",
+            "Year": "2024",
+            "Predominant Continent": [
+                "NA"
+            ],
+            "Authors and Institutions": [
+                {
+                    "Author": "Sreeharsha Udayashankar",
+                    "Institutions": [
+                        {
+                            "Institution Name": "University of Waterloo",
+                            "Country": "CA"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Ashraf Abdel-hadi",
+                    "Institutions": [
+                        {
+                            "Institution Name": "University of Waterloo",
+                            "Country": "CA"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Ali José Mashtizadeh",
+                    "Institutions": [
+                        {
+                            "Institution Name": "University of Waterloo",
+                            "Country": "CA"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Samer Al-Kiswany",
+                    "Institutions": [
+                        {
+                            "Institution Name": "University of Waterloo",
+                            "Country": "CA"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "Title": "Improving Resource and Energy Efficiency for Cloud 3D through Excessive Rendering Reduction.",
+            "Year": "2024",
+            "Predominant Continent": [
+                "NA"
+            ],
+            "Authors and Institutions": [
+                {
+                    "Author": "Tianyi Liu",
+                    "Institutions": [
+                        {
+                            "Institution Name": "The University of Texas at San Antonio",
+                            "Country": "US"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Jerry Lucas",
+                    "Institutions": [
+                        {
+                            "Institution Name": "The University of Texas at San Antonio",
+                            "Country": "US"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Sen He",
+                    "Institutions": [
+                        {
+                            "Institution Name": "University of Arizona",
+                            "Country": "US"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Tongping Liu",
+                    "Institutions": [
+                        {
+                            "Institution Name": "University of Massachusetts Amherst",
+                            "Country": "US"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Xiaoyin Wang",
+                    "Institutions": [
+                        {
+                            "Institution Name": "The University of Texas at San Antonio",
+                            "Country": "US"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Wei Wang",
+                    "Institutions": [
+                        {
+                            "Institution Name": "The University of Texas at San Antonio",
+                            "Country": "US"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "Title": "Snatch: Online Streaming Analytics at the Network Edge.",
+            "Year": "2024",
+            "Predominant Continent": [],
+            "Authors and Institutions": [
+                {
+                    "Author": "Yunming Xiao",
+                    "Institutions": []
+                },
+                {
+                    "Author": "Yibo Zhao",
+                    "Institutions": []
+                },
+                {
+                    "Author": "Sen Lin",
+                    "Institutions": []
+                },
+                {
+                    "Author": "Aleksandar Kuzmanovic",
+                    "Institutions": []
+                }
+            ]
+        },
+        {
+            "Title": "Blaze: Holistic Caching for Iterative Data Processing.",
+            "Year": "2024",
+            "Predominant Continent": [
+                "AS"
+            ],
+            "Authors and Institutions": [
+                {
+                    "Author": "Won Wook Song",
+                    "Institutions": []
+                },
+                {
+                    "Author": "Jeongyoon Eo",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Seoul National University",
+                            "Country": "KR"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Taegeon Um",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Samsung (United States)",
+                            "Country": "US"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Myeongjae Jeon",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Ulsan National Institute of Science and Technology",
+                            "Country": "KR"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Byung-Gon Chun",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Seoul National University",
+                            "Country": "KR"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "Title": "TTLs Matter: Efficient Cache Sizing with TTL-Aware Miss Ratio Curves and Working Set Sizes.",
+            "Year": "2024",
+            "Predominant Continent": [
+                "NA"
+            ],
+            "Authors and Institutions": [
+                {
+                    "Author": "Sari Sultan",
+                    "Institutions": [
+                        {
+                            "Institution Name": "University of Toronto",
+                            "Country": "CA"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Kia Shakiba",
+                    "Institutions": [
+                        {
+                            "Institution Name": "University of Toronto",
+                            "Country": "CA"
+                        }
+                    ]
+                },
+                {
+                    "Author": "A Lee",
+                    "Institutions": [
+                        {
+                            "Institution Name": "University of Toronto",
+                            "Country": "CA"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Paul Chen",
+                    "Institutions": []
+                },
+                {
+                    "Author": "Michael Stumm",
+                    "Institutions": [
+                        {
+                            "Institution Name": "University of Toronto",
+                            "Country": "CA"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "Title": "Trinity: A Fast Compressed Multi-attribute Data Store.",
+            "Year": "2024",
+            "Predominant Continent": [
+                "NA"
+            ],
+            "Authors and Institutions": [
+                {
+                    "Author": "Ziming Mao",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Berkeley College",
+                            "Country": "US"
+                        },
+                        {
+                            "Institution Name": "University of California, Berkeley",
+                            "Country": "US"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Kiran Srinivasan",
+                    "Institutions": [
+                        {
+                            "Institution Name": "NetApp (United States)",
+                            "Country": "US"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Anurag Khandelwal",
+                    "Institutions": []
+                }
+            ]
+        },
+        {
+            "Title": "CCL-BTree: A Crash-Consistent Locality-Aware B+-Tree for Reducing XPBuffer-Induced Write Amplification in Persistent Memory.",
+            "Year": "2024",
+            "Predominant Continent": [
+                "AS"
+            ],
+            "Authors and Institutions": [
+                {
+                    "Author": "Zhenxin Li",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Zhejiang University",
+                            "Country": "CN"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Shuibing He",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Zhejiang University",
+                            "Country": "CN"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Zheng Dang",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Zhejiang University",
+                            "Country": "CN"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Peiyi Hong",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Zhejiang University",
+                            "Country": "CN"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Xuechen Zhang",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Washington State University Vancouver",
+                            "Country": "US"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Rui Wang",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Zhejiang University",
+                            "Country": "CN"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Fei Wu",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Zhejiang University",
+                            "Country": "CN"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "Title": "FLOWS: Balanced MRC Profiling for Heterogeneous Object-Size Cache.",
+            "Year": "2024",
+            "Predominant Continent": [
+                "AS"
+            ],
+            "Authors and Institutions": [
+                {
+                    "Author": "X.P. Guo",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Tencent (China)",
+                            "Country": "CN"
+                        },
+                        {
+                            "Institution Name": "Huazhong University of Science and Technology",
+                            "Country": "CN"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Hua Wang",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Huazhong University of Science and Technology",
+                            "Country": "CN"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Ke Zhou",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Huazhong University of Science and Technology",
+                            "Country": "CN"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Hong Jiang",
+                    "Institutions": [
+                        {
+                            "Institution Name": "The University of Texas at Arlington",
+                            "Country": "US"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Yaodong Han",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Huazhong University of Science and Technology",
+                            "Country": "CN"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Guangjie Xing",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Huazhong University of Science and Technology",
+                            "Country": "CN"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "Title": "Dordis: Efficient Federated Learning with Dropout-Resilient Differential Privacy.",
+            "Year": "2024",
+            "Predominant Continent": [
+                "AS"
+            ],
+            "Authors and Institutions": [
+                {
+                    "Author": "Zhifeng Jiang",
+                    "Institutions": [
+                        {
+                            "Institution Name": "University of Hong Kong",
+                            "Country": "HK"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Wei Wang",
+                    "Institutions": [
+                        {
+                            "Institution Name": "University of Hong Kong",
+                            "Country": "HK"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Ruichuan Chen",
+                    "Institutions": []
+                }
+            ]
+        },
+        {
+            "Title": "Wormhole Filters: Caching Your Hash on Persistent Memory.",
+            "Year": "2024",
+            "Predominant Continent": [
+                "AS"
+            ],
+            "Authors and Institutions": [
+                {
+                    "Author": "Hancheng Wang",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Nanjing University",
+                            "Country": "CN"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Haipeng Dai",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Nanjing University",
+                            "Country": "CN"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Rong Gu",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Nanjing University",
+                            "Country": "CN"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Youyou Lu",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Tsinghua University",
+                            "Country": "CN"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Jiaqi Zheng",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Nanjing University",
+                            "Country": "CN"
+                        }
+                    ]
+                },
+                {
+                    "Author": "J. Dai",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Nanjing University",
+                            "Country": "CN"
+                        }
+                    ]
+                },
+                {
+                    "Author": "S. J. Chen",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Nanjing University",
+                            "Country": "CN"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Zhiyuan Chen",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Huawei Technologies (United Kingdom)",
+                            "Country": "GB"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Shuaituan Li",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Huawei Technologies (United Kingdom)",
+                            "Country": "GB"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Guihai Chen",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Nanjing University",
+                            "Country": "CN"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "Title": "HAP: SPMD DNN Training on Heterogeneous GPU Clusters with Automated Program Synthesis.",
+            "Year": "2024",
+            "Predominant Continent": [
+                "NA"
+            ],
+            "Authors and Institutions": [
+                {
+                    "Author": "Shiwei Zhang",
+                    "Institutions": [
+                        {
+                            "Institution Name": "University of Hong Kong",
+                            "Country": "HK"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Lansong Diao",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Alibaba Group (United States)",
+                            "Country": "US"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Chuan Wu",
+                    "Institutions": [
+                        {
+                            "Institution Name": "University of Hong Kong",
+                            "Country": "HK"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Zongyan Cao",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Alibaba Group (United States)",
+                            "Country": "US"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Siyu Wang",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Alibaba Group (United States)",
+                            "Country": "US"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Wei Lin",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Alibaba Group (United States)",
+                            "Country": "US"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "Title": "GMorph: Accelerating Multi-DNN Inference via Model Fusion.",
+            "Year": "2024",
+            "Predominant Continent": [
+                "NA"
+            ],
+            "Authors and Institutions": [
+                {
+                    "Author": "Qizheng Yang",
+                    "Institutions": [
+                        {
+                            "Institution Name": "University of Massachusetts Amherst",
+                            "Country": "US"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Tianyi Yang",
+                    "Institutions": [
+                        {
+                            "Institution Name": "University of Massachusetts Amherst",
+                            "Country": "US"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Mingcan Xiang",
+                    "Institutions": [
+                        {
+                            "Institution Name": "University of Massachusetts Amherst",
+                            "Country": "US"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Lijun Zhang",
+                    "Institutions": [
+                        {
+                            "Institution Name": "University of Massachusetts Amherst",
+                            "Country": "US"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Haoliang Wang",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Adobe Systems (United States)",
+                            "Country": "US"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Marco Serafini",
+                    "Institutions": [
+                        {
+                            "Institution Name": "University of Massachusetts Amherst",
+                            "Country": "US"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Hui Guan",
+                    "Institutions": [
+                        {
+                            "Institution Name": "University of Massachusetts Amherst",
+                            "Country": "US"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "Title": "Accelerating Privacy-Preserving Machine Learning With GeniBatch.",
+            "Year": "2024",
+            "Predominant Continent": [
+                "AS"
+            ],
+            "Authors and Institutions": [
+                {
+                    "Author": "X. T. Huang",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Hong Kong University of Science and Technology",
+                            "Country": "HK"
+                        },
+                        {
+                            "Institution Name": "University of Hong Kong",
+                            "Country": "HK"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Junxue Zhang",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Hong Kong University of Science and Technology",
+                            "Country": "HK"
+                        },
+                        {
+                            "Institution Name": "University of Hong Kong",
+                            "Country": "HK"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Xiaodian Cheng",
+                    "Institutions": [
+                        {
+                            "Institution Name": "University of Hong Kong",
+                            "Country": "HK"
+                        },
+                        {
+                            "Institution Name": "Hong Kong University of Science and Technology",
+                            "Country": "HK"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Hong Zhang",
+                    "Institutions": [
+                        {
+                            "Institution Name": "University of Waterloo",
+                            "Country": "CA"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Yilun Jin",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Hong Kong University of Science and Technology",
+                            "Country": "HK"
+                        },
+                        {
+                            "Institution Name": "University of Hong Kong",
+                            "Country": "HK"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Shuihai Hu",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Hong Kong University of Science and Technology",
+                            "Country": "HK"
+                        },
+                        {
+                            "Institution Name": "University of Hong Kong",
+                            "Country": "HK"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Han Tian",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Hong Kong University of Science and Technology",
+                            "Country": "HK"
+                        },
+                        {
+                            "Institution Name": "University of Hong Kong",
+                            "Country": "HK"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Kai Chen",
+                    "Institutions": [
+                        {
+                            "Institution Name": "University of Hong Kong",
+                            "Country": "HK"
+                        },
+                        {
+                            "Institution Name": "Hong Kong University of Science and Technology",
+                            "Country": "HK"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "Title": "DynaPipe: Optimizing Multi-task Training through Dynamic Pipelines.",
+            "Year": "2024",
+            "Predominant Continent": [
+                "AS",
+                "NA"
+            ],
+            "Authors and Institutions": [
+                {
+                    "Author": "Chenyu Jiang",
+                    "Institutions": [
+                        {
+                            "Institution Name": "University of Hong Kong",
+                            "Country": "HK"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Zhen Jia",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Amazon (United States)",
+                            "Country": "US"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Shuai Zheng",
+                    "Institutions": []
+                },
+                {
+                    "Author": "Yida Wang",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Amazon (United States)",
+                            "Country": "US"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Chuan Wu",
+                    "Institutions": [
+                        {
+                            "Institution Name": "University of Hong Kong",
+                            "Country": "HK"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "Title": "ZKML: An Optimizing System for ML Inference in Zero-Knowledge Proofs.",
+            "Year": "2024",
+            "Predominant Continent": [
+                "NA"
+            ],
+            "Authors and Institutions": [
+                {
+                    "Author": "Bing-Jyue Chen",
+                    "Institutions": []
+                },
+                {
+                    "Author": "Suppakit Waiwitlikhit",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Stanford University",
+                            "Country": "US"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Ion Stoica",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Berkeley College",
+                            "Country": "US"
+                        },
+                        {
+                            "Institution Name": "University of California, Berkeley",
+                            "Country": "US"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Daniel Kang",
+                    "Institutions": []
+                }
+            ]
+        },
+        {
+            "Title": "Puddles: Application-Independent Recovery and Location-Independent Data for Persistent Memory.",
+            "Year": "2024",
+            "Predominant Continent": [
+                "NA"
+            ],
+            "Authors and Institutions": [
+                {
+                    "Author": "Suyash Mahar",
+                    "Institutions": [
+                        {
+                            "Institution Name": "UC San Diego Health System",
+                            "Country": "US"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Mingyao Shen",
+                    "Institutions": [
+                        {
+                            "Institution Name": "UC San Diego Health System",
+                            "Country": "US"
+                        }
+                    ]
+                },
+                {
+                    "Author": "TJ Smith",
+                    "Institutions": [
+                        {
+                            "Institution Name": "UC San Diego Health System",
+                            "Country": "US"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Joseph Izraelevitz",
+                    "Institutions": [
+                        {
+                            "Institution Name": "University of Colorado Boulder",
+                            "Country": "US"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Steven Swanson",
+                    "Institutions": [
+                        {
+                            "Institution Name": "UC San Diego Health System",
+                            "Country": "US"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "Title": "CSAL: the Next-Gen Local Disks for the Cloud.",
+            "Year": "2024",
+            "Predominant Continent": [
+                "NA"
+            ],
+            "Authors and Institutions": [
+                {
+                    "Author": "Yanbo Zhou",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Alibaba Group (United States)",
+                            "Country": "US"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Erci Xu",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Alibaba Group (United States)",
+                            "Country": "US"
+                        }
+                    ]
+                },
+                {
+                    "Author": "L. Y. Zhang",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Alibaba Group (United States)",
+                            "Country": "US"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Kapil Karkra",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Solid (South Korea)",
+                            "Country": "KR"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Mariusz Barczak",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Solid (South Korea)",
+                            "Country": "KR"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Wayne Gao",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Solid (South Korea)",
+                            "Country": "KR"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Wojciech Malikowski",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Solid (South Korea)",
+                            "Country": "KR"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Mateusz Kozlowski",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Solid (South Korea)",
+                            "Country": "KR"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Łukasz Łasek",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Solid (South Korea)",
+                            "Country": "KR"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Ruiming Lu",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Alibaba Group (United States)",
+                            "Country": "US"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Feng Yang",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Alibaba Group (United States)",
+                            "Country": "US"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Lilong Huang",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Alibaba Group (United States)",
+                            "Country": "US"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Xiaolu Zhang",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Alibaba Group (United States)",
+                            "Country": "US"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Keqiang Niu",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Alibaba Group (United States)",
+                            "Country": "US"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Jiaji Zhu",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Alibaba Group (United States)",
+                            "Country": "US"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Jiesheng Wu",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Alibaba Group (United States)",
+                            "Country": "US"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "Title": "SplitFT: Fault Tolerance for Disaggregated Datacenters via Remote Memory Logging.",
+            "Year": "2024",
+            "Predominant Continent": [
+                "NA"
+            ],
+            "Authors and Institutions": [
+                {
+                    "Author": "Xuhao Luo",
+                    "Institutions": [
+                        {
+                            "Institution Name": "University of Illinois Urbana-Champaign",
+                            "Country": "US"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Ramnatthan Alagappan",
+                    "Institutions": [
+                        {
+                            "Institution Name": "University of Illinois Urbana-Champaign",
+                            "Country": "US"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Aishwarya Ganesan",
+                    "Institutions": [
+                        {
+                            "Institution Name": "University of Illinois Urbana-Champaign",
+                            "Country": "US"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "Title": "Exploring the Asynchrony of Slow Memory Filesystem with EasyIO.",
+            "Year": "2024",
+            "Predominant Continent": [
+                "AS"
+            ],
+            "Authors and Institutions": [
+                {
+                    "Author": "Bohong Zhu",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Xiamen University",
+                            "Country": "CN"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Youmin Chen",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Tsinghua University",
+                            "Country": "CN"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Jiwu Shu",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Tsinghua University",
+                            "Country": "CN"
+                        },
+                        {
+                            "Institution Name": "Xiamen University",
+                            "Country": "CN"
+                        },
+                        {
+                            "Institution Name": "Minjiang University",
+                            "Country": "CN"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "Title": "Volley: Accelerating Write-Read Orders in Disaggregated Storage.",
+            "Year": "2024",
+            "Predominant Continent": [
+                "AS"
+            ],
+            "Authors and Institutions": [
+                {
+                    "Author": "Shaoxun Zeng",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Tsinghua University",
+                            "Country": "CN"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Xiaojian Liao",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Tsinghua University",
+                            "Country": "CN"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Hao Guo",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Tsinghua University",
+                            "Country": "CN"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Youyou Lu",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Tsinghua University",
+                            "Country": "CN"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "Title": "ScaleCache: A Scalable Page Cache for Multiple Solid-State Drives.",
+            "Year": "2024",
+            "Predominant Continent": [
+                "AS"
+            ],
+            "Authors and Institutions": [
+                {
+                    "Author": "Kiet Tuan Pham",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Chung-Ang University",
+                            "Country": "KR"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Seokjoo Cho",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Chung-Ang University",
+                            "Country": "KR"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Sangjin Lee",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Chung-Ang University",
+                            "Country": "KR"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Lan Anh Nguyen",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Chung-Ang University",
+                            "Country": "KR"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Hyeongi Yeo",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Chung-Ang University",
+                            "Country": "KR"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Ipoom Jeong",
+                    "Institutions": [
+                        {
+                            "Institution Name": "University of Illinois Urbana-Champaign",
+                            "Country": "US"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Sungjin Lee",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Daegu Gyeongbuk Institute of Science and Technology",
+                            "Country": "KR"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Nam Sung Kim",
+                    "Institutions": [
+                        {
+                            "Institution Name": "University of Illinois Urbana-Champaign",
+                            "Country": "US"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Yongseok Son",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Chung-Ang University",
+                            "Country": "KR"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "Title": "Automatic Root Cause Analysis via Large Language Models for Cloud Incidents.",
+            "Year": "2024",
+            "Predominant Continent": [
+                "EU"
+            ],
+            "Authors and Institutions": [
+                {
+                    "Author": "Yinfang Chen",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Huazhong University of Science and Technology",
+                            "Country": "CN"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Huaibing Xie",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Microsoft Research Asia (China)",
+                            "Country": "CN"
+                        },
+                        {
+                            "Institution Name": "Peking University",
+                            "Country": "CN"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Minghua Ma",
+                    "Institutions": [
+                        {
+                            "Institution Name": "National University of Singapore",
+                            "Country": "SG"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Yu Kang",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Microsoft Research (United Kingdom)",
+                            "Country": "GB"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Xin Gao",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Microsoft Research (United Kingdom)",
+                            "Country": "GB"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Liu Shi",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Microsoft Research (United Kingdom)",
+                            "Country": "GB"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Yunjie Cao",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Microsoft Research (United Kingdom)",
+                            "Country": "GB"
+                        }
+                    ]
+                },
+                {
+                    "Author": "X. Y. Gao",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Microsoft Research (United Kingdom)",
+                            "Country": "GB"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Hao Fan",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Microsoft Research (United Kingdom)",
+                            "Country": "GB"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Ming Wen",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Huazhong University of Science and Technology",
+                            "Country": "CN"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Jun Zeng",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Microsoft Research (United Kingdom)",
+                            "Country": "GB"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Supriyo Ghosh",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Microsoft Research (United Kingdom)",
+                            "Country": "GB"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Xuchao Zhang",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Microsoft Research (United Kingdom)",
+                            "Country": "GB"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Chaoyun Zhang",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Microsoft Research (United Kingdom)",
+                            "Country": "GB"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Qingwei Lin",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Microsoft Research (United Kingdom)",
+                            "Country": "GB"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Saravan Rajmohan",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Microsoft Research (United Kingdom)",
+                            "Country": "GB"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Dongmei Zhang",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Microsoft Research (United Kingdom)",
+                            "Country": "GB"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Tianyin Xu",
+                    "Institutions": [
+                        {
+                            "Institution Name": "University of Illinois Urbana-Champaign",
+                            "Country": "US"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "Title": "Finding Correctness Bugs in eBPF Verifier with Structured and Sanitized Program.",
+            "Year": "2024",
+            "Predominant Continent": [
+                "AS"
+            ],
+            "Authors and Institutions": [
+                {
+                    "Author": "Hao Sun",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Tsinghua University",
+                            "Country": "CN"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Yiru Xu",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Tsinghua University",
+                            "Country": "CN"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Jianzhong Liu",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Tsinghua University",
+                            "Country": "CN"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Yuheng Shen",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Tsinghua University",
+                            "Country": "CN"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Nan Guan",
+                    "Institutions": [
+                        {
+                            "Institution Name": "City University of Hong Kong",
+                            "Country": "HK"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Yu Jiang",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Tsinghua University",
+                            "Country": "CN"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "Title": "Noctua: Towards Automated and Practical Fine-grained Consistency Analysis.",
+            "Year": "2024",
+            "Predominant Continent": [
+                "AS"
+            ],
+            "Authors and Institutions": [
+                {
+                    "Author": "Kai Ma",
+                    "Institutions": [
+                        {
+                            "Institution Name": "University of Science and Technology of China",
+                            "Country": "CN"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Cheng Li",
+                    "Institutions": [
+                        {
+                            "Institution Name": "University of Science and Technology of China",
+                            "Country": "CN"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Enzuo Zhu",
+                    "Institutions": [
+                        {
+                            "Institution Name": "University of California, Riverside",
+                            "Country": "US"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Ruichuan Chen",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Nokia (Germany)",
+                            "Country": "DE"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Feng Yan",
+                    "Institutions": [
+                        {
+                            "Institution Name": "University of Houston",
+                            "Country": "US"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Kang Chen",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Tsinghua University",
+                            "Country": "CN"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "Title": "Effective Bug Detection with Unused Definitions.",
+            "Year": "2024",
+            "Predominant Continent": [
+                "NA"
+            ],
+            "Authors and Institutions": [
+                {
+                    "Author": "Li Zhong",
+                    "Institutions": [
+                        {
+                            "Institution Name": "University of California, San Diego",
+                            "Country": "US"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Chengcheng Xiang",
+                    "Institutions": [
+                        {
+                            "Institution Name": "University of California, San Diego",
+                            "Country": "US"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Haochen Huang",
+                    "Institutions": [
+                        {
+                            "Institution Name": "University of California, San Diego",
+                            "Country": "US"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Bingyu Shen",
+                    "Institutions": [
+                        {
+                            "Institution Name": "University of California, San Diego",
+                            "Country": "US"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Eric Mugnier",
+                    "Institutions": [
+                        {
+                            "Institution Name": "University of California, San Diego",
+                            "Country": "US"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Yuanyuan Zhou",
+                    "Institutions": [
+                        {
+                            "Institution Name": "University of California, San Diego",
+                            "Country": "US"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "Title": "Improving GPU Energy Efficiency through an Application-transparent Frequency Scaling Policy with Performance Assurance.",
+            "Year": "2024",
+            "Predominant Continent": [
+                "AS"
+            ],
+            "Authors and Institutions": [
+                {
+                    "Author": "Yijia Zhang",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Peng Cheng Laboratory",
+                            "Country": "CN"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Qiang Wang",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Harbin Institute of Technology",
+                            "Country": "CN"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Zhe Lin",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Sun Yat-sen University",
+                            "Country": "CN"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Pengxiang Xu",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Peng Cheng Laboratory",
+                            "Country": "CN"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Bingqiang Wang",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Peng Cheng Laboratory",
+                            "Country": "CN"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "Title": "SandTable: Scalable Distributed System Model Checking with Specification-Level State Exploration.",
+            "Year": "2024",
+            "Predominant Continent": [
+                "AS"
+            ],
+            "Authors and Institutions": [
+                {
+                    "Author": "Ruize Tang",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Nanjing University",
+                            "Country": "CN"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Xudong Sun",
+                    "Institutions": [
+                        {
+                            "Institution Name": "University of Illinois Urbana-Champaign",
+                            "Country": "US"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Yu Huang",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Nanjing University",
+                            "Country": "CN"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Y. Wei",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Nanjing University",
+                            "Country": "CN"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Lingzhi Ouyang",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Nanjing University",
+                            "Country": "CN"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Xiaoxing Ma",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Nanjing University",
+                            "Country": "CN"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "Title": "Minuet: Accelerating 3D Sparse Convolutions on GPUs.",
+            "Year": "2024",
+            "Predominant Continent": [
+                "NA"
+            ],
+            "Authors and Institutions": [
+                {
+                    "Author": "Jiacheng Yang",
+                    "Institutions": [
+                        {
+                            "Institution Name": "University of Toronto",
+                            "Country": "CA"
+                        },
+                        {
+                            "Institution Name": "Vector Institute",
+                            "Country": "CA"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Christina Giannoula",
+                    "Institutions": [
+                        {
+                            "Institution Name": "University of Toronto",
+                            "Country": "CA"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Jun Wu",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Amazon (Germany)",
+                            "Country": "DE"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Mostafa Elhoushi",
+                    "Institutions": []
+                },
+                {
+                    "Author": "James Gleeson",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Samsung (United States)",
+                            "Country": "US"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Gennady Pekhimenko",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Vector Institute",
+                            "Country": "CA"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "Title": "Exploring Performance and Cost Optimization with ASIC-Based CXL Memory.",
+            "Year": "2024",
+            "Predominant Continent": [
+                "NA"
+            ],
+            "Authors and Institutions": [
+                {
+                    "Author": "Yupeng Tang",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Yale University",
+                            "Country": "US"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Ping Zhou",
+                    "Institutions": []
+                },
+                {
+                    "Author": "Wenhui Zhang",
+                    "Institutions": []
+                },
+                {
+                    "Author": "H. B. Hu",
+                    "Institutions": []
+                },
+                {
+                    "Author": "Qirui Yang",
+                    "Institutions": []
+                },
+                {
+                    "Author": "Hao Xiang",
+                    "Institutions": []
+                },
+                {
+                    "Author": "Tongping Liu",
+                    "Institutions": []
+                },
+                {
+                    "Author": "Jiaxin Shan",
+                    "Institutions": []
+                },
+                {
+                    "Author": "Ruoyun Huang",
+                    "Institutions": []
+                },
+                {
+                    "Author": "Cheng Zhao",
+                    "Institutions": []
+                },
+                {
+                    "Author": "Cheng Chen",
+                    "Institutions": []
+                },
+                {
+                    "Author": "Hui Zhang",
+                    "Institutions": []
+                },
+                {
+                    "Author": "Fei Liu",
+                    "Institutions": []
+                },
+                {
+                    "Author": "Shuai Zhang",
+                    "Institutions": []
+                },
+                {
+                    "Author": "Xiaoning Ding",
+                    "Institutions": []
+                },
+                {
+                    "Author": "Jianjun Chen",
+                    "Institutions": []
+                }
+            ]
+        },
+        {
+            "Title": "Validating Database System Isolation Level Implementations with Version Certificate Recovery.",
+            "Year": "2024",
+            "Predominant Continent": [
+                "EU"
+            ],
+            "Authors and Institutions": [
+                {
+                    "Author": "Jack Clark",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Imperial College London",
+                            "Country": "GB"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Alastair F. Donaldson",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Imperial College London",
+                            "Country": "GB"
+                        }
+                    ]
+                },
+                {
+                    "Author": "John Wickerson",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Imperial College London",
+                            "Country": "GB"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Manuel Rigger",
+                    "Institutions": [
+                        {
+                            "Institution Name": "National University of Singapore",
+                            "Country": "SG"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "Title": "MTM: Rethinking Memory Profiling and Migration for Multi-Tiered Large Memory.",
+            "Year": "2024",
+            "Predominant Continent": [
+                "NA",
+                "AS"
+            ],
+            "Authors and Institutions": [
+                {
+                    "Author": "Jie Ren",
+                    "Institutions": [
+                        {
+                            "Institution Name": "William & Mary",
+                            "Country": "US"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Dong Xu",
+                    "Institutions": [
+                        {
+                            "Institution Name": "University of California, Merced",
+                            "Country": "US"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Junhee Ryu",
+                    "Institutions": [
+                        {
+                            "Institution Name": "SK Group (Japan)",
+                            "Country": "JP"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Kwangsik Shin",
+                    "Institutions": [
+                        {
+                            "Institution Name": "SK Group (Japan)",
+                            "Country": "JP"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Daewoo Kim",
+                    "Institutions": [
+                        {
+                            "Institution Name": "SK Group (Japan)",
+                            "Country": "JP"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Dong Li",
+                    "Institutions": [
+                        {
+                            "Institution Name": "University of California, Merced",
+                            "Country": "US"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "Title": "HD-IOV: SW-HW Co-designed I/O Virtualization with Scalability and Flexibility for Hyper-Density Cloud.",
+            "Year": "2024",
+            "Predominant Continent": [
+                "AS",
+                "EU"
+            ],
+            "Authors and Institutions": [
+                {
+                    "Author": "Zongpu Zhang",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Shanghai Jiao Tong University",
+                            "Country": "CN"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Jiangtao Chen",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Shanghai Jiao Tong University",
+                            "Country": "CN"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Banghao Ying",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Shanghai Jiao Tong University",
+                            "Country": "CN"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Yuanzhouhan Cao",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Intel (Germany)",
+                            "Country": "DE"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Liu Ling-yu",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Intel (Germany)",
+                            "Country": "DE"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Jian Li",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Shanghai Jiao Tong University",
+                            "Country": "CN"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Xin Zeng",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Intel (Germany)",
+                            "Country": "DE"
+                        }
+                    ]
+                },
+                {
+                    "Author": "J. H. Wang",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Intel (Germany)",
+                            "Country": "DE"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Weigang Li",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Intel (Germany)",
+                            "Country": "DE"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Haibing Guan",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Shanghai Jiao Tong University",
+                            "Country": "CN"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "Title": "SmartNIC Security Isolation in the Cloud with S-NIC.",
+            "Year": "2024",
+            "Predominant Continent": [
+                "NA"
+            ],
+            "Authors and Institutions": [
+                {
+                    "Author": "Yang Zhou",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Harvard University Press",
+                            "Country": "US"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Mark Wilkening",
+                    "Institutions": []
+                },
+                {
+                    "Author": "James Mickens",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Harvard University Press",
+                            "Country": "US"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Minlan Yu",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Harvard University Press",
+                            "Country": "US"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "Title": "Atlas: Hybrid Cloud Migration Advisor for Interactive Microservices.",
+            "Year": "2024",
+            "Predominant Continent": [
+                "NA"
+            ],
+            "Authors and Institutions": [
+                {
+                    "Author": "Ka-Ho Chow",
+                    "Institutions": [
+                        {
+                            "Institution Name": "IBM Research - Almaden",
+                            "Country": "US"
+                        },
+                        {
+                            "Institution Name": "Georgia Institute of Technology",
+                            "Country": "US"
+                        }
+                    ]
+                },
+                {
+                    "Author": "U. D. Deshpande",
+                    "Institutions": [
+                        {
+                            "Institution Name": "IBM Research - Almaden",
+                            "Country": "US"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Veera Deenadayalan",
+                    "Institutions": [
+                        {
+                            "Institution Name": "IBM Research - Almaden",
+                            "Country": "US"
+                        }
+                    ]
+                },
+                {
+                    "Author": "S. Seshadri",
+                    "Institutions": [
+                        {
+                            "Institution Name": "IBM Research - Almaden",
+                            "Country": "US"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Ling Liu",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Georgia Institute of Technology",
+                            "Country": "US"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "Title": "Erlang: Application-Aware Autoscaling for Cloud Microservices.",
+            "Year": "2024",
+            "Predominant Continent": [
+                "NA"
+            ],
+            "Authors and Institutions": [
+                {
+                    "Author": "Vighnesh Sachidananda",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Google (United States)",
+                            "Country": "US"
+                        },
+                        {
+                            "Institution Name": "Stanford University",
+                            "Country": "US"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Anirudh Sivaraman",
+                    "Institutions": [
+                        {
+                            "Institution Name": "New York University",
+                            "Country": "US"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "Title": "On the Limitations of Carbon-Aware Temporal and Spatial Workload Shifting in the Cloud.",
+            "Year": "2024",
+            "Predominant Continent": [
+                "NA"
+            ],
+            "Authors and Institutions": [
+                {
+                    "Author": "Thanathorn Sukprasert",
+                    "Institutions": [
+                        {
+                            "Institution Name": "University of Massachusetts Amherst",
+                            "Country": "US"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Abel Souza",
+                    "Institutions": [
+                        {
+                            "Institution Name": "University of Massachusetts Amherst",
+                            "Country": "US"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Noman Bashir",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Massachusetts Institute of Technology",
+                            "Country": "US"
+                        }
+                    ]
+                },
+                {
+                    "Author": "David Irwin",
+                    "Institutions": [
+                        {
+                            "Institution Name": "University of Massachusetts Amherst",
+                            "Country": "US"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Prashant Shenoy",
+                    "Institutions": [
+                        {
+                            "Institution Name": "University of Massachusetts Amherst",
+                            "Country": "US"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "Title": "Enoki: High Velocity Linux Kernel Scheduler Development.",
+            "Year": "2024",
+            "Predominant Continent": [
+                "NA"
+            ],
+            "Authors and Institutions": [
+                {
+                    "Author": "Samantha Miller",
+                    "Institutions": [
+                        {
+                            "Institution Name": "University of Washington",
+                            "Country": "US"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Anirudh Kumar",
+                    "Institutions": [
+                        {
+                            "Institution Name": "University of Washington",
+                            "Country": "US"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Tanay Vakharia",
+                    "Institutions": [
+                        {
+                            "Institution Name": "University of Washington",
+                            "Country": "US"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Ang Chen",
+                    "Institutions": [
+                        {
+                            "Institution Name": "University of Michigan",
+                            "Country": "US"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Danyang Zhuo",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Duke University",
+                            "Country": "US"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Thomas Anderson",
+                    "Institutions": [
+                        {
+                            "Institution Name": "University of Washington",
+                            "Country": "US"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "Title": "TraceUpscaler: Upscaling Traces to Evaluate Systems at High Load.",
+            "Year": "2024",
+            "Predominant Continent": [
+                "NA"
+            ],
+            "Authors and Institutions": [
+                {
+                    "Author": "Sultan Mahmud Sajal",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Pennsylvania State University",
+                            "Country": "US"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Timothy Zhu",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Pennsylvania State University",
+                            "Country": "US"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Bhuvan Urgaonkar",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Pennsylvania State University",
+                            "Country": "US"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Siddhartha Sen",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Microsoft Research (United Kingdom)",
+                            "Country": "GB"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "Title": "Concealing Compression-accelerated I/O for HPC Applications through In Situ Task Scheduling.",
+            "Year": "2024",
+            "Predominant Continent": [
+                "NA"
+            ],
+            "Authors and Institutions": [
+                {
+                    "Author": "Sian Jin",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Temple University",
+                            "Country": "US"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Sheng Di",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Argonne National Laboratory",
+                            "Country": "US"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Frédéric Vivien",
+                    "Institutions": [
+                        {
+                            "Institution Name": "École Normale Supérieure de Lyon",
+                            "Country": "FR"
+                        },
+                        {
+                            "Institution Name": "Laboratoire de l'Informatique du Parallélisme",
+                            "Country": "FR"
+                        },
+                        {
+                            "Institution Name": "Institut national de recherche en sciences et technologies du numérique",
+                            "Country": "FR"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Daoce Wang",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Indiana University Bloomington",
+                            "Country": "US"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Yves Robert",
+                    "Institutions": [
+                        {
+                            "Institution Name": "École Normale Supérieure de Lyon",
+                            "Country": "FR"
+                        },
+                        {
+                            "Institution Name": "Laboratoire de l'Informatique du Parallélisme",
+                            "Country": "FR"
+                        },
+                        {
+                            "Institution Name": "Institut national de recherche en sciences et technologies du numérique",
+                            "Country": "FR"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Dingwen Tao",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Indiana University Bloomington",
+                            "Country": "US"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Franck Cappello",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Argonne National Laboratory",
+                            "Country": "US"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "Title": "NeuroFlux: Memory-Efficient CNN Training Using Adaptive Local Learning.",
+            "Year": "2024",
+            "Predominant Continent": [
+                "EU"
+            ],
+            "Authors and Institutions": [
+                {
+                    "Author": "Dhananjay Saikumar",
+                    "Institutions": [
+                        {
+                            "Institution Name": "University of St Andrews",
+                            "Country": "GB"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Blesson Varghese",
+                    "Institutions": [
+                        {
+                            "Institution Name": "University of St Andrews",
+                            "Country": "GB"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "Title": "Model Selection for Latency-Critical Inference Serving.",
+            "Year": "2024",
+            "Predominant Continent": [
+                "NA"
+            ],
+            "Authors and Institutions": [
+                {
+                    "Author": "Daniel Mendoza",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Stanford University",
+                            "Country": "US"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Francisco Romero",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Stanford University",
+                            "Country": "US"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Caroline Trippel",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Stanford University",
+                            "Country": "US"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "Title": "CDMPP: A Device-Model Agnostic Framework for Latency Prediction of Tensor Programs.",
+            "Year": "2024",
+            "Predominant Continent": [
+                "AS"
+            ],
+            "Authors and Institutions": [
+                {
+                    "Author": "Hanpeng Hu",
+                    "Institutions": [
+                        {
+                            "Institution Name": "University of Hong Kong",
+                            "Country": "HK"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Junwei Su",
+                    "Institutions": [
+                        {
+                            "Institution Name": "University of Hong Kong",
+                            "Country": "HK"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Juntao Zhao",
+                    "Institutions": [
+                        {
+                            "Institution Name": "University of Hong Kong",
+                            "Country": "HK"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Yanghua Peng",
+                    "Institutions": []
+                },
+                {
+                    "Author": "Yibo Zhu",
+                    "Institutions": []
+                },
+                {
+                    "Author": "Haibin Lin",
+                    "Institutions": []
+                },
+                {
+                    "Author": "Chuan Wu",
+                    "Institutions": [
+                        {
+                            "Institution Name": "University of Hong Kong",
+                            "Country": "HK"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "Title": "Optimus: Warming Serverless ML Inference via Inter-Function Model Transformation.",
+            "Year": "2024",
+            "Predominant Continent": [
+                "AS"
+            ],
+            "Authors and Institutions": [
+                {
+                    "Author": "Zicong Hong",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Hong Kong Polytechnic University",
+                            "Country": "HK"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Lin Jian",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Shantou University",
+                            "Country": "CN"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Song Guo",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Hong Kong University of Science and Technology",
+                            "Country": "HK"
+                        },
+                        {
+                            "Institution Name": "University of Hong Kong",
+                            "Country": "HK"
+                        }
+                    ]
+                },
+                {
+                    "Author": "S Y Luo",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Sun Yat-sen University",
+                            "Country": "CN"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Wuhui Chen",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Peng Cheng Laboratory",
+                            "Country": "CN"
+                        },
+                        {
+                            "Institution Name": "Sun Yat-sen University",
+                            "Country": "CN"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Roger Wattenhofer",
+                    "Institutions": [
+                        {
+                            "Institution Name": "ETH Zurich",
+                            "Country": "CH"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Yue Yu",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Peng Cheng Laboratory",
+                            "Country": "CN"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "Title": "Blox: A Modular Toolkit for Deep Learning Schedulers.",
+            "Year": "2024",
+            "Predominant Continent": [
+                "NA"
+            ],
+            "Authors and Institutions": [
+                {
+                    "Author": "Saurabh Agarwal",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Microsoft (United States)",
+                            "Country": "US"
+                        },
+                        {
+                            "Institution Name": "University of Wisconsin–Madison",
+                            "Country": "US"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Amar Phanishayee",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Microsoft Research (United Kingdom)",
+                            "Country": "GB"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Shivaram Venkataraman",
+                    "Institutions": [
+                        {
+                            "Institution Name": "University of Wisconsin–Madison",
+                            "Country": "US"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "Title": "Orion: Interference-aware, Fine-grained GPU Sharing for ML Applications.",
+            "Year": "2024",
+            "Predominant Continent": [
+                "EU"
+            ],
+            "Authors and Institutions": [
+                {
+                    "Author": "Foteini Strati",
+                    "Institutions": [
+                        {
+                            "Institution Name": "ETH Zurich",
+                            "Country": "CH"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Xianzhe Ma",
+                    "Institutions": [
+                        {
+                            "Institution Name": "ETH Zurich",
+                            "Country": "CH"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Ana Klimovic",
+                    "Institutions": [
+                        {
+                            "Institution Name": "ETH Zurich",
+                            "Country": "CH"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "Title": "Transparent Multicore Scaling of Single-Threaded Network Functions.",
+            "Year": "2024",
+            "Predominant Continent": [
+                "EU"
+            ],
+            "Authors and Institutions": [
+                {
+                    "Author": "Lei Yan",
+                    "Institutions": [
+                        {
+                            "Institution Name": "École Polytechnique Fédérale de Lausanne",
+                            "Country": "CH"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Yueyang Pan",
+                    "Institutions": [
+                        {
+                            "Institution Name": "École Polytechnique Fédérale de Lausanne",
+                            "Country": "CH"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Diyu Zhou",
+                    "Institutions": [
+                        {
+                            "Institution Name": "École Polytechnique Fédérale de Lausanne",
+                            "Country": "CH"
+                        }
+                    ]
+                },
+                {
+                    "Author": "George Candea",
+                    "Institutions": [
+                        {
+                            "Institution Name": "École Polytechnique Fédérale de Lausanne",
+                            "Country": "CH"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Sanidhya Kashyap",
+                    "Institutions": [
+                        {
+                            "Institution Name": "École Polytechnique Fédérale de Lausanne",
+                            "Country": "CH"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "Title": "Just-In-Time Checkpointing: Low Cost Error Recovery from Deep Learning Training Failures.",
+            "Year": "2024",
+            "Predominant Continent": [
+                "EU"
+            ],
+            "Authors and Institutions": [
+                {
+                    "Author": "Tanmaey Gupta",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Microsoft Research (United Kingdom)",
+                            "Country": "GB"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Sanjeev Krishnan",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Microsoft Research (United Kingdom)",
+                            "Country": "GB"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Rituraj Kumar",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Microsoft Research (United Kingdom)",
+                            "Country": "GB"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Abhishek Vijeev",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Microsoft Research (United Kingdom)",
+                            "Country": "GB"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Bhargav Gulavani",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Microsoft Research (United Kingdom)",
+                            "Country": "GB"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Nipun Kwatra",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Microsoft Research (United Kingdom)",
+                            "Country": "GB"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Ramachandran Ramjee",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Microsoft Research (United Kingdom)",
+                            "Country": "GB"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Muthian Sivathanu",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Microsoft Research (United Kingdom)",
+                            "Country": "GB"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "Title": "Jade: A High-throughput Concurrent Copying Garbage Collector.",
+            "Year": "2024",
+            "Predominant Continent": [
+                "NA"
+            ],
+            "Authors and Institutions": [
+                {
+                    "Author": "Mingyu Wu",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Shanghai Jiao Tong University",
+                            "Country": "CN"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Liang Mao",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Alibaba Group (United States)",
+                            "Country": "US"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Yude Lin",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Alibaba Group (United States)",
+                            "Country": "US"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Yifeng Jin",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Alibaba Group (United States)",
+                            "Country": "US"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Zhe Li",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Shanghai Jiao Tong University",
+                            "Country": "CN"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Hongtao Lyu",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Shanghai Jiao Tong University",
+                            "Country": "CN"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Jiawei Tang",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Alibaba Group (United States)",
+                            "Country": "US"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Xiaowei Lu",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Alibaba Group (United States)",
+                            "Country": "US"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Hao Tang",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Alibaba Group (United States)",
+                            "Country": "US"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Denghui Dong",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Alibaba Group (United States)",
+                            "Country": "US"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Haibo Chen",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Shanghai Jiao Tong University",
+                            "Country": "CN"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Binyu Zang",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Shanghai Jiao Tong University",
+                            "Country": "CN"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "Title": "Polynima: Practical Hybrid Recompilation for Multithreaded Binaries.",
+            "Year": "2024",
+            "Predominant Continent": [
+                "NA"
+            ],
+            "Authors and Institutions": [
+                {
+                    "Author": "Chinmay Deshpande",
+                    "Institutions": [
+                        {
+                            "Institution Name": "University of California, Irvine",
+                            "Country": "US"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Fabian Parzefall",
+                    "Institutions": [
+                        {
+                            "Institution Name": "University of California, Irvine",
+                            "Country": "US"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Felicitas Hetzelt",
+                    "Institutions": [
+                        {
+                            "Institution Name": "University of California, Irvine",
+                            "Country": "US"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Michael Franz",
+                    "Institutions": [
+                        {
+                            "Institution Name": "University of California, Irvine",
+                            "Country": "US"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "Title": "Adaptable Runtime Monitoring for Intermittent Systems.",
+            "Year": "2024",
+            "Predominant Continent": [
+                "EU"
+            ],
+            "Authors and Institutions": [
+                {
+                    "Author": "Eren Yıldız",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Ege University",
+                            "Country": "TR"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Khakim Akhunov",
+                    "Institutions": [
+                        {
+                            "Institution Name": "University of Trento",
+                            "Country": "IT"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Lorenzo Antonio Riva",
+                    "Institutions": [
+                        {
+                            "Institution Name": "University of Trento",
+                            "Country": "IT"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Arda Göknil",
+                    "Institutions": [
+                        {
+                            "Institution Name": "SINTEF Digital",
+                            "Country": null
+                        },
+                        {
+                            "Institution Name": "SINTEF",
+                            "Country": "NO"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Ivan Kurtev",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Capgemini (Netherlands)",
+                            "Country": "NL"
+                        },
+                        {
+                            "Institution Name": "Eindhoven University of Technology",
+                            "Country": "NL"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Kasım Sinan Yıldırım",
+                    "Institutions": [
+                        {
+                            "Institution Name": "University of Trento",
+                            "Country": "IT"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "Title": "Efficient Auditing of Event-driven Web Applications.",
+            "Year": "2024",
+            "Predominant Continent": [
+                "NA",
+                "EU"
+            ],
+            "Authors and Institutions": [
+                {
+                    "Author": "Ioanna Tzialla",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Google (United States)",
+                            "Country": "US"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Jeffery Wang",
+                    "Institutions": []
+                },
+                {
+                    "Author": "J. Zhu",
+                    "Institutions": [
+                        {
+                            "Institution Name": "ETH Zurich",
+                            "Country": "CH"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Aurojit Panda",
+                    "Institutions": []
+                },
+                {
+                    "Author": "Michael Walfish",
+                    "Institutions": []
+                }
+            ]
+        },
+        {
+            "Title": "Save the Bruised Striver: A Reliable Live Patching Framework for Protecting Real-World PLCs.",
+            "Year": "2024",
+            "Predominant Continent": [
+                "NA",
+                "AS"
+            ],
+            "Authors and Institutions": [
+                {
+                    "Author": "Ming Zhou",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Virginia Tech",
+                            "Country": "US"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Haining Wang",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Virginia Tech",
+                            "Country": "US"
+                        }
+                    ]
+                },
+                {
+                    "Author": "克己 足立",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Electric Power Research Institute",
+                            "Country": "US"
+                        },
+                        {
+                            "Institution Name": "NARI Group (China)",
+                            "Country": "CN"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Hongsong Zhu",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Institute of Information Engineering",
+                            "Country": "CN"
+                        },
+                        {
+                            "Institution Name": "University of Chinese Academy of Sciences",
+                            "Country": "CN"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Limin Sun",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Institute of Information Engineering",
+                            "Country": "CN"
+                        },
+                        {
+                            "Institution Name": "University of Chinese Academy of Sciences",
                             "Country": "CN"
                         }
                     ]

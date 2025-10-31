@@ -1,0 +1,8 @@
+# Python Dependencies - Conference Data Analysis v2.0
+
+# Core data processing
+pandas>=1.3.0
+pycountry-convert>=0.7.2
+
+# Optional dependencies for enhanced functionality
+# typing_extensions>=4.0.0  # For Python < 3.10

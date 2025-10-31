@@ -66745,5 +66745,4878 @@
                 "W89553247"
             ]
         }
+    ],
+    "2024": [
+        {
+            "Title": "FBTuner: A Feedback-Directed Approach for Safe Mixed-Precision Tuning.",
+            "Year": "2024",
+            "DOI Number": "10.1109/CCGrid59990.2024.00077",
+            "OpenAlex Link": "https://api.openalex.org/works/doi:10.1109%2FCCGRID59990.2024.00077",
+            "Authors and Institutions": [
+                {
+                    "Author": "Xinyi Li",
+                    "Institutions": [
+                        {
+                            "Institution Name": "University of Utah",
+                            "Country": "US"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Ganesh Gopalakrishnan",
+                    "Institutions": [
+                        {
+                            "Institution Name": "University of Utah",
+                            "Country": "US"
+                        }
+                    ]
+                }
+            ],
+            "OpenAlex Referenced Works": null
+        },
+        {
+            "Title": "A Bandwidth-Optimal All-to-All Communication in Two-Dimensional Fully Connected Network.",
+            "Year": "2024",
+            "DOI Number": "10.1109/CCGrid59990.2024.00010",
+            "OpenAlex Link": "https://api.openalex.org/works/doi:10.1109%2FCCGRID59990.2024.00010",
+            "Authors and Institutions": [
+                {
+                    "Author": "Kien Trung Pham",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Nippon Soken (Japan)",
+                            "Country": "JP"
+                        },
+                        {
+                            "Institution Name": "The Graduate University for Advanced Studies, SOKENDAI",
+                            "Country": "JP"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Truong Thao Nguyen",
+                    "Institutions": [
+                        {
+                            "Institution Name": "National Institute of Advanced Industrial Science and Technology",
+                            "Country": "JP"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Michihiro Koibuchi",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Nippon Soken (Japan)",
+                            "Country": "JP"
+                        },
+                        {
+                            "Institution Name": "The Graduate University for Advanced Studies, SOKENDAI",
+                            "Country": "JP"
+                        }
+                    ]
+                }
+            ],
+            "OpenAlex Referenced Works": null
+        },
+        {
+            "Title": "A Hybrid Solution to Provide End-to-End Flow Control and Congestion Management in High-Performance Interconnection Networks.",
+            "Year": "2024",
+            "DOI Number": "10.1109/CCGrid59990.2024.00011",
+            "OpenAlex Link": "https://api.openalex.org/works/doi:10.1109%2FCCGRID59990.2024.00011",
+            "Authors and Institutions": [
+                {
+                    "Author": "A. Henry Merino",
+                    "Institutions": [
+                        {
+                            "Institution Name": "University of Castilla-La Mancha",
+                            "Country": "ES"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Jesús Escudero‐Sahuquillo",
+                    "Institutions": [
+                        {
+                            "Institution Name": "University of Castilla-La Mancha",
+                            "Country": "ES"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Pedro J. García",
+                    "Institutions": [
+                        {
+                            "Institution Name": "University of Castilla-La Mancha",
+                            "Country": "ES"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Francisco J. Quiles",
+                    "Institutions": [
+                        {
+                            "Institution Name": "University of Castilla-La Mancha",
+                            "Country": "ES"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Fei Chen",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Huawei Technologies (China)",
+                            "Country": "CN"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Yunping Lyu",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Huawei Technologies (China)",
+                            "Country": "CN"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Yan Long",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Huawei Technologies (China)",
+                            "Country": "CN"
+                        }
+                    ]
+                },
+                {
+                    "Author": "J. Duato",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Real Academia Española",
+                            "Country": "ES"
+                        }
+                    ]
+                }
+            ],
+            "OpenAlex Referenced Works": null
+        },
+        {
+            "Title": "CMB: A Configurable Messaging Benchmark to Explore Fine-Grained Communication.",
+            "Year": "2024",
+            "DOI Number": "10.1109/CCGrid59990.2024.00013",
+            "OpenAlex Link": "https://api.openalex.org/works/doi:10.1109%2FCCGRID59990.2024.00013",
+            "Authors and Institutions": [
+                {
+                    "Author": "W. Pepper Marts",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Sandia National Laboratories",
+                            "Country": "US"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Donald A. Kruse",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Sandia National Laboratories",
+                            "Country": "US"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Matthew G. F. Dosanjh",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Sandia National Laboratories",
+                            "Country": "US"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Whit Schonbein",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Sandia National Laboratories",
+                            "Country": "US"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Scott Levy",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Sandia National Laboratories",
+                            "Country": "US"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Patrick G. Bridges",
+                    "Institutions": [
+                        {
+                            "Institution Name": "University of New Mexico",
+                            "Country": "US"
+                        }
+                    ]
+                }
+            ],
+            "OpenAlex Referenced Works": [
+                "W1551272572",
+                "W1986190431",
+                "W1996253066",
+                "W2038336488",
+                "W2042120213",
+                "W2078794610",
+                "W2086700594",
+                "W2481316611",
+                "W2499794522",
+                "W2506485539",
+                "W2521708680",
+                "W2535102629",
+                "W2551656647",
+                "W2749190568",
+                "W2885707392",
+                "W2886651213",
+                "W2886697901",
+                "W2916391167",
+                "W2948254258",
+                "W2969881123",
+                "W2971516936",
+                "W3099888699",
+                "W3104967067",
+                "W3140689773",
+                "W3198396876",
+                "W3205357354",
+                "W4245217724",
+                "W4256344501",
+                "W4320067878",
+                "W4385749643",
+                "W4386521003",
+                "W4386709562",
+                "W4388855584"
+            ]
+        },
+        {
+            "Title": "AppSteer: Framework for Improving Multicore Scalability of Network Functions via Application-aware Packet Steering.",
+            "Year": "2024",
+            "DOI Number": "10.1109/CCGrid59990.2024.00012",
+            "OpenAlex Link": "https://api.openalex.org/works/doi:10.1109%2FCCGRID59990.2024.00012",
+            "Authors and Institutions": [
+                {
+                    "Author": "Ashwin Kumar",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Indian Institute of Technology Bombay",
+                            "Country": "IN"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Rajneesh Katkam",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Indian Institute of Technology Bombay",
+                            "Country": "IN"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Pranav Chaudhary",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Indian Institute of Technology Bombay",
+                            "Country": "IN"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Priyanka Naik",
+                    "Institutions": [
+                        {
+                            "Institution Name": "IBM Research - India",
+                            "Country": "IN"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Mythili Vutukuru",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Indian Institute of Technology Bombay",
+                            "Country": "IN"
+                        }
+                    ]
+                }
+            ],
+            "OpenAlex Referenced Works": null
+        },
+        {
+            "Title": "FTTN: Feature-Targeted Testing for Numerical Properties of NVIDIA & AMD Matrix Accelerators.",
+            "Year": "2024",
+            "DOI Number": "10.1109/CCGrid59990.2024.00014",
+            "OpenAlex Link": "https://api.openalex.org/works/doi:10.1109%2FCCGRID59990.2024.00014",
+            "Authors and Institutions": [
+                {
+                    "Author": "Xinyi Li",
+                    "Institutions": [
+                        {
+                            "Institution Name": "University of Utah",
+                            "Country": "US"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Ang Li",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Pacific Northwest National Laboratory",
+                            "Country": "US"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Bo Fang",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Pacific Northwest National Laboratory",
+                            "Country": "US"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Katarzyna Świrydowicz",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Pacific Northwest National Laboratory",
+                            "Country": "US"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Ignacio Laguna",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Lawrence Livermore National Laboratory",
+                            "Country": "US"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Ganesh Gopalakrishnan",
+                    "Institutions": [
+                        {
+                            "Institution Name": "University of Utah",
+                            "Country": "US"
+                        }
+                    ]
+                }
+            ],
+            "OpenAlex Referenced Works": [
+                "W2020804487",
+                "W2895305554",
+                "W2997728548",
+                "W3009762362",
+                "W3108141724",
+                "W3204998121",
+                "W4200274933",
+                "W4392426170",
+                "W605824955"
+            ]
+        },
+        {
+            "Title": "PireSPM: Efficient and Recoverable Secure Persistent Memory for Multi-cores.",
+            "Year": "2024",
+            "DOI Number": "10.1109/CCGrid59990.2024.00015",
+            "OpenAlex Link": "https://api.openalex.org/works/doi:10.1109%2FCCGRID59990.2024.00015",
+            "Authors and Institutions": [
+                {
+                    "Author": "Weijie Huang",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Xiamen University",
+                            "Country": "CN"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Bohong Zhu",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Xiamen University",
+                            "Country": "CN"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Jiwu Shu",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Xiamen University",
+                            "Country": "CN"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Shu Li",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Alibaba Group (United States)",
+                            "Country": "US"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Zhengyong Wang",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Alibaba Group (United States)",
+                            "Country": "US"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Yu Gao",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Alibaba Group (United States)",
+                            "Country": "US"
+                        }
+                    ]
+                }
+            ],
+            "OpenAlex Referenced Works": null
+        },
+        {
+            "Title": "Towards Better QoS and Lower Costs of P4 EIP Gateway at the Edge.",
+            "Year": "2024",
+            "DOI Number": "10.1109/CCGrid59990.2024.00016",
+            "OpenAlex Link": "https://api.openalex.org/works/doi:10.1109%2FCCGRID59990.2024.00016",
+            "Authors and Institutions": [
+                {
+                    "Author": "Yang Ming",
+                    "Institutions": [
+                        {
+                            "Institution Name": "China Telecom",
+                            "Country": null
+                        },
+                        {
+                            "Institution Name": "China Telecom (China)",
+                            "Country": "CN"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Xin Yang",
+                    "Institutions": [
+                        {
+                            "Institution Name": "China Telecom",
+                            "Country": null
+                        },
+                        {
+                            "Institution Name": "China Telecom (China)",
+                            "Country": "CN"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Liang Xu",
+                    "Institutions": [
+                        {
+                            "Institution Name": "China Telecom",
+                            "Country": null
+                        },
+                        {
+                            "Institution Name": "China Telecom (China)",
+                            "Country": "CN"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Yefei Hou",
+                    "Institutions": [
+                        {
+                            "Institution Name": "China Telecom",
+                            "Country": null
+                        },
+                        {
+                            "Institution Name": "China Telecom (China)",
+                            "Country": "CN"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Long Xie",
+                    "Institutions": [
+                        {
+                            "Institution Name": "China Telecom",
+                            "Country": null
+                        },
+                        {
+                            "Institution Name": "China Telecom (China)",
+                            "Country": "CN"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Yong Wang",
+                    "Institutions": [
+                        {
+                            "Institution Name": "China Telecom (China)",
+                            "Country": "CN"
+                        },
+                        {
+                            "Institution Name": "China Telecom",
+                            "Country": null
+                        }
+                    ]
+                }
+            ],
+            "OpenAlex Referenced Works": [
+                "W1738135513",
+                "W1994926493",
+                "W2008942845",
+                "W2110722699",
+                "W2281291499",
+                "W2505603199",
+                "W2734941459",
+                "W2744693751",
+                "W2762658472",
+                "W2897697024",
+                "W2915027971",
+                "W2947586167",
+                "W3159386342",
+                "W3189425713",
+                "W3192763327",
+                "W4248429016",
+                "W4290991168",
+                "W4290991674",
+                "W4293182269",
+                "W45672939",
+                "W95608104"
+            ]
+        },
+        {
+            "Title": "COTuner: Joint Optimization of Resource Configuration and Software Parameters for Recurring Streaming Jobs on the Cloud.",
+            "Year": "2024",
+            "DOI Number": "10.1109/CCGrid59990.2024.00019",
+            "OpenAlex Link": "https://api.openalex.org/works/doi:10.1109%2FCCGRID59990.2024.00019",
+            "Authors and Institutions": [
+                {
+                    "Author": "Hui Dou",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Anhui University",
+                            "Country": "CN"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Shanshan Zhu",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Anhui University",
+                            "Country": "CN"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Yuxuan Zhou",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Anhui University",
+                            "Country": "CN"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Yiwen Zhang",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Anhui University",
+                            "Country": "CN"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Jicheng Mei",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Anhui University",
+                            "Country": "CN"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Yang Wu",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Anhui University",
+                            "Country": "CN"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Jiaqing Dai",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Anhui University",
+                            "Country": "CN"
+                        }
+                    ]
+                }
+            ],
+            "OpenAlex Referenced Works": null
+        },
+        {
+            "Title": "Elasticity in a Task-based Dataflow Runtime Through Inter-node GPU Work Stealing.",
+            "Year": "2024",
+            "DOI Number": "10.1109/CCGrid59990.2024.00020",
+            "OpenAlex Link": "https://api.openalex.org/works/doi:10.1109%2FCCGRID59990.2024.00020",
+            "Authors and Institutions": [
+                {
+                    "Author": "Joseph John",
+                    "Institutions": [
+                        {
+                            "Institution Name": "National Computational Infrastructure",
+                            "Country": "AU"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Josh Milthorpe",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Australian National University",
+                            "Country": "AU"
+                        }
+                    ]
+                }
+            ],
+            "OpenAlex Referenced Works": null
+        },
+        {
+            "Title": "Brug: An Adaptive Memory (Re-)Allocator.",
+            "Year": "2024",
+            "DOI Number": "10.1109/CCGrid59990.2024.00017",
+            "OpenAlex Link": "https://api.openalex.org/works/doi:10.1109%2FCCGRID59990.2024.00017",
+            "Authors and Institutions": [
+                {
+                    "Author": "Weikang Weng",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Leiden University",
+                            "Country": "NL"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Alexandru Uta",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Leiden University",
+                            "Country": "NL"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Jan S. Rellermeyer",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Leibniz University Hannover",
+                            "Country": "DE"
+                        }
+                    ]
+                }
+            ],
+            "OpenAlex Referenced Works": null
+        },
+        {
+            "Title": "Improved Parallel Application Performance and Makespan by Colocation and Topology-aware Process Mapping.",
+            "Year": "2024",
+            "DOI Number": "10.1109/CCGrid59990.2024.00023",
+            "OpenAlex Link": "https://api.openalex.org/works/doi:10.1109%2FCCGRID59990.2024.00023",
+            "Authors and Institutions": [
+                {
+                    "Author": "Ioannis Vardas",
+                    "Institutions": [
+                        {
+                            "Institution Name": "TU Wien",
+                            "Country": "AT"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Sascha Hunold",
+                    "Institutions": [
+                        {
+                            "Institution Name": "TU Wien",
+                            "Country": "AT"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Philippe Swartvagher",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Université de Bordeaux",
+                            "Country": "FR"
+                        },
+                        {
+                            "Institution Name": "Institut Polytechnique de Bordeaux",
+                            "Country": "FR"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Jesper Larsson Träff",
+                    "Institutions": [
+                        {
+                            "Institution Name": "TU Wien",
+                            "Country": "AT"
+                        }
+                    ]
+                }
+            ],
+            "OpenAlex Referenced Works": [
+                "W1890713732",
+                "W1992432622",
+                "W2073987725",
+                "W2294866038",
+                "W2347137561",
+                "W2759767794",
+                "W2759941235",
+                "W2792837739",
+                "W2907753541",
+                "W2972093070",
+                "W2986470414",
+                "W3025498066",
+                "W3042788053",
+                "W3097896759",
+                "W3175809060",
+                "W3204725877",
+                "W4253824360",
+                "W4289828250",
+                "W4292940642",
+                "W4388581150"
+            ]
+        },
+        {
+            "Title": "HUILLY: A Non-Blocking Ingestion Buffer for Timestepped Simulation Analytics.",
+            "Year": "2024",
+            "DOI Number": "10.1109/CCGrid59990.2024.00022",
+            "OpenAlex Link": "https://api.openalex.org/works/doi:10.1109%2FCCGRID59990.2024.00022",
+            "Authors and Institutions": [
+                {
+                    "Author": "Xiaorui Du",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Technical University of Munich",
+                            "Country": "DE"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Andrea Piccione",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Huawei German Research Center",
+                            "Country": "DE"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Adriano Pimpini",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Sapienza University of Rome",
+                            "Country": "IT"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Stefano Bortoli",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Huawei German Research Center",
+                            "Country": "DE"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Alois Knoll",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Technical University of Munich",
+                            "Country": "DE"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Alessandro Pellegrini",
+                    "Institutions": [
+                        {
+                            "Institution Name": "University of Rome Tor Vergata",
+                            "Country": "IT"
+                        }
+                    ]
+                }
+            ],
+            "OpenAlex Referenced Works": null
+        },
+        {
+            "Title": "SLO-Power: SLO and Power-aware Elastic Scaling for Web Services.",
+            "Year": "2024",
+            "DOI Number": "10.1109/CCGrid59990.2024.00025",
+            "OpenAlex Link": "https://api.openalex.org/works/doi:10.1109%2FCCGRID59990.2024.00025",
+            "Authors and Institutions": [
+                {
+                    "Author": "Mehmet Savasci",
+                    "Institutions": [
+                        {
+                            "Institution Name": "University of Massachusetts Amherst",
+                            "Country": "US"
+                        },
+                        {
+                            "Institution Name": "Amherst College",
+                            "Country": "US"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Abel Souza",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Amherst College",
+                            "Country": "US"
+                        },
+                        {
+                            "Institution Name": "University of Massachusetts Amherst",
+                            "Country": "US"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Wu Li",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Amherst College",
+                            "Country": "US"
+                        },
+                        {
+                            "Institution Name": "University of Massachusetts Amherst",
+                            "Country": "US"
+                        }
+                    ]
+                },
+                {
+                    "Author": "David Irwin",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Amherst College",
+                            "Country": "US"
+                        },
+                        {
+                            "Institution Name": "University of Massachusetts Amherst",
+                            "Country": "US"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Ahmed Ali-Eldin",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Chalmers University of Technology",
+                            "Country": "SE"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Prashant Shenoy",
+                    "Institutions": [
+                        {
+                            "Institution Name": "University of Massachusetts Amherst",
+                            "Country": "US"
+                        },
+                        {
+                            "Institution Name": "Amherst College",
+                            "Country": "US"
+                        }
+                    ]
+                }
+            ],
+            "OpenAlex Referenced Works": null
+        },
+        {
+            "Title": "Causality Enhanced Graph Representation Learning for Alert-Based Root Cause Analysis.",
+            "Year": "2024",
+            "DOI Number": "10.1109/CCGrid59990.2024.00018",
+            "OpenAlex Link": "https://api.openalex.org/works/doi:10.1109%2FCCGRID59990.2024.00018",
+            "Authors and Institutions": [
+                {
+                    "Author": "Zhaoyang Yu",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Tsinghua University",
+                            "Country": "CN"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Qianyu Ouyang",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Tsinghua University",
+                            "Country": "CN"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Changhua Pei",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Computer Network Information Center",
+                            "Country": "CN"
+                        },
+                        {
+                            "Institution Name": "Chinese Academy of Sciences",
+                            "Country": "CN"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Xin Wang",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Stony Brook University",
+                            "Country": "US"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Wenxiao Chen",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Northwest Normal University",
+                            "Country": "CN"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Liangfei Su",
+                    "Institutions": [
+                        {
+                            "Institution Name": "eBay (Ireland)",
+                            "Country": "IE"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Huai Jiang",
+                    "Institutions": [
+                        {
+                            "Institution Name": "eBay (Ireland)",
+                            "Country": "IE"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Xuanrun Wang",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Tsinghua University",
+                            "Country": "CN"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Jianhui Li",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Computer Network Information Center",
+                            "Country": "CN"
+                        },
+                        {
+                            "Institution Name": "Chinese Academy of Sciences",
+                            "Country": "CN"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Dan Pei",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Tsinghua University",
+                            "Country": "CN"
+                        }
+                    ]
+                }
+            ],
+            "OpenAlex Referenced Works": null
+        },
+        {
+            "Title": "Tackling Memory Footprint Expansion During Live Migration of Virtual Machines.",
+            "Year": "2024",
+            "DOI Number": "10.1109/CCGrid59990.2024.00027",
+            "OpenAlex Link": "https://api.openalex.org/works/doi:10.1109%2FCCGRID59990.2024.00027",
+            "Authors and Institutions": [
+                {
+                    "Author": "Roja Eswaran",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Binghamton University",
+                            "Country": "US"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Mingjie Yan",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Binghamton University",
+                            "Country": "US"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Kartik Gopalan",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Binghamton University",
+                            "Country": "US"
+                        }
+                    ]
+                }
+            ],
+            "OpenAlex Referenced Works": null
+        },
+        {
+            "Title": "vASP: Full VM Life-cycle Protection Based on Active Security Processor Architecture.",
+            "Year": "2024",
+            "DOI Number": "10.1109/CCGrid59990.2024.00028",
+            "OpenAlex Link": "https://api.openalex.org/works/doi:10.1109%2FCCGRID59990.2024.00028",
+            "Authors and Institutions": [
+                {
+                    "Author": "Jiayun Chen",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Institute of Information Engineering",
+                            "Country": "CN"
+                        },
+                        {
+                            "Institution Name": "Chinese Academy of Sciences",
+                            "Country": "CN"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Qihang Zhou",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Institute of Information Engineering",
+                            "Country": "CN"
+                        },
+                        {
+                            "Institution Name": "Chinese Academy of Sciences",
+                            "Country": "CN"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Weijuan Zhang",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Institute of Information Engineering",
+                            "Country": "CN"
+                        },
+                        {
+                            "Institution Name": "Chinese Academy of Sciences",
+                            "Country": "CN"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Nan Jiang",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Institute of Information Engineering",
+                            "Country": "CN"
+                        },
+                        {
+                            "Institution Name": "Chinese Academy of Sciences",
+                            "Country": "CN"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Yamin Xie",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Institute of Information Engineering",
+                            "Country": "CN"
+                        },
+                        {
+                            "Institution Name": "Chinese Academy of Sciences",
+                            "Country": "CN"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Xiaoqi Jia",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Institute of Information Engineering",
+                            "Country": "CN"
+                        },
+                        {
+                            "Institution Name": "Chinese Academy of Sciences",
+                            "Country": "CN"
+                        }
+                    ]
+                }
+            ],
+            "OpenAlex Referenced Works": [
+                "W1984382557",
+                "W2043501224",
+                "W2077171549",
+                "W2100678175",
+                "W2122913395",
+                "W2140911579",
+                "W2151006143",
+                "W2793371134",
+                "W2935013673",
+                "W2946055845",
+                "W2991023638",
+                "W3021475380",
+                "W3045348136",
+                "W3205994385",
+                "W4252834746",
+                "W4285503987",
+                "W4299301436",
+                "W4319878514"
+            ]
+        },
+        {
+            "Title": "SweetspotVM: Oversubscribing CPU without Sacrificing VM Performance.",
+            "Year": "2024",
+            "DOI Number": "10.1109/CCGrid59990.2024.00026",
+            "OpenAlex Link": "https://api.openalex.org/works/doi:10.1109%2FCCGRID59990.2024.00026",
+            "Authors and Institutions": [
+                {
+                    "Author": "Pierre Jacquet",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Centre National de la Recherche Scientifique",
+                            "Country": "FR"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Thomas Ledoux",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Laboratoire d'Automatique, Génie Informatique et Signal",
+                            "Country": "FR"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Romain Rouvoy",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Université de Lille",
+                            "Country": "FR"
+                        }
+                    ]
+                }
+            ],
+            "OpenAlex Referenced Works": null
+        },
+        {
+            "Title": "Workload-Aware Live Migratable Cloud Instance Detector.",
+            "Year": "2024",
+            "DOI Number": "10.1109/CCGrid59990.2024.00029",
+            "OpenAlex Link": "https://api.openalex.org/works/doi:10.1109%2FCCGRID59990.2024.00029",
+            "Authors and Institutions": [
+                {
+                    "Author": "Junho Lim",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Kookmin University",
+                            "Country": "KR"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Kyunghwan Kim",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Kookmin University",
+                            "Country": "KR"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Kyungyong Lee",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Kookmin University",
+                            "Country": "KR"
+                        }
+                    ]
+                }
+            ],
+            "OpenAlex Referenced Works": [
+                "W1979330015",
+                "W1990144278",
+                "W1994342242",
+                "W2021806553",
+                "W2022413220",
+                "W2033790833",
+                "W2082819362",
+                "W2085732010",
+                "W2157801087",
+                "W2295598076",
+                "W2529582363",
+                "W2734455483",
+                "W2755443794",
+                "W2766103888",
+                "W2792281126",
+                "W3004023122",
+                "W3010622806",
+                "W3120568098",
+                "W3173491128",
+                "W3209936002",
+                "W4214587844",
+                "W4220866844",
+                "W4285205277",
+                "W4295047449",
+                "W4311327447",
+                "W4327930473",
+                "W4367310801",
+                "W4386597691"
+            ]
+        },
+        {
+            "Title": "A Clustering-Oriented Method for Open-Domain Named Entity Recognition.",
+            "Year": "2024",
+            "DOI Number": "10.1109/CCGrid59990.2024.00030",
+            "OpenAlex Link": "https://api.openalex.org/works/doi:10.1109%2FCCGRID59990.2024.00030",
+            "Authors and Institutions": [
+                {
+                    "Author": "Jiahui Li",
+                    "Institutions": [
+                        {
+                            "Institution Name": "China University of Geosciences",
+                            "Country": "CN"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Diange Zhou",
+                    "Institutions": [
+                        {
+                            "Institution Name": "China University of Geosciences",
+                            "Country": "CN"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Yilin Duan",
+                    "Institutions": [
+                        {
+                            "Institution Name": "China University of Geosciences",
+                            "Country": "CN"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Xinchuan Li",
+                    "Institutions": [
+                        {
+                            "Institution Name": "China University of Geosciences",
+                            "Country": "CN"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Hong Yao",
+                    "Institutions": [
+                        {
+                            "Institution Name": "China University of Geosciences",
+                            "Country": "CN"
+                        }
+                    ]
+                }
+            ],
+            "OpenAlex Referenced Works": null
+        },
+        {
+            "Title": "Accelerating Large Language Model Training with Hybrid GPU-based Compression.",
+            "Year": "2024",
+            "DOI Number": "10.1109/CCGrid59990.2024.00031",
+            "OpenAlex Link": "https://api.openalex.org/works/doi:10.1109%2FCCGRID59990.2024.00031",
+            "Authors and Institutions": [
+                {
+                    "Author": "Lang Xu",
+                    "Institutions": [
+                        {
+                            "Institution Name": "The Ohio State University",
+                            "Country": "US"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Quentin Anthony",
+                    "Institutions": [
+                        {
+                            "Institution Name": "The Ohio State University",
+                            "Country": "US"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Qinghua Zhou",
+                    "Institutions": [
+                        {
+                            "Institution Name": "The Ohio State University",
+                            "Country": "US"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Nawras Alnaasan",
+                    "Institutions": [
+                        {
+                            "Institution Name": "The Ohio State University",
+                            "Country": "US"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Radha Gulhane",
+                    "Institutions": [
+                        {
+                            "Institution Name": "The Ohio State University",
+                            "Country": "US"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Aamir Shafi",
+                    "Institutions": [
+                        {
+                            "Institution Name": "The Ohio State University",
+                            "Country": "US"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Hari Subramoni",
+                    "Institutions": [
+                        {
+                            "Institution Name": "The Ohio State University",
+                            "Country": "US"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Dhabaleswar K. Panda",
+                    "Institutions": [
+                        {
+                            "Institution Name": "The Ohio State University",
+                            "Country": "US"
+                        }
+                    ]
+                }
+            ],
+            "OpenAlex Referenced Works": null
+        },
+        {
+            "Title": "Apodotiko: Enabling Efficient Serverless Federated Learning in Heterogeneous Environments.",
+            "Year": "2024",
+            "DOI Number": "10.1109/CCGrid59990.2024.00032",
+            "OpenAlex Link": "https://api.openalex.org/works/doi:10.1109%2FCCGRID59990.2024.00032",
+            "Authors and Institutions": [
+                {
+                    "Author": "Mohak Chadha",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Technical University of Munich",
+                            "Country": "DE"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Alexander Jensen",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Technical University of Munich",
+                            "Country": "DE"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Jianfeng Gu",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Technical University of Munich",
+                            "Country": "DE"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Osama Abboud",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Huawei Technologies (Germany)",
+                            "Country": "DE"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Michael Gerndt",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Technical University of Munich",
+                            "Country": "DE"
+                        }
+                    ]
+                }
+            ],
+            "OpenAlex Referenced Works": null
+        },
+        {
+            "Title": "CNN Training Latency Prediction Using Hardware Metrics on Cloud GPUs.",
+            "Year": "2024",
+            "DOI Number": "10.1109/CCGrid59990.2024.00033",
+            "OpenAlex Link": "https://api.openalex.org/works/doi:10.1109%2FCCGRID59990.2024.00033",
+            "Authors and Institutions": [
+                {
+                    "Author": "Yoonseo Hur",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Kookmin University",
+                            "Country": "KR"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Kyungyong Lee",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Kookmin University",
+                            "Country": "KR"
+                        }
+                    ]
+                }
+            ],
+            "OpenAlex Referenced Works": [
+                "W1566349786",
+                "W1686810756",
+                "W1986959475",
+                "W1989037929",
+                "W2109606373",
+                "W2553303224",
+                "W2734941459",
+                "W2741951152",
+                "W2757024591",
+                "W28412257",
+                "W2890255536",
+                "W2903557836",
+                "W2909693411",
+                "W2930508541",
+                "W2953212265",
+                "W2963173190",
+                "W2964022491",
+                "W3003257820",
+                "W3011400958",
+                "W4281553873",
+                "W4287586581",
+                "W4320024258",
+                "W4321195902",
+                "W4361732944",
+                "W4387251605",
+                "W4394945233",
+                "W4400762160",
+                "W95608104"
+            ]
+        },
+        {
+            "Title": "DeepVM: Integrating Spot and On-Demand VMs for Cost-Efficient Deep Learning Clusters in the Cloud.",
+            "Year": "2024",
+            "DOI Number": "10.1109/CCGrid59990.2024.00034",
+            "OpenAlex Link": "https://api.openalex.org/works/doi:10.1109%2FCCGRID59990.2024.00034",
+            "Authors and Institutions": [
+                {
+                    "Author": "Yoochan Kim",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Sogang University",
+                            "Country": "KR"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Kihyun Kim",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Sogang University",
+                            "Country": "KR"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Yonghyeon Cho",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Sogang University",
+                            "Country": "KR"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Jinwoo Kim",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Sogang University",
+                            "Country": "KR"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Awais Khan",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Oak Ridge National Laboratory",
+                            "Country": "US"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Ki-Dong Kang",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Electronics and Telecommunications Research Institute",
+                            "Country": "KR"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Baiksong An",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Electronics and Telecommunications Research Institute",
+                            "Country": "KR"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Myung-Hoon Cha",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Electronics and Telecommunications Research Institute",
+                            "Country": "KR"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Hong-Yeon Kim",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Electronics and Telecommunications Research Institute",
+                            "Country": "KR"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Youngjae Kim",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Sogang University",
+                            "Country": "KR"
+                        }
+                    ]
+                }
+            ],
+            "OpenAlex Referenced Works": [
+                "W2028851080",
+                "W2162570510",
+                "W2605643718",
+                "W2755443794",
+                "W2761777887",
+                "W2764163036",
+                "W2808242862",
+                "W2990790810",
+                "W2999905431",
+                "W3020605687",
+                "W3021124033",
+                "W3045877325",
+                "W3046229946",
+                "W3086105743",
+                "W3207821634",
+                "W4214854835",
+                "W4287572644",
+                "W4301239768",
+                "W4308092051",
+                "W4311327447",
+                "W4311546745",
+                "W4312892127",
+                "W4360607599",
+                "W4385314068",
+                "W4387302750",
+                "W4403211989"
+            ]
+        },
+        {
+            "Title": "Federated Semi-Supervised Learning with Local and Global Updating Frequency Optimization.",
+            "Year": "2024",
+            "DOI Number": "10.1109/CCGrid59990.2024.00037",
+            "OpenAlex Link": "https://api.openalex.org/works/doi:10.1109%2FCCGRID59990.2024.00037",
+            "Authors and Institutions": [
+                {
+                    "Author": "Xin Hang",
+                    "Institutions": [
+                        {
+                            "Institution Name": "University of Science and Technology of China",
+                            "Country": "CN"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Xu Yang",
+                    "Institutions": [
+                        {
+                            "Institution Name": "University of Science and Technology of China",
+                            "Country": "CN"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Hongli Xu",
+                    "Institutions": [
+                        {
+                            "Institution Name": "University of Science and Technology of China",
+                            "Country": "CN"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Yunming Liao",
+                    "Institutions": [
+                        {
+                            "Institution Name": "University of Science and Technology of China",
+                            "Country": "CN"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Lun Wang",
+                    "Institutions": [
+                        {
+                            "Institution Name": "University of Science and Technology of China",
+                            "Country": "CN"
+                        }
+                    ]
+                }
+            ],
+            "OpenAlex Referenced Works": null
+        },
+        {
+            "Title": "Intelligent Data Source Emission Rate Control for Optimising the Performance of Streaming Applications.",
+            "Year": "2024",
+            "DOI Number": "10.1109/CCGrid59990.2024.00038",
+            "OpenAlex Link": "https://api.openalex.org/works/doi:10.1109%2FCCGRID59990.2024.00038",
+            "Authors and Institutions": [
+                {
+                    "Author": "Ziren Xiao",
+                    "Institutions": [
+                        {
+                            "Institution Name": "The University of Melbourne",
+                            "Country": "AU"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Christopher Leckie",
+                    "Institutions": [
+                        {
+                            "Institution Name": "The University of Melbourne",
+                            "Country": "AU"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Maria A. Rodriguez",
+                    "Institutions": [
+                        {
+                            "Institution Name": "The University of Melbourne",
+                            "Country": "AU"
+                        }
+                    ]
+                }
+            ],
+            "OpenAlex Referenced Works": null
+        },
+        {
+            "Title": "Fair, Efficient Multi-Resource Scheduling for Stateless Serverless Functions with Anubis.",
+            "Year": "2024",
+            "DOI Number": "10.1109/CCGrid59990.2024.00021",
+            "OpenAlex Link": "https://api.openalex.org/works/doi:10.1109%2FCCGRID59990.2024.00021",
+            "Authors and Institutions": [
+                {
+                    "Author": "Amit Samanta",
+                    "Institutions": [
+                        {
+                            "Institution Name": "University of Utah",
+                            "Country": "US"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Ryan Stutsman",
+                    "Institutions": [
+                        {
+                            "Institution Name": "University of Utah",
+                            "Country": "US"
+                        }
+                    ]
+                }
+            ],
+            "OpenAlex Referenced Works": null
+        },
+        {
+            "Title": "Improving the Efficiency of Serverless Computing via Core-Level Power Management.",
+            "Year": "2024",
+            "DOI Number": "10.1109/CCGrid59990.2024.00024",
+            "OpenAlex Link": "https://api.openalex.org/works/doi:10.1109%2FCCGRID59990.2024.00024",
+            "Authors and Institutions": [
+                {
+                    "Author": "Du Liu",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Shanghai Jiao Tong University",
+                            "Country": "CN"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Jing Wang",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Shanghai Jiao Tong University",
+                            "Country": "CN"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Xinkai Wang",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Shanghai Jiao Tong University",
+                            "Country": "CN"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Chao Li",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Shanghai Jiao Tong University",
+                            "Country": "CN"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Lu Zhang",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Shanghai Jiao Tong University",
+                            "Country": "CN"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Xiaofeng Hou",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Shanghai Jiao Tong University",
+                            "Country": "CN"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Xiaoxiang Shi",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Shanghai Jiao Tong University",
+                            "Country": "CN"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Minyi Guo",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Shanghai Jiao Tong University",
+                            "Country": "CN"
+                        }
+                    ]
+                }
+            ],
+            "OpenAlex Referenced Works": null
+        },
+        {
+            "Title": "Is the powersave governor really saving power?",
+            "Year": "2024",
+            "DOI Number": "10.1109/CCGrid59990.2024.00039",
+            "OpenAlex Link": "https://api.openalex.org/works/doi:10.1109%2FCCGRID59990.2024.00039",
+            "Authors and Institutions": [
+                {
+                    "Author": "Darong Huang",
+                    "Institutions": [
+                        {
+                            "Institution Name": "École Polytechnique Fédérale de Lausanne",
+                            "Country": "CH"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Luis Costero",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Universidad Complutense de Madrid",
+                            "Country": "ES"
+                        }
+                    ]
+                },
+                {
+                    "Author": "David Atienza",
+                    "Institutions": [
+                        {
+                            "Institution Name": "École Polytechnique Fédérale de Lausanne",
+                            "Country": "CH"
+                        }
+                    ]
+                }
+            ],
+            "OpenAlex Referenced Works": null
+        },
+        {
+            "Title": "MDSTGCN : Multi-Scale Dynamic Spatial-Temporal Graph Convolution Network With Edge Feature Embedding for Traffic Forecasting.",
+            "Year": "2024",
+            "DOI Number": "10.1109/CCGrid59990.2024.00040",
+            "OpenAlex Link": "https://api.openalex.org/works/doi:10.1109%2FCCGRID59990.2024.00040",
+            "Authors and Institutions": [
+                {
+                    "Author": "Sijia Liu",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Heilongjiang University",
+                            "Country": "CN"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Hui Xu",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Heilongjiang University",
+                            "Country": "CN"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Fanyu Meng",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Heilongjiang University",
+                            "Country": "CN"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Qianqian Ren",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Heilongjiang University",
+                            "Country": "CN"
+                        }
+                    ]
+                }
+            ],
+            "OpenAlex Referenced Works": null
+        },
+        {
+            "Title": "Opportunistic Energy-Aware Scheduling for Container Orchestration Platforms Using Graph Neural Networks.",
+            "Year": "2024",
+            "DOI Number": "10.1109/CCGrid59990.2024.00042",
+            "OpenAlex Link": "https://api.openalex.org/works/doi:10.1109%2FCCGRID59990.2024.00042",
+            "Authors and Institutions": [
+                {
+                    "Author": "Philipp Raith",
+                    "Institutions": [
+                        {
+                            "Institution Name": "TU Wien",
+                            "Country": "AT"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Gourav Rattihalli",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Hewlett-Packard (United States)",
+                            "Country": "US"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Aditya Dhakal",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Hewlett-Packard (United States)",
+                            "Country": "US"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Sai Rahul Chalamalasetti",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Hewlett-Packard (United States)",
+                            "Country": "US"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Dejan Milojičić",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Hewlett-Packard (United States)",
+                            "Country": "US"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Eitan Frachtenberg",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Hewlett-Packard (United States)",
+                            "Country": "US"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Stefan Nastić",
+                    "Institutions": [
+                        {
+                            "Institution Name": "TU Wien",
+                            "Country": "AT"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Schahram Dustdar",
+                    "Institutions": [
+                        {
+                            "Institution Name": "TU Wien",
+                            "Country": "AT"
+                        }
+                    ]
+                }
+            ],
+            "OpenAlex Referenced Works": null
+        },
+        {
+            "Title": "Preserving Near-Optimal Gradient Sparsification Cost for Scalable Distributed Deep Learning.",
+            "Year": "2024",
+            "DOI Number": "10.1109/CCGrid59990.2024.00043",
+            "OpenAlex Link": "https://api.openalex.org/works/doi:10.1109%2FCCGRID59990.2024.00043",
+            "Authors and Institutions": [
+                {
+                    "Author": "Daegun Yoon",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Electronics and Telecommunications Research Institute",
+                            "Country": "KR"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Sangyoon Oh",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Ajou University",
+                            "Country": "KR"
+                        }
+                    ]
+                }
+            ],
+            "OpenAlex Referenced Works": null
+        },
+        {
+            "Title": "Rapid Deployment of DNNs for Edge Computing via Structured Pruning at Initialization.",
+            "Year": "2024",
+            "DOI Number": "10.1109/CCGrid59990.2024.00044",
+            "OpenAlex Link": "https://api.openalex.org/works/doi:10.1109%2FCCGRID59990.2024.00044",
+            "Authors and Institutions": [
+                {
+                    "Author": "Bailey J. Eccles",
+                    "Institutions": [
+                        {
+                            "Institution Name": "University of St Andrews",
+                            "Country": "GB"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Leon Wong",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Rakuten (Japan)",
+                            "Country": "JP"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Blesson Varghese",
+                    "Institutions": [
+                        {
+                            "Institution Name": "University of St Andrews",
+                            "Country": "GB"
+                        }
+                    ]
+                }
+            ],
+            "OpenAlex Referenced Works": null
+        },
+        {
+            "Title": "Scheduling with Fully Compressible Tasks: Application to Deep Learning Inference with Neural Network Compression.",
+            "Year": "2024",
+            "DOI Number": "10.1109/CCGrid59990.2024.00045",
+            "OpenAlex Link": "https://api.openalex.org/works/doi:10.1109%2FCCGRID59990.2024.00045",
+            "Authors and Institutions": [
+                {
+                    "Author": "Tiago da Silva Barros",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Computer Algorithms for Medicine",
+                            "Country": "AT"
+                        },
+                        {
+                            "Institution Name": "Laboratoire d'Informatique, Signaux et Systèmes de Sophia Antipolis",
+                            "Country": "FR"
+                        },
+                        {
+                            "Institution Name": "Observatoire de la Côte d’Azur",
+                            "Country": "FR"
+                        },
+                        {
+                            "Institution Name": "Université Côte d'Azur",
+                            "Country": "FR"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Frédéric Giroire",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Laboratoire d'Informatique, Signaux et Systèmes de Sophia Antipolis",
+                            "Country": "FR"
+                        },
+                        {
+                            "Institution Name": "Computer Algorithms for Medicine",
+                            "Country": "AT"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Ramón Aparicio-Pardo",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Observatoire de la Côte d’Azur",
+                            "Country": "FR"
+                        },
+                        {
+                            "Institution Name": "Université Côte d'Azur",
+                            "Country": "FR"
+                        },
+                        {
+                            "Institution Name": "Laboratoire d'Informatique, Signaux et Systèmes de Sophia Antipolis",
+                            "Country": "FR"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Stéphane Pérennès",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Computer Algorithms for Medicine",
+                            "Country": "AT"
+                        },
+                        {
+                            "Institution Name": "Laboratoire d'Informatique, Signaux et Systèmes de Sophia Antipolis",
+                            "Country": "FR"
+                        },
+                        {
+                            "Institution Name": "Centre National de la Recherche Scientifique",
+                            "Country": "FR"
+                        },
+                        {
+                            "Institution Name": "Observatoire de la Côte d’Azur",
+                            "Country": "FR"
+                        },
+                        {
+                            "Institution Name": "Université Côte d'Azur",
+                            "Country": "FR"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Emanuele Natale",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Centre National de la Recherche Scientifique",
+                            "Country": "FR"
+                        },
+                        {
+                            "Institution Name": "Computer Algorithms for Medicine",
+                            "Country": "AT"
+                        },
+                        {
+                            "Institution Name": "Laboratoire d'Informatique, Signaux et Systèmes de Sophia Antipolis",
+                            "Country": "FR"
+                        },
+                        {
+                            "Institution Name": "Observatoire de la Côte d’Azur",
+                            "Country": "FR"
+                        },
+                        {
+                            "Institution Name": "Université Côte d'Azur",
+                            "Country": "FR"
+                        }
+                    ]
+                }
+            ],
+            "OpenAlex Referenced Works": [
+                "W2047395943",
+                "W2064769982",
+                "W2074801506",
+                "W2108598243",
+                "W2109488193",
+                "W2194775991",
+                "W2321002772",
+                "W2783538964",
+                "W2897268228",
+                "W2919018018",
+                "W2920534947",
+                "W2947681860",
+                "W2976382054",
+                "W2982083293",
+                "W3047468380",
+                "W3047544015",
+                "W3081088023",
+                "W3155230079",
+                "W3186647569",
+                "W3187542741",
+                "W4250589301",
+                "W4281805071",
+                "W4285815109",
+                "W4291972732",
+                "W4297944103",
+                "W4301496520",
+                "W4312199008",
+                "W4321380752",
+                "W4324127471",
+                "W4383749393",
+                "W4385764290",
+                "W4386260563",
+                "W5599802",
+                "W95608104"
+            ]
+        },
+        {
+            "Title": "A Cross-Architecture Evaluation of WebAssembly in the Cloud-Edge Continuum.",
+            "Year": "2024",
+            "DOI Number": "10.1109/CCGrid59990.2024.00046",
+            "OpenAlex Link": "https://api.openalex.org/works/doi:10.1109%2FCCGRID59990.2024.00046",
+            "Authors and Institutions": [
+                {
+                    "Author": "Sangeeta Kakati",
+                    "Institutions": [
+                        {
+                            "Institution Name": "University of Luxembourg",
+                            "Country": "LU"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Mats Brorsson",
+                    "Institutions": [
+                        {
+                            "Institution Name": "University of Luxembourg",
+                            "Country": "LU"
+                        }
+                    ]
+                }
+            ],
+            "OpenAlex Referenced Works": null
+        },
+        {
+            "Title": "A Formal Modeling and Verification Approach for IoT-Cloud Resource-Oriented Applications.",
+            "Year": "2024",
+            "DOI Number": "10.1109/CCGrid59990.2024.00047",
+            "OpenAlex Link": "https://api.openalex.org/works/doi:10.1109%2FCCGRID59990.2024.00047",
+            "Authors and Institutions": [
+                {
+                    "Author": "Yasmine Gara Hellal",
+                    "Institutions": [
+                        {
+                            "Institution Name": "University of Monastir",
+                            "Country": "TN"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Lazhar Hamel",
+                    "Institutions": [
+                        {
+                            "Institution Name": "University of Monastir",
+                            "Country": "TN"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Mohamed Graïet",
+                    "Institutions": [
+                        {
+                            "Institution Name": "IMT Atlantique",
+                            "Country": "FR"
+                        },
+                        {
+                            "Institution Name": "Laboratoire des Sciences du Numérique de Nantes",
+                            "Country": "FR"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Daniel Balouek‐Thomert",
+                    "Institutions": [
+                        {
+                            "Institution Name": "IMT Atlantique",
+                            "Country": "FR"
+                        },
+                        {
+                            "Institution Name": "Laboratoire des Sciences du Numérique de Nantes",
+                            "Country": "FR"
+                        }
+                    ]
+                }
+            ],
+            "OpenAlex Referenced Works": [
+                "W2234639732",
+                "W2533604149",
+                "W2615918556",
+                "W2744812396",
+                "W2765316286",
+                "W2779475380",
+                "W2792171464",
+                "W2952045878",
+                "W3100601320",
+                "W3138269143",
+                "W3138350790",
+                "W4223606048",
+                "W4244819751",
+                "W4284883455",
+                "W4292381902",
+                "W4316664313",
+                "W4320921492"
+            ]
+        },
+        {
+            "Title": "Demystifying Swarm Learning: An Emerging Decentralized Federated Learning System.",
+            "Year": "2024",
+            "DOI Number": "10.1109/CCGrid59990.2024.00049",
+            "OpenAlex Link": "https://api.openalex.org/works/doi:10.1109%2FCCGRID59990.2024.00049",
+            "Authors and Institutions": [
+                {
+                    "Author": "Jialiang Han",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Peking University",
+                            "Country": "CN"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Yudong Han",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Beijing Academy of Artificial Intelligence",
+                            "Country": "CN"
+                        },
+                        {
+                            "Institution Name": "Peking University",
+                            "Country": "CN"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Ying Zhang",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Peking University",
+                            "Country": "CN"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Jing Xiang",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Peking University",
+                            "Country": "CN"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Yun Ma",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Beijing Academy of Artificial Intelligence",
+                            "Country": "CN"
+                        },
+                        {
+                            "Institution Name": "Peking University",
+                            "Country": "CN"
+                        }
+                    ]
+                }
+            ],
+            "OpenAlex Referenced Works": [
+                "W2053637704",
+                "W2560674852",
+                "W2605800822",
+                "W2734941459",
+                "W2747329762",
+                "W2754529701",
+                "W3005429940",
+                "W3021676282",
+                "W3094306715",
+                "W3101156210",
+                "W3109723249",
+                "W3164573547",
+                "W3188714084",
+                "W3189316782",
+                "W3202962983",
+                "W3204737315",
+                "W3216362361"
+            ]
+        },
+        {
+            "Title": "Efficient and Budget-Balanced Decentralized Management of Federated Cloud and Edge Providers.",
+            "Year": "2024",
+            "DOI Number": "10.1109/CCGrid59990.2024.00050",
+            "OpenAlex Link": "https://api.openalex.org/works/doi:10.1109%2FCCGRID59990.2024.00050",
+            "Authors and Institutions": [
+                {
+                    "Author": "George Darzanos",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Athens University of Economics and Business",
+                            "Country": "GR"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Thanasis G. Papaioannou",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Athens University of Economics and Business",
+                            "Country": "GR"
+                        }
+                    ]
+                },
+                {
+                    "Author": "George D. Stamoulis",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Athens University of Economics and Business",
+                            "Country": "GR"
+                        }
+                    ]
+                }
+            ],
+            "OpenAlex Referenced Works": null
+        },
+        {
+            "Title": "Dual Adaptive Compression for Efficient Communication in Heterogeneous Federated Learning.",
+            "Year": "2024",
+            "DOI Number": "10.1109/CCGrid59990.2024.00035",
+            "OpenAlex Link": "https://api.openalex.org/works/doi:10.1109%2FCCGRID59990.2024.00035",
+            "Authors and Institutions": [
+                {
+                    "Author": "Yingchi Mao",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Hohai University",
+                            "Country": "CN"
+                        },
+                        {
+                            "Institution Name": "Ministry of Water Resources of the People's Republic of China",
+                            "Country": "CN"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Zibo Wang",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Hohai University",
+                            "Country": "CN"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Chenxin Li",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Hohai University",
+                            "Country": "CN"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Jiakai Zhang",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Hohai University",
+                            "Country": "CN"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Shufang Xu",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Hohai University",
+                            "Country": "CN"
+                        },
+                        {
+                            "Institution Name": "Ministry of Water Resources of the People's Republic of China",
+                            "Country": "CN"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Jie Wu",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Temple University",
+                            "Country": "US"
+                        }
+                    ]
+                }
+            ],
+            "OpenAlex Referenced Works": null
+        },
+        {
+            "Title": "Jingle: IoT-Informed Autoscaling for Efficient Resource Management in Edge Computing.",
+            "Year": "2024",
+            "DOI Number": "10.1109/CCGrid59990.2024.00052",
+            "OpenAlex Link": "https://api.openalex.org/works/doi:10.1109%2FCCGRID59990.2024.00052",
+            "Authors and Institutions": [
+                {
+                    "Author": "Yixuan Wang",
+                    "Institutions": [
+                        {
+                            "Institution Name": "University of Minnesota",
+                            "Country": "US"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Abhishek Chandra",
+                    "Institutions": [
+                        {
+                            "Institution Name": "University of Minnesota",
+                            "Country": "US"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Jon Weissman",
+                    "Institutions": [
+                        {
+                            "Institution Name": "University of Minnesota",
+                            "Country": "US"
+                        }
+                    ]
+                }
+            ],
+            "OpenAlex Referenced Works": null
+        },
+        {
+            "Title": "Leveraging Multi-Modal Data for Efficient Edge Inference Serving.",
+            "Year": "2024",
+            "DOI Number": "10.1109/CCGrid59990.2024.00053",
+            "OpenAlex Link": "https://api.openalex.org/works/doi:10.1109%2FCCGRID59990.2024.00053",
+            "Authors and Institutions": [
+                {
+                    "Author": "Joel Wolfrath",
+                    "Institutions": [
+                        {
+                            "Institution Name": "University of Minnesota",
+                            "Country": "US"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Anirudh Achanta",
+                    "Institutions": [
+                        {
+                            "Institution Name": "University of Minnesota",
+                            "Country": "US"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Abhishek Chandra",
+                    "Institutions": [
+                        {
+                            "Institution Name": "University of Minnesota",
+                            "Country": "US"
+                        }
+                    ]
+                }
+            ],
+            "OpenAlex Referenced Works": null
+        },
+        {
+            "Title": "MQTT2EdgePeer: a Robust and Scalable Brokerless Peer-to-Peer Edge Middleware for Topic-Based Publish/Subscribe.",
+            "Year": "2024",
+            "DOI Number": "10.1109/CCGrid59990.2024.00054",
+            "OpenAlex Link": "https://api.openalex.org/works/doi:10.1109%2FCCGRID59990.2024.00054",
+            "Authors and Institutions": [
+                {
+                    "Author": "Saeed Rahmani",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Delft University of Technology",
+                            "Country": "NL"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Amir Ali-Pour",
+                    "Institutions": [
+                        {
+                            "Institution Name": "École de Technologie Supérieure",
+                            "Country": "CA"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Camille Coti",
+                    "Institutions": [
+                        {
+                            "Institution Name": "École de Technologie Supérieure",
+                            "Country": "CA"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Julien Gascon‐Samson",
+                    "Institutions": [
+                        {
+                            "Institution Name": "École de Technologie Supérieure",
+                            "Country": "CA"
+                        }
+                    ]
+                }
+            ],
+            "OpenAlex Referenced Works": null
+        },
+        {
+            "Title": "EnC-IoT: An Efficient Encryption and Access Control Framework based on IPFS for Decentralized IoT.",
+            "Year": "2024",
+            "DOI Number": "10.1109/CCGrid59990.2024.00055",
+            "OpenAlex Link": "https://api.openalex.org/works/doi:10.1109%2FCCGRID59990.2024.00055",
+            "Authors and Institutions": [
+                {
+                    "Author": "Mansub Song",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Seoul National University",
+                            "Country": "KR"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Minji Lee",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Seoul National University",
+                            "Country": "KR"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Sunggon Kim",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Seoul National University of Science and Technology",
+                            "Country": "KR"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Hyeonsang Eom",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Seoul National University",
+                            "Country": "KR"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Yongseok Son",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Chung-Ang University",
+                            "Country": "KR"
+                        }
+                    ]
+                }
+            ],
+            "OpenAlex Referenced Works": [
+                "W1510795740",
+                "W1590823599",
+                "W1844512392",
+                "W2108072891",
+                "W2138001464",
+                "W2167293307",
+                "W2536021772",
+                "W2765635759",
+                "W2795148455",
+                "W2810752035",
+                "W2921608598",
+                "W2947641568",
+                "W2954963846",
+                "W2957283238",
+                "W3000548332",
+                "W3008052621",
+                "W3049560905",
+                "W3084020249",
+                "W3110474728",
+                "W3131804642",
+                "W3132292262",
+                "W3158098426",
+                "W3162648243",
+                "W3170992969",
+                "W3171918319",
+                "W4205089155",
+                "W4226244194",
+                "W4283806601",
+                "W4285162727",
+                "W4285891253",
+                "W4292230185",
+                "W4306735115"
+            ]
+        },
+        {
+            "Title": "High-throughput Real-time Edge Stream Processing with Topology-Aware Resource Matching.",
+            "Year": "2024",
+            "DOI Number": "10.1109/CCGrid59990.2024.00051",
+            "OpenAlex Link": "https://api.openalex.org/works/doi:10.1109%2FCCGRID59990.2024.00051",
+            "Authors and Institutions": [
+                {
+                    "Author": "Peng Kang",
+                    "Institutions": [
+                        {
+                            "Institution Name": "The University of Texas at San Antonio",
+                            "Country": "US"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Samee U. Khan",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Mississippi State University",
+                            "Country": "US"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Xiaobo Zhou",
+                    "Institutions": [
+                        {
+                            "Institution Name": "University of Colorado Colorado Springs",
+                            "Country": "US"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Palden Lama",
+                    "Institutions": [
+                        {
+                            "Institution Name": "The University of Texas at San Antonio",
+                            "Country": "US"
+                        }
+                    ]
+                }
+            ],
+            "OpenAlex Referenced Works": null
+        },
+        {
+            "Title": "SMART: Serverless Module Analysis and Recognition Technique for Managed Applications.",
+            "Year": "2024",
+            "DOI Number": "10.1109/CCGrid59990.2024.00057",
+            "OpenAlex Link": "https://api.openalex.org/works/doi:10.1109%2FCCGRID59990.2024.00057",
+            "Authors and Institutions": [
+                {
+                    "Author": "Adi Ashkenazi",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Ben-Gurion University of the Negev",
+                            "Country": "IL"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Edita Grolman",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Ben-Gurion University of the Negev",
+                            "Country": "IL"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Aviad Elyashar",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Ben-Gurion University of the Negev",
+                            "Country": "IL"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Dudu Mimran",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Ben-Gurion University of the Negev",
+                            "Country": "IL"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Oleg Brodt",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Ben-Gurion University of the Negev",
+                            "Country": "IL"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Yuval Elovici",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Ben-Gurion University of the Negev",
+                            "Country": "IL"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Asaf Shabtai",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Ben-Gurion University of the Negev",
+                            "Country": "IL"
+                        }
+                    ]
+                }
+            ],
+            "OpenAlex Referenced Works": null
+        },
+        {
+            "Title": "Benchmarking Performance of Various MQTT Broker Implementations in a Compute Continuum.",
+            "Year": "2024",
+            "DOI Number": "10.1109/CCGrid59990.2024.00048",
+            "OpenAlex Link": "https://api.openalex.org/works/doi:10.1109%2FCCGRID59990.2024.00048",
+            "Authors and Institutions": [
+                {
+                    "Author": "Jasenka Dizdarević",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Technische Universität Braunschweig",
+                            "Country": "DE"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Marc Michalke",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Technische Universität Braunschweig",
+                            "Country": "DE"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Admela Jukan",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Technische Universität Braunschweig",
+                            "Country": "DE"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Xavi Masip‐Bruin",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Universitat Politècnica de Catalunya",
+                            "Country": "ES"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Francesco D’Andria",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Atos (Spain)",
+                            "Country": "ES"
+                        }
+                    ]
+                }
+            ],
+            "OpenAlex Referenced Works": null
+        },
+        {
+            "Title": "Workflow Mini-Apps: Portable, Scalable, Tunable & Faithful Representations of Scientific Workflows.",
+            "Year": "2024",
+            "DOI Number": "10.1109/CCGrid59990.2024.00059",
+            "OpenAlex Link": "https://api.openalex.org/works/doi:10.1109%2FCCGRID59990.2024.00059",
+            "Authors and Institutions": [
+                {
+                    "Author": "Ozgur O. Kilic",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Brookhaven National Laboratory",
+                            "Country": "US"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Tianle Wang",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Brookhaven National Laboratory",
+                            "Country": "US"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Matteo Turilli",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Brookhaven National Laboratory",
+                            "Country": "US"
+                        }
+                    ]
+                },
+                {
+                    "Author": "М. И. Титов",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Brookhaven National Laboratory",
+                            "Country": "US"
+                        }
+                    ]
+                },
+                {
+                    "Author": "André Merzky",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Rutgers, The State University of New Jersey",
+                            "Country": "US"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Line Pouchard",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Brookhaven National Laboratory",
+                            "Country": "US"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Shantenu Jha",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Brookhaven National Laboratory",
+                            "Country": "US"
+                        }
+                    ]
+                }
+            ],
+            "OpenAlex Referenced Works": [
+                "W1968316338",
+                "W1998628172",
+                "W2010628428",
+                "W2089167435",
+                "W2266789289",
+                "W2583248453",
+                "W2613059020",
+                "W2627006767",
+                "W2756833711",
+                "W2758958876",
+                "W2903745441",
+                "W2914439491",
+                "W2937207334",
+                "W2940602161",
+                "W2963104418",
+                "W2963382388",
+                "W2988833907",
+                "W2997905860",
+                "W3023570844",
+                "W3082428588",
+                "W3097926858",
+                "W3108610641",
+                "W3155545561",
+                "W3203287979",
+                "W3203718464",
+                "W3212162267",
+                "W4211046286",
+                "W4225371225",
+                "W4281680789",
+                "W4285609472",
+                "W4312445729",
+                "W4312803142",
+                "W4385574907",
+                "W4386750028",
+                "W4387005232"
+            ]
+        },
+        {
+            "Title": "A Multi-Level, Multi-Scale Visual Analytics Approach to Assessment of Multifidelity HPC Systems.",
+            "Year": "2024",
+            "DOI Number": "10.1109/CCGrid59990.2024.00060",
+            "OpenAlex Link": "https://api.openalex.org/works/doi:10.1109%2FCCGRID59990.2024.00060",
+            "Authors and Institutions": [
+                {
+                    "Author": "Shilpika Shilpika",
+                    "Institutions": [
+                        {
+                            "Institution Name": "University of California, Davis",
+                            "Country": "US"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Bethany Lusch",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Argonne Leadership Computing Facility",
+                            "Country": null
+                        },
+                        {
+                            "Institution Name": "Argonne National Laboratory",
+                            "Country": "US"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Murali Emani",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Argonne Leadership Computing Facility",
+                            "Country": null
+                        },
+                        {
+                            "Institution Name": "Argonne National Laboratory",
+                            "Country": "US"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Filippo Simini",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Argonne Leadership Computing Facility",
+                            "Country": null
+                        },
+                        {
+                            "Institution Name": "Argonne National Laboratory",
+                            "Country": "US"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Venkatram Vishwanath",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Argonne Leadership Computing Facility",
+                            "Country": null
+                        },
+                        {
+                            "Institution Name": "Argonne National Laboratory",
+                            "Country": "US"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Michael E. Papka",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Argonne Leadership Computing Facility",
+                            "Country": null
+                        },
+                        {
+                            "Institution Name": "Argonne National Laboratory",
+                            "Country": "US"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Kwan-Liu Ma",
+                    "Institutions": [
+                        {
+                            "Institution Name": "University of California, Davis",
+                            "Country": "US"
+                        }
+                    ]
+                }
+            ],
+            "OpenAlex Referenced Works": [
+                "W1635210704",
+                "W1723433682",
+                "W191651381",
+                "W1987117298",
+                "W2014356541",
+                "W2070685860",
+                "W2106822551",
+                "W2135415614",
+                "W2136797898",
+                "W2152671254",
+                "W2164463086",
+                "W2164954534",
+                "W2168222921",
+                "W2169411532",
+                "W2291647668",
+                "W2341174028",
+                "W2528321558",
+                "W2536393303",
+                "W2725626595",
+                "W2760106839",
+                "W2786672974",
+                "W2899429778",
+                "W2906237435",
+                "W2944792999",
+                "W2963780177",
+                "W2983323473",
+                "W2988255906",
+                "W2999758851",
+                "W3003221115",
+                "W3023413531",
+                "W3099803807",
+                "W3102277797",
+                "W3104556657",
+                "W3105778049",
+                "W3133465160",
+                "W3140858947",
+                "W3162053627",
+                "W3183619936",
+                "W3198323422",
+                "W3213073403",
+                "W4225399130",
+                "W4232309466",
+                "W4285815164",
+                "W4297669536",
+                "W4302327172",
+                "W4320800818"
+            ]
+        },
+        {
+            "Title": "BlueJay: A Platform to Quantifying the Impact of Memory Latency on Datacenter Application Performance.",
+            "Year": "2024",
+            "DOI Number": "10.1109/CCGrid59990.2024.00061",
+            "OpenAlex Link": "https://api.openalex.org/works/doi:10.1109%2FCCGRID59990.2024.00061",
+            "Authors and Institutions": [
+                {
+                    "Author": "Jingchang Qin",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Zhejiang University",
+                            "Country": "CN"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Yiquan Chen",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Zhejiang University",
+                            "Country": "CN"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Shishun Cai",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Alibaba Group (United States)",
+                            "Country": "US"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Wenhai Lin",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Zhejiang University",
+                            "Country": "CN"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Jiexiong Xu",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Zhejiang University",
+                            "Country": "CN"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Zhen Jin",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Zhejiang University",
+                            "Country": "CN"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Lifa Cao",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Alibaba Group (United States)",
+                            "Country": "US"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Zijie Zheng",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Alibaba Group (United States)",
+                            "Country": "US"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Yu‐Zhong Zhang",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Alibaba Group (United States)",
+                            "Country": "US"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Yi Chen",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Zhejiang University",
+                            "Country": "CN"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Wenzhi Chen",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Zhejiang University",
+                            "Country": "CN"
+                        }
+                    ]
+                }
+            ],
+            "OpenAlex Referenced Works": null
+        },
+        {
+            "Title": "TacVar: Tackling Variability in Short-Interval Timing Measurements on X86 Processors.",
+            "Year": "2024",
+            "DOI Number": "10.1109/CCGrid59990.2024.00062",
+            "OpenAlex Link": "https://api.openalex.org/works/doi:10.1109%2FCCGRID59990.2024.00062",
+            "Authors and Institutions": [
+                {
+                    "Author": "Qiucheng Liao",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Shanghai Jiao Tong University",
+                            "Country": "CN"
+                        }
+                    ]
+                },
+                {
+                    "Author": "James Lin",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Shanghai Jiao Tong University",
+                            "Country": "CN"
+                        }
+                    ]
+                }
+            ],
+            "OpenAlex Referenced Works": null
+        },
+        {
+            "Title": "Multi-Objective Optimization for Joint Task Scheduling and Data Placement in Edge-based AIoT Systems: A Learning-Based Approach.",
+            "Year": "2024",
+            "DOI Number": "10.1109/CCGrid59990.2024.00056",
+            "OpenAlex Link": "https://api.openalex.org/works/doi:10.1109%2FCCGRID59990.2024.00056",
+            "Authors and Institutions": [
+                {
+                    "Author": "Mingyan Fang",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Anhui University",
+                            "Country": "CN"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Xiao Liu",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Deakin University",
+                            "Country": "AU"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Xu Jia",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Anhui University",
+                            "Country": "CN"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Aiting Yao",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Anhui University",
+                            "Country": "CN"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Fengjie Tang",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Anhui University",
+                            "Country": "CN"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Xuejun Li",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Anhui University",
+                            "Country": "CN"
+                        }
+                    ]
+                }
+            ],
+            "OpenAlex Referenced Works": null
+        },
+        {
+            "Title": "CINDA: Don't Ignore Instructions When Cloning Memory Access Behavior.",
+            "Year": "2024",
+            "DOI Number": "10.1109/CCGrid59990.2024.00063",
+            "OpenAlex Link": "https://api.openalex.org/works/doi:10.1109%2FCCGRID59990.2024.00063",
+            "Authors and Institutions": [
+                {
+                    "Author": "Wenhai Lin",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Zhejiang University",
+                            "Country": "CN"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Yiquan Chen",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Zhejiang University",
+                            "Country": "CN"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Jiexiong Xu",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Zhejiang University",
+                            "Country": "CN"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Zhen Jin",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Zhejiang University",
+                            "Country": "CN"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Peiyu Liu",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Zhejiang University",
+                            "Country": "CN"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Shishun Cai",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Alibaba Group (United States)",
+                            "Country": "US"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Yu‐Zhong Zhang",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Alibaba Group (United States)",
+                            "Country": "US"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Jingchang Qin",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Zhejiang University",
+                            "Country": "CN"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Yiquan Lin",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Zhejiang University",
+                            "Country": "CN"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Wenzhi Chen",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Zhejiang University",
+                            "Country": "CN"
+                        }
+                    ]
+                }
+            ],
+            "OpenAlex Referenced Works": null
+        },
+        {
+            "Title": "Quantifying and Modeling Irregular MPI Communication.",
+            "Year": "2024",
+            "DOI Number": "10.1109/CCGrid59990.2024.00065",
+            "OpenAlex Link": "https://api.openalex.org/works/doi:10.1109%2FCCGRID59990.2024.00065",
+            "Authors and Institutions": [
+                {
+                    "Author": "Carson Woods",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Emory University",
+                            "Country": "US"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Derek Schafer",
+                    "Institutions": [
+                        {
+                            "Institution Name": "University of New Mexico",
+                            "Country": "US"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Patrick G. Bridges",
+                    "Institutions": [
+                        {
+                            "Institution Name": "University of New Mexico",
+                            "Country": "US"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Anthony Skjellum",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Tennessee Technological University",
+                            "Country": "US"
+                        }
+                    ]
+                }
+            ],
+            "OpenAlex Referenced Works": null
+        },
+        {
+            "Title": "TianheStar: Orchestrating SSSP Applications on Tianhe Supercomputer.",
+            "Year": "2024",
+            "DOI Number": "10.1109/CCGrid59990.2024.00066",
+            "OpenAlex Link": "https://api.openalex.org/works/doi:10.1109%2FCCGRID59990.2024.00066",
+            "Authors and Institutions": [
+                {
+                    "Author": "Xinbiao Gan",
+                    "Institutions": [
+                        {
+                            "Institution Name": "National University of Defense Technology",
+                            "Country": "CN"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Qian Tang",
+                    "Institutions": [
+                        {
+                            "Institution Name": "National University of Defense Technology",
+                            "Country": "CN"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Feng Xiong",
+                    "Institutions": [
+                        {
+                            "Institution Name": "National University of Defense Technology",
+                            "Country": "CN"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Shijie Li",
+                    "Institutions": [
+                        {
+                            "Institution Name": "National University of Defense Technology",
+                            "Country": "CN"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Bo Yang",
+                    "Institutions": [
+                        {
+                            "Institution Name": "National University of Defense Technology",
+                            "Country": "CN"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Tiejun Li",
+                    "Institutions": [
+                        {
+                            "Institution Name": "National University of Defense Technology",
+                            "Country": "CN"
+                        }
+                    ]
+                }
+            ],
+            "OpenAlex Referenced Works": null
+        },
+        {
+            "Title": "XFBench: A Cross-Cloud Benchmark Suite for Evaluating FaaS Workflow Platforms.",
+            "Year": "2024",
+            "DOI Number": "10.1109/CCGrid59990.2024.00067",
+            "OpenAlex Link": "https://api.openalex.org/works/doi:10.1109%2FCCGRID59990.2024.00067",
+            "Authors and Institutions": [
+                {
+                    "Author": "Varad Kulkarni",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Indian Institute of Science Bangalore",
+                            "Country": "IN"
+                        }
+                    ]
+                },
+                {
+                    "Author": "N. Hanuman Reddy",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Indian Institute of Science Bangalore",
+                            "Country": "IN"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Tuhin Khare",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Indian Institute of Science Bangalore",
+                            "Country": "IN"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Harini Mohan",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Sri Sivasubramaniya Nadar College of Engineering",
+                            "Country": null
+                        },
+                        {
+                            "Institution Name": "Sri Ramachandra Institute of Higher Education and Research",
+                            "Country": "IN"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Jahnavi Murali",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Sri Sivasubramaniya Nadar College of Engineering",
+                            "Country": null
+                        },
+                        {
+                            "Institution Name": "Sri Ramachandra Institute of Higher Education and Research",
+                            "Country": "IN"
+                        }
+                    ]
+                },
+                {
+                    "Author": "A Mohith",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Sri Sivasubramaniya Nadar College of Engineering",
+                            "Country": null
+                        },
+                        {
+                            "Institution Name": "Sri Ramachandra Institute of Higher Education and Research",
+                            "Country": "IN"
+                        }
+                    ]
+                },
+                {
+                    "Author": "B Ragul",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Sri Sivasubramaniya Nadar College of Engineering",
+                            "Country": null
+                        },
+                        {
+                            "Institution Name": "Sri Ramachandra Institute of Higher Education and Research",
+                            "Country": "IN"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Sanjai Balajee",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Sri Sivasubramaniya Nadar College of Engineering",
+                            "Country": null
+                        },
+                        {
+                            "Institution Name": "Sri Ramachandra Institute of Higher Education and Research",
+                            "Country": "IN"
+                        }
+                    ]
+                },
+                {
+                    "Author": "S Sanjjit",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Sri Sivasubramaniya Nadar College of Engineering",
+                            "Country": null
+                        },
+                        {
+                            "Institution Name": "Sri Ramachandra Institute of Higher Education and Research",
+                            "Country": "IN"
+                        }
+                    ]
+                },
+                {
+                    "Author": "D Swathika",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Sri Sivasubramaniya Nadar College of Engineering",
+                            "Country": null
+                        },
+                        {
+                            "Institution Name": "Sri Ramachandra Institute of Higher Education and Research",
+                            "Country": "IN"
+                        }
+                    ]
+                },
+                {
+                    "Author": "S Vaishnavi",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Sri Sivasubramaniya Nadar College of Engineering",
+                            "Country": null
+                        },
+                        {
+                            "Institution Name": "Sri Ramachandra Institute of Higher Education and Research",
+                            "Country": "IN"
+                        }
+                    ]
+                },
+                {
+                    "Author": "V Yashasvee",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Sri Sivasubramaniya Nadar College of Engineering",
+                            "Country": null
+                        },
+                        {
+                            "Institution Name": "Sri Ramachandra Institute of Higher Education and Research",
+                            "Country": "IN"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Chitra Babu",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Sri Sivasubramaniya Nadar College of Engineering",
+                            "Country": null
+                        },
+                        {
+                            "Institution Name": "Sri Ramachandra Institute of Higher Education and Research",
+                            "Country": "IN"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Abhinandan S. Prasad",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Indian Institute of Technology Ropar",
+                            "Country": "IN"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Yogesh Simmhan",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Indian Institute of Science Bangalore",
+                            "Country": "IN"
+                        }
+                    ]
+                }
+            ],
+            "OpenAlex Referenced Works": [
+                "W2078962046",
+                "W2141181087",
+                "W2416989529",
+                "W2734941459",
+                "W2751079326",
+                "W2763018317",
+                "W2767083027",
+                "W2887739100",
+                "W2930508541",
+                "W2931122162",
+                "W2970215440",
+                "W2991101735",
+                "W2999202099",
+                "W3039510306",
+                "W3104065770",
+                "W3106266288",
+                "W3153413990",
+                "W3203063759",
+                "W3209366914",
+                "W3216045284",
+                "W4220810575",
+                "W4226029148",
+                "W4283328355",
+                "W4292969716",
+                "W4292973078",
+                "W4308399059",
+                "W4310870987",
+                "W4321636696",
+                "W4324268109",
+                "W4383749751",
+                "W4386099569"
+            ]
+        },
+        {
+            "Title": "Access-Based Carving of Data for Efficient Reproducibility of Containers.",
+            "Year": "2024",
+            "DOI Number": "10.1109/CCGrid59990.2024.00068",
+            "OpenAlex Link": "https://api.openalex.org/works/doi:10.1109%2FCCGRID59990.2024.00068",
+            "Authors and Institutions": [
+                {
+                    "Author": "Rohan Tikmany",
+                    "Institutions": [
+                        {
+                            "Institution Name": "DePaul University",
+                            "Country": "US"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Aniket Modi",
+                    "Institutions": [
+                        {
+                            "Institution Name": "DePaul University",
+                            "Country": "US"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Raffay Atiq",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Lahore University of Management Sciences",
+                            "Country": "PK"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Moaz Reyad",
+                    "Institutions": [
+                        {
+                            "Institution Name": "DePaul University",
+                            "Country": "US"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Ashish Gehani",
+                    "Institutions": [
+                        {
+                            "Institution Name": "SRI International",
+                            "Country": "US"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Tanu Malik",
+                    "Institutions": [
+                        {
+                            "Institution Name": "DePaul University",
+                            "Country": "US"
+                        }
+                    ]
+                }
+            ],
+            "OpenAlex Referenced Works": null
+        },
+        {
+            "Title": "Dataplug: Unlocking extreme data analytics with on-the-fly dynamic partitioning of unstructured data.",
+            "Year": "2024",
+            "DOI Number": "10.1109/CCGrid59990.2024.00069",
+            "OpenAlex Link": "https://api.openalex.org/works/doi:10.1109%2FCCGRID59990.2024.00069",
+            "Authors and Institutions": [
+                {
+                    "Author": "Aitor Arjona",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Universitat Rovira i Virgili",
+                            "Country": "ES"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Pedro Garcı́a-López",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Universitat Rovira i Virgili",
+                            "Country": "ES"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Daniel Barcelona-Pons",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Universitat Rovira i Virgili",
+                            "Country": "ES"
+                        }
+                    ]
+                }
+            ],
+            "OpenAlex Referenced Works": null
+        },
+        {
+            "Title": "HAPPIES: a History-Aware Efficient Cloud Resource Overcommitment System.",
+            "Year": "2024",
+            "DOI Number": "10.1109/CCGrid59990.2024.00064",
+            "OpenAlex Link": "https://api.openalex.org/works/doi:10.1109%2FCCGRID59990.2024.00064",
+            "Authors and Institutions": [
+                {
+                    "Author": "Ziwei Huang",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Institute of Computing Technology",
+                            "Country": "CN"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Shibo Tang",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Institute of Computing Technology",
+                            "Country": "CN"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Zihao Chang",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Institute of Computing Technology",
+                            "Country": "CN"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Lin Tan",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Shanghai First Maternity and Infant Hospital",
+                            "Country": "CN"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Qichao Lu",
+                    "Institutions": []
+                },
+                {
+                    "Author": "Jian Ouyang",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Nanjing University of Posts and Telecommunications",
+                            "Country": "CN"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Wenbin Lv",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Institute of Computing Technology",
+                            "Country": "CN"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Zhicheng Yao",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Institute of Computing Technology",
+                            "Country": "CN"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Yungang Bao",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Institute of Computing Technology",
+                            "Country": "CN"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Sa Wang",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Institute of Computing Technology",
+                            "Country": "CN"
+                        }
+                    ]
+                }
+            ],
+            "OpenAlex Referenced Works": null
+        },
+        {
+            "Title": "HeROcache: Storage-Aware Scheduling in Heterogeneous Serverless Edge - The Case of IDS.",
+            "Year": "2024",
+            "DOI Number": "10.1109/CCGrid59990.2024.00071",
+            "OpenAlex Link": "https://api.openalex.org/works/doi:10.1109%2FCCGRID59990.2024.00071",
+            "Authors and Institutions": [
+                {
+                    "Author": "Vincent Lannurien",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Institut de Recherche Technologique B-com",
+                            "Country": "FR"
+                        },
+                        {
+                            "Institution Name": "École nationale supérieure de techniques avancées Bretagne",
+                            "Country": "FR"
+                        },
+                        {
+                            "Institution Name": "Université de Bretagne Occidentale",
+                            "Country": "FR"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Camélia Slimani",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Université de Bretagne Occidentale",
+                            "Country": "FR"
+                        },
+                        {
+                            "Institution Name": "École nationale supérieure de techniques avancées Bretagne",
+                            "Country": "FR"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Laurent d’Orazio",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Institut de Recherche Technologique B-com",
+                            "Country": "FR"
+                        },
+                        {
+                            "Institution Name": "Institut de Recherche en Informatique et Systèmes Aléatoires",
+                            "Country": "FR"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Olivier Barais",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Institut de Recherche Technologique B-com",
+                            "Country": "FR"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Stéphane Paquelet",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Institut de Recherche Technologique B-com",
+                            "Country": "FR"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Jalil Boukhobza",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Université de Bretagne Occidentale",
+                            "Country": "FR"
+                        },
+                        {
+                            "Institution Name": "École nationale supérieure de techniques avancées Bretagne",
+                            "Country": "FR"
+                        }
+                    ]
+                }
+            ],
+            "OpenAlex Referenced Works": null
+        },
+        {
+            "Title": "IDIOMS: Index-powered Distributed Object-centric Metadata Search for Scientific Data Management.",
+            "Year": "2024",
+            "DOI Number": "10.1109/CCGrid59990.2024.00072",
+            "OpenAlex Link": "https://api.openalex.org/works/doi:10.1109%2FCCGRID59990.2024.00072",
+            "Authors and Institutions": [
+                {
+                    "Author": "Weidong Zhang",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Lawrence Berkeley National Laboratory",
+                            "Country": "US"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Houjun Tang",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Lawrence Berkeley National Laboratory",
+                            "Country": "US"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Suren Byna",
+                    "Institutions": [
+                        {
+                            "Institution Name": "The Ohio State University",
+                            "Country": "US"
+                        }
+                    ]
+                }
+            ],
+            "OpenAlex Referenced Works": null
+        },
+        {
+            "Title": "Hades: A Context-Aware Active Storage Framework for Accelerating Large-Scale Data Analysis.",
+            "Year": "2024",
+            "DOI Number": "10.1109/CCGrid59990.2024.00070",
+            "OpenAlex Link": "https://api.openalex.org/works/doi:10.1109%2FCCGRID59990.2024.00070",
+            "Authors and Institutions": [
+                {
+                    "Author": "Jaime Cernuda",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Illinois Institute of Technology",
+                            "Country": "US"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Luke Logan",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Illinois Institute of Technology",
+                            "Country": "US"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Ana Gainaru",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Oak Ridge National Laboratory",
+                            "Country": "US"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Scott Klasky",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Oak Ridge National Laboratory",
+                            "Country": "US"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Jay Lofstead",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Sandia National Laboratories",
+                            "Country": "US"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Anthony Kougkas",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Illinois Institute of Technology",
+                            "Country": "US"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Xian-He Sun",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Illinois Institute of Technology",
+                            "Country": "US"
+                        }
+                    ]
+                }
+            ],
+            "OpenAlex Referenced Works": null
+        },
+        {
+            "Title": "ZUFS: Enhancing Stability and Endurance in Mobile Devices with Integrated Zoned Namespaces in Universal Flash Storage.",
+            "Year": "2024",
+            "DOI Number": "10.1109/CCGrid59990.2024.00073",
+            "OpenAlex Link": "https://api.openalex.org/works/doi:10.1109%2FCCGRID59990.2024.00073",
+            "Authors and Institutions": [
+                {
+                    "Author": "Peiyu Yan",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Xiamen University",
+                            "Country": "CN"
+                        },
+                        {
+                            "Institution Name": "Institute of Art",
+                            "Country": "PL"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Bohong Zhu",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Xiamen University",
+                            "Country": "CN"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Zhirong Shen",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Xiamen University",
+                            "Country": "CN"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Jiwu Shu",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Xiamen University",
+                            "Country": "CN"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Jiadong Yang",
+                    "Institutions": [
+                        {
+                            "Institution Name": "China Electronics Technology Group Corporation",
+                            "Country": "CN"
+                        }
+                    ]
+                }
+            ],
+            "OpenAlex Referenced Works": [
+                "W2601548229",
+                "W2604445413",
+                "W2736736580",
+                "W2759027646",
+                "W2948028886",
+                "W2979599531",
+                "W2979853842",
+                "W3034079355",
+                "W3039182497",
+                "W3176880257",
+                "W3181035463",
+                "W3206379013",
+                "W4210430893",
+                "W4256122760",
+                "W4282031172",
+                "W4283397468",
+                "W4312456201",
+                "W4312581314",
+                "W4319796504",
+                "W4320538841",
+                "W4320855634",
+                "W4383816111",
+                "W4383816132"
+            ]
+        },
+        {
+            "Title": "Training Computer Scientists for the Challenges of Hybrid Quantum-Classical Computing.",
+            "Year": "2024",
+            "DOI Number": "10.1109/CCGrid59990.2024.00075",
+            "OpenAlex Link": "https://api.openalex.org/works/doi:10.1109%2FCCGRID59990.2024.00075",
+            "Authors and Institutions": [
+                {
+                    "Author": "Vincenzo De Maio",
+                    "Institutions": [
+                        {
+                            "Institution Name": "TU Wien",
+                            "Country": "AT"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Meerzhan Kanatbekova",
+                    "Institutions": [
+                        {
+                            "Institution Name": "TU Wien",
+                            "Country": "AT"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Felix Zilk",
+                    "Institutions": [
+                        {
+                            "Institution Name": "TU Wien",
+                            "Country": "AT"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Nicolai Friis",
+                    "Institutions": [
+                        {
+                            "Institution Name": "TU Wien",
+                            "Country": "AT"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Tobias Guggemos",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Vienna Center for Quantum Science and Technology",
+                            "Country": "AT"
+                        },
+                        {
+                            "Institution Name": "University of Vienna",
+                            "Country": "AT"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Ivona Brandić",
+                    "Institutions": [
+                        {
+                            "Institution Name": "TU Wien",
+                            "Country": "AT"
+                        }
+                    ]
+                }
+            ],
+            "OpenAlex Referenced Works": null
+        },
+        {
+            "Title": "Reviving Storage Systems Education in the 21st Century - An experience report.",
+            "Year": "2024",
+            "DOI Number": "10.1109/CCGrid59990.2024.00074",
+            "OpenAlex Link": "https://api.openalex.org/works/doi:10.1109%2FCCGRID59990.2024.00074",
+            "Authors and Institutions": [
+                {
+                    "Author": "Animesh Trivedi",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Vrije Universiteit Amsterdam",
+                            "Country": "NL"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Matthijs Jansen",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Vrije Universiteit Amsterdam",
+                            "Country": "NL"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Krijn Doekemeijer",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Vrije Universiteit Amsterdam",
+                            "Country": "NL"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Sacheendra Talluri",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Vrije Universiteit Amsterdam",
+                            "Country": "NL"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Nick Tehrany",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Delft University of Technology",
+                            "Country": "NL"
+                        }
+                    ]
+                }
+            ],
+            "OpenAlex Referenced Works": null
+        },
+        {
+            "Title": "A Preparing Approach to Manipulating Nested Data Structures.",
+            "Year": "2024",
+            "DOI Number": "10.1109/CCGrid59990.2024.00076",
+            "OpenAlex Link": "https://api.openalex.org/works/doi:10.1109%2FCCGRID59990.2024.00076",
+            "Authors and Institutions": [
+                {
+                    "Author": "Jeffrey N. Myers",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Western Kentucky University",
+                            "Country": "US"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Yaser Mowafi",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Western Kentucky University",
+                            "Country": "US"
+                        }
+                    ]
+                }
+            ],
+            "OpenAlex Referenced Works": [
+                "W2112866468",
+                "W2767894601",
+                "W2950854184",
+                "W4205695952",
+                "W4299855426"
+            ]
+        },
+        {
+            "Title": "Power of Insensitivity: Fixing Threshold Truncation of Switch Buffer Management Policies.",
+            "Year": "2024",
+            "DOI Number": "10.1109/CCGrid59990.2024.00078",
+            "OpenAlex Link": "https://api.openalex.org/works/doi:10.1109%2FCCGRID59990.2024.00078",
+            "Authors and Institutions": [
+                {
+                    "Author": "Yuan Lu",
+                    "Institutions": [
+                        {
+                            "Institution Name": "National University of Defense Technology",
+                            "Country": "CN"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Dinghuang Hu",
+                    "Institutions": [
+                        {
+                            "Institution Name": "National University of Defense Technology",
+                            "Country": "CN"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Guannan Zhang",
+                    "Institutions": [
+                        {
+                            "Institution Name": "National University of Defense Technology",
+                            "Country": "CN"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Jie Shen",
+                    "Institutions": [
+                        {
+                            "Institution Name": "National University of Defense Technology",
+                            "Country": "CN"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Dezun Dong",
+                    "Institutions": [
+                        {
+                            "Institution Name": "National University of Defense Technology",
+                            "Country": "CN"
+                        }
+                    ]
+                }
+            ],
+            "OpenAlex Referenced Works": null
+        },
+        {
+            "Title": "Sub-model Parallelism: A Scale-out Deployment Method for Large Multi-modal DNNs.",
+            "Year": "2024",
+            "DOI Number": "10.1109/CCGrid59990.2024.00081",
+            "OpenAlex Link": "https://api.openalex.org/works/doi:10.1109%2FCCGRID59990.2024.00081",
+            "Authors and Institutions": [
+                {
+                    "Author": "Tianhao Huang",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Shanghai Jiao Tong University",
+                            "Country": "CN"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Lingyu Sun",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Shanghai Jiao Tong University",
+                            "Country": "CN"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Xiaofeng Hou",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Shanghai Jiao Tong University",
+                            "Country": "CN"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Xiaozhi Zhu",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Shanghai Jiao Tong University",
+                            "Country": "CN"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Xinfeng Xia",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Shanghai Jiao Tong University",
+                            "Country": "CN"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Yutong Wang",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Shanghai Jiao Tong University",
+                            "Country": "CN"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Mingxi Chen",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Shanghai Jiao Tong University",
+                            "Country": "CN"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Chao Li",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Shanghai Jiao Tong University",
+                            "Country": "CN"
+                        }
+                    ]
+                }
+            ],
+            "OpenAlex Referenced Works": [
+                "W1562810981",
+                "W2119144962",
+                "W2581667525",
+                "W2619383789",
+                "W2787687216",
+                "W2791175987",
+                "W2800102422",
+                "W2968095426",
+                "W2983440318",
+                "W2985076077",
+                "W3012561096",
+                "W3035333188",
+                "W3035574168",
+                "W3047573586",
+                "W3082497237",
+                "W3092644015",
+                "W3108109508",
+                "W3148192459",
+                "W3172744943",
+                "W3214127792",
+                "W4287077228",
+                "W4293137985",
+                "W4312191382",
+                "W4312960084",
+                "W4313496563",
+                "W4313555487",
+                "W4383066393",
+                "W4386106400",
+                "W4387951092",
+                "W4391583791"
+            ]
+        },
+        {
+            "Title": "Data Sharing-Aware Algorithms for Task Allocation in Edge Computing Systems.",
+            "Year": "2024",
+            "DOI Number": "10.1109/CCGrid59990.2024.00082",
+            "OpenAlex Link": "https://api.openalex.org/works/doi:10.1109%2FCCGRID59990.2024.00082",
+            "Authors and Institutions": [
+                {
+                    "Author": "Sanaz Rabinia",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Wayne State University",
+                            "Country": "US"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Daniel Grosu",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Wayne State University",
+                            "Country": "US"
+                        }
+                    ]
+                }
+            ],
+            "OpenAlex Referenced Works": null
+        },
+        {
+            "Title": "Discovery of Floating-Point Differences Between NVIDIA and AMD GPUs.",
+            "Year": "2024",
+            "DOI Number": "10.1109/CCGrid59990.2024.00083",
+            "OpenAlex Link": "https://api.openalex.org/works/doi:10.1109%2FCCGRID59990.2024.00083",
+            "Authors and Institutions": [
+                {
+                    "Author": "Xinyi Li",
+                    "Institutions": [
+                        {
+                            "Institution Name": "University of Utah",
+                            "Country": "US"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Ang Li",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Pacific Northwest National Laboratory",
+                            "Country": "US"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Bo Fang",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Pacific Northwest National Laboratory",
+                            "Country": "US"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Katarzyna Świrydowicz",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Pacific Northwest National Laboratory",
+                            "Country": "US"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Ignacio Laguna",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Lawrence Livermore National Laboratory",
+                            "Country": "US"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Ganesh Gopalakrishnan",
+                    "Institutions": [
+                        {
+                            "Institution Name": "University of Utah",
+                            "Country": "US"
+                        }
+                    ]
+                }
+            ],
+            "OpenAlex Referenced Works": null
+        },
+        {
+            "Title": "Incorporating Memory Sharing-awareness in Multi-VM Live Migration.",
+            "Year": "2024",
+            "DOI Number": "10.1109/CCGrid59990.2024.00084",
+            "OpenAlex Link": "https://api.openalex.org/works/doi:10.1109%2FCCGRID59990.2024.00084",
+            "Authors and Institutions": [
+                {
+                    "Author": "Roja Eswaran",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Binghamton University",
+                            "Country": "US"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Mingjie Yan",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Binghamton University",
+                            "Country": "US"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Kartik Gopalan",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Binghamton University",
+                            "Country": "US"
+                        }
+                    ]
+                }
+            ],
+            "OpenAlex Referenced Works": null
+        },
+        {
+            "Title": "Towards an Intelligent Framework for Scientific Computational Steering in Big Data Systems.",
+            "Year": "2024",
+            "DOI Number": "10.1109/CCGrid59990.2024.00085",
+            "OpenAlex Link": "https://api.openalex.org/works/doi:10.1109%2FCCGRID59990.2024.00085",
+            "Authors and Institutions": [
+                {
+                    "Author": "Yijie Zhang",
+                    "Institutions": [
+                        {
+                            "Institution Name": "New Jersey Institute of Technology",
+                            "Country": "US"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Chase Q. Wu",
+                    "Institutions": [
+                        {
+                            "Institution Name": "New Jersey Institute of Technology",
+                            "Country": "US"
+                        }
+                    ]
+                }
+            ],
+            "OpenAlex Referenced Works": null
+        },
+        {
+            "Title": "A Distributed, Asynchronous Algorithm for Large-Scale Internet Network Topology Analysis.",
+            "Year": "2024",
+            "DOI Number": "10.1109/CCGrid59990.2024.00080",
+            "OpenAlex Link": "https://api.openalex.org/works/doi:10.1109%2FCCGRID59990.2024.00080",
+            "Authors and Institutions": [
+                {
+                    "Author": "Youssef Elmougy",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Georgia Institute of Technology",
+                            "Country": "US"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Akihiro Hayashi",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Georgia Institute of Technology",
+                            "Country": "US"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Vivek Sarkar",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Georgia Institute of Technology",
+                            "Country": "US"
+                        }
+                    ]
+                }
+            ],
+            "OpenAlex Referenced Works": null
+        },
+        {
+            "Title": "Multi-view Negative-Free Contrastive Learning on Adaptive Graph Augmentation.",
+            "Year": "2024",
+            "DOI Number": "10.1109/CCGrid59990.2024.00041",
+            "OpenAlex Link": "https://api.openalex.org/works/doi:10.1109%2FCCGRID59990.2024.00041",
+            "Authors and Institutions": [
+                {
+                    "Author": "Xingyue Wang",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Hainan University",
+                            "Country": "CN"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Huazhong Liu",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Hainan University",
+                            "Country": "CN"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Jihong Ding",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Hainan University",
+                            "Country": "CN"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Peng Hui Tan",
+                    "Institutions": [
+                        {
+                            "Institution Name": "North China Institute of Aerospace Engineering",
+                            "Country": "CN"
+                        }
+                    ]
+                }
+            ],
+            "OpenAlex Referenced Works": null
+        },
+        {
+            "Title": "Efficient Data-Parallel Continual Learning with Asynchronous Distributed Rehearsal Buffers.",
+            "Year": "2024",
+            "DOI Number": "10.1109/CCGrid59990.2024.00036",
+            "OpenAlex Link": "https://api.openalex.org/works/doi:10.1109%2FCCGRID59990.2024.00036",
+            "Authors and Institutions": [
+                {
+                    "Author": "Thomas Bouvier",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Université de Rennes",
+                            "Country": "FR"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Bogdan Nicolae",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Argonne National Laboratory",
+                            "Country": "US"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Hugo Chaugier",
+                    "Institutions": []
+                },
+                {
+                    "Author": "Alexandru Costan",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Institut de Recherche en Informatique et Systèmes Aléatoires",
+                            "Country": "FR"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Ian Foster",
+                    "Institutions": [
+                        {
+                            "Institution Name": "University of Chicago",
+                            "Country": "US"
+                        },
+                        {
+                            "Institution Name": "Argonne National Laboratory",
+                            "Country": "US"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Gabriel Antoniu",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Institut de Recherche en Informatique et Systèmes Aléatoires",
+                            "Country": "FR"
+                        }
+                    ]
+                }
+            ],
+            "OpenAlex Referenced Works": [
+                "W1682403713",
+                "W2036963181",
+                "W2037979274",
+                "W2194775991",
+                "W2622263826",
+                "W2804746922",
+                "W2900042580",
+                "W2902456977",
+                "W2912515466",
+                "W2937394206",
+                "W2963433607",
+                "W2972087877",
+                "W2999368783",
+                "W3000677656",
+                "W3004004277",
+                "W3011858437",
+                "W3035414587",
+                "W3035525746",
+                "W3045086295",
+                "W3048346032",
+                "W3091688522",
+                "W3091958244",
+                "W3092475441",
+                "W3097816393",
+                "W3138303811",
+                "W3204102604",
+                "W3206418153",
+                "W4283070722",
+                "W4287814827",
+                "W4295789386",
+                "W4301239768",
+                "W4310385035",
+                "W4399151215"
+            ]
+        },
+        {
+            "Title": "STRonG: System Topology Risk Analysis on Graphs.",
+            "Year": "2024",
+            "DOI Number": "10.1109/CCGrid59990.2024.00058",
+            "OpenAlex Link": "https://api.openalex.org/works/doi:10.1109%2FCCGRID59990.2024.00058",
+            "Authors and Institutions": [
+                {
+                    "Author": "Lars Schneidenbach",
+                    "Institutions": [
+                        {
+                            "Institution Name": "IBM Research - Thomas J. Watson Research Center",
+                            "Country": "US"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Sandhya Koteshwara",
+                    "Institutions": []
+                },
+                {
+                    "Author": "Martin Ohmacht",
+                    "Institutions": []
+                },
+                {
+                    "Author": "Apoorve Mohan",
+                    "Institutions": [
+                        {
+                            "Institution Name": "IBM (United States)",
+                            "Country": "US"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Eun Kyung Lee",
+                    "Institutions": []
+                }
+            ],
+            "OpenAlex Referenced Works": null
+        }
     ]
 }

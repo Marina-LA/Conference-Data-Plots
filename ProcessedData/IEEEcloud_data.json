@@ -18642,8 +18642,8 @@
             "Title": "Policy-Driven Configuration Management for NoSQL.",
             "Year": "2015",
             "Predominant Continent": [
-                "AS",
-                "NA"
+                "NA",
+                "AS"
             ],
             "Authors and Institutions": [
                 {
@@ -20452,8 +20452,8 @@
             "Title": "Keyword Search over Shared Cloud Data without Secure Channel or Authority.",
             "Year": "2015",
             "Predominant Continent": [
-                "AS",
-                "NA"
+                "NA",
+                "AS"
             ],
             "Authors and Institutions": [
                 {
@@ -22007,8 +22007,8 @@
             "Title": "A MapReduce Algorithm for Polygon Retrieval in Geospatial Analysis.",
             "Year": "2015",
             "Predominant Continent": [
-                "SA",
-                "NA"
+                "NA",
+                "SA"
             ],
             "Authors and Institutions": [
                 {
@@ -24760,8 +24760,8 @@
             "Title": "Towards Cloud-Aware Policy Enforcement with Universal Cloud Classification as a Service (UCCaaS) in Software Defined Networks.",
             "Year": "2016",
             "Predominant Continent": [
-                "EU",
-                "NA"
+                "NA",
+                "EU"
             ],
             "Authors and Institutions": [
                 {
@@ -35044,8 +35044,8 @@
             "Title": "Machine Learning for Performance Prediction of Spark Cloud Applications.",
             "Year": "2019",
             "Predominant Continent": [
-                "SA",
-                "EU"
+                "EU",
+                "SA"
             ],
             "Authors and Institutions": [
                 {
@@ -50832,11 +50832,21 @@
                 },
                 {
                     "Author": "K. Kim",
-                    "Institutions": []
+                    "Institutions": [
+                        {
+                            "Institution Name": "GlueSys",
+                            "Country": "KR"
+                        }
+                    ]
                 },
                 {
                     "Author": "Sungsoon Park",
-                    "Institutions": []
+                    "Institutions": [
+                        {
+                            "Institution Name": "GlueSys",
+                            "Country": "KR"
+                        }
+                    ]
                 },
                 {
                     "Author": "Jinkyu Jeong",
@@ -50862,8 +50872,8 @@
             "Title": "Performance Analysis of Apache OpenWhisk Across the Edge-Cloud Continuum.",
             "Year": "2023",
             "Predominant Continent": [
-                "AS",
-                "EU"
+                "EU",
+                "AS"
             ],
             "Authors and Institutions": [
                 {
@@ -50939,7 +50949,12 @@
             "Authors and Institutions": [
                 {
                     "Author": "Cristiano E. Caon",
-                    "Institutions": []
+                    "Institutions": [
+                        {
+                            "Institution Name": "Addepar, Inc.",
+                            "Country": "US"
+                        }
+                    ]
                 },
                 {
                     "Author": "Jie Li",
@@ -51051,7 +51066,12 @@
                 },
                 {
                     "Author": "Patricia Arroba",
-                    "Institutions": []
+                    "Institutions": [
+                        {
+                            "Institution Name": "Universidad Politécnica de Madrid",
+                            "Country": "ES"
+                        }
+                    ]
                 },
                 {
                     "Author": "Rajkumar Buyya",
@@ -51363,15 +51383,27 @@
         {
             "Title": "Hybrid Serverless Platform for Service Function Chains.",
             "Year": "2023",
-            "Predominant Continent": [],
+            "Predominant Continent": [
+                "AS"
+            ],
             "Authors and Institutions": [
                 {
                     "Author": "Karthik Sheshadri",
-                    "Institutions": []
+                    "Institutions": [
+                        {
+                            "Institution Name": "Cloud Systems Lab, Indian Institute of Science",
+                            "Country": "IN"
+                        }
+                    ]
                 },
                 {
                     "Author": "J. Lakshmi",
-                    "Institutions": []
+                    "Institutions": [
+                        {
+                            "Institution Name": "Cloud Systems Lab, Indian Institute of Science",
+                            "Country": "IN"
+                        }
+                    ]
                 }
             ]
         },
@@ -51676,15 +51708,30 @@
                 },
                 {
                     "Author": "Ramakrishnan Durairajan",
-                    "Institutions": []
+                    "Institutions": [
+                        {
+                            "Institution Name": "University of Oregon",
+                            "Country": "US"
+                        }
+                    ]
                 },
                 {
                     "Author": "Reza Rejaie",
-                    "Institutions": []
+                    "Institutions": [
+                        {
+                            "Institution Name": "University of Oregon",
+                            "Country": "US"
+                        }
+                    ]
                 },
                 {
                     "Author": "Walter Willinger",
-                    "Institutions": []
+                    "Institutions": [
+                        {
+                            "Institution Name": "NIKSUN, Inc.",
+                            "Country": "US"
+                        }
+                    ]
                 }
             ]
         },
@@ -51764,6 +51811,2557 @@
                         {
                             "Institution Name": "Delft University of Technology",
                             "Country": "NL"
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "2024": [
+        {
+            "Title": "Fed2PKD: Bridging Model Diversity in Federated Learning via Two-Pronged Knowledge Distillation.",
+            "Year": "2024",
+            "Predominant Continent": [
+                "AS"
+            ],
+            "Authors and Institutions": [
+                {
+                    "Author": "Zaipeng Xie",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Hohai University",
+                            "Country": "CN"
+                        },
+                        {
+                            "Institution Name": "Ministry of Water Resources of the People's Republic of China",
+                            "Country": "CN"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Han Xu",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Hohai University",
+                            "Country": "CN"
+                        },
+                        {
+                            "Institution Name": "Ministry of Water Resources of the People's Republic of China",
+                            "Country": "CN"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Xing Gao",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Hohai University",
+                            "Country": "CN"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Junchen Jiang",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Hohai University",
+                            "Country": "CN"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Ruiqian Han",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Hohai University",
+                            "Country": "CN"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "Title": "Resource Efficient Bayesian Optimization.",
+            "Year": "2024",
+            "Predominant Continent": [
+                "NA"
+            ],
+            "Authors and Institutions": [
+                {
+                    "Author": "Namit Juneja",
+                    "Institutions": [
+                        {
+                            "Institution Name": "University at Buffalo, State University of New York",
+                            "Country": "US"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Varun Chandola",
+                    "Institutions": [
+                        {
+                            "Institution Name": "University at Buffalo, State University of New York",
+                            "Country": "US"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Jarosław Żola",
+                    "Institutions": [
+                        {
+                            "Institution Name": "University at Buffalo, State University of New York",
+                            "Country": "US"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Olga Wodo",
+                    "Institutions": [
+                        {
+                            "Institution Name": "University at Buffalo, State University of New York",
+                            "Country": "US"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Parth Desai",
+                    "Institutions": [
+                        {
+                            "Institution Name": "University at Buffalo, State University of New York",
+                            "Country": "US"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "Title": "Intent-Driven Multi-Engine Observability Dataflows for Heterogeneous Geo-Distributed Clouds.",
+            "Year": "2024",
+            "Predominant Continent": [
+                "AS"
+            ],
+            "Authors and Institutions": [
+                {
+                    "Author": "Aishwariya Chakraborty",
+                    "Institutions": [
+                        {
+                            "Institution Name": "IBM Research - India",
+                            "Country": "IN"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Anand Eswaran",
+                    "Institutions": [
+                        {
+                            "Institution Name": "IBM Research - India",
+                            "Country": "IN"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Pankaj Thorat",
+                    "Institutions": [
+                        {
+                            "Institution Name": "IBM Research - India",
+                            "Country": "IN"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Mudit Verma",
+                    "Institutions": [
+                        {
+                            "Institution Name": "IBM Research - India",
+                            "Country": "IN"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Pranjal Gupta",
+                    "Institutions": [
+                        {
+                            "Institution Name": "IBM Research - India",
+                            "Country": "IN"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Praveen Jayachandran",
+                    "Institutions": [
+                        {
+                            "Institution Name": "IBM Research - India",
+                            "Country": "IN"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "Title": "Improving Federated Learning Through Low-Entropy Client Sampling Based on Learned High-Level Features.",
+            "Year": "2024",
+            "Predominant Continent": [
+                "NA"
+            ],
+            "Authors and Institutions": [
+                {
+                    "Author": "Waqwoya Abebe",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Iowa State University",
+                            "Country": "US"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Pablo Muñoz",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Intel (United States)",
+                            "Country": "US"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Ali Jannesari",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Iowa State University",
+                            "Country": "US"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "Title": "ArcaDB: A Disaggregated Query Engine for Heterogenous Computational Environments.",
+            "Year": "2024",
+            "Predominant Continent": [
+                "NA"
+            ],
+            "Authors and Institutions": [
+                {
+                    "Author": "Kristalys Ruiz-Rohena",
+                    "Institutions": [
+                        {
+                            "Institution Name": "University of Puerto Rico-Mayaguez",
+                            "Country": "PR"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Manuel Rodríguez-Martínez",
+                    "Institutions": [
+                        {
+                            "Institution Name": "University of Puerto Rico-Mayaguez",
+                            "Country": "PR"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "Title": "Tracemesh: Scalable and Streaming Sampling for Distributed Traces.",
+            "Year": "2024",
+            "Predominant Continent": [
+                "AS"
+            ],
+            "Authors and Institutions": [
+                {
+                    "Author": "Zhuangbin Chen",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Sun Yat-sen University",
+                            "Country": "CN"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Zhihan Jiang",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Chinese University of Hong Kong",
+                            "Country": "HK"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Yuxin Su",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Sun Yat-sen University",
+                            "Country": "CN"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Michael R. Lyu",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Chinese University of Hong Kong",
+                            "Country": "HK"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Zibin Zheng",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Sun Yat-sen University",
+                            "Country": "CN"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "Title": "Predictive Placement of Geo-Distributed Blockchain Nodes for Performance Guarantee.",
+            "Year": "2024",
+            "Predominant Continent": [
+                "AS"
+            ],
+            "Authors and Institutions": [
+                {
+                    "Author": "Junseok Lee",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Korea University",
+                            "Country": "KR"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Yeonho Yoo",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Korea University",
+                            "Country": "KR"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Chuck Yoo",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Korea University",
+                            "Country": "KR"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Gyeongsik Yang",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Korea University",
+                            "Country": "KR"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "Title": "Telemetry-Driven Microservices Orchestration in Cloud-Edge Environments.",
+            "Year": "2024",
+            "Predominant Continent": [
+                "EU"
+            ],
+            "Authors and Institutions": [
+                {
+                    "Author": "Angelo Marchese",
+                    "Institutions": [
+                        {
+                            "Institution Name": "University of Catania",
+                            "Country": "IT"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Orazio Tomarchio",
+                    "Institutions": [
+                        {
+                            "Institution Name": "University of Catania",
+                            "Country": "IT"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "Title": "Dynamic Workflow Scheduling in the Edge-Cloud Continuum: Optimizing Runtimes Under Budget Constraints.",
+            "Year": "2024",
+            "Predominant Continent": [
+                "EU"
+            ],
+            "Authors and Institutions": [
+                {
+                    "Author": "Stefan Pedratscher",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Universität Innsbruck",
+                            "Country": "AT"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Thomas Fahringer",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Universität Innsbruck",
+                            "Country": "AT"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Juan Aznar-Poveda",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Universität Innsbruck",
+                            "Country": "AT"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "Title": "FastMig: Leveraging FastFreeze to Establish Robust Service Liquidity in Cloud 2.0.",
+            "Year": "2024",
+            "Predominant Continent": [
+                "AS",
+                "NA"
+            ],
+            "Authors and Institutions": [
+                {
+                    "Author": "Sorawit Manatura",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Kasetsart University",
+                            "Country": "TH"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Thanawat Chanikaphon",
+                    "Institutions": [
+                        {
+                            "Institution Name": "University of Louisiana at Lafayette",
+                            "Country": "US"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Chantana Chantrapornchai",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Kasetsart University",
+                            "Country": "TH"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Mohsen Amini Salehi",
+                    "Institutions": [
+                        {
+                            "Institution Name": "University of North Texas",
+                            "Country": "US"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "Title": "Rethinking Application Container Networking in a Multi-Cluster World.",
+            "Year": "2024",
+            "Predominant Continent": [
+                "AS"
+            ],
+            "Authors and Institutions": [
+                {
+                    "Author": "Chander Govindarajan",
+                    "Institutions": [
+                        {
+                            "Institution Name": "IBM Research - India",
+                            "Country": "IN"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Priyanka Naik",
+                    "Institutions": [
+                        {
+                            "Institution Name": "IBM Research - India",
+                            "Country": "IN"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Kavya Govindarajan",
+                    "Institutions": [
+                        {
+                            "Institution Name": "IBM Research - India",
+                            "Country": "IN"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Seep Goel",
+                    "Institutions": [
+                        {
+                            "Institution Name": "IBM Research - India",
+                            "Country": "IN"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "Title": "Optimizing Simultaneous Autoscaling for Serverless Cloud Computing.",
+            "Year": "2024",
+            "Predominant Continent": [
+                "NA"
+            ],
+            "Authors and Institutions": [
+                {
+                    "Author": "Harold Ship",
+                    "Institutions": [
+                        {
+                            "Institution Name": "IBM Research - Haifa",
+                            "Country": "IL"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Evgeny Shindin",
+                    "Institutions": [
+                        {
+                            "Institution Name": "IBM Research - Haifa",
+                            "Country": "IL"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Chen Wang",
+                    "Institutions": [
+                        {
+                            "Institution Name": "IBM (United States)",
+                            "Country": "US"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Diana Arroyo",
+                    "Institutions": [
+                        {
+                            "Institution Name": "IBM Research - Almaden",
+                            "Country": "US"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Asser Tantawi",
+                    "Institutions": [
+                        {
+                            "Institution Name": "IBM (United States)",
+                            "Country": "US"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "Title": "Availability-Guarantee and Traffic Optimization Virtual Machine Placement in 5G Cloud Datacenters.",
+            "Year": "2024",
+            "Predominant Continent": [
+                "AS"
+            ],
+            "Authors and Institutions": [
+                {
+                    "Author": "Wencong Yang",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Zhengzhou University",
+                            "Country": "CN"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Shouyi Yang",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Zhengzhou University",
+                            "Country": "CN"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Yi Yue",
+                    "Institutions": [
+                        {
+                            "Institution Name": "China United Network Communications Group (China)",
+                            "Country": "CN"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Chen Tian",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Zhengzhou University",
+                            "Country": "CN"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Wanming Hao",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Zhengzhou University",
+                            "Country": "CN"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "Title": "UniNet: Accelerating the Container Network Data Plane in IaaS Clouds.",
+            "Year": "2024",
+            "Predominant Continent": [
+                "NA"
+            ],
+            "Authors and Institutions": [
+                {
+                    "Author": "Yuan Ma",
+                    "Institutions": [
+                        {
+                            "Institution Name": "UIUC",
+                            "Country": "US"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Scott Smith",
+                    "Institutions": [
+                        {
+                            "Institution Name": "UIUC",
+                            "Country": "US"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Bill Dai",
+                    "Institutions": [
+                        {
+                            "Institution Name": "UIUC",
+                            "Country": "US"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Hubertus Franke",
+                    "Institutions": [
+                        {
+                            "Institution Name": "IBM Research",
+                            "Country": "US"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Bharat Sukhwani",
+                    "Institutions": [
+                        {
+                            "Institution Name": "IBM Research",
+                            "Country": "US"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Sameh Asaad",
+                    "Institutions": [
+                        {
+                            "Institution Name": "IBM Research",
+                            "Country": "US"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Jinjun Xiong",
+                    "Institutions": [
+                        {
+                            "Institution Name": "University at Buffalo, State University of New York",
+                            "Country": "US"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Volodymyr Kindratenko",
+                    "Institutions": [
+                        {
+                            "Institution Name": "UIUC",
+                            "Country": "US"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Deming Chen",
+                    "Institutions": [
+                        {
+                            "Institution Name": "UIUC",
+                            "Country": "US"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "Title": "CRISP: Confidentiality, Rollback, and Integrity Storage Protection for Confidential Cloud-Native Computing.",
+            "Year": "2024",
+            "Predominant Continent": [
+                "EU"
+            ],
+            "Authors and Institutions": [
+                {
+                    "Author": "Ardhi Putra Pratama Hartono",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Technische Universität Dresden",
+                            "Country": "DE"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Andrey Brito",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Universidade Federal de Campina Grande",
+                            "Country": "BR"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Christof Fetzer",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Technische Universität Dresden",
+                            "Country": "DE"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "Title": "The Impact of Low-Entropy on Chunking Techniques for Data Deduplication.",
+            "Year": "2024",
+            "Predominant Continent": [
+                "NA"
+            ],
+            "Authors and Institutions": [
+                {
+                    "Author": "Mu'men Al Jarah",
+                    "Institutions": [
+                        {
+                            "Institution Name": "University of Waterloo",
+                            "Country": "CA"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Sreeharsha Udayashankar",
+                    "Institutions": [
+                        {
+                            "Institution Name": "University of Waterloo",
+                            "Country": "CA"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Abdelrahman Baba",
+                    "Institutions": [
+                        {
+                            "Institution Name": "University of Waterloo",
+                            "Country": "CA"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Samer Al-Kiswany",
+                    "Institutions": [
+                        {
+                            "Institution Name": "University of Waterloo",
+                            "Country": "CA"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "Title": "A Secure Framework for Continuous Compliance across Heterogeneous Policy Validation Points.",
+            "Year": "2024",
+            "Predominant Continent": [
+                "AS"
+            ],
+            "Authors and Institutions": [
+                {
+                    "Author": "Takumi Yanagawa",
+                    "Institutions": [
+                        {
+                            "Institution Name": "IBM Research - Tokyo",
+                            "Country": "JP"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Vikas Agarwal",
+                    "Institutions": [
+                        {
+                            "Institution Name": "IBM Research - India",
+                            "Country": "IN"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Yuji Watanabe",
+                    "Institutions": [
+                        {
+                            "Institution Name": "IBM Research - Tokyo",
+                            "Country": "JP"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Lou Degenaro",
+                    "Institutions": [
+                        {
+                            "Institution Name": "IBM Research - Thomas J. Watson Research Center",
+                            "Country": "US"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Anca Sailer",
+                    "Institutions": [
+                        {
+                            "Institution Name": "IBM Research - Thomas J. Watson Research Center",
+                            "Country": "US"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "Title": "Data Splitting Based Double Layer Encryption for Secure Ciphertext Deduplication in Cloud Storage.",
+            "Year": "2024",
+            "Predominant Continent": [
+                "AS"
+            ],
+            "Authors and Institutions": [
+                {
+                    "Author": "Xin Tang",
+                    "Institutions": [
+                        {
+                            "Institution Name": "University of International Relations",
+                            "Country": "CN"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Luchao Jin",
+                    "Institutions": [
+                        {
+                            "Institution Name": "University of International Relations",
+                            "Country": "CN"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "Title": "Securing AI Inference in the Cloud: Is CPU-GPU Confidential Computing Ready?",
+            "Year": "2024",
+            "Predominant Continent": [
+                "NA"
+            ],
+            "Authors and Institutions": [
+                {
+                    "Author": "Apoorve Mohan",
+                    "Institutions": [
+                        {
+                            "Institution Name": "IBM Research - Thomas J. Watson Research Center",
+                            "Country": "US"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Mengmei Ye",
+                    "Institutions": [
+                        {
+                            "Institution Name": "IBM Research - Thomas J. Watson Research Center",
+                            "Country": "US"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Hubertus Franke",
+                    "Institutions": [
+                        {
+                            "Institution Name": "IBM Research - Thomas J. Watson Research Center",
+                            "Country": "US"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Mudhakar Srivatsa",
+                    "Institutions": [
+                        {
+                            "Institution Name": "IBM Research - Thomas J. Watson Research Center",
+                            "Country": "US"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Zhuoran Liu",
+                    "Institutions": [
+                        {
+                            "Institution Name": "IBM Research - Thomas J. Watson Research Center",
+                            "Country": "US"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Nelson Mimura Gonzalez",
+                    "Institutions": [
+                        {
+                            "Institution Name": "IBM Research - Thomas J. Watson Research Center",
+                            "Country": "US"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "Title": "TempoScale: A Cloud Workloads Prediction Approach Integrating Short-Term and Long-Term Information.",
+            "Year": "2024",
+            "Predominant Continent": [
+                "AS"
+            ],
+            "Authors and Institutions": [
+                {
+                    "Author": "Linfeng Wen",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Shenzhen Institutes of Advanced Technology",
+                            "Country": "CN"
+                        },
+                        {
+                            "Institution Name": "Chinese Academy of Sciences",
+                            "Country": "CN"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Minxian Xu",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Shenzhen Institutes of Advanced Technology",
+                            "Country": "CN"
+                        },
+                        {
+                            "Institution Name": "Chinese Academy of Sciences",
+                            "Country": "CN"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Adel N. Toosi",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Monash University",
+                            "Country": "AU"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Kejiang Ye",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Shenzhen Institutes of Advanced Technology",
+                            "Country": "CN"
+                        },
+                        {
+                            "Institution Name": "Chinese Academy of Sciences",
+                            "Country": "CN"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "Title": "Optimizing Cloud Workloads: Autoscaling with Reinforcement Learning.",
+            "Year": "2024",
+            "Predominant Continent": [
+                "AS"
+            ],
+            "Authors and Institutions": [
+                {
+                    "Author": "Pratik Mishra",
+                    "Institutions": [
+                        {
+                            "Institution Name": "IBM Research - India",
+                            "Country": "IN"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Sandeep Hans",
+                    "Institutions": [
+                        {
+                            "Institution Name": "IBM Research - India",
+                            "Country": "IN"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Diptikalyan Saha",
+                    "Institutions": [
+                        {
+                            "Institution Name": "IBM Research - India",
+                            "Country": "IN"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Pratibha Moogi",
+                    "Institutions": [
+                        {
+                            "Institution Name": "IBM Research - India",
+                            "Country": "IN"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "Title": "LGDCloudSim: A Resource Management Simulation System for Large-Scale Geographically Distributed Cloud Data Center Scenarios.",
+            "Year": "2024",
+            "Predominant Continent": [
+                "AS"
+            ],
+            "Authors and Institutions": [
+                {
+                    "Author": "Jiawen Liu",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Tongji University",
+                            "Country": "CN"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Yuehao Xu",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Tongji University",
+                            "Country": "CN"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Binbin Feng",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Tongji University",
+                            "Country": "CN"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Zhijun Ding",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Tongji University",
+                            "Country": "CN"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "Title": "One System Call Hook to Rule All TEE OSes in the Cloud.",
+            "Year": "2024",
+            "Predominant Continent": [
+                "AS"
+            ],
+            "Authors and Institutions": [
+                {
+                    "Author": "Kailun Qin",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Shanghai Jiao Tong University",
+                            "Country": "CN"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Dawu Gu",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Shanghai Jiao Tong University",
+                            "Country": "CN"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "Title": "Towards Sustainable Cloud Software Systems through Energy-Aware Code Smell Refactoring.",
+            "Year": "2024",
+            "Predominant Continent": [
+                "NA"
+            ],
+            "Authors and Institutions": [
+                {
+                    "Author": "Asif Imran",
+                    "Institutions": [
+                        {
+                            "Institution Name": "California State University, San Marcos",
+                            "Country": "US"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Tevfik Kosar",
+                    "Institutions": [
+                        {
+                            "Institution Name": "University at Buffalo, State University of New York",
+                            "Country": "US"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Jarosław Żola",
+                    "Institutions": [
+                        {
+                            "Institution Name": "University at Buffalo, State University of New York",
+                            "Country": "US"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Muhammed Fatih Bulut",
+                    "Institutions": [
+                        {
+                            "Institution Name": "IBM TJ Watson Research Center",
+                            "Country": "US"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "Title": "Analysis and Optimization for Passive One-way Delay Measurement Tax in Container Networks.",
+            "Year": "2024",
+            "Predominant Continent": [
+                "AS"
+            ],
+            "Authors and Institutions": [
+                {
+                    "Author": "Jingzhao Xie",
+                    "Institutions": [
+                        {
+                            "Institution Name": "University of Electronic Science and Technology of China",
+                            "Country": "CN"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Chongxi Ma",
+                    "Institutions": [
+                        {
+                            "Institution Name": "University of Electronic Science and Technology of China",
+                            "Country": "CN"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Hongfang Yu",
+                    "Institutions": [
+                        {
+                            "Institution Name": "University of Electronic Science and Technology of China",
+                            "Country": "CN"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Long Luo",
+                    "Institutions": [
+                        {
+                            "Institution Name": "University of Electronic Science and Technology of China",
+                            "Country": "CN"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Gang Sun",
+                    "Institutions": [
+                        {
+                            "Institution Name": "University of Electronic Science and Technology of China",
+                            "Country": "CN"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "Title": "Genetic Algorithm with Repair Method for Deadline-Constrained IoT Workflow Scheduling in Fog-Cloud Computing.",
+            "Year": "2024",
+            "Predominant Continent": [
+                "OC"
+            ],
+            "Authors and Institutions": [
+                {
+                    "Author": "Amer Saeed",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Victoria University of Wellington",
+                            "Country": "NZ"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Gang Chen",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Victoria University of Wellington",
+                            "Country": "NZ"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Hui Ma",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Victoria University of Wellington",
+                            "Country": "NZ"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Qiang Fu",
+                    "Institutions": [
+                        {
+                            "Institution Name": "RMIT University",
+                            "Country": "AU"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "Title": "Syscall Analysis for Resource Stress Identification for Container Network Functions.",
+            "Year": "2024",
+            "Predominant Continent": [
+                "AS"
+            ],
+            "Authors and Institutions": [
+                {
+                    "Author": "Chander Govindarajan",
+                    "Institutions": [
+                        {
+                            "Institution Name": "IBM Research - India",
+                            "Country": "IN"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Priyanka Naik",
+                    "Institutions": [
+                        {
+                            "Institution Name": "IBM Research - India",
+                            "Country": "IN"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Kavya Govindarajan",
+                    "Institutions": [
+                        {
+                            "Institution Name": "IBM Research - India",
+                            "Country": "IN"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Seep Goel",
+                    "Institutions": [
+                        {
+                            "Institution Name": "IBM Research - India",
+                            "Country": "IN"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Palanivel Kodeswaran",
+                    "Institutions": [
+                        {
+                            "Institution Name": "IBM Research - India",
+                            "Country": "IN"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Sayandeep Sen",
+                    "Institutions": [
+                        {
+                            "Institution Name": "IBM Research - India",
+                            "Country": "IN"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Praveen Javachandran",
+                    "Institutions": [
+                        {
+                            "Institution Name": "IBM Research - India",
+                            "Country": "IN"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "Title": "S2TAR: Shared Secure Trusted Accelerators with Reconfiguration for Machine Learning in the Cloud.",
+            "Year": "2024",
+            "Predominant Continent": [
+                "NA"
+            ],
+            "Authors and Institutions": [
+                {
+                    "Author": "Wei Ren",
+                    "Institutions": [
+                        {
+                            "Institution Name": "University of Illinois Urbana-Champaign",
+                            "Country": "US"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Sandhya Koteshwara",
+                    "Institutions": [
+                        {
+                            "Institution Name": "IBM Research",
+                            "Country": "US"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Mengmei Ye",
+                    "Institutions": [
+                        {
+                            "Institution Name": "IBM Research",
+                            "Country": "US"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Hubertus Franke",
+                    "Institutions": [
+                        {
+                            "Institution Name": "IBM Research",
+                            "Country": "US"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Deming Chen",
+                    "Institutions": [
+                        {
+                            "Institution Name": "University of Illinois Urbana-Champaign",
+                            "Country": "US"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "Title": "Harmonia: Accurate Federated Learning with All-Inclusive Dataset.",
+            "Year": "2024",
+            "Predominant Continent": [
+                "AS"
+            ],
+            "Authors and Institutions": [
+                {
+                    "Author": "Wonmi Choi",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Korea University",
+                            "Country": "KR"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Juyoung Ahn",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Korea University",
+                            "Country": "KR"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Yeonho Yoo",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Korea University",
+                            "Country": "KR"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Chuck Yoo",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Korea University",
+                            "Country": "KR"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Gyeongsik Yang",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Korea University",
+                            "Country": "KR"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "Title": "SAM: Subseries Augmentation-Based Meta-Learning for Generalizing AIOps Models in Multi-Cloud Migration.",
+            "Year": "2024",
+            "Predominant Continent": [],
+            "Authors and Institutions": [
+                {
+                    "Author": "Xi Yang",
+                    "Institutions": []
+                },
+                {
+                    "Author": "Paulito Palmes",
+                    "Institutions": []
+                },
+                {
+                    "Author": "Saurabh W. Jha",
+                    "Institutions": []
+                },
+                {
+                    "Author": "Bekir Turkkan",
+                    "Institutions": []
+                },
+                {
+                    "Author": "Gerard Vanloo",
+                    "Institutions": []
+                },
+                {
+                    "Author": "Frank Bagehorn",
+                    "Institutions": []
+                },
+                {
+                    "Author": "Chandra Narayanaswami",
+                    "Institutions": []
+                },
+                {
+                    "Author": "Larisa Shwartz",
+                    "Institutions": []
+                },
+                {
+                    "Author": "Naoki Abe",
+                    "Institutions": []
+                },
+                {
+                    "Author": "Deng‐Guang Yu",
+                    "Institutions": []
+                },
+                {
+                    "Author": "Daby Sow",
+                    "Institutions": []
+                }
+            ]
+        },
+        {
+            "Title": "A Comparative Analysis of Generative Adversarial Networks for Generating Cloud Workloads.",
+            "Year": "2024",
+            "Predominant Continent": [
+                "NA"
+            ],
+            "Authors and Institutions": [
+                {
+                    "Author": "Niloofar Sharifisadr",
+                    "Institutions": [
+                        {
+                            "Institution Name": "University of Calgary",
+                            "Country": "CA"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Diwakar Krishnamurthy",
+                    "Institutions": [
+                        {
+                            "Institution Name": "University of Calgary",
+                            "Country": "CA"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Yasaman Amannejad",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Mount Royal University",
+                            "Country": "CA"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "Title": "Distributed Dataflow Across the Edge-Cloud Continuum.",
+            "Year": "2024",
+            "Predominant Continent": [
+                "NA"
+            ],
+            "Authors and Institutions": [
+                {
+                    "Author": "Tyler Ekaireb",
+                    "Institutions": [
+                        {
+                            "Institution Name": "University of California, Santa Barbara",
+                            "Country": "US"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Lukas Brand",
+                    "Institutions": [
+                        {
+                            "Institution Name": "University of Applied Sciences Landshut",
+                            "Country": "DE"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Nagarjun Avaraddy",
+                    "Institutions": [
+                        {
+                            "Institution Name": "University of California, Santa Barbara",
+                            "Country": "US"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Markus Mock",
+                    "Institutions": [
+                        {
+                            "Institution Name": "University of Applied Sciences Landshut",
+                            "Country": "DE"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Chandra Krintz",
+                    "Institutions": [
+                        {
+                            "Institution Name": "University of California, Santa Barbara",
+                            "Country": "US"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Rich Wolski",
+                    "Institutions": [
+                        {
+                            "Institution Name": "University of California, Santa Barbara",
+                            "Country": "US"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "Title": "SimuScale: Optimizing Parameters for Autoscaling of Serverless Edge Functions Through Co-Simulation.",
+            "Year": "2024",
+            "Predominant Continent": [
+                "EU"
+            ],
+            "Authors and Institutions": [
+                {
+                    "Author": "Philipp Raith",
+                    "Institutions": [
+                        {
+                            "Institution Name": "TU Wien",
+                            "Country": "AT"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Stefan Nastić",
+                    "Institutions": [
+                        {
+                            "Institution Name": "TU Wien",
+                            "Country": "AT"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Schahram Dustdar",
+                    "Institutions": [
+                        {
+                            "Institution Name": "TU Wien",
+                            "Country": "AT"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "Title": "Decoding Logs for Automatic Metric Identification.",
+            "Year": "2024",
+            "Predominant Continent": [],
+            "Authors and Institutions": [
+                {
+                    "Author": "Pranjal Gupta",
+                    "Institutions": []
+                },
+                {
+                    "Author": "Prateeti Mohapatra",
+                    "Institutions": []
+                },
+                {
+                    "Author": "Debanjana Kar",
+                    "Institutions": []
+                },
+                {
+                    "Author": "Seema Nagar",
+                    "Institutions": []
+                },
+                {
+                    "Author": "Jae‐wook Ahn",
+                    "Institutions": []
+                },
+                {
+                    "Author": "Amit Paradkar",
+                    "Institutions": []
+                },
+                {
+                    "Author": "Mudhakar Srivatsa",
+                    "Institutions": []
+                }
+            ]
+        },
+        {
+            "Title": "A Technique for Secure Variant Calling on Human Genome Sequences Using SmartNICs.",
+            "Year": "2024",
+            "Predominant Continent": [
+                "NA"
+            ],
+            "Authors and Institutions": [
+                {
+                    "Author": "Praveen Rao",
+                    "Institutions": [
+                        {
+                            "Institution Name": "University of Missouri",
+                            "Country": "US"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Khawar Shehzad",
+                    "Institutions": [
+                        {
+                            "Institution Name": "University of Missouri",
+                            "Country": "US"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "Title": "SpotKV: Improving Read Throughput of KVS by I/O-Aware Cache and Adaptive Cuckoo Filters.",
+            "Year": "2024",
+            "Predominant Continent": [
+                "NA"
+            ],
+            "Authors and Institutions": [
+                {
+                    "Author": "Yi Liu",
+                    "Institutions": [
+                        {
+                            "Institution Name": "University of California, Santa Cruz",
+                            "Country": "US"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Ruilin Zhou",
+                    "Institutions": [
+                        {
+                            "Institution Name": "University of California, Santa Cruz",
+                            "Country": "US"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Yuhang Gan",
+                    "Institutions": [
+                        {
+                            "Institution Name": "University of California, Santa Cruz",
+                            "Country": "US"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Qian Chen",
+                    "Institutions": [
+                        {
+                            "Institution Name": "University of California, Santa Cruz",
+                            "Country": "US"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "Title": "SlackAuto: Slack-Aware Vertical Autoscaling of CPU Resources for Serverless Computing.",
+            "Year": "2024",
+            "Predominant Continent": [
+                "AS"
+            ],
+            "Authors and Institutions": [
+                {
+                    "Author": "Hyeonjun Jang",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Konkuk University",
+                            "Country": "KR"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Hyun‐Wook Jin",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Konkuk University",
+                            "Country": "KR"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "Title": "OS4C: An Open-Source SR-IOV System for SmartNIC-Based Cloud Platforms.",
+            "Year": "2024",
+            "Predominant Continent": [],
+            "Authors and Institutions": [
+                {
+                    "Author": "Scott Smith",
+                    "Institutions": []
+                },
+                {
+                    "Author": "Yuan Ma",
+                    "Institutions": []
+                },
+                {
+                    "Author": "Marissa Lanz",
+                    "Institutions": []
+                },
+                {
+                    "Author": "Bill Dai",
+                    "Institutions": []
+                },
+                {
+                    "Author": "Martin Ohmacht",
+                    "Institutions": []
+                },
+                {
+                    "Author": "Bharat Sukhwani",
+                    "Institutions": []
+                },
+                {
+                    "Author": "Hubertus Franke",
+                    "Institutions": []
+                },
+                {
+                    "Author": "Volodymyr Kindratenko",
+                    "Institutions": []
+                },
+                {
+                    "Author": "Deming Chen",
+                    "Institutions": []
+                }
+            ]
+        },
+        {
+            "Title": "Enabling Programmable Metric Flows.",
+            "Year": "2024",
+            "Predominant Continent": [
+                "AS"
+            ],
+            "Authors and Institutions": [
+                {
+                    "Author": "Aishwariya Chakraborty",
+                    "Institutions": [
+                        {
+                            "Institution Name": "IBM Research - India",
+                            "Country": "IN"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Chander Govindarajan",
+                    "Institutions": [
+                        {
+                            "Institution Name": "IBM Research - India",
+                            "Country": "IN"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Kavya Govindarajan",
+                    "Institutions": [
+                        {
+                            "Institution Name": "IBM Research - India",
+                            "Country": "IN"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Priyanka Naik",
+                    "Institutions": [
+                        {
+                            "Institution Name": "IBM Research - India",
+                            "Country": "IN"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Seep Goel",
+                    "Institutions": [
+                        {
+                            "Institution Name": "IBM Research - India",
+                            "Country": "IN"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "Title": "Budget Aware Performance Test Selection for Microservices.",
+            "Year": "2024",
+            "Predominant Continent": [],
+            "Authors and Institutions": [
+                {
+                    "Author": "Quinn Cooper",
+                    "Institutions": []
+                },
+                {
+                    "Author": "Diwakar Krishnamurthy",
+                    "Institutions": []
+                },
+                {
+                    "Author": "Yasaman Amannejad",
+                    "Institutions": []
+                }
+            ]
+        },
+        {
+            "Title": "CodeSift: An LLM-Based Reference-Less Framework for Automatic Code Validation.",
+            "Year": "2024",
+            "Predominant Continent": [
+                "AS"
+            ],
+            "Authors and Institutions": [
+                {
+                    "Author": "Pooja Aggarwal",
+                    "Institutions": [
+                        {
+                            "Institution Name": "IBM Research - India",
+                            "Country": "IN"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Oishik Chatterjee",
+                    "Institutions": [
+                        {
+                            "Institution Name": "IBM Research - India",
+                            "Country": "IN"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Ting Dai",
+                    "Institutions": []
+                },
+                {
+                    "Author": "Prateeti Mohapatra",
+                    "Institutions": [
+                        {
+                            "Institution Name": "IBM Research - India",
+                            "Country": "IN"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Brent Paulovicks",
+                    "Institutions": []
+                },
+                {
+                    "Author": "Brad Blancett",
+                    "Institutions": [
+                        {
+                            "Institution Name": "IBM (United States)",
+                            "Country": "US"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Arthur De Magalhaes",
+                    "Institutions": [
+                        {
+                            "Institution Name": "IBM (United States)",
+                            "Country": "US"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "Title": "Delay-Aware Service Caching in Edge Cloud: An Adversarial Semi-Bandits Learning-Based Approach.",
+            "Year": "2024",
+            "Predominant Continent": [
+                "AS"
+            ],
+            "Authors and Institutions": [
+                {
+                    "Author": "Jinpeng Li",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Chongqing University",
+                            "Country": "CN"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Yunni Xia",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Chongqing University",
+                            "Country": "CN"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Xiaoning Sun",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Chongqing Normal University",
+                            "Country": "CN"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Peng Chen",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Xihua University",
+                            "Country": "CN"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Xiaobo Li",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Chongqing Academy of Animal Science",
+                            "Country": "CN"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Jiafeng Feng",
+                    "Institutions": [
+                        {
+                            "Institution Name": "China Huadian Corporation (China)",
+                            "Country": "CN"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "Title": "Efficient Application Image Management in the Compute Continuum: A Vertex Cover Approach Based on the Think-Like-A-Vertex Paradigm.",
+            "Year": "2024",
+            "Predominant Continent": [
+                "EU"
+            ],
+            "Authors and Institutions": [
+                {
+                    "Author": "Emanuele Carlini",
+                    "Institutions": [
+                        {
+                            "Institution Name": "National Research Council",
+                            "Country": "IT"
+                        },
+                        {
+                            "Institution Name": "Istituto di Scienza e Tecnologie dell'Informazione \"Alessandro Faedo\"",
+                            "Country": "IT"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Patrizio Dazzi",
+                    "Institutions": [
+                        {
+                            "Institution Name": "University of Pisa",
+                            "Country": "IT"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Antonios Makris",
+                    "Institutions": [
+                        {
+                            "Institution Name": "National Technical University of Athens",
+                            "Country": "GR"
+                        },
+                        {
+                            "Institution Name": "Harokopio University of Athens",
+                            "Country": "GR"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Matteo Mordacchini",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Institute of Informatics and Telematics",
+                            "Country": "IT"
+                        },
+                        {
+                            "Institution Name": "National Research Council",
+                            "Country": "IT"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Θεόδωρος Θεοδωρόπουλος",
+                    "Institutions": [
+                        {
+                            "Institution Name": "National Technical University of Athens",
+                            "Country": "GR"
+                        },
+                        {
+                            "Institution Name": "Harokopio University of Athens",
+                            "Country": "GR"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Konstantinos Tserpes",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Harokopio University of Athens",
+                            "Country": "GR"
+                        },
+                        {
+                            "Institution Name": "National Technical University of Athens",
+                            "Country": "GR"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "Title": "Coordinating Compaction Between LSM-Tree Based Key-Value Stores for Edge Federation.",
+            "Year": "2024",
+            "Predominant Continent": [
+                "AS"
+            ],
+            "Authors and Institutions": [
+                {
+                    "Author": "Jeeseob Kim",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Sogang University",
+                            "Country": "KR"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Honghyeon Yoo",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Sogang University",
+                            "Country": "KR"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Seungjae Lee",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Sogang University",
+                            "Country": "KR"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Hongsu Byun",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Sogang University",
+                            "Country": "KR"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Sungyong Park",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Sogang University",
+                            "Country": "KR"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "Title": "The State of FaaS: An Analysis of Public Functions-as-a-Service Providers.",
+            "Year": "2024",
+            "Predominant Continent": [
+                "EU"
+            ],
+            "Authors and Institutions": [
+                {
+                    "Author": "Nnamdi Ekwe-Ekwe",
+                    "Institutions": [
+                        {
+                            "Institution Name": "University of St Andrews",
+                            "Country": "GB"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Lucas Amos",
+                    "Institutions": []
+                }
+            ]
+        },
+        {
+            "Title": "Process-Based Efficient Power Level Exporter.",
+            "Year": "2024",
+            "Predominant Continent": [
+                "AS"
+            ],
+            "Authors and Institutions": [
+                {
+                    "Author": "Marcelo Amaral",
+                    "Institutions": [
+                        {
+                            "Institution Name": "IBM Research - Tokyo",
+                            "Country": "JP"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Huamin Chen",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Red Hat (United States)",
+                            "Country": "US"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Tatsuhiro Chiba",
+                    "Institutions": [
+                        {
+                            "Institution Name": "IBM Research - Tokyo",
+                            "Country": "JP"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Rina Nakazawa",
+                    "Institutions": [
+                        {
+                            "Institution Name": "IBM Research - Tokyo",
+                            "Country": "JP"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Sunyanan Choochotkaew",
+                    "Institutions": [
+                        {
+                            "Institution Name": "IBM Research - Tokyo",
+                            "Country": "JP"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Eun Kyung Lee",
+                    "Institutions": []
+                },
+                {
+                    "Author": "Tamar Eilam",
+                    "Institutions": []
+                }
+            ]
+        },
+        {
+            "Title": "Optimizing Context Caching Using a Novel Hybrid Strategy for Dynamically Monitoring Access Probability.",
+            "Year": "2024",
+            "Predominant Continent": [
+                "OC"
+            ],
+            "Authors and Institutions": [
+                {
+                    "Author": "Ashish Manchanda",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Swinburne University of Technology",
+                            "Country": "AU"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Prem Prakash Jayaraman",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Swinburne University of Technology",
+                            "Country": "AU"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Abhik Banerjee",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Swinburne University of Technology",
+                            "Country": "AU"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Arkady Zaslavsky",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Deakin University",
+                            "Country": "AU"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "Title": "iContinuum: An Emulation Toolkit for Intent-Based Computing Across the Edge-to-Cloud Continuum.",
+            "Year": "2024",
+            "Predominant Continent": [
+                "OC"
+            ],
+            "Authors and Institutions": [
+                {
+                    "Author": "Negin Akbari",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Monash University",
+                            "Country": "AU"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Adel N. Toosi",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Monash University",
+                            "Country": "AU"
+                        }
+                    ]
+                },
+                {
+                    "Author": "John Grundy",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Monash University",
+                            "Country": "AU"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Hourieh Khalajzadeh",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Deakin University",
+                            "Country": "AU"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Mohammad Sadegh Aslanpour",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Monash University",
+                            "Country": "AU"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Shashikant Ilager",
+                    "Institutions": [
+                        {
+                            "Institution Name": "TU Wien",
+                            "Country": "AT"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "Title": "DRLQ: A Deep Reinforcement Learning-based Task Placement for Quantum Cloud Computing.",
+            "Year": "2024",
+            "Predominant Continent": [
+                "OC"
+            ],
+            "Authors and Institutions": [
+                {
+                    "Author": "Hoa T. Nguyen",
+                    "Institutions": [
+                        {
+                            "Institution Name": "The University of Melbourne",
+                            "Country": "AU"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Muhammad Usman",
+                    "Institutions": [
+                        {
+                            "Institution Name": "The University of Melbourne",
+                            "Country": "AU"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Rajkumar Buyya",
+                    "Institutions": [
+                        {
+                            "Institution Name": "The University of Melbourne",
+                            "Country": "AU"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "Title": "GASS: GPU Automated Sharing at Scale.",
+            "Year": "2024",
+            "Predominant Continent": [
+                "NA"
+            ],
+            "Authors and Institutions": [
+                {
+                    "Author": "Jiafan Zhu",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Google (United States)",
+                            "Country": "US"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Xiao Zhang",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Google (United States)",
+                            "Country": "US"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Konstantinos Menychtas",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Google (United States)",
+                            "Country": "US"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Zhijing Gene Qin",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Google (United States)",
+                            "Country": "US"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Steven Hand",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Google (United States)",
+                            "Country": "US"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Dragoş Sbîrlea",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Google (United States)",
+                            "Country": "US"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Yuang Liu",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Google (United States)",
+                            "Country": "US"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "Title": "Self Adjusting Log Observability for Cloud Native Applications.",
+            "Year": "2024",
+            "Predominant Continent": [
+                "AS"
+            ],
+            "Authors and Institutions": [
+                {
+                    "Author": "Divya Pathak",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Indian Institute of Technology Hyderabad",
+                            "Country": "IN"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Mudit Verma",
+                    "Institutions": [
+                        {
+                            "Institution Name": "IBM Research - India",
+                            "Country": "IN"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Aishwariya Chakraborty",
+                    "Institutions": [
+                        {
+                            "Institution Name": "IBM Research - India",
+                            "Country": "IN"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Harshit Kumar",
+                    "Institutions": [
+                        {
+                            "Institution Name": "IBM Research - India",
+                            "Country": "IN"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "Title": "MediatorDNN: Contention Mitigation for Co-Located DNN Inference Jobs.",
+            "Year": "2024",
+            "Predominant Continent": [
+                "NA"
+            ],
+            "Authors and Institutions": [
+                {
+                    "Author": "Seyed Morteza Nabavinejad",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Worcester Polytechnic Institute",
+                            "Country": "US"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Sherief Reda",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Brown University",
+                            "Country": "US"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Tian Guo",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Worcester Polytechnic Institute",
+                            "Country": "US"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "Title": "Carbon-Aware and Fault-Tolerant Migration of Deep Learning Workloads in the Geo-Distributed Cloud.",
+            "Year": "2024",
+            "Predominant Continent": [
+                "AS"
+            ],
+            "Authors and Institutions": [
+                {
+                    "Author": "Jeonghyeon Park",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Dong-A University",
+                            "Country": "KR"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Daero Kim",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Dong-A University",
+                            "Country": "KR"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Ji‐Seon Kim",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Dong-A University",
+                            "Country": "KR"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Jungkyu Han",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Dong-A University",
+                            "Country": "KR"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Sejin Chun",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Dong-A University",
+                            "Country": "KR"
                         }
                     ]
                 }

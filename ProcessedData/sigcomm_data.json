@@ -26277,8 +26277,8 @@
             "Title": "Achieving consistent low latency for wireless real-time communications with the shortest control loop.",
             "Year": "2022",
             "Predominant Continent": [
-                "AS",
-                "NA"
+                "NA",
+                "AS"
             ],
             "Authors and Institutions": [
                 {
@@ -34431,6 +34431,5458 @@
                     "Institutions": [
                         {
                             "Institution Name": "Peking University",
+                            "Country": "CN"
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "2024": [
+        {
+            "Title": "Crux: GPU-Efficient Communication Scheduling for Deep Learning Training.",
+            "Year": "2024",
+            "Predominant Continent": [
+                "AS"
+            ],
+            "Authors and Institutions": [
+                {
+                    "Author": "Jiamin Cao",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Alibaba Group (China)",
+                            "Country": "CN"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Yu Guan",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Alibaba Group (China)",
+                            "Country": "CN"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Kun Qian",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Alibaba Group (China)",
+                            "Country": "CN"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Jiaqi Gao",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Alibaba Group (China)",
+                            "Country": "CN"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Wencong Xiao",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Alibaba Group (China)",
+                            "Country": "CN"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Jianbo Dong",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Alibaba Group (China)",
+                            "Country": "CN"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Binzhang Fu",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Alibaba Group (China)",
+                            "Country": "CN"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Dennis Cai",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Alibaba Group (China)",
+                            "Country": "CN"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Ennan Zhai",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Alibaba Group (China)",
+                            "Country": "CN"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "Title": "Rethinking Machine Learning Collective Communication as a Multi-Commodity Flow Problem.",
+            "Year": "2024",
+            "Predominant Continent": [
+                "NA"
+            ],
+            "Authors and Institutions": [
+                {
+                    "Author": "Xuting Liu",
+                    "Institutions": [
+                        {
+                            "Institution Name": "University of Pennsylvania",
+                            "Country": "US"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Behnaz Arzani",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Microsoft (United States)",
+                            "Country": "US"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Siva Kesava Reddy Kakarla",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Microsoft (United States)",
+                            "Country": "US"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Liangyu Zhao",
+                    "Institutions": [
+                        {
+                            "Institution Name": "University of Washington",
+                            "Country": "US"
+                        },
+                        {
+                            "Institution Name": "Seattle University",
+                            "Country": "US"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Vincent Liu",
+                    "Institutions": [
+                        {
+                            "Institution Name": "University of Pennsylvania",
+                            "Country": "US"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Miguel Castro",
+                    "Institutions": [
+                        {
+                            "Institution Name": "OpenAI (United States)",
+                            "Country": "US"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Srikanth Kandula",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Microsoft (United States)",
+                            "Country": "US"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Luke Marshall",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Microsoft (United States)",
+                            "Country": "US"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "Title": "CacheGen: KV Cache Compression and Streaming for Fast Large Language Model Serving.",
+            "Year": "2024",
+            "Predominant Continent": [
+                "NA"
+            ],
+            "Authors and Institutions": [
+                {
+                    "Author": "Yuhan Liu",
+                    "Institutions": [
+                        {
+                            "Institution Name": "University of Chicago",
+                            "Country": "US"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Hanchen Li",
+                    "Institutions": [
+                        {
+                            "Institution Name": "University of Chicago",
+                            "Country": "US"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Yihua Cheng",
+                    "Institutions": [
+                        {
+                            "Institution Name": "University of Chicago",
+                            "Country": "US"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Siddhant Ray",
+                    "Institutions": [
+                        {
+                            "Institution Name": "University of Chicago",
+                            "Country": "US"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Yuyang Huang",
+                    "Institutions": [
+                        {
+                            "Institution Name": "University of Chicago",
+                            "Country": "US"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Qizheng Zhang",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Palo Alto University",
+                            "Country": "US"
+                        },
+                        {
+                            "Institution Name": "Stanford University",
+                            "Country": "US"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Kuntai Du",
+                    "Institutions": [
+                        {
+                            "Institution Name": "University of Chicago",
+                            "Country": "US"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Jiayi Yao",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Chinese University of Hong Kong, Shenzhen",
+                            "Country": "CN"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Shan Lu",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Microsoft (United States)",
+                            "Country": "US"
+                        },
+                        {
+                            "Institution Name": "Seattle University",
+                            "Country": "US"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Ganesh Ananthanarayanan",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Microsoft (United States)",
+                            "Country": "US"
+                        },
+                        {
+                            "Institution Name": "Seattle University",
+                            "Country": "US"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Michael Maire",
+                    "Institutions": [
+                        {
+                            "Institution Name": "University of Chicago",
+                            "Country": "US"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Henry Hoffmann",
+                    "Institutions": [
+                        {
+                            "Institution Name": "University of Chicago",
+                            "Country": "US"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Ari Holtzman",
+                    "Institutions": [
+                        {
+                            "Institution Name": "University of Chicago",
+                            "Country": "US"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Junchen Jiang",
+                    "Institutions": [
+                        {
+                            "Institution Name": "University of Chicago",
+                            "Country": "US"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "Title": "RDMA over Ethernet for Distributed Training at Meta Scale.",
+            "Year": "2024",
+            "Predominant Continent": [
+                "NA"
+            ],
+            "Authors and Institutions": [
+                {
+                    "Author": "Adithya Gangidi",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Menlo School",
+                            "Country": "US"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Rui Miao",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Menlo School",
+                            "Country": "US"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Shengbao Zheng",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Menlo School",
+                            "Country": "US"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Sai Jayesh Bondu",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Menlo School",
+                            "Country": "US"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Guilherme Goes",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Menlo School",
+                            "Country": "US"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Hany Morsy",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Menlo School",
+                            "Country": "US"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Rohit Puri",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Menlo School",
+                            "Country": "US"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Mohammad Riftadi",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Menlo School",
+                            "Country": "US"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Ashmitha Jeevaraj Shetty",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Menlo School",
+                            "Country": "US"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Jingyi Yang",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Menlo School",
+                            "Country": "US"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Shuqiang Zhang",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Menlo School",
+                            "Country": "US"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Mikel Jimenez Fernandez",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Menlo School",
+                            "Country": "US"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Shashidhar Gandham",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Menlo School",
+                            "Country": "US"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Hongyi Zeng",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Alpha Omega Alpha Medical Honor Society",
+                            "Country": "US"
+                        },
+                        {
+                            "Institution Name": "Menlo School",
+                            "Country": "US"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "Title": "Transferable Neural WAN TE for Changing Topologies.",
+            "Year": "2024",
+            "Predominant Continent": [
+                "NA"
+            ],
+            "Authors and Institutions": [
+                {
+                    "Author": "Abd AlRhman AlQiam",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Purdue University West Lafayette",
+                            "Country": "US"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Yuanjun Yao",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Alpha Omega Alpha Medical Honor Society",
+                            "Country": "US"
+                        },
+                        {
+                            "Institution Name": "Menlo School",
+                            "Country": "US"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Zhaodong Wang",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Alpha Omega Alpha Medical Honor Society",
+                            "Country": "US"
+                        },
+                        {
+                            "Institution Name": "Menlo School",
+                            "Country": "US"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Satyajeet Singh Ahuja",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Meta (United States)",
+                            "Country": "US"
+                        },
+                        {
+                            "Institution Name": "Menlo School",
+                            "Country": "US"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Ying Zhang",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Alpha Omega Alpha Medical Honor Society",
+                            "Country": "US"
+                        },
+                        {
+                            "Institution Name": "Menlo School",
+                            "Country": "US"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Sanjay Rao",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Purdue University West Lafayette",
+                            "Country": "US"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Bruno Ribeiro",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Purdue University West Lafayette",
+                            "Country": "US"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Mohit Tawarmalani",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Purdue University West Lafayette",
+                            "Country": "US"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "Title": "FIGRET: Fine-Grained Robustness-Enhanced Traffic Engineering.",
+            "Year": "2024",
+            "Predominant Continent": [
+                "EU"
+            ],
+            "Authors and Institutions": [
+                {
+                    "Author": "Ximeng Liu",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Shanghai Jiao Tong University",
+                            "Country": "CH"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Shizhen Zhao",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Shanghai Jiao Tong University",
+                            "Country": "CH"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Yong Cui",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Tsinghua University",
+                            "Country": "CH"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Xinbing Wang",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Shanghai Jiao Tong University",
+                            "Country": "CH"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "Title": "SUSS: Improving TCP Performance by Speeding Up Slow-Start.",
+            "Year": "2024",
+            "Predominant Continent": [
+                "OC"
+            ],
+            "Authors and Institutions": [
+                {
+                    "Author": "Mahdi Arghavani",
+                    "Institutions": [
+                        {
+                            "Institution Name": "University of Otago",
+                            "Country": "NZ"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Haibo Zhang",
+                    "Institutions": [
+                        {
+                            "Institution Name": "University of Otago",
+                            "Country": "NZ"
+                        }
+                    ]
+                },
+                {
+                    "Author": "David Eyers",
+                    "Institutions": [
+                        {
+                            "Institution Name": "University of Otago",
+                            "Country": "NZ"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Abbas Arghavani",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Mälardalen University",
+                            "Country": "SE"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "Title": "Principles for Internet Congestion Management.",
+            "Year": "2024",
+            "Predominant Continent": [
+                "NA"
+            ],
+            "Authors and Institutions": [
+                {
+                    "Author": "Lloyd Brown",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Berkeley College",
+                            "Country": "US"
+                        },
+                        {
+                            "Institution Name": "University of California, Berkeley",
+                            "Country": "US"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Albert Gran Alcoz",
+                    "Institutions": [
+                        {
+                            "Institution Name": "ETH Zurich",
+                            "Country": "CH"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Frank Cangialosi",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Gulf Marine Institute of Technology",
+                            "Country": "US"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Akshay Narayan",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Brown University",
+                            "Country": "US"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Mohammad Alizadeh",
+                    "Institutions": [
+                        {
+                            "Institution Name": "IIT@MIT",
+                            "Country": "US"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Hari Balakrishnan",
+                    "Institutions": [
+                        {
+                            "Institution Name": "IIT@MIT",
+                            "Country": "US"
+                        }
+                    ]
+                },
+                {
+                    "Author": "E. Friedman",
+                    "Institutions": [
+                        {
+                            "Institution Name": "International Computer Science Institute",
+                            "Country": "US"
+                        },
+                        {
+                            "Institution Name": "University of California, Berkeley",
+                            "Country": "US"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Ethan Katz-Bassett",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Columbia University",
+                            "Country": "US"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Arvind Krishnamurthy",
+                    "Institutions": [
+                        {
+                            "Institution Name": "University of Washington",
+                            "Country": "US"
+                        },
+                        {
+                            "Institution Name": "Seattle University",
+                            "Country": "US"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Michael Schapira",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Hebrew University of Jerusalem",
+                            "Country": "IL"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Scott Shenker",
+                    "Institutions": [
+                        {
+                            "Institution Name": "International Computer Science Institute",
+                            "Country": "US"
+                        },
+                        {
+                            "Institution Name": "University of California, Berkeley",
+                            "Country": "US"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "Title": "CCAnalyzer: An Efficient and Nearly-Passive Congestion Control Classifier.",
+            "Year": "2024",
+            "Predominant Continent": [
+                "NA"
+            ],
+            "Authors and Institutions": [
+                {
+                    "Author": "Ranysha Ware",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Carnegie Mellon University",
+                            "Country": "US"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Adithya Abraham Philip",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Carnegie Mellon University",
+                            "Country": "US"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Nicholas Hungria",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Carnegie Mellon University",
+                            "Country": "US"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Yash Kothari",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Carnegie Mellon University",
+                            "Country": "US"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Justine Sherry",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Carnegie Mellon University",
+                            "Country": "US"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Srinivasan Seshan",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Carnegie Mellon University",
+                            "Country": "US"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "Title": "Expresso: Comprehensively Reasoning About External Routes Using Symbolic Simulation.",
+            "Year": "2024",
+            "Predominant Continent": [
+                "AS"
+            ],
+            "Authors and Institutions": [
+                {
+                    "Author": "Dan Wang",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Xi'an Jiaotong University",
+                            "Country": "CN"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Peng Zhang",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Xi'an Jiaotong University",
+                            "Country": "CN"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Aaron Gember-Jacobson",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Colgate University",
+                            "Country": "US"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "Title": "Relational Network Verification.",
+            "Year": "2024",
+            "Predominant Continent": [
+                "NA"
+            ],
+            "Authors and Institutions": [
+                {
+                    "Author": "Xieyang Xu",
+                    "Institutions": [
+                        {
+                            "Institution Name": "University of Washington",
+                            "Country": "US"
+                        },
+                        {
+                            "Institution Name": "Seattle University",
+                            "Country": "US"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Yifei Yuan",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Alibaba Group (United States)",
+                            "Country": "US"
+                        },
+                        {
+                            "Institution Name": "Bellevue Hospital Center",
+                            "Country": "US"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Zachary Kincaid",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Princeton University",
+                            "Country": "US"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Arvind Krishnamurthy",
+                    "Institutions": [
+                        {
+                            "Institution Name": "University of Washington",
+                            "Country": "US"
+                        },
+                        {
+                            "Institution Name": "Seattle University",
+                            "Country": "US"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Ratul Mahajan",
+                    "Institutions": [
+                        {
+                            "Institution Name": "University of Washington",
+                            "Country": "US"
+                        },
+                        {
+                            "Institution Name": "Seattle University",
+                            "Country": "US"
+                        }
+                    ]
+                },
+                {
+                    "Author": "David Walker",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Princeton University",
+                            "Country": "US"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Ennan Zhai",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Alibaba Group (China)",
+                            "Country": "CN"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "Title": "A General and Efficient Approach to Verifying Traffic Load Properties under Arbitrary k Failures.",
+            "Year": "2024",
+            "Predominant Continent": [
+                "AS"
+            ],
+            "Authors and Institutions": [
+                {
+                    "Author": "Ruihan Li",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Peking University",
+                            "Country": "CN"
+                        },
+                        {
+                            "Institution Name": "Alibaba Group (China)",
+                            "Country": "CN"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Yifei Yuan",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Alibaba Group (United States)",
+                            "Country": "US"
+                        },
+                        {
+                            "Institution Name": "Bellevue Hospital Center",
+                            "Country": "US"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Fangdan Ye",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Alibaba Group (China)",
+                            "Country": "CN"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Mengqi Liu",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Alibaba Group (United States)",
+                            "Country": "US"
+                        },
+                        {
+                            "Institution Name": "Bellevue Hospital Center",
+                            "Country": "US"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Ruizhen Yang",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Alibaba Group (China)",
+                            "Country": "CN"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Yang Yu",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Alibaba Group (China)",
+                            "Country": "CN"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Tianchen Guo",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Alibaba Group (China)",
+                            "Country": "CN"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Qing Ma",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Alibaba Group (China)",
+                            "Country": "CN"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Xianlong Zeng",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Alibaba Group (China)",
+                            "Country": "CN"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Chenren Xu",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Peking University",
+                            "Country": "CN"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Dennis Cai",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Alibaba Group (United States)",
+                            "Country": "US"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Ennan Zhai",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Alibaba Group (China)",
+                            "Country": "CN"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "Title": "Algorithms for In-Place, Consistent Network Update.",
+            "Year": "2024",
+            "Predominant Continent": [
+                "NA"
+            ],
+            "Authors and Institutions": [
+                {
+                    "Author": "Kedar S. Namjoshi",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Nokia (United States)",
+                            "Country": "US"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Sougol Gheissi",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Johns Hopkins University",
+                            "Country": "US"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Krishan Sabnani",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Johns Hopkins University",
+                            "Country": "US"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "Title": "μMon: Empowering Microsecond-level Network Monitoring with Wavelets.",
+            "Year": "2024",
+            "Predominant Continent": [
+                "AS"
+            ],
+            "Authors and Institutions": [
+                {
+                    "Author": "Hao Zheng",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Nanjing University",
+                            "Country": "CN"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Chengyuan Huang",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Nanjing University",
+                            "Country": "CN"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Xiangyu Han",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Nanjing University",
+                            "Country": "CN"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Jiaqi Zheng",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Nanjing University",
+                            "Country": "CN"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Xiaoliang Wang",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Nanjing University",
+                            "Country": "CN"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Chen Tian",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Nanjing University",
+                            "Country": "CN"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Wanchun Dou",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Nanjing University",
+                            "Country": "CN"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Guihai Chen",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Nanjing University",
+                            "Country": "CN"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "Title": "Eagle: Toward Scalable and Near-Optimal Network-Wide Sketch Deployment in Network Measurement.",
+            "Year": "2024",
+            "Predominant Continent": [
+                "AS"
+            ],
+            "Authors and Institutions": [
+                {
+                    "Author": "Xiang Chen",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Zhejiang University",
+                            "Country": "CN"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Qingjiang Xiao",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Southeast University",
+                            "Country": "CN"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Hongyan Liu",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Zhejiang University",
+                            "Country": "CN"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Qun Huang",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Peking University",
+                            "Country": "CN"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Dong Zhang",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Fuzhou University",
+                            "Country": "CN"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Xuan Liu",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Southeast University",
+                            "Country": "CN"
+                        },
+                        {
+                            "Institution Name": "Yangzhou University",
+                            "Country": "CN"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Longbing Hu",
+                    "Institutions": [
+                        {
+                            "Institution Name": "ZTE (China)",
+                            "Country": "CN"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Haifeng Zhou",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Zhejiang University",
+                            "Country": "CN"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Chunming Wu",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Zhejiang University",
+                            "Country": "CN"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Kui Ren",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Zhejiang University",
+                            "Country": "CN"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "Title": "Bad Packets Come Back, Worse Ones Don't.",
+            "Year": "2024",
+            "Predominant Continent": [
+                "EU"
+            ],
+            "Authors and Institutions": [
+                {
+                    "Author": "Petros Gigis",
+                    "Institutions": [
+                        {
+                            "Institution Name": "University College London",
+                            "Country": "GB"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Mark Handley",
+                    "Institutions": [
+                        {
+                            "Institution Name": "University College London",
+                            "Country": "GB"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Stefano Vissicchio",
+                    "Institutions": [
+                        {
+                            "Institution Name": "University College London",
+                            "Country": "GB"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "Title": "Integrated Two-way Radar Backscatter Communication and Sensing with Low-power IoT Tags.",
+            "Year": "2024",
+            "Predominant Continent": [
+                "NA"
+            ],
+            "Authors and Institutions": [
+                {
+                    "Author": "Ryu Okubo",
+                    "Institutions": [
+                        {
+                            "Institution Name": "University of Illinois Urbana-Champaign",
+                            "Country": "US"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Luke Jacobs",
+                    "Institutions": [
+                        {
+                            "Institution Name": "University of Illinois Urbana-Champaign",
+                            "Country": "US"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Jinhua Wang",
+                    "Institutions": [
+                        {
+                            "Institution Name": "University of Virginia",
+                            "Country": "US"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Steven M. Bowers",
+                    "Institutions": [
+                        {
+                            "Institution Name": "University of Virginia",
+                            "Country": "US"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Elahe Soltanaghai",
+                    "Institutions": [
+                        {
+                            "Institution Name": "University of Illinois Urbana-Champaign",
+                            "Country": "US"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "Title": "RedTE: Mitigating Subsecond Traffic Bursts with Real-time and Distributed Traffic Engineering.",
+            "Year": "2024",
+            "Predominant Continent": [
+                "AS"
+            ],
+            "Authors and Institutions": [
+                {
+                    "Author": "Fei Gui",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Tsinghua University",
+                            "Country": "CN"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Songtao Wang",
+                    "Institutions": []
+                },
+                {
+                    "Author": "Dan Li",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Tsinghua University",
+                            "Country": "CN"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Li Chen",
+                    "Institutions": []
+                },
+                {
+                    "Author": "Kaihui Gao",
+                    "Institutions": []
+                },
+                {
+                    "Author": "Congcong Min",
+                    "Institutions": [
+                        {
+                            "Institution Name": "China Institute Of Communications",
+                            "Country": "CN"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Yi Wang",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Southern University of Science and Technology",
+                            "Country": "CN"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "Title": "Dissecting Carrier Aggregation in 5G Networks: Measurement, QoE Implications and Prediction.",
+            "Year": "2024",
+            "Predominant Continent": [
+                "NA"
+            ],
+            "Authors and Institutions": [
+                {
+                    "Author": "Wei Ye",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Twin Cities Orthopedics",
+                            "Country": "US"
+                        },
+                        {
+                            "Institution Name": "University of Minnesota",
+                            "Country": "US"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Xinyue Hu",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Twin Cities Orthopedics",
+                            "Country": "US"
+                        },
+                        {
+                            "Institution Name": "University of Minnesota",
+                            "Country": "US"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Steven Sleder",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Twin Cities Orthopedics",
+                            "Country": "US"
+                        },
+                        {
+                            "Institution Name": "University of Minnesota",
+                            "Country": "US"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Anlan Zhang",
+                    "Institutions": [
+                        {
+                            "Institution Name": "University of Southern California",
+                            "Country": "US"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Udhaya Kumar Dayalan",
+                    "Institutions": [
+                        {
+                            "Institution Name": "University of Minnesota",
+                            "Country": "US"
+                        },
+                        {
+                            "Institution Name": "Twin Cities Orthopedics",
+                            "Country": "US"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Ahmad Hassan",
+                    "Institutions": [
+                        {
+                            "Institution Name": "University of Southern California",
+                            "Country": "US"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Rostand A. K. Fezeu",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Twin Cities Orthopedics",
+                            "Country": "US"
+                        },
+                        {
+                            "Institution Name": "University of Minnesota",
+                            "Country": "US"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Akshay Jajoo",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Cisco College",
+                            "Country": "US"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Myungjin Lee",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Cisco College",
+                            "Country": "US"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Eman Ramadan",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Twin Cities Orthopedics",
+                            "Country": "US"
+                        },
+                        {
+                            "Institution Name": "University of Minnesota",
+                            "Country": "US"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Feng Qian",
+                    "Institutions": [
+                        {
+                            "Institution Name": "University of Southern California",
+                            "Country": "US"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Zhi-Li Zhang",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Twin Cities Orthopedics",
+                            "Country": "US"
+                        },
+                        {
+                            "Institution Name": "University of Minnesota",
+                            "Country": "US"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "Title": "MegaTE: Extending WAN Traffic Engineering to Millions of Endpoints in Virtualized Cloud.",
+            "Year": "2024",
+            "Predominant Continent": [
+                "AS"
+            ],
+            "Authors and Institutions": [
+                {
+                    "Author": "Congcong Miao",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Tencent (China)",
+                            "Country": "CN"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Zhizhen Zhong",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Massachusetts Institute of Technology",
+                            "Country": "US"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Yunming Xiao",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Northwestern University",
+                            "Country": "US"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Feng Yang",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Tencent (China)",
+                            "Country": "CN"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Senkuo Zhang",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Tencent (China)",
+                            "Country": "CN"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Yinan Jiang",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Peking University",
+                            "Country": "CN"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Zizhuo Bai",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Peking University",
+                            "Country": "CN"
+                        }
+                    ]
+                },
+                {
+                    "Author": "C J Lu",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Tencent (China)",
+                            "Country": "CN"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Jianpeng Geng",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Tencent (China)",
+                            "Country": "CN"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Zekun He",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Tencent (China)",
+                            "Country": "CN"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Yachen Wang",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Tencent (China)",
+                            "Country": "CN"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Xianneng Zou",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Tencent (China)",
+                            "Country": "CN"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Chuanchuan Yang",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Peking University",
+                            "Country": "CN"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "Title": "dAuth: A Resilient Authentication Architecture for Federated Private Cellular Networks.",
+            "Year": "2024",
+            "Predominant Continent": [
+                "NA"
+            ],
+            "Authors and Institutions": [
+                {
+                    "Author": "Matthew Johnson",
+                    "Institutions": [
+                        {
+                            "Institution Name": "University of Washington",
+                            "Country": "US"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Sudheesh Singanamalla",
+                    "Institutions": [
+                        {
+                            "Institution Name": "University of Washington",
+                            "Country": "US"
+                        }
+                    ]
+                },
+                {
+                    "Author": "N. Durand",
+                    "Institutions": [
+                        {
+                            "Institution Name": "University of Washington",
+                            "Country": "US"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Esther Jang",
+                    "Institutions": [
+                        {
+                            "Institution Name": "University of Washington",
+                            "Country": "US"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Spencer Sevilla",
+                    "Institutions": [
+                        {
+                            "Institution Name": "University of Washington",
+                            "Country": "US"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Kurtis Heimerl",
+                    "Institutions": [
+                        {
+                            "Institution Name": "University of Washington",
+                            "Country": "US"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "Title": "NegotiaToR: Towards A Simple Yet Effective On-demand Reconfigurable Datacenter Network.",
+            "Year": "2024",
+            "Predominant Continent": [
+                "AS"
+            ],
+            "Authors and Institutions": [
+                {
+                    "Author": "C. H. Liang",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Tsinghua University",
+                            "Country": "CN"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Xiangli Song",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Tsinghua University",
+                            "Country": "CN"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Jing Cheng",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Tsinghua University",
+                            "Country": "CN"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Mowei Wang",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Huawei Technologies (China)",
+                            "Country": "CN"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Yashe Liu",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Huawei Technologies (China)",
+                            "Country": "CN"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Zhenhua Liu",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Huawei Technologies (China)",
+                            "Country": "CN"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Shizhen Zhao",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Huawei Technologies (United Kingdom)",
+                            "Country": "GB"
+                        },
+                        {
+                            "Institution Name": "Shanghai Jiao Tong University",
+                            "Country": "CN"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Yong Cui",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Tsinghua University",
+                            "Country": "CN"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "Title": "Keeping an Eye on Congestion Control in the Wild with Nebby.",
+            "Year": "2024",
+            "Predominant Continent": [
+                "AS"
+            ],
+            "Authors and Institutions": [
+                {
+                    "Author": "Ayush Mishra",
+                    "Institutions": [
+                        {
+                            "Institution Name": "National University of Singapore",
+                            "Country": "SG"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Lakshay Rastogi",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Indian Institute of Technology Kanpur",
+                            "Country": "IN"
+                        }
+                    ]
+                },
+                {
+                    "Author": "R. C. Joshi",
+                    "Institutions": [
+                        {
+                            "Institution Name": "National University of Singapore",
+                            "Country": "SG"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Ben Leong",
+                    "Institutions": [
+                        {
+                            "Institution Name": "National University of Singapore",
+                            "Country": "SG"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "Title": "The Efficacy of the Connect America Fund in Addressing US Internet Access Inequities.",
+            "Year": "2024",
+            "Predominant Continent": [
+                "NA"
+            ],
+            "Authors and Institutions": [
+                {
+                    "Author": "Haarika Manda",
+                    "Institutions": [
+                        {
+                            "Institution Name": "University of California, Santa Barbara",
+                            "Country": "US"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Varshika Srinivasavaradhan",
+                    "Institutions": [
+                        {
+                            "Institution Name": "University of California, Santa Barbara",
+                            "Country": "US"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Laasya Koduru",
+                    "Institutions": [
+                        {
+                            "Institution Name": "University of California, Santa Barbara",
+                            "Country": "US"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Kevin Zhang",
+                    "Institutions": [
+                        {
+                            "Institution Name": "University of California, Santa Barbara",
+                            "Country": "US"
+                        }
+                    ]
+                },
+                {
+                    "Author": "X S Zhou",
+                    "Institutions": [
+                        {
+                            "Institution Name": "University of California, Santa Barbara",
+                            "Country": "US"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Udit Paul",
+                    "Institutions": []
+                },
+                {
+                    "Author": "Elizabeth Belding",
+                    "Institutions": [
+                        {
+                            "Institution Name": "University of California, Santa Barbara",
+                            "Country": "US"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Arpit Gupta",
+                    "Institutions": [
+                        {
+                            "Institution Name": "University of California, Santa Barbara",
+                            "Country": "US"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Tejas N. Narechania",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Berkeley College",
+                            "Country": "US"
+                        },
+                        {
+                            "Institution Name": "University of California, Berkeley",
+                            "Country": "US"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "Title": "Shale: A Practical, Scalable Oblivious Reconfigurable Network.",
+            "Year": "2024",
+            "Predominant Continent": [
+                "NA"
+            ],
+            "Authors and Institutions": [
+                {
+                    "Author": "Daniel Amir",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Cornell University",
+                            "Country": "US"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Nitika Saran",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Cornell University",
+                            "Country": "US"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Tegan Wilson",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Cornell University",
+                            "Country": "US"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Robert Kleinberg",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Cornell University",
+                            "Country": "US"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Vishal Shrivastav",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Purdue University West Lafayette",
+                            "Country": "US"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Hakim Weatherspoon",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Cornell University",
+                            "Country": "US"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "Title": "Prudentia: Findings of an Internet Fairness Watchdog.",
+            "Year": "2024",
+            "Predominant Continent": [
+                "NA"
+            ],
+            "Authors and Institutions": [
+                {
+                    "Author": "Adithya Abraham Philip",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Carnegie Mellon University",
+                            "Country": "US"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Rukshani Athapathu",
+                    "Institutions": [
+                        {
+                            "Institution Name": "University of California, San Diego",
+                            "Country": "US"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Ranysha Ware",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Carnegie Mellon University",
+                            "Country": "US"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Fabian Francis Mkocheko",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Carnegie Mellon University",
+                            "Country": "US"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Alexis Schlomer",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Carnegie Mellon University",
+                            "Country": "US"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Mengrou Shou",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Carnegie Mellon University",
+                            "Country": "US"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Zili Meng",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Hong Kong University of Science and Technology",
+                            "Country": "HK"
+                        },
+                        {
+                            "Institution Name": "University of Hong Kong",
+                            "Country": "HK"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Srinivasan Seshan",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Carnegie Mellon University",
+                            "Country": "US"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Justine Sherry",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Carnegie Mellon University",
+                            "Country": "US"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "Title": "ConfMask: Enabling Privacy-Preserving Configuration Sharing via Anonymization.",
+            "Year": "2024",
+            "Predominant Continent": [
+                "AS"
+            ],
+            "Authors and Institutions": [
+                {
+                    "Author": "Yuejie Wang",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Peking University",
+                            "Country": "CN"
+                        },
+                        {
+                            "Institution Name": "New York University Shanghai",
+                            "Country": "CN"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Qiutong Men",
+                    "Institutions": [
+                        {
+                            "Institution Name": "New York University Shanghai",
+                            "Country": "CN"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Yao Xiao",
+                    "Institutions": [
+                        {
+                            "Institution Name": "New York University Shanghai",
+                            "Country": "CN"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Yongting Chen",
+                    "Institutions": [
+                        {
+                            "Institution Name": "New York University Shanghai",
+                            "Country": "CN"
+                        }
+                    ]
+                },
+                {
+                    "Author": "G. M. Liu",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Peking University",
+                            "Country": "CN"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "Title": "Turbo: Efficient Communication Framework for Large-scale Data Processing Cluster.",
+            "Year": "2024",
+            "Predominant Continent": [
+                "AS"
+            ],
+            "Authors and Institutions": [
+                {
+                    "Author": "Xuya Jia",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Tencent (China)",
+                            "Country": "CN"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Zhiyi Yao",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Fudan University",
+                            "Country": "CN"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Chao Peng",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Fudan University",
+                            "Country": "CN"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Zihao Zhao",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Nvidia (United States)",
+                            "Country": "US"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Bin Lei",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Nvidia (United States)",
+                            "Country": "US"
+                        }
+                    ]
+                },
+                {
+                    "Author": "E. B. Liu",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Nvidia (United States)",
+                            "Country": "US"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Xiang Li",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Tencent (China)",
+                            "Country": "CN"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Zekun He",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Tencent (China)",
+                            "Country": "CN"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Yachen Wang",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Tencent (China)",
+                            "Country": "CN"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Xianneng Zou",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Tencent (China)",
+                            "Country": "CN"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Chongqing Zhao",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Tencent (China)",
+                            "Country": "CN"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Jinhui Chu",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Tencent (China)",
+                            "Country": "CN"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Jilong Wang",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Tsinghua University",
+                            "Country": "CN"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Congcong Miao",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Tencent (China)",
+                            "Country": "CN"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "Title": "R-Pingmesh: A Service-Aware RoCE Network Monitoring and Diagnostic System.",
+            "Year": "2024",
+            "Predominant Continent": [
+                "AS"
+            ],
+            "Authors and Institutions": [
+                {
+                    "Author": "Kefei Liu",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Beijing University of Posts and Telecommunications",
+                            "Country": "CN"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Zhuo Jiang",
+                    "Institutions": []
+                },
+                {
+                    "Author": "Jiao Zhang",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Beijing University of Posts and Telecommunications",
+                            "Country": "CN"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Shixian Guo",
+                    "Institutions": []
+                },
+                {
+                    "Author": "Xuan Zhang",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Beijing University of Posts and Telecommunications",
+                            "Country": "CN"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Yangyang Bai",
+                    "Institutions": []
+                },
+                {
+                    "Author": "Yongbin Dong",
+                    "Institutions": []
+                },
+                {
+                    "Author": "Feng Luo",
+                    "Institutions": []
+                },
+                {
+                    "Author": "Zhang Zhang",
+                    "Institutions": []
+                },
+                {
+                    "Author": "Lei Wang",
+                    "Institutions": []
+                },
+                {
+                    "Author": "Xiang Shi",
+                    "Institutions": []
+                },
+                {
+                    "Author": "Hao-Han Xu",
+                    "Institutions": []
+                },
+                {
+                    "Author": "Yang Bai",
+                    "Institutions": []
+                },
+                {
+                    "Author": "Dongyang Song",
+                    "Institutions": []
+                },
+                {
+                    "Author": "Haoran Wei",
+                    "Institutions": []
+                },
+                {
+                    "Author": "Bo Li",
+                    "Institutions": []
+                },
+                {
+                    "Author": "Yongchen Pan",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Beijing University of Posts and Telecommunications",
+                            "Country": "CN"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Tian Pan",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Beijing University of Posts and Telecommunications",
+                            "Country": "CN"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Tao Huang",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Beijing University of Posts and Telecommunications",
+                            "Country": "CN"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "Title": "Understanding the Host Network.",
+            "Year": "2024",
+            "Predominant Continent": [
+                "NA"
+            ],
+            "Authors and Institutions": [
+                {
+                    "Author": "Midhul Vuppalapati",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Cornell University",
+                            "Country": "US"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Saksham Agarwal",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Cornell University",
+                            "Country": "US"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Henry N. Schuh",
+                    "Institutions": [
+                        {
+                            "Institution Name": "University of Washington",
+                            "Country": "US"
+                        },
+                        {
+                            "Institution Name": "Seattle University",
+                            "Country": "US"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Baris Kasikci",
+                    "Institutions": [
+                        {
+                            "Institution Name": "University of Washington",
+                            "Country": "US"
+                        },
+                        {
+                            "Institution Name": "Seattle University",
+                            "Country": "US"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Arvind Krishnamurthy",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Seattle University",
+                            "Country": "US"
+                        },
+                        {
+                            "Institution Name": "University of Washington",
+                            "Country": "US"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Rachit Agarwal",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Cornell University",
+                            "Country": "US"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "Title": "RD-Probe: Scalable Monitoring With Sufficient Coverage In Complex Datacenter Networks.",
+            "Year": "2024",
+            "Predominant Continent": [
+                "AS"
+            ],
+            "Authors and Institutions": [
+                {
+                    "Author": "Rui Ding",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Peking University",
+                            "Country": "CN"
+                        }
+                    ]
+                },
+                {
+                    "Author": "X N Liu",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Peking University",
+                            "Country": "CN"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Shibo Yang",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Peking University",
+                            "Country": "CN"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Qun Huang",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Peking University",
+                            "Country": "CN"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Baoshu Xie",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Huawei Technologies (China)",
+                            "Country": "CN"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Ronghua Sun",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Huawei Technologies (China)",
+                            "Country": "CN"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Zhi Zhang",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Huawei Technologies (China)",
+                            "Country": "CN"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Bolong Cui",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Huawei Technologies (China)",
+                            "Country": "CN"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "Title": "Practical Rateless Set Reconciliation.",
+            "Year": "2024",
+            "Predominant Continent": [
+                "NA",
+                "AS"
+            ],
+            "Authors and Institutions": [
+                {
+                    "Author": "Lei Yang",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Massachusetts Institute of Technology",
+                            "Country": "US"
+                        },
+                        {
+                            "Institution Name": "Hebrew University of Jerusalem",
+                            "Country": "IL"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Yossi Gilad",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Hebrew University of Jerusalem",
+                            "Country": "IL"
+                        },
+                        {
+                            "Institution Name": "Massachusetts Institute of Technology",
+                            "Country": "US"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Mohammad Alizadeh",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Massachusetts Institute of Technology",
+                            "Country": "US"
+                        },
+                        {
+                            "Institution Name": "Hebrew University of Jerusalem",
+                            "Country": "IL"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "Title": "SODA: An Adaptive Bitrate Controller for Consistent High-Quality Video Streaming.",
+            "Year": "2024",
+            "Predominant Continent": [
+                "NA"
+            ],
+            "Authors and Institutions": [
+                {
+                    "Author": "Tianyu Chen",
+                    "Institutions": [
+                        {
+                            "Institution Name": "University of Massachusetts Amherst",
+                            "Country": "US"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Yiheng Lin",
+                    "Institutions": [
+                        {
+                            "Institution Name": "California Institute of Technology",
+                            "Country": "US"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Nicolas Christianson",
+                    "Institutions": [
+                        {
+                            "Institution Name": "California Institute of Technology",
+                            "Country": "US"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Zahaib Akhtar",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Amazon (United States)",
+                            "Country": "US"
+                        },
+                        {
+                            "Institution Name": "North Carolina State University",
+                            "Country": "US"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Sharath Dharmaji",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Amazon (United States)",
+                            "Country": "US"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Mohammad Hajiesmaili",
+                    "Institutions": [
+                        {
+                            "Institution Name": "University of Massachusetts Amherst",
+                            "Country": "US"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Adam Wierman",
+                    "Institutions": [
+                        {
+                            "Institution Name": "California Institute of Technology",
+                            "Country": "US"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Ramesh K. Sitaraman",
+                    "Institutions": [
+                        {
+                            "Institution Name": "University of Massachusetts Amherst",
+                            "Country": "US"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "Title": "Unveiling the 5G Mid-Band Landscape: From Network Deployment to Performance and Application QoE.",
+            "Year": "2024",
+            "Predominant Continent": [
+                "NA"
+            ],
+            "Authors and Institutions": [
+                {
+                    "Author": "Rostand A. K. Fezeu",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Twin Cities Orthopedics",
+                            "Country": "US"
+                        },
+                        {
+                            "Institution Name": "University of Minnesota",
+                            "Country": "US"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Claudio Fiandrino",
+                    "Institutions": [
+                        {
+                            "Institution Name": "IMDEA Networks",
+                            "Country": "ES"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Eman Ramadan",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Twin Cities Orthopedics",
+                            "Country": "US"
+                        },
+                        {
+                            "Institution Name": "University of Minnesota",
+                            "Country": "US"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Jason Carpenter",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Twin Cities Orthopedics",
+                            "Country": "US"
+                        },
+                        {
+                            "Institution Name": "University of Minnesota",
+                            "Country": "US"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Lilian Coelho de Freitas",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Universidade Federal do Pará",
+                            "Country": "BR"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Faaiq Bilal",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Twin Cities Orthopedics",
+                            "Country": "US"
+                        },
+                        {
+                            "Institution Name": "University of Minnesota",
+                            "Country": "US"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Wei Ye",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Twin Cities Orthopedics",
+                            "Country": "US"
+                        },
+                        {
+                            "Institution Name": "University of Minnesota",
+                            "Country": "US"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Joerg Widmer",
+                    "Institutions": [
+                        {
+                            "Institution Name": "IMDEA Networks",
+                            "Country": "ES"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Feng Qian",
+                    "Institutions": [
+                        {
+                            "Institution Name": "University of Southern California",
+                            "Country": "US"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Zhi-Li Zhang",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Twin Cities Orthopedics",
+                            "Country": "US"
+                        },
+                        {
+                            "Institution Name": "University of Minnesota",
+                            "Country": "US"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "Title": "NetLLM: Adapting Large Language Models for Networking.",
+            "Year": "2024",
+            "Predominant Continent": [
+                "EU"
+            ],
+            "Authors and Institutions": [
+                {
+                    "Author": "Duo Wu",
+                    "Institutions": [
+                        {
+                            "Institution Name": "The Chinese University of Hong Kong",
+                            "Country": "CH"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Xianda Wang",
+                    "Institutions": [
+                        {
+                            "Institution Name": "The Chinese University of Hong Kong",
+                            "Country": "CH"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Yaqi Qiao",
+                    "Institutions": [
+                        {
+                            "Institution Name": "The Chinese University of Hong Kong",
+                            "Country": "CH"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Zhi Wang",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Tsinghua University",
+                            "Country": "CH"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Junchen Jiang",
+                    "Institutions": [
+                        {
+                            "Institution Name": "University of Chicago",
+                            "Country": "US"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Shuguang Cui",
+                    "Institutions": [
+                        {
+                            "Institution Name": "The Chinese University of Hong Kong",
+                            "Country": "CH"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Fangxin Wang",
+                    "Institutions": [
+                        {
+                            "Institution Name": "The Chinese University of Hong Kong",
+                            "Country": "CH"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "Title": "Ten years of the Venezuelan crisis - An Internet perspective.",
+            "Year": "2024",
+            "Predominant Continent": [
+                "NA"
+            ],
+            "Authors and Institutions": [
+                {
+                    "Author": "Esteban Carisimo",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Northwestern University",
+                            "Country": "US"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Rashna Kumar",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Northwestern University",
+                            "Country": "US"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Caleb J. Wang",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Northwestern University",
+                            "Country": "US"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Santiago Klein",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Universidad de Buenos Aires",
+                            "Country": "AR"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Fabián E. Bustamante",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Northwestern University",
+                            "Country": "US"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "Title": "Realizing RotorNet: Toward Practical Microsecond Scale Optical Networking.",
+            "Year": "2024",
+            "Predominant Continent": [
+                "NA"
+            ],
+            "Authors and Institutions": [
+                {
+                    "Author": "William M. Mellette",
+                    "Institutions": []
+                },
+                {
+                    "Author": "Alex Forencich",
+                    "Institutions": [
+                        {
+                            "Institution Name": "University of California, San Diego",
+                            "Country": "US"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Rukshani Athapathu",
+                    "Institutions": [
+                        {
+                            "Institution Name": "University of California, San Diego",
+                            "Country": "US"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Alex C. Snoeren",
+                    "Institutions": [
+                        {
+                            "Institution Name": "University of California, San Diego",
+                            "Country": "US"
+                        }
+                    ]
+                },
+                {
+                    "Author": "George C. Papen",
+                    "Institutions": [
+                        {
+                            "Institution Name": "University of California, San Diego",
+                            "Country": "US"
+                        }
+                    ]
+                },
+                {
+                    "Author": "George Porter",
+                    "Institutions": [
+                        {
+                            "Institution Name": "University of California, San Diego",
+                            "Country": "US"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "Title": "Alibaba HPN: A Data Center Network for Large Language Model Training.",
+            "Year": "2024",
+            "Predominant Continent": [
+                "AS"
+            ],
+            "Authors and Institutions": [
+                {
+                    "Author": "Kun Qian",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Alibaba Group (China)",
+                            "Country": "CN"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Yongqing Xi",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Alibaba Group (China)",
+                            "Country": "CN"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Jiamin Cao",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Alibaba Group (China)",
+                            "Country": "CN"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Jiaqi Gao",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Alibaba Group (United States)",
+                            "Country": "US"
+                        },
+                        {
+                            "Institution Name": "Bellevue Hospital Center",
+                            "Country": "US"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Yichi Xu",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Alibaba Group (China)",
+                            "Country": "CN"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Yu Guan",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Alibaba Group (China)",
+                            "Country": "CN"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Binzhang Fu",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Alibaba Group (China)",
+                            "Country": "CN"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Xuemei Shi",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Alibaba Group (China)",
+                            "Country": "CN"
+                        }
+                    ]
+                },
+                {
+                    "Author": "F X Zhu",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Alibaba Group (China)",
+                            "Country": "CN"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Rui Miao",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Alibaba Group (United States)",
+                            "Country": "US"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Chao Wang",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Alibaba Group (China)",
+                            "Country": "CN"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Peng Wang",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Alibaba Group (China)",
+                            "Country": "CN"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Pengcheng Zhang",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Alibaba Group (China)",
+                            "Country": "CN"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Xianlong Zeng",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Alibaba Group (China)",
+                            "Country": "CN"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Eddie Ruan",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Alibaba Group (United States)",
+                            "Country": "US"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Zhiping Yao",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Alibaba Group (China)",
+                            "Country": "CN"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Ennan Zhai",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Alibaba Group (China)",
+                            "Country": "CN"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Dennis Cai",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Alibaba Group (United States)",
+                            "Country": "US"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "Title": "Uniform-Cost Multi-Path Routing for Reconfigurable Data Center Networks.",
+            "Year": "2024",
+            "Predominant Continent": [
+                "EU"
+            ],
+            "Authors and Institutions": [
+                {
+                    "Author": "Jialong Li",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Max Planck Institute for Informatics",
+                            "Country": "DE"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Haotian Gong",
+                    "Institutions": [
+                        {
+                            "Institution Name": "University of British Columbia",
+                            "Country": "CA"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Federico De Marchi",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Max Planck Institute for Informatics",
+                            "Country": "DE"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Aoyu Gong",
+                    "Institutions": [
+                        {
+                            "Institution Name": "École Polytechnique Fédérale de Lausanne",
+                            "Country": "CH"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Yiming Lei",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Max Planck Institute for Informatics",
+                            "Country": "DE"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Wei Bai",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Nvidia (United States)",
+                            "Country": "US"
+                        },
+                        {
+                            "Institution Name": "Seattle University",
+                            "Country": "US"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Yiting Xia",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Max Planck Institute for Informatics",
+                            "Country": "DE"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "Title": "NetEdit: An Orchestration Platform for eBPF Network Functions at Scale.",
+            "Year": "2024",
+            "Predominant Continent": [
+                "NA"
+            ],
+            "Authors and Institutions": [
+                {
+                    "Author": "Theophilus Benson",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Carnegie Mellon University",
+                            "Country": "US"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Prashanth Kannan",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Alpha Omega Alpha Medical Honor Society",
+                            "Country": "US"
+                        },
+                        {
+                            "Institution Name": "Menlo School",
+                            "Country": "US"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Prankur Gupta",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Menlo School",
+                            "Country": "US"
+                        },
+                        {
+                            "Institution Name": "Alpha Omega Alpha Medical Honor Society",
+                            "Country": "US"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Balasubramanian Madhavan",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Alpha Omega Alpha Medical Honor Society",
+                            "Country": "US"
+                        },
+                        {
+                            "Institution Name": "Menlo School",
+                            "Country": "US"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Kumar Saurabh Arora",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Menlo School",
+                            "Country": "US"
+                        },
+                        {
+                            "Institution Name": "Alpha Omega Alpha Medical Honor Society",
+                            "Country": "US"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Jie Meng",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Alpha Omega Alpha Medical Honor Society",
+                            "Country": "US"
+                        },
+                        {
+                            "Institution Name": "Menlo School",
+                            "Country": "US"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Martin Lau",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Menlo School",
+                            "Country": "US"
+                        },
+                        {
+                            "Institution Name": "Alpha Omega Alpha Medical Honor Society",
+                            "Country": "US"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Abhishek Dhamija",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Alpha Omega Alpha Medical Honor Society",
+                            "Country": "US"
+                        },
+                        {
+                            "Institution Name": "Menlo School",
+                            "Country": "US"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Rajiv Krishnamurthy",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Alpha Omega Alpha Medical Honor Society",
+                            "Country": "US"
+                        },
+                        {
+                            "Institution Name": "Menlo School",
+                            "Country": "US"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Srikanth Sundaresan",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Boston University",
+                            "Country": "US"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Neil Spring",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Alpha Omega Alpha Medical Honor Society",
+                            "Country": "US"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Ying Zhang",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Alpha Omega Alpha Medical Honor Society",
+                            "Country": "US"
+                        },
+                        {
+                            "Institution Name": "Menlo School",
+                            "Country": "US"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "Title": "In-Network Address Caching for Virtual Networks.",
+            "Year": "2024",
+            "Predominant Continent": [
+                "AS"
+            ],
+            "Authors and Institutions": [
+                {
+                    "Author": "Lior Zeno",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Technion – Israel Institute of Technology",
+                            "Country": "IL"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Ang Chen",
+                    "Institutions": [
+                        {
+                            "Institution Name": "University of Michigan",
+                            "Country": "US"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Mark Silberstein",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Technion – Israel Institute of Technology",
+                            "Country": "IL"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "Title": "Triton: A Flexible Hardware Offloading Architecture for Accelerating Apsara vSwitch in Alibaba Cloud.",
+            "Year": "2024",
+            "Predominant Continent": [
+                "AS"
+            ],
+            "Authors and Institutions": [
+                {
+                    "Author": "Xing Li",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Zhejiang University",
+                            "Country": "CN"
+                        },
+                        {
+                            "Institution Name": "Alibaba Group (China)",
+                            "Country": "CN"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Xiaochong Jiang",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Zhejiang University",
+                            "Country": "CN"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Ye Yang",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Alibaba Group (China)",
+                            "Country": "CN"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Lilong Chen",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Zhejiang University",
+                            "Country": "CN"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Yi Wang",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Alibaba Group (China)",
+                            "Country": "CN"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Chao Wang",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Alibaba Group (China)",
+                            "Country": "CN"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Chao Xu",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Alibaba Group (China)",
+                            "Country": "CN"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Yilong Lv",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Alibaba Group (China)",
+                            "Country": "CN"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Bowen Yang",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Alibaba Group (China)",
+                            "Country": "CN"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Taotao Wu",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Alibaba Group (China)",
+                            "Country": "CN"
+                        }
+                    ]
+                },
+                {
+                    "Author": "H. Gao",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Alibaba Group (China)",
+                            "Country": "CN"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Zikang Chen",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Alibaba Group (China)",
+                            "Country": "CN"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Yisong Qiao",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Alibaba Group (China)",
+                            "Country": "CN"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Hongwei Ding",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Alibaba Group (China)",
+                            "Country": "CN"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Yijian Dong",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Alibaba Group (China)",
+                            "Country": "CN"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Hang Yang",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Alibaba Group (China)",
+                            "Country": "CN"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Jianming Song",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Alibaba Group (China)",
+                            "Country": "CN"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Jianyuan Lu",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Alibaba Group (China)",
+                            "Country": "CN"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Pengyu Zhang",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Alibaba Group (China)",
+                            "Country": "CN"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Chengkun Wei",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Zhejiang University",
+                            "Country": "CN"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Zihui Zhang",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Zhejiang University",
+                            "Country": "CN"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Wenzhi Chen",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Zhejiang University",
+                            "Country": "CN"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Qinming He",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Zhejiang University",
+                            "Country": "CN"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Shunmin Zhu",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Tsinghua University",
+                            "Country": "CN"
+                        },
+                        {
+                            "Institution Name": "Alibaba Group (China)",
+                            "Country": "CN"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "Title": "Zoom2Net: Constrained Network Telemetry Imputation.",
+            "Year": "2024",
+            "Predominant Continent": [
+                "NA"
+            ],
+            "Authors and Institutions": [
+                {
+                    "Author": "Fengchen Gong",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Princeton University",
+                            "Country": "US"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Divya Raghunathan",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Princeton University",
+                            "Country": "US"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Aarti Gupta",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Princeton University",
+                            "Country": "US"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Maria Apostolaki",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Princeton University",
+                            "Country": "US"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "Title": "IPD: Detecting Traffic Ingress Points at ISPs.",
+            "Year": "2024",
+            "Predominant Continent": [
+                "EU"
+            ],
+            "Authors and Institutions": [
+                {
+                    "Author": "Stefan Mehner",
+                    "Institutions": [
+                        {
+                            "Institution Name": "University of Kassel",
+                            "Country": "DE"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Helge Reelfs",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Brandenburg University of Technology Cottbus-Senftenberg",
+                            "Country": "DE"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Ingmar Poese",
+                    "Institutions": []
+                },
+                {
+                    "Author": "Oliver Hohlfeld",
+                    "Institutions": [
+                        {
+                            "Institution Name": "University of Kassel",
+                            "Country": "DE"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "Title": "Fast, Scalable, and Accurate Rate Limiter for RDMA NICs.",
+            "Year": "2024",
+            "Predominant Continent": [
+                "AS"
+            ],
+            "Authors and Institutions": [
+                {
+                    "Author": "Zilong Wang",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Hong Kong University of Science and Technology",
+                            "Country": "HK"
+                        },
+                        {
+                            "Institution Name": "University of Hong Kong",
+                            "Country": "HK"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Xinchen Wan",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Hong Kong University of Science and Technology",
+                            "Country": "HK"
+                        },
+                        {
+                            "Institution Name": "University of Hong Kong",
+                            "Country": "HK"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Luyang Li",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Institute of Computing Technology",
+                            "Country": "CN"
+                        },
+                        {
+                            "Institution Name": "Chinese Academy of Sciences",
+                            "Country": "CN"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Yijun Sun",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Hong Kong University of Science and Technology",
+                            "Country": "HK"
+                        },
+                        {
+                            "Institution Name": "University of Hong Kong",
+                            "Country": "HK"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Xie Peng",
+                    "Institutions": []
+                },
+                {
+                    "Author": "Xin Wei",
+                    "Institutions": []
+                },
+                {
+                    "Author": "Qingsong Ning",
+                    "Institutions": []
+                },
+                {
+                    "Author": "Junxue Zhang",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Hong Kong University of Science and Technology",
+                            "Country": "HK"
+                        },
+                        {
+                            "Institution Name": "University of Hong Kong",
+                            "Country": "HK"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Kai Chen",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Hong Kong University of Science and Technology",
+                            "Country": "HK"
+                        },
+                        {
+                            "Institution Name": "University of Hong Kong",
+                            "Country": "HK"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "Title": "The Next Generation of BGP Data Collection Platforms.",
+            "Year": "2024",
+            "Predominant Continent": [
+                "EU"
+            ],
+            "Authors and Institutions": [
+                {
+                    "Author": "Thomas Alfroy",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Université de Strasbourg",
+                            "Country": "FR"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Thomas Holterbach",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Université de Strasbourg",
+                            "Country": "FR"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Thomas Krenc",
+                    "Institutions": [
+                        {
+                            "Institution Name": "UC San Diego Health System",
+                            "Country": "US"
+                        }
+                    ]
+                },
+                {
+                    "Author": "kc claffy",
+                    "Institutions": [
+                        {
+                            "Institution Name": "UC San Diego Health System",
+                            "Country": "US"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Cristel Pelsser",
+                    "Institutions": [
+                        {
+                            "Institution Name": "UCLouvain",
+                            "Country": "BE"
+                        },
+                        {
+                            "Institution Name": "Université de Strasbourg",
+                            "Country": "FR"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "Title": "m3: Accurate Flow-Level Performance Estimation using Machine Learning.",
+            "Year": "2024",
+            "Predominant Continent": [
+                "NA"
+            ],
+            "Authors and Institutions": [
+                {
+                    "Author": "Chenning Li",
+                    "Institutions": [
+                        {
+                            "Institution Name": "IIT@MIT",
+                            "Country": "US"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Arash Nasr-Esfahany",
+                    "Institutions": [
+                        {
+                            "Institution Name": "IIT@MIT",
+                            "Country": "US"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Kevin Zhao",
+                    "Institutions": [
+                        {
+                            "Institution Name": "University of Washington",
+                            "Country": "US"
+                        },
+                        {
+                            "Institution Name": "Seattle University",
+                            "Country": "US"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Kimia Noorbakhsh",
+                    "Institutions": [
+                        {
+                            "Institution Name": "IIT@MIT",
+                            "Country": "US"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Prateesh Goyal",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Microsoft (United States)",
+                            "Country": "US"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Mohammad Alizadeh",
+                    "Institutions": [
+                        {
+                            "Institution Name": "IIT@MIT",
+                            "Country": "US"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Thomas Anderson",
+                    "Institutions": [
+                        {
+                            "Institution Name": "University of Washington",
+                            "Country": "US"
+                        },
+                        {
+                            "Institution Name": "Seattle University",
+                            "Country": "US"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "Title": "YuanRong: A Production General-purpose Serverless System for Distributed Applications in the Cloud.",
+            "Year": "2024",
+            "Predominant Continent": [
+                "AS"
+            ],
+            "Authors and Institutions": [
+                {
+                    "Author": "Qiong Chen",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Huawei Technologies (China)",
+                            "Country": "CN"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Jianmin Qian",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Huawei Technologies (China)",
+                            "Country": "CN"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Yulin Che",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Huawei Technologies (China)",
+                            "Country": "CN"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Ziqi Lin",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Huawei Technologies (China)",
+                            "Country": "CN"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Jianfeng Wang",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Huawei Technologies (China)",
+                            "Country": "CN"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Jie Zhou",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Huawei Technologies (China)",
+                            "Country": "CN"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Licheng Song",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Huawei Technologies (China)",
+                            "Country": "CN"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Yi Liang",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Huawei Technologies (China)",
+                            "Country": "CN"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Jie Wu",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Huawei Technologies (China)",
+                            "Country": "CN"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Wei Zheng",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Huawei Technologies (China)",
+                            "Country": "CN"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Wei Liu",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Huawei Technologies (China)",
+                            "Country": "CN"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Linfeng Li",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Huawei Technologies (China)",
+                            "Country": "CN"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Fangming Liu",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Huawei Technologies (China)",
+                            "Country": "CN"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Kun Tan",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Huawei Technologies (China)",
+                            "Country": "CN"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "Title": "Canal Mesh: A Cloud-Scale Sidecar-Free Multi-Tenant Service Mesh Architecture.",
+            "Year": "2024",
+            "Predominant Continent": [
+                "AS"
+            ],
+            "Authors and Institutions": [
+                {
+                    "Author": "Enge Song",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Alibaba Group (China)",
+                            "Country": "CN"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Yang Song",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Alibaba Group (China)",
+                            "Country": "CN"
+                        }
+                    ]
+                },
+                {
+                    "Author": "C Lü",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Alibaba Group (China)",
+                            "Country": "CN"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Tian Pan",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Alibaba Group (China)",
+                            "Country": "CN"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Shaokai Zhang",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Alibaba Group (China)",
+                            "Country": "CN"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Jianyuan Lu",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Alibaba Group (China)",
+                            "Country": "CN"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Jiangu Zhao",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Alibaba Group (China)",
+                            "Country": "CN"
+                        }
+                    ]
+                },
+                {
+                    "Author": "X. Q. Wang",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Alibaba Group (China)",
+                            "Country": "CN"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Xiaomin Wu",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Alibaba Group (China)",
+                            "Country": "CN"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Minglan Gao",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Alibaba Group (China)",
+                            "Country": "CN"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Zongquan Li",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Alibaba Group (China)",
+                            "Country": "CN"
+                        }
+                    ]
+                },
+                {
+                    "Author": "ZhongLi Fang",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Alibaba Group (China)",
+                            "Country": "CN"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Biao Lyu",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Zhejiang University",
+                            "Country": "CN"
+                        },
+                        {
+                            "Institution Name": "Alibaba Group (China)",
+                            "Country": "CN"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Pengyu Zhang",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Alibaba Group (China)",
+                            "Country": "CN"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Rong Wen",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Alibaba Group (China)",
+                            "Country": "CN"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Li Yi",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Alibaba Group (China)",
+                            "Country": "CN"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Zhigang Zong",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Alibaba Group (China)",
+                            "Country": "CN"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Shunmin Zhu",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Tsinghua University",
+                            "Country": "CN"
+                        },
+                        {
+                            "Institution Name": "Alibaba Group (China)",
+                            "Country": "CN"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "Title": "TopFull: An Adaptive Top-Down Overload Control for SLO-Oriented Microservices.",
+            "Year": "2024",
+            "Predominant Continent": [
+                "AS"
+            ],
+            "Authors and Institutions": [
+                {
+                    "Author": "Jinwoo Park",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Korea Advanced Institute of Science and Technology",
+                            "Country": "KR"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Jaehyeong Park",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Korea Advanced Institute of Science and Technology",
+                            "Country": "KR"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Youngmok Jung",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Korea Advanced Institute of Science and Technology",
+                            "Country": "KR"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Hwijoon Lim",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Korea Advanced Institute of Science and Technology",
+                            "Country": "KR"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Hyunho Yeo",
+                    "Institutions": []
+                },
+                {
+                    "Author": "Dongsu Han",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Korea Advanced Institute of Science and Technology",
+                            "Country": "KR"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "Title": "An Architecture For Edge Networking Services.",
+            "Year": "2024",
+            "Predominant Continent": [
+                "NA"
+            ],
+            "Authors and Institutions": [
+                {
+                    "Author": "Lloyd Brown",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Berkeley College",
+                            "Country": "US"
+                        },
+                        {
+                            "Institution Name": "University of California, Berkeley",
+                            "Country": "US"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Emily Marx",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Berkeley College",
+                            "Country": "US"
+                        },
+                        {
+                            "Institution Name": "University of California, Berkeley",
+                            "Country": "US"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Dev Bali",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Berkeley College",
+                            "Country": "US"
+                        },
+                        {
+                            "Institution Name": "University of California, Berkeley",
+                            "Country": "US"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Emmanuel Amaro",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Microsoft (United States)",
+                            "Country": "US"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Debnil Sur",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Broadcom (United States)",
+                            "Country": "US"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Ezra Kissel",
+                    "Institutions": []
+                },
+                {
+                    "Author": "Inder Monga",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Energy Sciences Network",
+                            "Country": "US"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Ethan Katz-Bassett",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Columbia University",
+                            "Country": "US"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Arvind Krishnamurthy",
+                    "Institutions": [
+                        {
+                            "Institution Name": "University of Washington",
+                            "Country": "US"
+                        }
+                    ]
+                },
+                {
+                    "Author": "James McCauley",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Mount Holyoke College",
+                            "Country": "US"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Tejas N. Narechania",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Berkeley College",
+                            "Country": "US"
+                        },
+                        {
+                            "Institution Name": "University of California, Berkeley",
+                            "Country": "US"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Aurojit Panda",
+                    "Institutions": [
+                        {
+                            "Institution Name": "New York University",
+                            "Country": "US"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Scott Shenker",
+                    "Institutions": [
+                        {
+                            "Institution Name": "University of California, Berkeley",
+                            "Country": "US"
+                        },
+                        {
+                            "Institution Name": "International Computer Science Institute",
+                            "Country": "US"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "Title": "OptimusPrime: Unleash Dataplane Programmability through a Transformable Architecture.",
+            "Year": "2024",
+            "Predominant Continent": [
+                "AS"
+            ],
+            "Authors and Institutions": [
+                {
+                    "Author": "Zhikang Chen",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Tsinghua University",
+                            "Country": "CN"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Yong Feng",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Tsinghua University",
+                            "Country": "CN"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Shuxin Liu",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Tsinghua University",
+                            "Country": "CN"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Haoyu Song",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Huawei Technologies (United States)",
+                            "Country": "US"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Hanyi Zhou",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Tsinghua University",
+                            "Country": "CN"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Tong Yun",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Tsinghua University",
+                            "Country": "CN"
+                        }
+                    ]
+                },
+                {
+                    "Author": "W. L. Xu",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Tsinghua University",
+                            "Country": "CN"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Tian Pan",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Purple Mountain Laboratories",
+                            "Country": "CN"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Bin Liu",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Tsinghua University",
+                            "Country": "CN"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "Title": "MCCS: A Service-based Approach to Collective Communication for Multi-Tenant Cloud.",
+            "Year": "2024",
+            "Predominant Continent": [
+                "NA"
+            ],
+            "Authors and Institutions": [
+                {
+                    "Author": "Yongji Wu",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Duke University",
+                            "Country": "US"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Yechen Xu",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Duke University",
+                            "Country": "US"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Jingrong Chen",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Duke University",
+                            "Country": "US"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Zhaodong Wang",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Alpha Omega Alpha Medical Honor Society",
+                            "Country": "US"
+                        },
+                        {
+                            "Institution Name": "Menlo School",
+                            "Country": "US"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Ying Zhang",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Alpha Omega Alpha Medical Honor Society",
+                            "Country": "US"
+                        },
+                        {
+                            "Institution Name": "Menlo School",
+                            "Country": "US"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Matthew Lentz",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Duke University",
+                            "Country": "US"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Danyang Zhuo",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Duke University",
+                            "Country": "US"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "Title": "A Decentralized SDN Architecture for the WAN.",
+            "Year": "2024",
+            "Predominant Continent": [
+                "NA"
+            ],
+            "Authors and Institutions": [
+                {
+                    "Author": "Alexander Krentsel",
+                    "Institutions": [
+                        {
+                            "Institution Name": "University of California, Berkeley",
+                            "Country": "US"
+                        },
+                        {
+                            "Institution Name": "Google (United States)",
+                            "Country": "US"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Nitika Saran",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Cornell University",
+                            "Country": "US"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Bikash Koley",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Google (United States)",
+                            "Country": "US"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Subhasree Mandal",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Google (United States)",
+                            "Country": "US"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Ashok Narayanan",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Google (United States)",
+                            "Country": "US"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Sylvia Ratnasamy",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Google (United States)",
+                            "Country": "US"
+                        },
+                        {
+                            "Institution Name": "University of California, Berkeley",
+                            "Country": "US"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Ali Al‐Shabibi",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Google (Switzerland)",
+                            "Country": "CH"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Anees Shaikh",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Google (United States)",
+                            "Country": "US"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Rob Shakir",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Google (United States)",
+                            "Country": "US"
+                        }
+                    ]
+                },
+                {
+                    "Author": "A. Singla",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Google (Switzerland)",
+                            "Country": "CH"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Hakim Weatherspoon",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Cornell University",
+                            "Country": "US"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "Title": "Accelerating Model Training in Multi-cluster Environments with Consumer-grade GPUs.",
+            "Year": "2024",
+            "Predominant Continent": [
+                "AS"
+            ],
+            "Authors and Institutions": [
+                {
+                    "Author": "Hwijoon Lim",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Korea Advanced Institute of Science and Technology",
+                            "Country": "KR"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Juncheol Ye",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Korea Advanced Institute of Science and Technology",
+                            "Country": "KR"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Sangeetha Abdu Jyothi",
+                    "Institutions": [
+                        {
+                            "Institution Name": "University of California, Irvine",
+                            "Country": "US"
+                        },
+                        {
+                            "Institution Name": "Kitware (United States)",
+                            "Country": "US"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Dongsu Han",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Korea Advanced Institute of Science and Technology",
+                            "Country": "KR"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "Title": "An exabyte a day: throughput-oriented, large scale, managed data transfers with Effingo.",
+            "Year": "2024",
+            "Predominant Continent": [
+                "EU"
+            ],
+            "Authors and Institutions": [
+                {
+                    "Author": "Ladislav Pápay",
+                    "Institutions": []
+                },
+                {
+                    "Author": "Jan Pustelnik",
+                    "Institutions": []
+                },
+                {
+                    "Author": "Krzysztof Rzaḑca",
+                    "Institutions": [
+                        {
+                            "Institution Name": "University of Warsaw",
+                            "Country": "PL"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Beata Strack",
+                    "Institutions": []
+                },
+                {
+                    "Author": "Paweł Stradomski",
+                    "Institutions": []
+                },
+                {
+                    "Author": "Bartłomiej Wołowiec",
+                    "Institutions": []
+                },
+                {
+                    "Author": "Michal Zasadzinski",
+                    "Institutions": []
+                }
+            ]
+        },
+        {
+            "Title": "vPIFO: Virtualized Packet Scheduler for Programmable Hierarchical Scheduling in High-Speed Networks.",
+            "Year": "2024",
+            "Predominant Continent": [
+                "AS"
+            ],
+            "Authors and Institutions": [
+                {
+                    "Author": "Z J Zhang",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Fudan University",
+                            "Country": "CN"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Shili Chen",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Fudan University",
+                            "Country": "CN"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Ruyi Yao",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Fudan University",
+                            "Country": "CN"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Ruoshi Sun",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Fudan University",
+                            "Country": "CN"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Hao Mei",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Fudan University",
+                            "Country": "CN"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Hao Wang",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Fudan University",
+                            "Country": "CN"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Zixuan Chen",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Fudan University",
+                            "Country": "CN"
+                        }
+                    ]
+                },
+                {
+                    "Author": "G. H. Fang",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Fudan University",
+                            "Country": "CN"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Yibo Fan",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Fudan University",
+                            "Country": "CN"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Wanxin Shi",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Fudan University",
+                            "Country": "CN"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Sen Liu",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Fudan University",
+                            "Country": "CN"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Yang Xu",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Fudan University",
+                            "Country": "CN"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "Title": "Efficient Policy-Rich Rate Enforcement with Phantom Queues.",
+            "Year": "2024",
+            "Predominant Continent": [
+                "NA"
+            ],
+            "Authors and Institutions": [
+                {
+                    "Author": "Ammar Tahir",
+                    "Institutions": [
+                        {
+                            "Institution Name": "University of Illinois Urbana-Champaign",
+                            "Country": "US"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Prateesh Goyal",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Microsoft (United States)",
+                            "Country": "US"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Ilias Marinos",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Microsoft (United States)",
+                            "Country": "US"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Mike Evans",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Microsoft (United Kingdom)",
+                            "Country": "GB"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Radhika Mittal",
+                    "Institutions": [
+                        {
+                            "Institution Name": "University of Illinois Urbana-Champaign",
+                            "Country": "US"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "Title": "TraceWeaver: Distributed Request Tracing for Microservices Without Application Modification.",
+            "Year": "2024",
+            "Predominant Continent": [
+                "NA"
+            ],
+            "Authors and Institutions": [
+                {
+                    "Author": "Sachin Ashok",
+                    "Institutions": [
+                        {
+                            "Institution Name": "University of Illinois Urbana-Champaign",
+                            "Country": "US"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Vipul Harsh",
+                    "Institutions": [
+                        {
+                            "Institution Name": "University of Illinois Urbana-Champaign",
+                            "Country": "US"
+                        }
+                    ]
+                },
+                {
+                    "Author": "P. Brighten Godfrey",
+                    "Institutions": [
+                        {
+                            "Institution Name": "University of Illinois Urbana-Champaign",
+                            "Country": "US"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Radhika Mittal",
+                    "Institutions": [
+                        {
+                            "Institution Name": "University of Illinois Urbana-Champaign",
+                            "Country": "US"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Srinivasan Parthasarathy",
+                    "Institutions": [
+                        {
+                            "Institution Name": "IBM (United States)",
+                            "Country": "US"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Larisa Shwartz",
+                    "Institutions": [
+                        {
+                            "Institution Name": "IBM (United States)",
+                            "Country": "US"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "Title": "Topaz: Declarative and Verifiable Authoritative DNS at CDN-Scale.",
+            "Year": "2024",
+            "Predominant Continent": [
+                "NA"
+            ],
+            "Authors and Institutions": [
+                {
+                    "Author": "James Larisch",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Harvard University Press",
+                            "Country": "US"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Timothy Alberdingk Thijm",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Princeton University",
+                            "Country": "US"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Suleman Ahmad",
+                    "Institutions": []
+                },
+                {
+                    "Author": "Peter Wu",
+                    "Institutions": [
+                        {
+                            "Institution Name": "NatriSoft (Netherlands)",
+                            "Country": "NL"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Tom Arnfeld",
+                    "Institutions": []
+                },
+                {
+                    "Author": "Marwan Fayed",
+                    "Institutions": []
+                }
+            ]
+        },
+        {
+            "Title": "P4runpro: Enabling Runtime Programmability for RMT Programmable Switches.",
+            "Year": "2024",
+            "Predominant Continent": [
+                "AS"
+            ],
+            "Authors and Institutions": [
+                {
+                    "Author": "Yifan Yang",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Tsinghua University",
+                            "Country": "CN"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Lin He",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Tsinghua University",
+                            "Country": "CN"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Jiasheng Zhou",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Fuzhou University",
+                            "Country": "CN"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Xiaoyi Shi",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Tsinghua University",
+                            "Country": "CN"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Jiamin Cao",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Alibaba Group (China)",
+                            "Country": "CN"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Ying Liu",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Tsinghua University",
+                            "Country": "CN"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "Title": "PPT: A Pragmatic Transport for Datacenters.",
+            "Year": "2024",
+            "Predominant Continent": [
+                "AS"
+            ],
+            "Authors and Institutions": [
+                {
+                    "Author": "Lide Suo",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Tianjin University",
+                            "Country": "CN"
+                        },
+                        {
+                            "Institution Name": "Tianjin Tianhe Hospital",
+                            "Country": "CN"
+                        },
+                        {
+                            "Institution Name": "Tianjin Medical University",
+                            "Country": "CN"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Yiren Pang",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Tianjin University",
+                            "Country": "CN"
+                        },
+                        {
+                            "Institution Name": "Tianjin Tianhe Hospital",
+                            "Country": "CN"
+                        },
+                        {
+                            "Institution Name": "Tianjin Medical University",
+                            "Country": "CN"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Wenxin Li",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Tianjin University",
+                            "Country": "CN"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Renjie Pei",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Tianjin University",
+                            "Country": "CN"
+                        },
+                        {
+                            "Institution Name": "Tianjin Tianhe Hospital",
+                            "Country": "CN"
+                        },
+                        {
+                            "Institution Name": "Tianjin Medical University",
+                            "Country": "CN"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Keqiu Li",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Tianjin Tianhe Hospital",
+                            "Country": "CN"
+                        },
+                        {
+                            "Institution Name": "Tianjin Medical University",
+                            "Country": "CN"
+                        },
+                        {
+                            "Institution Name": "Tianjin University",
+                            "Country": "CN"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Keqiu Li",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Tianjin Tianhe Hospital",
+                            "Country": "CN"
+                        },
+                        {
+                            "Institution Name": "Tianjin Medical University",
+                            "Country": "CN"
+                        },
+                        {
+                            "Institution Name": "Tianjin University",
+                            "Country": "CN"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Xin He",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Tianjin Medical University",
+                            "Country": "CN"
+                        },
+                        {
+                            "Institution Name": "Tianjin University",
+                            "Country": "CN"
+                        },
+                        {
+                            "Institution Name": "Tianjin Tianhe Hospital",
+                            "Country": "CN"
+                        }
+                    ]
+                },
+                {
+                    "Author": "Yitao Hu",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Tianjin Tianhe Hospital",
+                            "Country": "CN"
+                        },
+                        {
+                            "Institution Name": "Tianjin University",
+                            "Country": "CN"
+                        },
+                        {
+                            "Institution Name": "Tianjin Medical University",
+                            "Country": "CN"
+                        }
+                    ]
+                },
+                {
+                    "Author": "G. M. Liu",
+                    "Institutions": [
+                        {
+                            "Institution Name": "Peking University",
+                            "Country": "CN"
+                        },
+                        {
+                            "Institution Name": "Peking University Stomatological Hospital",
                             "Country": "CN"
                         }
                     ]

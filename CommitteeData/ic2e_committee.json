@@ -1815,5 +1815,106 @@
         "Rudrajit Tapadar": {
             "Microsoft Azure": "US"
         }
+    },
+        "2024": {
+        "Shyam Burkule": {
+            "Meta": "US"
+        },
+        "Everton Cavalcante": {
+            "Federal University of Rio Grande do Norte": "BR"
+        },
+        "Daniel Dean": {
+            "Microsoft": "US"
+        },
+        "Helen Gu": {
+            "North Carolina State University": "US"
+        },
+        "Jingzhu He": {
+            "ShanghaiTech University": "CN"
+        },
+        "David Irwin": {
+            "University of Massachusetts Amherst": "US"
+        },
+        "Chandra Krintz": {
+            "UC Santa Barbara": "US"
+        },
+        "Laurent Lefevre": {
+            "INRIA": "FR"
+        },
+        "Adrien Libre": {
+            "Inria / Ecole des Mines": "FR"
+        },
+        "Yuhang Lin": {
+            "Meta Platforms": "US"
+        },
+        "Wes Lloyd": {
+            "University of Washington": "US"
+        },
+        "Rich Wolski": {
+            "UC Santa Barbara": "US"
+        },
+        "Kaiwen Zhang": {
+            "École de technologie supérieure de Montréal": "CA"
+        },
+        "Ting Dai": {
+            "IBM Research": "US"
+        },
+        "Wilhelm Hasselbring": {
+            "Kiel University": "DE"
+        },
+        "Jan S. Rellermeyer": {
+            "Leibniz University Hannover": "DE"
+        },
+        "Adel N. Toosi": {
+            "Monash University": "AU"
+        },
+        "Luciano Baresi": {
+            "Politecnico di Milano": "IT"
+        },
+        "Pierluigi Plebani": {
+            "Politecnico di Milano": "IT"
+        },
+        "Monica Vitali": {
+            "Politecnico di Milano": "IT"
+        },
+        "Tommaso Cucinotta": {
+            "Scuola Superiore Sant'Anna": "IT"
+        },
+        "Damian Andrew": {
+            "Tamburri Eindhoven University of Technology": "NL"
+        },
+        "David Bermbach": {
+            "TU Berlin": "DE"
+        },
+        "Sebastian Werner": {
+            "TU Berlin": "DE"
+        },
+        "Tobias Meuser": {
+            "TU Darmstadt": "DE"
+        },
+        "Janick Edinger": {
+            "Universität Hamburg": "DE"
+        },
+        "Lauritz Thamsen": {
+            "University of Glasgow": "GB"
+        },
+        "Christian Esposito": {
+            "University of Napoli \"Federico II\"": "IT"
+        },
+        "Blesson Varghese": {
+            "University of St Andrews": "GB"
+        },
+        "Aniruddha Gokhale": {
+            "Vanderbilt University": "US"
+        },
+        "Schahram Dustdar": {
+            "Vienna University of Technology": "AT"
+        },
+        "Daniel Grosu": {
+            "Wayne State University": "US"
+        },
+        "Josef Spillner": {
+            "Zurich University of Applied Sciences": "CH"
+        }
     }
 }

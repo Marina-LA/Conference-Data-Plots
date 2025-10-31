@@ -1830,5 +1830,339 @@
         "Danyang Zhuo": {
             "Duke University": "US"
         }
+    },
+    "2024": {
+        "Sangeetha Abdu Jyothi": {
+            "University of California": "US"
+        },
+        "Mohammad Alizadeh": {
+            "Massachusetts Institute of Technology": "US"
+        },
+        "Peter Alvaro": {
+            "University of California": "US"
+        },
+        "Gianni Antichi": {
+            "Politecnico di Milano": "IT",
+            "Queen Mary University of London": "GB"
+        },
+        "Maria Apostolaki": {
+            "Princeton University": "US"
+        },
+        "Vaibhav Bajpai": {
+            "CISPA Helmholtz Center for Information Security": "DE"
+        },
+        "Tom Barbette": {
+            "Université catholique de Louvain": "BE"
+        },
+        "Adam Belay": {
+            "MIT CSAIL": "US"
+        },
+        "Sonia Ben Mokhtar": {
+            "LIRIS CNRS": "FR"
+        },
+        "Yérom-David Bromberg": {
+            "Inria de l'Université de Rennes": "FR"
+        },
+        "Rodrigo Bruno": {
+            "INESC-ID and Instituto Superior Técnico": "PT"
+        },
+        "Matthew Caesar": {
+            "University of Illinois at Urbana–Champaign": "US"
+        },
+        "Balakrishnan Chandrasekaran": {
+            "Vrije Universiteit Amsterdam": "NL"
+        },
+        "Kang Chen": {
+            "Tsinghua University": "CN"
+        },
+        "Rong Chen": {
+            "Shanghai Jiao Tong University": "CN"
+        },
+        "Vijay Chidambaram": {
+            "The University of Texas at Austin and EPFL": "US"
+        },
+        "Marco Chiesa": {
+            "KTH Royal Institute of Technology": "SE"
+        },
+        "Young-ri Choi": {
+            "UNIST (Ulsan National Institute of Science and Technology)": "KR"
+        },
+        "Paolo Costa": {
+            "Microsoft Research": "US"
+        },
+        "Italo Cunha": {
+            "Universidade Federal de Minas Gerais": "BR"
+        },
+        "Bruce Davie": {
+            "Systems Approach": "CL"
+        },
+        "Shuwen Deng": {
+            "Yale University": "US"
+        },
+        "Aline Eid": {
+            "University of Michigan": "US"
+        },
+        "Eric Eide": {
+            "University of Utah": "US"
+        },
+        "Anja Feldmann": {
+            "Max Planck Institute for Informatics": "DE"
+        },
+        "Ronaldo A. Ferreira": {
+            "Universidade Federal de Mato Grosso do Sul": "BR"
+        },
+        "Fragkouli Georgia": {
+            "ETH Zurich": "CH"
+        },
+        "Yasaman Ghasempour": {
+            "Princeton University": "US"
+        },
+        "Soudeh Ghorbani": {
+            "Johns Hopkins University": "US"
+        },
+        "Brighten Godfrey": {
+            "University of Illinois at Urbana–Champaign and VMware": "US"
+        },
+        "Sergey Gorinsky": {
+            "IMDEA Networks Institute": "ES"
+        },
+        "Lisandro Zambenedetti Granville": {
+            "Universidade Federal do Rio Grande do Sul": "BR"
+        },
+        "Arpit Gupta": {
+            "University of California": "US"
+        },
+        "Dongsu Han": {
+            "Korea Advanced Institute of Science and Technology (KAIST)": "KR"
+        },
+        "Haitham Hassanieh": {
+            "EPFL": "CH"
+        },
+        "Oliver Hohlfeld": {
+            "University of Kassel": "DE"
+        },
+        "Yu Hua": {
+            "Huazhong University of Science and Technology": "CN"
+        },
+        "Qun Huang": {
+            "Peking University": "CN"
+        },
+        "Romain Jacob": {
+            "ETH Zurich": "CH"
+        },
+        "Junchen Jiang": {
+            "University of Chicago": "US"
+        },
+        "Xin Jin": {
+            "Peking University": "CN"
+        },
+        "Raj Joshi": {
+            "National University of Singapore": "SG"
+        },
+        "Myoungsoo Jung": {
+            "Korea Advanced Institute of Science and Technology (KAIST)": "KR"
+        },
+        "Kostis Kaffes": {
+            "Google": "US"
+        },
+        "Anuj Kalia": {
+            "Microsoft": "US"
+        },
+        "Zerina Kapetanovic": {
+            "Stanford University": "US"
+        },
+        "Sanidhya Kashyap": {
+            "EPFL": "CH"
+        },
+        "Antoine Kaufmann": {
+            "Max Planck Institute for Software Systems (MPI-SWS)": "DE"
+        },
+        "Daehyeok Kim": {
+            "The University of Texas at Austin": "US"
+        },
+        "Shir Landau Feibish": {
+            "The Open University of Israel": "IL"
+        },
+        "Yanfang Le": {
+            "AMD": "US"
+        },
+        "Ben Leong": {
+            "National University of Singapore": "SG"
+        },
+        "Philip Levis": {
+            "Stanford University and Google": "US"
+        },
+        "Amit Levy": {
+            "Princeton University": "US"
+        },
+        "Huaicheng Li": {
+            "Virginia Tech": "US"
+        },
+        "Jialin Li": {
+            "National University of Singapore": "SG"
+        },
+        "Yuanjie Li": {
+            "Tsinghua University": "CN"
+        },
+        "John Liagouris": {
+            "Boston University": "US"
+        },
+        "Kate Ching-Ju Lin": {
+            "National Yang-Ming Chiao Tung University": "TW"
+        },
+        "Alan Zaoxing Liu": {
+            "Boston University": "US"
+        },
+        "Guyue Liu": {
+            "New York University": "US"
+        },
+        "Ming Liu": {
+            "University of Wisconsin—Madison": "US"
+        },
+        "Mohammad Mazaheri": {
+            "University of Waterloo": "CA"
+        },
+        "James Mickens": {
+            "Harvard University": "US"
+        },
+        "Akshay Narayan": {
+            "University of California": "US"
+        },
+        "Srinivas Narayana": {
+            "Rutgers University": "US"
+        },
+        "Deepak Narayanan": {
+            "NVIDIA": "US"
+        },
+        "Neha Narula": {
+            "Massachusetts Institute of Technology": "US"
+        },
+        "Ravi Netravali": {
+            "Princeton University": "US"
+        },
+        "Dave Oran": {
+            "Network Systems Research & Design": "US"
+        },
+        "Amy Ousterhout": {
+            "University of California": "US"
+        },
+        "Kay Ousterhout": {
+            "Lightstep": "US"
+        },
+        "Jonggyu Park": {
+            "University of Washington": "US"
+        },
+        "Seo Jin Park": {
+            "University of Southern California and Google": "US"
+        },
+        "Luis Pedrosa": {
+            "INESC-ID and Instituto Superior Técnico": "PT"
+        },
+        "Cristel Pelsser": {
+            "Université catholique de Louvain": "BE"
+        },
+        "Amar Phanishayee": {
+            "Microsoft Research": "US"
+        },
+        "Dan Ports": {
+            "Microsoft Research": "US"
+        },
+        "Lili Qiu": {
+            "The University of Texas at Austin": "US"
+        },
+        "Barath Raghavan": {
+            "University of Southern California": "US"
+        },
+        "Costin Raiciu": {
+            "Politehnica University of Bucharest": "RO"
+        },
+        "Gábor Rétvári": {
+            "Budapest University of Technology and Economics": "HU"
+        },
+        "Michael Schapira": {
+            "The Hebrew University of Jerusalem": "IL"
+        },
+        "Yizhou Shan": {
+            "Huawei Cloud": "CN"
+        },
+        "Naveen Kr. Sharma": {
+            "Google": "US"
+        },
+        "Anirudh Sivaraman": {
+            "New York University": "US"
+        },
+        "Georgios Smaragdakis": {
+            "Delft University of Technology": "NL"
+        },
+        "Elahe Soltanaghai": {
+            "University of Illinois Urbana–Champaign": "US"
+        },
+        "Ravi Soundararajan": {
+            "VMware": "US"
+        },
+        "Theano Stavrinos": {
+            "University of Washington": "US"
+        },
+        "Adriana Szekeres": {
+            "VMware Research": "US"
+        },
+        "Mina Tahmasbi Arashloo": {
+            "University of Waterloo": "CA"
+        },
+        "Alain Tchana": {
+            "Grenoble INP": "FR"
+        },
+        "Deepak Vasisht": {
+            "University of Illinois Urbana–Champaign": "US"
+        },
+        "Rashmi Vinayak": {
+            "Carnegie Mellon University": "US"
+        },
+        "Stefano Vissicchio": {
+            "University College London": "GB"
+        },
+        "Zhaoguo Wang": {
+            "Shanghai Jiao Tong University": "CN"
+        },
+        "Xingda Wei": {
+            "Shanghai Jiao Tong University": "CN"
+        },
+        "Chenren Xu": {
+            "Peking University": "CN"
+        },
+        "Hong Xu": {
+            "The Chinese University of Hong Kong": "HK"
+        },
+        "Le Xu": {
+            "The University of Texas at Austin": "US"
+        },
+        "Neeraja J. Yadwadkar": {
+            "The University of Texas at Austin and VMware Research": "US"
+        },
+        "Francis Y. Yan": {
+            "Microsoft Research": "US"
+        },
+        "Suli Yang": {
+            "Google": "US"
+        },
+        "Nofel Yaseen": {
+            "Meta": "US"
+        },
+        "Yasir Zaki": {
+            "New York University": "US"
+        },
+        "Lixia Zhang": {
+            "University of California": "US"
+        },
+        "Yongle Zhang": {
+            "Purdue University": "US"
+        },
+        "Wenting Zheng": {
+            "Carnegie Mellon University": "US"
+        },
+        "Danyang Zhuo": {
+            "Duke University": "US"
+        },
+        "Rachee Singh": null
     }
 }
