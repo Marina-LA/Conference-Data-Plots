@@ -24,8 +24,8 @@ if (file.exists("src/visualization/plot_utils.R")) {
 
 INPUT_CSV <- "data/processed/csv/unifiedPaperData.csv"
 OUTPUT_PDF <- "outputs/plots/accepted_papers_continent_distribution.pdf"
-PLOT_WIDTH <- PLOT_WIDTH_WIDE
-PLOT_HEIGHT <- PLOT_HEIGHT_WIDE
+PLOT_WIDTH <- PLOT_WIDTH_STANDARD
+PLOT_HEIGHT <- PLOT_HEIGHT_STANDARD
 
 # =============================================================================
 # MAIN EXECUTION

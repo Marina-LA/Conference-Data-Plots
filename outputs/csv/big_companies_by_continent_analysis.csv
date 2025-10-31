@@ -15,8 +15,8 @@ IEEEcloud,2015,pct_big_na,4.35
 IEEEcloud,2015,pct_big_eu,2.61
 IEEEcloud,2015,pct_big_as,3.48
 IEEEcloud,2015,pct_big_other,0.0
-IEEEcloud,2016,pct_big_na,16.28
-IEEEcloud,2016,pct_big_eu,1.16
+IEEEcloud,2016,pct_big_na,15.12
+IEEEcloud,2016,pct_big_eu,2.33
 IEEEcloud,2016,pct_big_as,4.65
 IEEEcloud,2016,pct_big_other,0.0
 IEEEcloud,2017,pct_big_na,7.59
@@ -277,10 +277,10 @@ europar,2022,pct_big_as,0.0
 europar,2023,pct_big_na,0.0
 europar,2023,pct_big_eu,2.08
 europar,2023,pct_big_as,0.0
-europar,2024,pct_big_na,3.41
-europar,2024,pct_big_eu,4.55
-europar,2024,pct_big_as,3.41
-europar,2024,pct_big_other,1.14
+europar,2024,pct_big_na,3.45
+europar,2024,pct_big_eu,4.6
+europar,2024,pct_big_as,3.45
+europar,2024,pct_big_other,1.15
 eurosys,2012,pct_big_na,23.08
 eurosys,2012,pct_big_eu,11.54
 eurosys,2012,pct_big_as,7.69
@@ -552,8 +552,8 @@ sigcomm,2019,pct_big_as,3.23
 sigcomm,2020,pct_big_na,19.23
 sigcomm,2020,pct_big_eu,9.62
 sigcomm,2020,pct_big_as,3.85
-sigcomm,2021,pct_big_na,27.27
-sigcomm,2021,pct_big_eu,9.09
+sigcomm,2021,pct_big_na,25.45
+sigcomm,2021,pct_big_eu,10.91
 sigcomm,2021,pct_big_as,5.45
 sigcomm,2022,pct_big_na,20.75
 sigcomm,2022,pct_big_eu,5.66

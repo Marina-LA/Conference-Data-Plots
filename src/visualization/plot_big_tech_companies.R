@@ -62,42 +62,56 @@ process_bigtech_data <- function(csv_path) {
     filter(level_2 %in% c("pct_has_big", "pct_no_big")) %>%
     mutate(
       Conference = tolower(Conference),
-      Conference = recode(Conference, !!!CONFERENCE_MAPPING),
-      level_2 = factor(level_2, levels = c("pct_has_big", "pct_no_big"))
+      Conference = recode(Conference, !!!CONFERENCE_MAPPING)
     )
   
-  known_sum <- df_clean %>%
-    group_by(Conference, Year) %>%
+  # Calculate aggregated percentages across all years for each conference
+  df_aggregated <- df_clean %>%
+    group_by(Conference, level_2) %>%
+    summarise(
+      percentage = mean(percentage, na.rm = TRUE),
+      .groups = "drop"
+    )
+  
+  # Calculate known total for each conference (aggregated)
+  known_sum <- df_aggregated %>%
+    group_by(Conference) %>%
     summarise(known_total = sum(percentage, na.rm = TRUE), .groups = "drop")
   
+  # Calculate remainder (unknown percentage)
   remainder <- known_sum %>%
     mutate(
       percentage = pmax(0, 100 - known_total),
       level_2 = "pct_unknown"
     ) %>%
     filter(percentage > 0) %>%
-    select(Conference, Year, level_2, percentage)
+    select(Conference, level_2, percentage)
   
-  df_clean <- bind_rows(
-    df_clean %>% select(Conference, Year, level_2, percentage),
+  # Combine and prepare final dataset
+  df_final <- bind_rows(
+    df_aggregated %>% select(Conference, level_2, percentage),
     remainder
   ) %>%
     mutate(
       level_2 = factor(level_2, levels = c("pct_unknown", "pct_has_big", "pct_no_big"))
     ) %>%
-    arrange(Conference, Year, desc(level_2))
+    arrange(Conference, desc(level_2))
   
-  conference_order_by_big <- df_clean %>%
+  # Order conferences by big tech percentage (aggregated)
+  conference_order_by_big <- df_final %>%
     filter(level_2 == "pct_has_big") %>%
-    group_by(Conference) %>%
-    summarise(mean_big_pct = mean(percentage, na.rm = TRUE), .groups = "drop") %>%
-    arrange(desc(mean_big_pct)) %>%
+    arrange(desc(percentage)) %>%
     pull(Conference)
   
-  df_clean %>%
-    mutate(Conference = factor(Conference, levels = conference_order_by_big)) %>%
+  # Add Year column with "All Years" value to maintain compatibility
+  df_final %>%
+    mutate(
+      Conference = factor(Conference, levels = conference_order_by_big),
+      Year = "All Years"
+    ) %>%
     filter(!is.na(Conference)) %>%
-    arrange(Conference, Year, level_2)
+    arrange(Conference, level_2) %>%
+    select(Conference, Year, level_2, percentage)
 }
 
 # =============================================================================
@@ -105,32 +119,36 @@ process_bigtech_data <- function(csv_path) {
 # =============================================================================
 
 create_bigtech_plot <- function(data) {
-  ggplot(data, aes(x = factor(Year), y = percentage, fill = level_2)) +
-    geom_bar(stat = "identity", width = 0.7, position = "stack") +
-    facet_wrap(~ Conference, nrow = 3, ncol = 5) +
-    scale_fill_manual(
-      name = NULL,
-      values = CATEGORY_COLORS,
-      labels = CATEGORY_LABELS,
-      breaks = c("pct_has_big", "pct_no_big")
-    ) +
-    scale_y_continuous(limits = c(0, 100)) +
-    labs(y = "Percentage of Papers") +
-    theme_minimal(base_size = 10, base_family = "serif") +
-    theme(
-      axis.text.x = element_text(angle = 90, vjust = 0.5, hjust = 0.5, 
-                                  size = 6, margin = margin(t = -4)),
-      axis.title.x = element_blank(),
-      axis.ticks.length.x = unit(0.1, "cm"),
-      legend.position = "top",
-      legend.key.size = unit(0.25, "cm"),
-      legend.title = element_blank(),
-      panel.grid.minor = element_blank(),
-      panel.grid.major.x = element_blank(),
-      panel.grid.major.y = element_line(linewidth = 0.2),
-      text = element_text(family = "serif"),
-      plot.margin = margin(t = 10, r = 10, b = 10, l = 10)
-    )
+  ggplot(data, aes(x = Conference, y = percentage, fill = level_2)) +
+  geom_bar(stat = "identity", width = 0.7) +
+  scale_fill_manual(
+    values = CATEGORY_COLORS,
+    labels = CATEGORY_LABELS,
+		breaks = c("pct_has_big", "pct_no_big") 
+  ) +
+  labs(
+    y = "Average Percentage of Papers",
+    x = NULL
+  ) +
+  theme_minimal(base_size = 10, base_family = "serif") +
+  theme(
+    axis.text.x = element_text(
+      angle = 45,
+      vjust = 1,
+      hjust = 1,
+      size = 8
+    ),
+    axis.ticks.length.x = unit(0.1, "cm"),
+    legend.position = "top",
+    legend.key.size = unit(0.25, "cm"),
+    legend.title = element_blank(),
+    panel.grid.minor = element_blank(),
+    panel.grid.major.x = element_blank(),
+    panel.grid.major.y = element_line(linewidth = 0.2),
+    text = element_text(family = "serif"),
+    plot.margin = margin(t = 10, r = 10, b = 10, l = 10)
+  )
+
 }
 
 # =============================================================================

@@ -101,6 +101,44 @@ calculate_continent_percentages <- function(df, continent_col = "Continent_Clean
   bind_rows(known_pct, unknown_pct)
 }
 
+#' Calculate percentage distribution by conference, continent and year
+#' @param df Dataframe with Conference, Continent and Year columns
+#' @param continent_col Name of continent column
+#' @return Dataframe with percentages by year
+calculate_continent_percentages_by_year <- function(df, continent_col = "Continent_Clean") {
+  # Total count per conference and year
+  total_counts <- df %>%
+    group_by(Conference, Year) %>%
+    summarise(Total = n(), .groups = "drop")
+  
+  # Known continent counts (excluding Unknown) per conference and year
+  known_counts <- df %>%
+    filter(.data[[continent_col]] != "Unknown") %>%
+    group_by(Conference, Year, .data[[continent_col]]) %>%
+    summarise(Count = n(), .groups = "drop") %>%
+    rename(Continent = !!continent_col)
+  
+  # Calculate percentages for known continents per year
+  known_pct <- known_counts %>%
+    left_join(total_counts, by = c("Conference", "Year")) %>%
+    mutate(Percentage = Count / Total * 100) %>%
+    ungroup() %>%
+    select(Conference, Year, Continent, Percentage)
+  
+  # Calculate Unknown as remainder to 100% per conference and year
+  unknown_pct <- known_pct %>%
+    group_by(Conference, Year) %>%
+    summarise(known_sum = sum(Percentage), .groups = "drop") %>%
+    mutate(
+      Percentage = pmax(0, 100 - known_sum),
+      Continent = "Unknown"
+    ) %>%
+    select(Conference, Year, Continent, Percentage)
+  
+  # Combine
+  bind_rows(known_pct, unknown_pct)
+}
+
 #' Apply readable labels to continents and conferences
 #' @param df Dataframe
 #' @param apply_conference_mapping Apply conference name mapping
@@ -279,6 +317,40 @@ create_comparison_plot <- function(df) {
     )
 }
 
+create_violin_plot <- function(df) {
+  # Calculate year breaks
+  years <- as.numeric(as.character(df$Year))
+  year_breaks <- c(min(years), median(years), max(years))
+  
+  # Create the complete plot
+  ggplot(df, aes(x = Conference, y = Percentage)) +
+    geom_violin(fill = "#c5c5c5", alpha = 0.2, color = NA) +
+    geom_boxplot(fill = NA, width = 0.2, outlier.size = 0.5) +
+    geom_point(
+      aes(color = as.numeric(as.character(Year))),
+      position = position_jitter(width = 0.01, height = 0, seed = 123),
+      alpha = 0.3, 
+      size = 2
+    ) +
+    scale_color_viridis_c(
+      name = "Year", 
+      option = "plasma",
+      breaks = year_breaks,
+      labels = round(year_breaks)
+    ) +
+    labs(
+      x = NULL, 
+      y = "Percentage of Papers"
+    ) +
+    theme_conference_standard() +
+    theme(
+      axis.text.x = element_text(face = "bold", angle = 45, hjust = 1),
+      legend.title = element_text(size = 8, face = "bold", hjust = 0.8, vjust = 1.0),
+      legend.position = "top",
+      legend.justification = "center"
+    )
+}
+
 # =============================================================================
 # ORDERING UTILITIES
 # =============================================================================
@@ -297,6 +369,25 @@ order_by_na_percentage <- function(df, continent_col, percentage_col) {
   
   df %>%
     mutate(Conference = factor(Conference, levels = na_ordering))
+}
+
+#' Order conferences by continent median percentage
+#' @param df Dataframe with Conference, continent column, and percentage column
+#' @param continent Continent name to filter by
+#' @param continent_col Name of continent column
+#' @param percentage_col Name of percentage column
+#' @return Dataframe with Conference as ordered factor
+order_by_median <- function(df, continent, continent_col, percentage_col) {
+  continent_ordering <- df %>%
+    filter(.data[[continent_col]] == continent) %>%
+    group_by(Conference) %>%
+    summarise(median_percentage = median(.data[[percentage_col]], na.rm = TRUE)) %>%
+    arrange(desc(median_percentage)) %>%
+    pull(Conference) %>%
+    unique()
+  
+  df %>%
+    mutate(Conference = factor(Conference, levels = continent_ordering))
 }
 
 # =============================================================================
@@ -384,6 +475,44 @@ pipeline_committee_distribution <- function(csv_path, output_path,
   
   plot
 }
+
+
+#' Complete pipeline: Load paper data and create continent trend distribution plot
+#' @param csv_path Path to input CSV file with paper data
+#' @param output_path Path for output PDF file
+#' @param continent Continent name to filter and analyze
+#' @param width Plot width in inches (default: PLOT_WIDTH_WIDE)
+#' @param height Plot height in inches (default: PLOT_HEIGHT_WIDE)
+#' @return ggplot object with continent distribution trend visualization
+pipeline_continent_trend_distribution <- function(csv_path, output_path, continent,
+                                                  width = PLOT_WIDTH_WIDE,
+                                                  height = PLOT_HEIGHT_WIDE) {
+  # Load and process data
+  df <- load_csv_data(csv_path) %>%
+    rename(Predominant_Continent = `Predominant Continent`) %>%
+    process_paper_continents("Predominant_Continent")
+  
+  # Calculate percentages
+  df_stats <- calculate_continent_percentages_by_year(df)
+
+  # Apply labels (this converts Continent codes to readable names)
+  df_plot <- apply_readable_labels(df_stats, apply_conference_mapping = TRUE)
+
+  # Order by continent percentage (after labels are applied)
+  df_plot <- order_by_median(df_plot, continent, "Continent", "Percentage")
+
+  df_continent <- df_plot %>%
+    filter(Continent == continent)
+  
+  # Create plot
+  plot <- create_violin_plot(df_continent)
+  
+  # Save
+  save_conference_plot(plot, output_path, width, height)
+  
+  plot
+}
+
 
 # Plot utilities loaded
 

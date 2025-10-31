@@ -75,11 +75,13 @@ In `outputs/plots/`:
 1. **accepted_papers_continent_distribution.pdf** - Distribution of accepted papers by continent for each conference
 2. **committee_continent_distribution.pdf** - Distribution of committee members by continent
 3. **asian_trend.pdf** - Temporal trend of Asian representation across conferences
-4. **citations_distribution.pdf** - Comparison of paper and citation patterns
-5. **gini_simpson_diversity_index.pdf** - Diversity metrics for each conference
-6. **tech_companies_accepted_papers.pdf** - Big Tech vs Academic participation in papers
-7. **tech_companies_by_continent_accepted_papers.pdf** - Big Tech participation by continent
-8. **papers_vs_committee_continent_gap.pdf** - Heatmap showing committee-paper geographic gaps
+4. **asian_trend_distribution.pdf** - Distribution of Asian representation across conferences over time
+5. **citations_distribution.pdf** - Comparison of paper and citation patterns
+6. **gini_simpson_diversity_index.pdf** - Diversity metrics for each conference
+7. **tech_companies_accepted_papers_by_year.pdf** - Big Tech vs Academic participation in papers for each year
+8. **tech_companies_by_continent_accepted_papers.pdf** - Big Tech participation by continent
+9. **tech_companies_accepted_papers.pdf** - Big Tech vs Academic participation in papers
+10. **papers_vs_committee_continent_gap.pdf** - Heatmap showing committee-paper geographic gaps
 
 ### Analysis Results
 
