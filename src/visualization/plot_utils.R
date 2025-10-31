@@ -338,6 +338,12 @@ create_violin_plot <- function(df) {
       breaks = year_breaks,
       labels = round(year_breaks)
     ) +
+    scale_y_continuous(
+      breaks = seq(0, 100, 10),
+      labels = function(x) paste0(x, "%"),
+      expand = c(0, 0),
+      limits = c(0, 100)
+    ) +
     labs(
       x = NULL, 
       y = "Percentage of Papers"

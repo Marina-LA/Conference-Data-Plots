@@ -126,8 +126,14 @@ create_bigtech_plot <- function(data) {
     labels = CATEGORY_LABELS,
 		breaks = c("pct_has_big", "pct_no_big") 
   ) +
+  scale_y_continuous(
+    breaks = seq(0, 100, 10),
+    labels = function(x) paste0(x, "%"),
+    expand = c(0, 0),
+    limits = c(0, 100)
+  ) +
   labs(
-    y = "Average Percentage of Papers",
+    y = "Percentage of Papers",
     x = NULL
   ) +
   theme_minimal(base_size = 10, base_family = "serif") +

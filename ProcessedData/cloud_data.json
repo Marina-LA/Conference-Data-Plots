@@ -8360,8 +8360,8 @@
             "Year": "2017",
             "Predominant Continent": [
                 "EU",
-                "NA",
-                "AS"
+                "AS",
+                "NA"
             ],
             "Authors and Institutions": [
                 {
@@ -9929,8 +9929,8 @@
             "Title": "DAIET: a system for data aggregation inside the network.",
             "Year": "2017",
             "Predominant Continent": [
-                "NA",
-                "AS"
+                "AS",
+                "NA"
             ],
             "Authors and Institutions": [
                 {
@@ -18610,8 +18610,8 @@
             "Title": "Finding the right cloud configuration for analytics clusters.",
             "Year": "2020",
             "Predominant Continent": [
-                "NA",
                 "AS",
+                "NA",
                 "EU"
             ],
             "Authors and Institutions": [

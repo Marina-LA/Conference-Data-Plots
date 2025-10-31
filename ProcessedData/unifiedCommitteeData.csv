@@ -1,4 +1,1718 @@
 Conference,Year,Name,Institution,Continent
+IEEEcloud,2012,Marco Aiello,University of Groningen,EU
+IEEEcloud,2012,Mikio Aoyama,Nanzan University,AS
+IEEEcloud,2012,Danilo Ardagna,Politecnico di Milano,EU
+IEEEcloud,2012,Janaka L. Balasooriya,Arizona State University,NA
+IEEEcloud,2012,Bhuvan Bamba,Oracle,NA
+IEEEcloud,2012,Sujoy Basu,HP Labs–Palo Alto,NA
+IEEEcloud,2012,Elisa Bertino,Purdue University,NA
+IEEEcloud,2012,Viraj Bhat,Yahoo,NA
+IEEEcloud,2012,Brain Blake,University of Notre Dame,NA
+IEEEcloud,2012,Steve Bobrowski,Salesforce.com,NA
+IEEEcloud,2012,Mario Bravetti,University of Bologna,EU
+IEEEcloud,2012,Rajkumar Buyya,University of Melbourne,OC
+IEEEcloud,2012,Jiannong Cao,Hong Kong Polytechnic University,AS
+IEEEcloud,2012,David Carrera,Technical University of Catalonia,NA
+IEEEcloud,2012,Haopeng Chen,Shanghai Jiao Tong University,AS
+IEEEcloud,2012,Keke Chen,Wright State University,NA
+IEEEcloud,2012,Peter Chen,Carnegie-Mellon University & Louisiana State University (LSU),NA
+IEEEcloud,2012,Yong Chen,Texas Tech University,NA
+IEEEcloud,2012,Ludmila Cherkasova,HP,NA
+IEEEcloud,2012,Malolan Chetlur,IBM,NA
+IEEEcloud,2012,Tzi-Cker Chiueh,Industrial Technology Research Institute,AS
+IEEEcloud,2012,Alfredo Cuzzocrea,ICAR-CNR & University of Calabria,EU
+IEEEcloud,2012,Wu Chou,"Huawei IT Lab, Huawei",AS
+IEEEcloud,2012,Ernesto Damiani,University of Milan,EU
+IEEEcloud,2012,Noel De Palma,INRIA SARDES Research Group,EU
+IEEEcloud,2012,Nirmit Desai,IBM India Research Lab,AS
+IEEEcloud,2012,Tudor A. Dumitras,Symantec Research Labs,NA
+IEEEcloud,2012,Khalil El-Khatib,University of Ontario Institute of Technology,NA
+IEEEcloud,2012,Mohamed Eltoweissy,Pacific Northwest National Laboratory,NA
+IEEEcloud,2012,Robert van Engelen,Florida State University,NA
+IEEEcloud,2012,Elena Ferrari,"Politiche e dell’Informazione, University of Insubria at Como",EU
+IEEEcloud,2012,Liana L. Fong,IBM T.J. Watson Research Center,NA
+IEEEcloud,2012,Marcus Fontoura,Google,NA
+IEEEcloud,2012,Jose Fortes,University of Florida,NA
+IEEEcloud,2012,Geoffrey Fox,Indiana University,NA
+IEEEcloud,2012,Dennis Gannon,Microsoft Research,NA
+IEEEcloud,2012,Yuqing Gao,IBM T.J. Watson Research Center,NA
+IEEEcloud,2012,Dimitrios Georgakopoulos,"CSIRO ICT Center, Canberra, ACT",OC
+IEEEcloud,2012,Vladimir Getov,University of Westminster,EU
+IEEEcloud,2012,Nathan Gnanasambandam,"XEROX Labs, Webster, NY",NA
+IEEEcloud,2012,Claude Godart,Nancy University and INRIA,EU
+IEEEcloud,2012,Karthik Gomadam,Accenture Technology Labs–Silicon Valley,NA
+IEEEcloud,2012,Nils Gruschka,University of Applied Science Kiel,EU
+IEEEcloud,2012,Yike Guo,Imperial College London,EU
+IEEEcloud,2012,Vijay K. Gurbani,"Bell Laboratories, Alcatel-Lucent",NA
+IEEEcloud,2012,Michael Head,Google,NA
+IEEEcloud,2012,Paul Hofmann,SAP Labs,NA
+IEEEcloud,2012,Ching-Hsien Hsu,Chung Hua University,AS
+IEEEcloud,2012,Patrick C.K. Hung,University of Ontario Institute of Technology,NA
+IEEEcloud,2012,Kuen-Fang Jea,National Chung-Hsing University,AS
+IEEEcloud,2012,Hai Jin,HUST,AS
+IEEEcloud,2012,James Joshi,University of Pittsburgh,NA
+IEEEcloud,2012,Jeff Kephart,IBM T.J. Watson Research Center,NA
+IEEEcloud,2012,Shinji Kikuchi,Fujitsu Laboratories Ltd.,AS
+IEEEcloud,2012,Jacek Kitowski,AGH University of Science and Technology,EU
+IEEEcloud,2012,Dzmitry Kliazovich,University of Luxembourg,EU
+IEEEcloud,2012,Andrzej Kochut,IBM T.J. Watson Research Center,NA
+IEEEcloud,2012,Alexander V. Konstantinou,Google,NA
+IEEEcloud,2012,Tevfik Kosar,University at Buffalo (SUNY),NA
+IEEEcloud,2012,Alexander Lazovik,University of Groningen,EU
+IEEEcloud,2012,Tsengdar Lee,NASA,NA
+IEEEcloud,2012,Frank Leymann,University of Stuttgart,EU
+IEEEcloud,2012,Wei Li,Chinese Academy of Sciences,AS
+IEEEcloud,2012,Grace Lin,Institute for Information Industry,AS
+IEEEcloud,2012,Ling Liu,Georgia Tech,NA
+IEEEcloud,2012,Yew-Huey Liu,IBM T.J. Watson Research Center,NA
+IEEEcloud,2012,Leslie Liu,IBM T.J. Watson Research Center,NA
+IEEEcloud,2012,Xumin Liu,Rochester Institute of Technology,NA
+IEEEcloud,2012,Shiyong Lu,Wayne State University,NA
+IEEEcloud,2012,Tiziana Margaria,University of Potsdam,EU
+IEEEcloud,2012,J.P. Martin-Flatin,NetExpert,EU
+IEEEcloud,2012,Michael Maximilien,IBM Almaden Research Center,NA
+IEEEcloud,2012,Brahim Medjahed,University of Michigan,NA
+IEEEcloud,2012,Dejan S. Milojicic,HP Laboratories,NA
+IEEEcloud,2012,Vijay Naik,IBM T.J. Watson Research Center,NA
+IEEEcloud,2012,Surya Nepal,Commonwealth Scientific and Industrial Research Organisation,OC
+IEEEcloud,2012,SeogChan Oh,GM Research,NA
+IEEEcloud,2012,Krzysztof Ostrowski,Cornell University,NA
+IEEEcloud,2012,Srinivas Padmanabhuni,Infosys India,AS
+IEEEcloud,2012,Massimo Paolucci,Docomo Euro-Labs,EU
+IEEEcloud,2012,Manish Parashar,Rutgers University,NA
+IEEEcloud,2012,Thierry Priol,INRIA,EU
+IEEEcloud,2012,Ioan Raicu,Illinois Institute of Technology,NA
+IEEEcloud,2012,Lavanya Ramakrishnan,Lawrence Berkeley National Laboratory,NA
+IEEEcloud,2012,Omer Rana,Cardiff University,EU
+IEEEcloud,2012,Anand Ranganathan,IBM T.J. Watson Research Center,NA
+IEEEcloud,2012,Manfred Reichert,University of Ulm,EU
+IEEEcloud,2012,Berthold Reinwald,IBM Almaden Research Center,NA
+IEEEcloud,2012,Norbert Ritter,University of Hamburg,EU
+IEEEcloud,2012,Indrajit Roy,HP Labs,NA
+IEEEcloud,2012,S. Masoud Sadjadi,Florida International University,NA
+IEEEcloud,2012,Josef Schiefer,Vienna University of Technology,EU
+IEEEcloud,2012,Sangeetha Seshadri,IBM Almaden,NA
+IEEEcloud,2012,Tony Shan,Keane Inc.,NA
+IEEEcloud,2012,Jun Shen,University of Wollongong,OC
+IEEEcloud,2012,Liuba Shrira,Brandeis University,NA
+IEEEcloud,2012,Kwang Mong SIM,Gwangju Institute of Science and Technology,AS
+IEEEcloud,2012,Toyotaro Suzumura,IBM Tokyo Research Laboratory,AS
+IEEEcloud,2012,Chunqiang Tang,IBM T.J. Watson Research Center,NA
+IEEEcloud,2012,Tao Tao,IBM T.J. Watson Research Center,NA
+IEEEcloud,2012,Michiaki Tatsubori,IBM Tokyo Research Laboratory,AS
+IEEEcloud,2012,Kerry Taylor,Commonwealth Scientific and Industrial Research Organisation,OC
+IEEEcloud,2012,Naohiko Uramoto,IBM Tokyo Research Laboratory,AS
+IEEEcloud,2012,Bhuvan Urgaonkar,Penn State University,NA
+IEEEcloud,2012,Kunal Verma,Accenture Technology Labs,NA
+IEEEcloud,2012,Andy Ju An Wang,Southern Polytechnic State University,NA
+IEEEcloud,2012,Mathias Weske,University of Potsdam,EU
+IEEEcloud,2012,Raymond Wong,University of New South Wales & NICTA,OC
+IEEEcloud,2012,Dongyan Xu,Purdue University,NA
+IEEEcloud,2012,Qi Yu,Rochester Institute of Technology,NA
+IEEEcloud,2012,Gianluigi Zavattaro,University of Bologna,EU
+IEEEcloud,2012,Gong Zhang,Oracle Corporation,NA
+IEEEcloud,2012,Jia Zhang,Northern Illinois University,NA
+IEEEcloud,2012,Liang-Jie Zhang,Kingdee International Software Group,AS
+IEEEcloud,2012,Nianjun (Joe) Zhou,IBM Research,NA
+IEEEcloud,2012,Wolf Zimmermann,Martin-Luther-Universität Halle-Wittenberg,EU
+IEEEcloud,2013,Marco Aiello,University of Groningen,EU
+IEEEcloud,2013,Mikio Aoyama,Nanzan University,AS
+IEEEcloud,2013,Danilo Ardagna,Politecnico di Milano,EU
+IEEEcloud,2013,Janaka L. Balasooriya,Arizona State University,NA
+IEEEcloud,2013,Bhuvan Bamba,Oracle,NA
+IEEEcloud,2013,Roger Barga,Microsoft Research,NA
+IEEEcloud,2013,Elisa Bertino,Purdue University,NA
+IEEEcloud,2013,Viraj Bhat,Yahoo,NA
+IEEEcloud,2013,Rajdeep Bhowmik,"Cisco Systems, Inc.",NA
+IEEEcloud,2013,Brain Blake,University of Miami,NA
+IEEEcloud,2013,Steve Bobrowski,Salesforce.com,NA
+IEEEcloud,2013,Mario Bravetti,University if Bologna,EU
+IEEEcloud,2013,Jiannong Cao,Hong Kong Polytechnic University,AS
+IEEEcloud,2013,David Carrera,Technical University of Catalonia,EU
+IEEEcloud,2013,Peter Chen,Carnegie-Mellon University & Louisiana State University (LSU),NA
+IEEEcloud,2013,Haopeng Chen,Shanghai Jiao Tong University,AS
+IEEEcloud,2013,Keke Chen,Wright State University,NA
+IEEEcloud,2013,Yong Chen,Texas Tech University,NA
+IEEEcloud,2013,Winnie Cheng,American Express,NA
+IEEEcloud,2013,Ludmila Cherkasova,HP,NA
+IEEEcloud,2013,Malolan Chetlur,IBM India,AS
+IEEEcloud,2013,Tzi-Cker Chiueh,Industrial Technology Research Institute,AS
+IEEEcloud,2013,Gregory Chockler,University of London,EU
+IEEEcloud,2013,Wu Chou,"Huawei IT Lab, Huawei",AS
+IEEEcloud,2013,Alfredo Cuzzocrea,ICAR-CNR & University of Calabria,EU
+IEEEcloud,2013,Dilma Da Silva,Qualcomm Inc.,NA
+IEEEcloud,2013,Ernesto Damiani,University of Milan,EU
+IEEEcloud,2013,Noel De Palma,University Joseph Fourier,EU
+IEEEcloud,2013,Robert van Engelen,Florida State University,NA
+IEEEcloud,2013,Elena Ferrari,University of Insubria,EU
+IEEEcloud,2013,Jose Fortes,University of Florida,NA
+IEEEcloud,2013,Geoffrey Fox,Indiana University,NA
+IEEEcloud,2013,Dennis Gannon,Microsoft Research,NA
+IEEEcloud,2013,Yuqing Gao,IBM T. J. Watson Research Center,NA
+IEEEcloud,2013,Dimitrios Georgakopoulos,CSIRO ICT Center,OC
+IEEEcloud,2013,Vladimir Getov,University of Westminster,EU
+IEEEcloud,2013,Claude Godart,Nancy University and INRIA,EU
+IEEEcloud,2013,Karthik Gomadam,Accenture Technology Labs - Silicon Valley,NA
+IEEEcloud,2013,Nils Gruschka,University of Applied Sciences,EU
+IEEEcloud,2013,Yike Guo,Imperial College London,EU
+IEEEcloud,2013,Vijay K. Gurbani,"Bell Laboratories, Alcatel-Lucent",NA
+IEEEcloud,2013,Michael Head,Google,NA
+IEEEcloud,2013,Paul Hofmann,Saffron Technology,NA
+IEEEcloud,2013,Ching-Hsien Hsu,Chung Hua University,AS
+IEEEcloud,2013,Marty Humphrey,University of Virginia,NA
+IEEEcloud,2013,Patrick C.K. Hung,University of Ontario Institute of Technology,NA
+IEEEcloud,2013,Shantenu Jha,Rutgers University,NA
+IEEEcloud,2013,Hai Jin,HUST,AS
+IEEEcloud,2013,James Joshi,University of Pittsburg,NA
+IEEEcloud,2013,Jeff Kephart,IBM T. J. Watson Research Center,NA
+IEEEcloud,2013,Shinji Kikuchi,Fujitsu Laboratories Ltd.,AS
+IEEEcloud,2013,Jacek Kitowski,AGH University of Science and Technology,EU
+IEEEcloud,2013,Dzmitry Kliazovich,University of Luxembourg,EU
+IEEEcloud,2013,Andrzej Kochut,IBM T. J. Watson Research Center,NA
+IEEEcloud,2013,Alexander V. Konstantinou,Google,NA
+IEEEcloud,2013,Tevfik Kosar,University at Buffalo (SUNY),NA
+IEEEcloud,2013,Alexander Lazovik,the University of Groningen (RuG),EU
+IEEEcloud,2013,Tsengdar Lee,NASA,NA
+IEEEcloud,2013,Frank Leymann,University of Stuttgart,EU
+IEEEcloud,2013,Wei Li,Chinese Academy of Sciences,AS
+IEEEcloud,2013,Grace Lin,Institute for Information Industry,AS
+IEEEcloud,2013,Yew-Huey Liu,IBM T. J. Watson Research Center,NA
+IEEEcloud,2013,Leslie Liu,IBM T. J. Watson Research Center,NA
+IEEEcloud,2013,Xumin Liu,Rochester Institute of Technology,NA
+IEEEcloud,2013,Shiyong Lu,Wayne State University,NA
+IEEEcloud,2013,Tiziana Margaria,University of Potsdam,EU
+IEEEcloud,2013,J.P. Martin-Flatin,EPFL,EU
+IEEEcloud,2013,Michael Maximilien,IBM Almaden Research Center,NA
+IEEEcloud,2013,Brahim Medjahed,University of Michigan,NA
+IEEEcloud,2013,Vijay Naik,IBM T.J. Watson Research Center,NA
+IEEEcloud,2013,Surya Nepal,Commonwealth Scientific and Industrial Research Organisation,OC
+IEEEcloud,2013,SeogChan Oh,GM Research,NA
+IEEEcloud,2013,Krzysztof Ostrowski,Cornell University,NA
+IEEEcloud,2013,Srinivas Padmanabhuni,Infosys India,AS
+IEEEcloud,2013,Massimo Paolucci,Docomo Euro-Labs,EU
+IEEEcloud,2013,Manish Parashar,Rutgers University,NA
+IEEEcloud,2013,Thierry Priol,INRIA,EU
+IEEEcloud,2013,Judy Qiu,Indiana University,NA
+IEEEcloud,2013,Lavanya Ramakrishnan,Lawrence Berkeley National Laboratory,NA
+IEEEcloud,2013,Anand Ranganathan,IBM T.J. Watson Research Center,NA
+IEEEcloud,2013,Norbert Ritter,University of Hamburg,EU
+IEEEcloud,2013,Indrajit Roy,HP Labs,NA
+IEEEcloud,2013,Rizos Sakellariou,University of Manchester,EU
+IEEEcloud,2013,Jun Shen,University of Wollongong,OC
+IEEEcloud,2013,"Shi, Weidong",University of Houston,NA
+IEEEcloud,2013,Josef Schiefer,Vienna University of Technology,EU
+IEEEcloud,2013,Liuba Shrira,Brandeis University,NA
+IEEEcloud,2013,Kwang Mong SIM,University of Kent,EU
+IEEEcloud,2013,Toyotaro Suzumura,IBM Tokyo Research Laboratory,AS
+IEEEcloud,2013,Chunqiang Tang,IBM T.J. Watson Research Center,NA
+IEEEcloud,2013,Tao Tao,IBM T.J. Watson Research Center,NA
+IEEEcloud,2013,Michiaki Tatsubori,IBM Tokyo Research Laboratory,AS
+IEEEcloud,2013,Naohiko Uramoto,IBM Tokyo Research Laboratory,AS
+IEEEcloud,2013,Kunal Verma,Accenture Technology Labs,NA
+IEEEcloud,2013,Andy Ju An Wang,Southern Illinois University,NA
+IEEEcloud,2013,Ian Whalley,Google,NA
+IEEEcloud,2013,Raymond Wong,University of New South Wales & NICTA,OC
+IEEEcloud,2013,Song Wu,HUST,AS
+IEEEcloud,2013,Qi Yu,Rochester Institute of Technology,NA
+IEEEcloud,2013,Gianluigi Zavattaro,University if Bologna,EU
+IEEEcloud,2013,Gong Zhang,Oracle Corporation,NA
+IEEEcloud,2013,Jia Zhang,Carnegie Mellon University - Silicon Valley,NA
+IEEEcloud,2013,Liang-Jie Zhang,Kingdee International Software Group,AS
+IEEEcloud,2013,Nianjun (Joe) Zhou,IBM T.J. Watson Research Center,NA
+IEEEcloud,2013,Wolf Zimmermann,Martin-Luther-Universit Halle-Wittenberg,EU
+IEEEcloud,2014,Marco Aiello,University of Groningen,EU
+IEEEcloud,2014,Mikio Aoyama,Nanzan University,AS
+IEEEcloud,2014,Danilo Ardagna,Politecnico di Milano,EU
+IEEEcloud,2014,Janaka L. Balasooriya,Arizona State University,NA
+IEEEcloud,2014,Bhuvan Bamba,Oracle,NA
+IEEEcloud,2014,Elisa Bertino,Purdue University,NA
+IEEEcloud,2014,Viraj Bhat,Yahoo,NA
+IEEEcloud,2014,Rajdeep Bhowmik,"Cisco Systems, Inc.",NA
+IEEEcloud,2014,Brain Blake,University of Miami,NA
+IEEEcloud,2014,Jiannong Cao,Hong Kong Polytechnic University,AS
+IEEEcloud,2014,Simon Caton,Karlsruhe Institute of Technology,EU
+IEEEcloud,2014,Haopeng Chen,Shanghai Jiao Tong University,AS
+IEEEcloud,2014,Keke Chen,Wright State University,NA
+IEEEcloud,2014,Yong Chen,Texas Tech University,NA
+IEEEcloud,2014,Ludmila Cherkasova,HP,NA
+IEEEcloud,2014,Malolan Chetlur,IBM India,AS
+IEEEcloud,2014,Tzi-Cker Chiueh,Industrial Technology Research Institute,AS
+IEEEcloud,2014,Steve Crago,Southern California University,NA
+IEEEcloud,2014,Alfredo Cuzzocrea,ICAR-CNR & University of Calabria,EU
+IEEEcloud,2014,Dilma Da Silva,Qualcomm Inc.,NA
+IEEEcloud,2014,Ernesto Damiani,University of Milan,EU
+IEEEcloud,2014,Noel De Palma,University Joseph Fourier,EU
+IEEEcloud,2014,Robert van Engelen,Florida State University,NA
+IEEEcloud,2014,Jose Fortes,University of Florida,NA
+IEEEcloud,2014,Dennis Gannon,Microsoft Research,NA
+IEEEcloud,2014,Yuqing Gao,IBM T.J. Watson Research Center,NA
+IEEEcloud,2014,Dimitrios Georgakopoulos,CSIRO ICT Center,OC
+IEEEcloud,2014,Claude Godart,Nancy University and INRIA,EU
+IEEEcloud,2014,Karthik Gomadam,Accenture Technology Labs - Silicon Valley,NA
+IEEEcloud,2014,Nils Gruschka,University of Applied Sciences,EU
+IEEEcloud,2014,Vijay K. Gurbani,"Bell Laboratories, Alcatel-Lucent",NA
+IEEEcloud,2014,Michael Head,Google,NA
+IEEEcloud,2014,Paul Hofmann,Saffron Technology,NA
+IEEEcloud,2014,Ching-Hsien Hsu,Chung Hua University,AS
+IEEEcloud,2014,Marty Humphrey,University of Virginia,NA
+IEEEcloud,2014,Patrick C.K. Hung,University of Ontario Institute of Technology,NA
+IEEEcloud,2014,Deepal Jayasinghe,Microsoft,NA
+IEEEcloud,2014,Shantenu Jha,Rutgers University,NA
+IEEEcloud,2014,Hai Jin,HUST,AS
+IEEEcloud,2014,James Joshi,University of Pittsburg,NA
+IEEEcloud,2014,Shinji Kikuchi,Fujitsu Laboratories Ltd.,AS
+IEEEcloud,2014,Jacek Kitowski,AGH University of Science and Technology,EU
+IEEEcloud,2014,Dzmitry Kliazovich,University of Luxembourg,EU
+IEEEcloud,2014,Alexander V. Konstantinou,Google,NA
+IEEEcloud,2014,Tevfik Kosar,University at Buffalo (SUNY),NA
+IEEEcloud,2014,Alexander Lazovik,The University of Groningen (RuG),EU
+IEEEcloud,2014,Frank Leymann,University of Stuttgart,EU
+IEEEcloud,2014,Wei Li,Chinese Academy of Sciences,AS
+IEEEcloud,2014,Grace Lin,Institute for Information Industry,AS
+IEEEcloud,2014,Yew-Huey Liu,IBM T. J. Watson Research Center,NA
+IEEEcloud,2014,Xumin Liu,Rochester Institute of Technology,NA
+IEEEcloud,2014,Shiyong Lu,Wayne State University,NA
+IEEEcloud,2014,Tiziana Margaria,University of Potsdam,EU
+IEEEcloud,2014,J.P. Martin-Flatin,EPFL,EU
+IEEEcloud,2014,Michael Maximilien,IBM Almaden Research Center,NA
+IEEEcloud,2014,Brahim Medjahed,University of Michigan,NA
+IEEEcloud,2014,Vijay Naik,IBM T.J. Watson Research Center,NA
+IEEEcloud,2014,Surya Nepal,Commonwealth Scientific and Industrial Research Organisation,OC
+IEEEcloud,2014,SeogChan Oh,GM Research,NA
+IEEEcloud,2014,Krzysztof Ostrowski,Cornell University,NA
+IEEEcloud,2014,Srinivas Padmanabhuni,Infosys India,AS
+IEEEcloud,2014,Balaji Palanisamy,University of Pittsburgh,NA
+IEEEcloud,2014,Massimo Paolucci,Docomo Euro-Labs,EU
+IEEEcloud,2014,Manish Parashar,Rutgers University,NA
+IEEEcloud,2014,Thierry Priol,INRIA,EU
+IEEEcloud,2014,Calton Pu,Georgia Tech,NA
+IEEEcloud,2014,Ioan Raicu,Illinois Institute of Technology,NA
+IEEEcloud,2014,Norbert Ritter,University of Hamburg,EU
+IEEEcloud,2014,Rizos Sakellariou,University of Manchester,EU
+IEEEcloud,2014,Josef Schiefer,Vienna University of Technology,EU
+IEEEcloud,2014,Jun Shen,University of Wollongong,OC
+IEEEcloud,2014,Weidong Shi,University of Houston,NA
+IEEEcloud,2014,Kwang Mong Sim,University of Kent,EU
+IEEEcloud,2014,Toyotaro Suzumura,IBM Tokyo Research Laboratory,AS
+IEEEcloud,2014,Tao Tao,IBM T.J. Watson Research Center,NA
+IEEEcloud,2014,Michiaki Tatsubori,IBM Tokyo Research Laboratory,AS
+IEEEcloud,2014,Naohiko Uramoto,IBM Tokyo Research Laboratory,AS
+IEEEcloud,2014,Andy Ju An Wang,Southern Illinois University,NA
+IEEEcloud,2014,Raymond Wong,University of New South Wales & NICTA,OC
+IEEEcloud,2014,Qi Yu,Rochester Institute of Technology,NA
+IEEEcloud,2014,Weider Yu,San Jose State University,NA
+IEEEcloud,2014,Gianluigi Zavattaro,University if Bologna,EU
+IEEEcloud,2014,Gong Zhang,Oracle Corporation,NA
+IEEEcloud,2014,Jia Zhang,Carnegie Mellon University - Silicon Valley,NA
+IEEEcloud,2014,Liang-Jie Zhang,Kingdee International Software Group,AS
+IEEEcloud,2014,Nianjun (Joe) Zhou,IBM T.J. Watson Research Center,NA
+IEEEcloud,2014,Wolf Zimmermann,Martin-Luther-Universit Halle-Wittenberg,EU
+IEEEcloud,2015,Gail-Joon Ahn,Arizona State University,NA
+IEEEcloud,2015,Kento Aida,NII,AS
+IEEEcloud,2015,Marco Aiello,University of Groningen,EU
+IEEEcloud,2015,Osama Al-Haj Hassan,Al-Isra University,AS
+IEEEcloud,2015,Jorn Altmann,Seoul National University,AS
+IEEEcloud,2015,Danilo Ardagna,Politecnico di Milano,EU
+IEEEcloud,2015,Bharath Balasubramanian,AT&T Labs,NA
+IEEEcloud,2015,Yungang Bao,Chinese Academy of Sciences,AS
+IEEEcloud,2015,Karin Becker,Federal University of RGS,SA
+IEEEcloud,2015,Elisa Bertino,Purdue University,NA
+IEEEcloud,2015,Viraj Bhat,Yahoo,NA
+IEEEcloud,2015,Ken Birman,Cornell University,NA
+IEEEcloud,2015,Charles Border,Rochester Institute of Technology,NA
+IEEEcloud,2015,Ivona Brandić,Vienna University of Technology,EU
+IEEEcloud,2015,Mauricio Breternitz,AMD,NA
+IEEEcloud,2015,M. Brian Blake,University of Miami,NA
+IEEEcloud,2015,Nanjangud C. Narendra,Cognizant Technology Solutions,AS
+IEEEcloud,2015,Jiannong Cao,Hong Kong Polytechnic University,AS
+IEEEcloud,2015,Giuliano Casale,Imperial College London,EU
+IEEEcloud,2015,Rong Chang,IBM China,AS
+IEEEcloud,2015,Haopeng Chen,Shanghai Jiao Tong University,AS
+IEEEcloud,2015,Feng Chen,Louisiana State University,NA
+IEEEcloud,2015,Keke Chen,Wright State University,NA
+IEEEcloud,2015,Shigang Chen,University of Florida,NA
+IEEEcloud,2015,Songqing Chen,George Mason University,NA
+IEEEcloud,2015,Yong Chen,Texas Tech University,NA
+IEEEcloud,2015,Han Chen,IBM T. J. Watson Research Center,NA
+IEEEcloud,2015,Malolan Chetlur,IBM India,AS
+IEEEcloud,2015,Charles Consel,INRIA/Univ. Bordeaux,EU
+IEEEcloud,2015,Steve Crago,University of Southern California,NA
+IEEEcloud,2015,Bruno Crispo,University of Trento,EU
+IEEEcloud,2015,Lizhen Cui,Shandong University,AS
+IEEEcloud,2015,Alfredo Cuzzocrea,ICAR-CNR & University of Calabria,EU
+IEEEcloud,2015,Dilma Da Silva,Texas A&M University,NA
+IEEEcloud,2015,Koustuv Dasgupta,Xerox India,AS
+IEEEcloud,2015,Shuiguang Deng,Zhejiang University,AS
+IEEEcloud,2015,Roberto Di Pietro,University of Rome,EU
+IEEEcloud,2015,Schahram Dustdar,Vienna University of Technology,EU
+IEEEcloud,2015,Chang Ee-Chien,National University of Singapore,AS
+IEEEcloud,2015,Omer F. Rana,Cardiff University,EU
+IEEEcloud,2015,Arash Fard,HP Vertica,NA
+IEEEcloud,2015,Elena Ferrari,University of Insubria,EU
+IEEEcloud,2015,J. E. (Joao Eduardo) Ferreira,University of Sao Paulo,SA
+IEEEcloud,2015,Debin Gao,Singapore Management Unviersity,AS
+IEEEcloud,2015,Ada Gavrilovska,Georgia Tech,NA
+IEEEcloud,2015,Bugra Gedik,Bilkent University,AS
+IEEEcloud,2015,Garth Gibson,CMU,NA
+IEEEcloud,2015,Chris Gniady,University of Arizona,NA
+IEEEcloud,2015,Claude Godart,Nancy University and INRIA,EU
+IEEEcloud,2015,Karthik Gomadam,Accenture Labs,NA
+IEEEcloud,2015,Luis Miguel Vaquero Gonzalez,HP Labs,EU
+IEEEcloud,2015,Andrzej Goscinski,Deakin University,OC
+IEEEcloud,2015,Michael Goul,Arizona State University,NA
+IEEEcloud,2015,Daniel Grosu,Wayne State University,NA
+IEEEcloud,2015,Haryadi Gunawi,University of Chicago,NA
+IEEEcloud,2015,Vijay K. Gurbani,"Bell Laboratories, Lucent",NA
+IEEEcloud,2015,Talal H. Noor,Taibah University,AS
+IEEEcloud,2015,Mohammad Hamdaqa,University of Waterloo,NA
+IEEEcloud,2015,Mohammad Hammoud,CMU/Qatar,AS
+IEEEcloud,2015,Yuxiong He,Microsoft Research,NA
+IEEEcloud,2015,Matti Hilunen,AR&T Labs,NA
+IEEEcloud,2015,Ching-Hsien Hsu,Chung Hua University,AS
+IEEEcloud,2015,Howie Huang,George Washington University,NA
+IEEEcloud,2015,Waldemar Hummer,Consultant,EU
+IEEEcloud,2015,Marty Humphrey,University of Virginia,NA
+IEEEcloud,2015,Praveen Jayachandran,IBM India,AS
+IEEEcloud,2015,Deepal Jayasinghe,Microsoft,NA
+IEEEcloud,2015,Hai Jin,HUST,AS
+IEEEcloud,2015,James Joshi,University of Pittsburg,NA
+IEEEcloud,2015,Gueyoung Jung,AT&T Labs,NA
+IEEEcloud,2015,Vana Kalogeraki,Athens University of Economics and Business,EU
+IEEEcloud,2015,Nagarajan Kandasamy,Drexel University,NA
+IEEEcloud,2015,Yasuhiko Kanemasa,Fujitsu Laboratories Ltd.,AS
+IEEEcloud,2015,Florian Kerschbaum,SAP,EU
+IEEEcloud,2015,Masaru Kitsuregawa,NII,AS
+IEEEcloud,2015,Dzmitry Kliazovich,University of Luxembourg,EU
+IEEEcloud,2015,Steve Ko,SUNY Buffalo Univ.,NA
+IEEEcloud,2015,Andrew Kochut,IBM T. J. Watson Research Center,NA
+IEEEcloud,2015,Ricardo Koller,IBM Research,NA
+IEEEcloud,2015,Murat Kontarcioglu,University of Texas at Dallas,NA
+IEEEcloud,2015,Tevfik Kosar,University at Buffalo (SUNY),NA
+IEEEcloud,2015,Diwakar Krishnamurthy,University of Calgary,NA
+IEEEcloud,2015,Ram Krishnan,UT San Antonio,NA
+IEEEcloud,2015,Vibhore Kumar,Unscrambl,NA
+IEEEcloud,2015,Ashish Kundu,IBM T.J. Watson Research Center,NA
+IEEEcloud,2015,Janaka L. Balasooriya,Arizona State University,NA
+IEEEcloud,2015,Patricia Lago,VU University Amsterdam,EU
+IEEEcloud,2015,Philipp Leitner,Vienna University of Technology,EU
+IEEEcloud,2015,Kang Li,University of Georgia,NA
+IEEEcloud,2015,Grace Lin,Institute for Information Industry,AS
+IEEEcloud,2015,Marin Litoiu,York University,NA
+IEEEcloud,2015,Xuanzhe Liu,Peking University,AS
+IEEEcloud,2015,Shijun Liu,Shandong University,AS
+IEEEcloud,2015,Xumin Liu,Rochester Institute of Technology,NA
+IEEEcloud,2015,Shiyong Lu,Wayne State University,NA
+IEEEcloud,2015,Lei Lu,VMWare,NA
+IEEEcloud,2015,Heiko Ludwig,IBM Almaden,NA
+IEEEcloud,2015,Jason Mars,"University of Michigan, Ann Arbor",NA
+IEEEcloud,2015,Brahim Medjahed,University of Michigan,NA
+IEEEcloud,2015,Sameep Mehta,IBM Research India,AS
+IEEEcloud,2015,Ningfang Mi,Northeastern University,NA
+IEEEcloud,2015,Ramses Morales,VMware,NA
+IEEEcloud,2015,Tridib Mukherjee,Xerox India,AS
+IEEEcloud,2015,Kiran-Kumar Muniswamy-Reddy,Amazon,NA
+IEEEcloud,2015,Leandro Navarro,Universitat Politecnica de Catalunya,EU
+IEEEcloud,2015,Surya Nepal,CSIRO ICT Center,OC
+IEEEcloud,2015,Dirk Neumann,University of Freiburg,EU
+IEEEcloud,2015,Bogdan Nicolae,IBM Research Ireland,EU
+IEEEcloud,2015,SeogChan Oh,GM Research,NA
+IEEEcloud,2015,Rui Oliveira,University of Minho,EU
+IEEEcloud,2015,Balaji Palanisamy,University of Pittsburgh,NA
+IEEEcloud,2015,Massimo Paolucci,Docomo Euro-Labs,EU
+IEEEcloud,2015,Manish Parashar,Rutgers University,NA
+IEEEcloud,2015,Karthik Pattabiraman,University of British Columbia,NA
+IEEEcloud,2015,Siani Pearson,HP Labs,EU
+IEEEcloud,2015,Massoud PEDRAM,University of Southern California,NA
+IEEEcloud,2015,Peter Pietzuch,Imperial College London,EU
+IEEEcloud,2015,Donald Porter,Stony Brook University,NA
+IEEEcloud,2015,Thierry Priol,INRIA,EU
+IEEEcloud,2015,Calton Pu,Georgia Tech,NA
+IEEEcloud,2015,Shannon Quinn,UGA,NA
+IEEEcloud,2015,Ioan Raicu,Illinois Institute of Technology,NA
+IEEEcloud,2015,Lakshmish Ramaswamy,University of Georgia,NA
+IEEEcloud,2015,Ajith Ranabahu,Amazon,NA
+IEEEcloud,2015,Kui Ren,SUNY Buffalo,NA
+IEEEcloud,2015,Shaolei Ren,Florida International University,NA
+IEEEcloud,2015,Norbert Ritter,University of Hamburg,EU
+IEEEcloud,2015,Isabelle Rouvellou,IBM T. J. Watson Research Center,NA
+IEEEcloud,2015,Han Rui,Chinese Academy of Sciences,AS
+IEEEcloud,2015,Rizos Sakellariou,University of Manchester,EU
+IEEEcloud,2015,Iman Saleh,Intel Corporation,NA
+IEEEcloud,2015,Benjamin Satzger,Microsoft Corporation,NA
+IEEEcloud,2015,Karsten Schwan,Georgia Tech,NA
+IEEEcloud,2015,Upendra Sharma,IBM T. J. Watson Research Center,NA
+IEEEcloud,2015,Jun Shen,University of Wollongong,OC
+IEEEcloud,2015,Weidong Shi,University of Houston,NA
+IEEEcloud,2015,Yasushi Shinjo,University of Tsukuba,AS
+IEEEcloud,2015,Marcio Silva,IBM Research,NA
+IEEEcloud,2015,Ignacio Silva-Lepe,IBM T. J. Watson Research Center,NA
+IEEEcloud,2015,Evgenia Smirni,College of William and Mary,NA
+IEEEcloud,2015,Anna Squiciarini,Penn State,NA
+IEEEcloud,2015,Ladan Tahvildari,University of Waterloo,NA
+IEEEcloud,2015,Hassan Takabi,University of North Texas,NA
+IEEEcloud,2015,Yuzhe Tang,Syracuse University,NA
+IEEEcloud,2015,Shu Tao,IBM T. J. Watson Research Center,NA
+IEEEcloud,2015,Sean Thorpe,University of Technology,NA
+IEEEcloud,2015,Cheng-Chun Tu,Oracle Labs,NA
+IEEEcloud,2015,Naohiko Uramoto,IBM Tokyo Research Laboratory,AS
+IEEEcloud,2015,Mustafa Uysal,VMWare,NA
+IEEEcloud,2015,Alexander V. Konstantinou,Google,NA
+IEEEcloud,2015,Robert van Engelen,Florida State University,NA
+IEEEcloud,2015,Kurt Vanmechelen,University of Antwerp,EU
+IEEEcloud,2015,Chenwei Wang,AT&T Labs Research,NA
+IEEEcloud,2015,De Wang,Google,NA
+IEEEcloud,2015,Qingyang Wang,Louisiana State University,NA
+IEEEcloud,2015,Zhikui Wang,HP Labs,NA
+IEEEcloud,2015,Jinpeng Wei,Florida International University,NA
+IEEEcloud,2015,Christof Weinhardt,Karlsruhe Institute of Technology,EU
+IEEEcloud,2015,Raymond Wong,NICT & UNSW,OC
+IEEEcloud,2015,Yuni Xia,IUPUI,NA
+IEEEcloud,2015,Pengcheng Xiong,NEC Labs,NA
+IEEEcloud,2015,Cheng-Zhong Xu,Wayne State University,NA
+IEEEcloud,2015,I-Ling Yen,University of Texas at Dallas,NA
+IEEEcloud,2015,Jianwei Yin,Zhejiang University,AS
+IEEEcloud,2015,Nabeel Yoosuf,Oracle,NA
+IEEEcloud,2015,Qi Yu,Rochester Institute of Technology,NA
+IEEEcloud,2015,Weider Yu,San Jose State University,NA
+IEEEcloud,2015,Quan Z. Sheng,University of Adelaide,OC
+IEEEcloud,2015,Jia Zhang,Carnegie Mellon University - Silicon Valley,NA
+IEEEcloud,2015,Liang-Jie Zhang,Kingdee International Software Group,AS
+IEEEcloud,2015,Yupu Zhang,HP Labs,NA
+IEEEcloud,2015,Jie Zheng,Facebook,NA
+IEEEcloud,2015,Ming Zhao,Florida International University,NA
+IEEEcloud,2015,Nianjun (Joe) Zhou,IBM T.J. Watson Research Center,NA
+IEEEcloud,2015,Wolf Zimmermann,Martin-Luther-Universit Halle-Wittenberg,EU
+IEEEcloud,2016,Kento Aida,NII,AS
+IEEEcloud,2016,Marco Aiello,University of Groningen,EU
+IEEEcloud,2016,Jorn Altmann,Seoul National University,AS
+IEEEcloud,2016,Andrzej Goscinski,Deakin University,OC
+IEEEcloud,2016,Danilo Ardagna,Politecnico di Milano,EU
+IEEEcloud,2016,Nanjangud Arendra,Ericsson Research,NA
+IEEEcloud,2016,Bharath Balasubramanian,AT&T Labs,NA
+IEEEcloud,2016,Karin Becker,Federal University of RGS,NA
+IEEEcloud,2016,Racha Ben Ali,Ericsson Research,NA
+IEEEcloud,2016,Elisa Bertino,Purdue University,NA
+IEEEcloud,2016,Marina Blanton,University of Notre Dame,NA
+IEEEcloud,2016,Ivona Brandi,Vienna University of Technology,EU
+IEEEcloud,2016,Jiannong Cao,Hong Kong Polytechnic University,AS
+IEEEcloud,2016,Giuliano Casale,Imperial College London,EU
+IEEEcloud,2016,Rong Chang,IBM Research,NA
+IEEEcloud,2016,Songqing Chen,George Mason University,NA
+IEEEcloud,2016,Keke Chen,Wright State University,NA
+IEEEcloud,2016,Haopeng Chen,Shanghai Jiao Tong University,AS
+IEEEcloud,2016,Feng Chen,Louisiana State University,NA
+IEEEcloud,2016,Malolan Chetlur,IBM Research,AS
+IEEEcloud,2016,Byung Chul Tak,IBM Research,NA
+IEEEcloud,2016,Steve Crago,University of Southern California,NA
+IEEEcloud,2016,Bruno Crispo,University of Trento,EU
+IEEEcloud,2016,Lizhen Cui,Shandong University,AS
+IEEEcloud,2016,Shuiguang Deng,Zhejiang University,AS
+IEEEcloud,2016,Roberto Di Pietro,Nokia Bell Labs,NA
+IEEEcloud,2016,Schahram Dustdar,Vienna University of Technology,EU
+IEEEcloud,2016,Chang Ee-Chien,National University,AS
+IEEEcloud,2016,Arash Fard,Hewlett Packard Enterprise,NA
+IEEEcloud,2016,Eugen Feller,Ericsson Research,NA
+IEEEcloud,2016,Elena Ferrari,University of Insubria,EU
+IEEEcloud,2016,J. E. (Joao Eduardo) Ferreira,University of Sao Paulo,SA
+IEEEcloud,2016,Ian Foster,University of Chicago,NA
+IEEEcloud,2016,Ada Gavrilovska,Georgia Tech,NA
+IEEEcloud,2016,Rahul Ghosh,Xerox Research Center,AS
+IEEEcloud,2016,Chris Gniady,University of Arizona,NA
+IEEEcloud,2016,Claude Godart,University of Lorraine,EU
+IEEEcloud,2016,Daniel Grosu,Wayne State University,NA
+IEEEcloud,2016,Haryadi Gunawi,University of Chicago,NA
+IEEEcloud,2016,Talal H. Noor,Taibah University,AS
+IEEEcloud,2016,Mohammad Hamdaqa,University of Waterloo,NA
+IEEEcloud,2016,Mohammad Hammoud,Carnegie Mellon University,AS
+IEEEcloud,2016,Ching-Hsien Hsu,Chung Hua University,AS
+IEEEcloud,2016,Howie Huang,George Washington University,NA
+IEEEcloud,2016,Waldemar Hummer,Vienna University of Technology,EU
+IEEEcloud,2016,Marty Humphrey,University of Virginia,NA
+IEEEcloud,2016,Praveen Jayachandran,IBM Research,AS
+IEEEcloud,2016,Deepal Jayasinghe,Georgia Tech,NA
+IEEEcloud,2016,Hai Jin,Huazhong University of Science and Technology,AS
+IEEEcloud,2016,James Joshi,University of Pittsburg,NA
+IEEEcloud,2016,Gueyoung Jung,AT&T Labs,NA
+IEEEcloud,2016,Nagarajan Kandasamy,Drexel University,NA
+IEEEcloud,2016,Yasuhiko Kanemasa,Fujitsu Laboratories Ltd.,AS
+IEEEcloud,2016,Florian Kerschbaum,SAP,NA
+IEEEcloud,2016,Hsien-Ju Ko,Asia University,AS
+IEEEcloud,2016,Andrew Kochut,IBM T. J. Watson Research Center,NA
+IEEEcloud,2016,Ricardo Koller,IBM Research,AS
+IEEEcloud,2016,Tevfik Kosar,University at Buffalo (SUNY),NA
+IEEEcloud,2016,Diwakar Krishnamurthy,University of Calgary,NA
+IEEEcloud,2016,Ram Krishnan,UT San Antonio,NA
+IEEEcloud,2016,Ashish Kundu,IBM T. J. Watson Research Center,NA
+IEEEcloud,2016,Janaka L. Balasooriya,Arizona State University,NA
+IEEEcloud,2016,Patricia Lago,VU University Amsterdam,EU
+IEEEcloud,2016,Philipp Leitner,University of Zurich,EU
+IEEEcloud,2016,Kang Li,University of Georgia,NA
+IEEEcloud,2016,Wubin Li,Ericsson Research,NA
+IEEEcloud,2016,Marin Litoiu,York University,NA
+IEEEcloud,2016,Shijun Liu,Shandong University,AS
+IEEEcloud,2016,Xuanzhe Liu,Peking University,AS
+IEEEcloud,2016,Xumin Liu,Rochester Institute of Technology,NA
+IEEEcloud,2016,Shiyong Lu,Wayne State University,NA
+IEEEcloud,2016,Heiko Ludwig,IBM Almaden,NA
+IEEEcloud,2016,Brahim Medjahed,University of Michigan,NA
+IEEEcloud,2016,Sameep Mehta,IBM Research,AS
+IEEEcloud,2016,Catalin Meirous,Ericsson Research,NA
+IEEEcloud,2016,Fanjing Meng,IBM Research,AS
+IEEEcloud,2016,Ningfang Mi,Northeastern University,NA
+IEEEcloud,2016,Dejan Milojicic,HP Labs,NA
+IEEEcloud,2016,Kwang Mong Sim,University of Kent,EU
+IEEEcloud,2016,Tridib Mukherjee,Xerox,AS
+IEEEcloud,2016,Kiran-Kumar Muniswamy-Reddy,Amazon,NA
+IEEEcloud,2016,Kiran Nagaraja,Ericsson Research,NA
+IEEEcloud,2016,Vijay Naik,IBM T.J. Watson Research Center,NA
+IEEEcloud,2016,Surya Nepal,CSIRO ICT Center,OC
+IEEEcloud,2016,Dirk Neumann,University of Freiburg,EU
+IEEEcloud,2016,SeogChan Oh,GM Research,NA
+IEEEcloud,2016,Balaji Palanisamy,University of Pittsburgh,NA
+IEEEcloud,2016,Manish Parashar,Rutgers University,NA
+IEEEcloud,2016,Karthik Pattabiraman,University of British Columbia,NA
+IEEEcloud,2016,Siani Pearson,HP Labs,NA
+IEEEcloud,2016,Shannon Quinn,UGA,NA
+IEEEcloud,2016,Nimish Radia,Ericsson,NA
+IEEEcloud,2016,Ioan Raicu,Illinois Institute of Technology,NA
+IEEEcloud,2016,Shaolei Ren,Florida International University,NA
+IEEEcloud,2016,Kui Ren,SUNY Buffalo,NA
+IEEEcloud,2016,Norbert Ritter,University of Hamburg,EU
+IEEEcloud,2016,Han Rui,Chinese Academy of Sciences,AS
+IEEEcloud,2016,Rizos Sakellariou,University of Manchester,EU
+IEEEcloud,2016,Benjamin Satzger,Microsoft Corporation,NA
+IEEEcloud,2016,Josef Schiefer,Vienna University of Technology,EU
+IEEEcloud,2016,Upendra Sharma,IBM T. J. Watson Research Center,NA
+IEEEcloud,2016,Jun Shen,University of Wollongong,OC
+IEEEcloud,2016,Yasushi Shinjo,University of Tsukuba,AS
+IEEEcloud,2016,Anna Squiciarini,Penn State,NA
+IEEEcloud,2016,Toyotaro Suzumura,IBM T.J. Watson Research Center,NA
+IEEEcloud,2016,Stefan Tai,Berlin University,EU
+IEEEcloud,2016,Hassan Takabi,University of North Texas,NA
+IEEEcloud,2016,CQ Tang,Facebook,NA
+IEEEcloud,2016,Fei Tang,the Republic of China,AS
+IEEEcloud,2016,Shu Tao,IBM T. J. Watson Research Center,AS
+IEEEcloud,2016,Sean Thorpe,University of Technology,OC
+IEEEcloud,2016,Jordi Torres,Barcelona Supercomputing Center,NA
+IEEEcloud,2016,Cheng-Chun Tu,Vmware,NA
+IEEEcloud,2016,Naohiko Uramoto,IBM,AS
+IEEEcloud,2016,Bhuvan Urgaonkar,Pennsylvania State University,NA
+IEEEcloud,2016,Qingyang Wang,Louisiana State University,NA
+IEEEcloud,2016,Chenwei Wang,AT&T,NA
+IEEEcloud,2016,De Wang,Google,NA
+IEEEcloud,2016,Zhikui Wang,Hewlett Packard Labs,NA
+IEEEcloud,2016,Liqiang Wang,University of Central Florida,NA
+IEEEcloud,2016,Jinpeng Wei,Florida International University,NA
+IEEEcloud,2016,Timothy Wood,George Washington University,NA
+IEEEcloud,2016,Pengcheng Xiong,NEC Labs,NA
+IEEEcloud,2016,I-Ling Yen,University of Texas at Dallas,NA
+IEEEcloud,2016,Jianwei Yin,Zhejiang University,AS
+IEEEcloud,2016,Nabeel Yoosuf,Oracle,NA
+IEEEcloud,2016,Qi Yu,Rochester Institute of Technology,NA
+IEEEcloud,2016,Weider Yu,San Jose State University,NA
+IEEEcloud,2016,Quan Z. Sheng,University of Adelaide,OC
+IEEEcloud,2016,Jia Zhang,Carnegie Mellon University,NA
+IEEEcloud,2016,Liang-Jie Zhang,Kingdee International Software Group,AS
+IEEEcloud,2016,Jie Zheng,Facebook,NA
+IEEEcloud,2016,Yupu Zhang,Hewlett Packard Labs,NA
+IEEEcloud,2016,Ming Zhao,Arizona State University,NA
+IEEEcloud,2016,Xiaobo Zhou,University of Colorado,NA
+IEEEcloud,2017,Gail-Joon Ahn,Arizona State University,NA
+IEEEcloud,2017,Kento Aida,NII,AS
+IEEEcloud,2017,Marco Aiello,University of Groningen,EU
+IEEEcloud,2017,Jorn Altmann,Seoul National University,AS
+IEEEcloud,2017,Danilo Ardagna,Politecnico di Milano,EU
+IEEEcloud,2017,Janaka L. Balasooriya,Arizona State University,NA
+IEEEcloud,2017,Bharath Balasubramanian,AT&T Labs,NA
+IEEEcloud,2017,Karin Becker,Federal University of RGS,SA
+IEEEcloud,2017,Elisa Bertino,Purdue University,NA
+IEEEcloud,2017,Charles Border,Rochester Institute of Technology,NA
+IEEEcloud,2017,Ivona Brandić,Vienna University of Technology,EU
+IEEEcloud,2017,Jiannong Cao,Hong Kong Polytechnic University,AS
+IEEEcloud,2017,Giuliano Casale,Imperial College London,EU
+IEEEcloud,2017,Claris Castillo,RENCI,NA
+IEEEcloud,2017,Rong Chang,IBM China,AS
+IEEEcloud,2017,Feng Chen,Louisiana State University,NA
+IEEEcloud,2017,Haopeng Chen,Shanghai Jiao Tong University,AS
+IEEEcloud,2017,Keke Chen,Wright State University,NA
+IEEEcloud,2017,Shigang Chen,University of Florida,NA
+IEEEcloud,2017,Yong Chen,Texas Tech University,NA
+IEEEcloud,2017,Ludmila Cherkasova,HP Labs,NA
+IEEEcloud,2017,Malolan Chetlur,IBM India,AS
+IEEEcloud,2017,Gregory Chockler,University of London,EU
+IEEEcloud,2017,Lizhen Cui,Shandong University,AS
+IEEEcloud,2017,Alfredo Cuzzocrea,ICAR-CNR & University of Calabria,EU
+IEEEcloud,2017,Bruno Crispo,University of Trento,EU
+IEEEcloud,2017,Shuiguang Deng,Zhejiang University,AS
+IEEEcloud,2017,Chang Ee-Chien,National University of Singapore,AS
+IEEEcloud,2017,Robert van Engelen,Florida State University,NA
+IEEEcloud,2017,Thomas Fahringer,University of Innsbruck,EU
+IEEEcloud,2017,Elena Ferrari,University of Insubria,EU
+IEEEcloud,2017,J. E. (Joao Eduardo) Ferreira,University of Sao Paulo,SA
+IEEEcloud,2017,Rahul Ghosh,Xerox Research Center,NA
+IEEEcloud,2017,Chris Gniady,University of Arizona,NA
+IEEEcloud,2017,Michael Goul,Arizona State University,NA
+IEEEcloud,2017,Tyrone Grandison,Proficiency Labs,
+IEEEcloud,2017,Paul Grefen,Eindhoven University of Technology,EU
+IEEEcloud,2017,Daniel Grosu,Wayne State University,NA
+IEEEcloud,2017,Haryadi Gunawi,University of Chicago,NA
+IEEEcloud,2017,Vijay K. Gurbani,"Bell Laboratories, Lucent",NA
+IEEEcloud,2017,Mohammad Hamdaqa,University of Waterloo,NA
+IEEEcloud,2017,Mohammad Hammoud,CMU/Qatar,AS
+IEEEcloud,2017,Matti Hilunen,AR&T Labs,NA
+IEEEcloud,2017,Ching-Hsien Hsu,Chung Hua University,AS
+IEEEcloud,2017,Howie Huang,George Washington University,NA
+IEEEcloud,2017,Waldemar Hummer,Vienna University of Technology,EU
+IEEEcloud,2017,Marty Humphrey,University of Virginia,NA
+IEEEcloud,2017,Praveen Jayachandran,IBM India,AS
+IEEEcloud,2017,Deepal Jayasinghe,Microsoft,NA
+IEEEcloud,2017,Hai Jin,HUST,AS
+IEEEcloud,2017,James Joshi,University of Pittsburg,NA
+IEEEcloud,2017,Gueyoung Jung,AT&T Labs,NA
+IEEEcloud,2017,Anupam Joshi,UMBC,NA
+IEEEcloud,2017,Vana Kalogeraki,Athens University of Economics and Business,EU
+IEEEcloud,2017,Nagarajan Kandasamy,Drexel University,NA
+IEEEcloud,2017,Yasuhiko Kanemasa,Fujitsu Laboratories Ltd.,AS
+IEEEcloud,2017,Hsien-Ju Ko,Asia University,AS
+IEEEcloud,2017,Alexander V. Konstantinou,Google,NA
+IEEEcloud,2017,Ram Krishnan,UT San Antonio,NA
+IEEEcloud,2017,Diwakar Krishnamurthy,University of Calgary,NA
+IEEEcloud,2017,Ashish Kundu,IBM T.J. Watson Research Center,NA
+IEEEcloud,2017,Shantenu Jha,Rutgers University,NA
+IEEEcloud,2017,Philipp Leitner,Vienna University of Technology,EU
+IEEEcloud,2017,Kang Li,University of Georgia,NA
+IEEEcloud,2017,Marin Litoiu,York University,EU
+IEEEcloud,2017,Shijun Liu,Shandong University,AS
+IEEEcloud,2017,Xumin Liu,Rochester Institute of Technology,NA
+IEEEcloud,2017,Lei Lu,VMWare,NA
+IEEEcloud,2017,Shiyong Lu,Wayne State University,NA
+IEEEcloud,2017,Sameep Mehta,IBM Research India,AS
+IEEEcloud,2017,Fanjing Meng,IBM Research,NA
+IEEEcloud,2017,Ningfang Mi,Northeastern University,NA
+IEEEcloud,2017,Tridib Mukherjee,Xerox India,AS
+IEEEcloud,2017,Kiran-Kumar Muniswamy-Reddy,Amazon,NA
+IEEEcloud,2017,Leandro Navarro,Universitat Politecnica de Catalunya,EU
+IEEEcloud,2017,Vijay Naik,IBM T.J. Watson Research Center,NA
+IEEEcloud,2017,Surya Nepal,CSIRO ICT Center,OC
+IEEEcloud,2017,SeogChan Oh,GM Research,NA
+IEEEcloud,2017,Rui Oliveira,University of Minho,EU
+IEEEcloud,2017,Dhabaleswar K. (DK) Panda,Ohio State University,NA
+IEEEcloud,2017,Roberto Di Pietro,University of Rome,EU
+IEEEcloud,2017,Balaji Palanisamy,University of Pittsburgh,NA
+IEEEcloud,2017,Peter Pietzuch,Imperial College London,EU
+IEEEcloud,2017,Thierry Priol,INRIA,EU
+IEEEcloud,2017,Ioan Raicu,Illinois Institute of Technology,NA
+IEEEcloud,2017,Omer F. Rana,Cardiff University,EU
+IEEEcloud,2017,Kui Ren,SUNY Buffalo,NA
+IEEEcloud,2017,Shaolei Ren,Florida International University,NA
+IEEEcloud,2017,Norbert Ritter,University of Hamburg,EU
+IEEEcloud,2017,Han Rui,Chinese Academy of Sciences,AS
+IEEEcloud,2017,Shannon Quinn,UGA,NA
+IEEEcloud,2017,Rizos Sakellariou,University of Manchester,EU
+IEEEcloud,2017,Iman Saleh,Intel Corporation,NA
+IEEEcloud,2017,Benjamin Satzger,Microsoft,NA
+IEEEcloud,2017,Upendra Sharma,IBM T. J. Watson Research Center,NA
+IEEEcloud,2017,Jun Shen,University of Wollongong,OC
+IEEEcloud,2017,Quan Z. Sheng,University of Adelaide,OC
+IEEEcloud,2017,Yasushi Shinjo,University of Tsukuba,AS
+IEEEcloud,2017,Marcio Silva,IBM Research,NA
+IEEEcloud,2017,Ignacio Silva-Lepe,IBM T. J. Watson Research Center,NA
+IEEEcloud,2017,Kwang Mong Sim,University of Kent,EU
+IEEEcloud,2017,Evgenia Smirni,College of William and Mary,NA
+IEEEcloud,2017,Toyotaro Suzumura,IBM Research,NA
+IEEEcloud,2017,Hassan Takabi,University of North Texas,NA
+IEEEcloud,2017,Byung Chul Tak,IBM Research,NA
+IEEEcloud,2017,Shu Tao,IBM T.J. Watson Research Center,NA
+IEEEcloud,2017,Sean Thorpe,University of Technology,
+IEEEcloud,2017,Jordi Torres,Barcelona Supercomputing Center,EU
+IEEEcloud,2017,Naohiko Uramoto,IBM Tokyo Research Laboratory,AS
+IEEEcloud,2017,Bhuvan Urgaonkar,Pennsylvania State University,NA
+IEEEcloud,2017,Ranga Raju Vatsavai,North Carolina State University,NA
+IEEEcloud,2017,Chengwei Wang,AT&T Labs Research,NA
+IEEEcloud,2017,De Wang,Google,NA
+IEEEcloud,2017,Qingyang Wang,Louisiana State University,NA
+IEEEcloud,2017,Raymond Wong,NICT;UNSW,AS;OC
+IEEEcloud,2017,Yuni Xia,Indiana University - Purdue University Indianapolis,NA
+IEEEcloud,2017,Pengcheng Xiong,NEC Labs America,NA
+IEEEcloud,2017,I-Ling Yen,University of Texas at Dallas,NA
+IEEEcloud,2017,Nabeel Yoosuf,Oracle,NA
+IEEEcloud,2017,Qi Yu,Rochester Institute of Technology,NA
+IEEEcloud,2017,Weider Yu,San Jose State University,NA
+IEEEcloud,2017,Jia Zhang,Carnegie Mellon University,NA
+IEEEcloud,2017,Ming Zhao,Arizona State University,NA
+IEEEcloud,2017,Wolf Zimmermann,Martin-Luther-University Halle-Wittenberg,EU
+IEEEcloud,2018,Gail-Joon Ahn,Arizona State University,NA
+IEEEcloud,2018,Kento Aida,National Institute of Informatics,AS
+IEEEcloud,2018,Marco Aiello,University of Groningen,EU
+IEEEcloud,2018,Jorn Altmann,Seoul National University,AS
+IEEEcloud,2018,Gabriel Antoniu,INRIA,EU
+IEEEcloud,2018,Amy Apon,Clemson University,NA
+IEEEcloud,2018,Danilo Ardagna,Politecnico di Milano,EU
+IEEEcloud,2018,Janaka Balasooriya,Arizona State University,NA
+IEEEcloud,2018,Bharath Balasubramanian,AT&T Labs Research,NA
+IEEEcloud,2018,Karin Becker,UFRGS,SA
+IEEEcloud,2018,Elisa Bertino,Purdue University,NA
+IEEEcloud,2018,Ken Birman,Cornell University,NA
+IEEEcloud,2018,Ivona Brandic,Vienna University of Technology,EU
+IEEEcloud,2018,Mauricio Breternitz,AMD Research,NA
+IEEEcloud,2018,Kris Bubendorfer,Victoria University of Wellington,OC
+IEEEcloud,2018,Rajkumar Buyya,The University of Melbourne,OC
+IEEEcloud,2018,Claris Castillo,UNC Chapel Hill,NA
+IEEEcloud,2018,Ee-Chien Chang,National University of Singapore,AS
+IEEEcloud,2018,Kyle Chard,University of Chicago and Argonne National Lab,NA
+IEEEcloud,2018,Feng Chen,Louisiana State University,NA
+IEEEcloud,2018,Haopeng Chen,Shanghai Jiao Tong University,AS
+IEEEcloud,2018,Keke Chen,Wright State University,NA
+IEEEcloud,2018,Songqing Chen,George Mason University,NA
+IEEEcloud,2018,Yong Chen,Texas Tech University,NA
+IEEEcloud,2018,Malolan Chetlur,IBM India Research Lab,AS
+IEEEcloud,2018,Gregory Chockler,University of London,EU
+IEEEcloud,2018,Charles Consel,Inria,EU
+IEEEcloud,2018,Bruno Crispo,University of Trento,EU
+IEEEcloud,2018,Alfredo Cuzzocrea,ICAR-CNR and University of Calabria,EU
+IEEEcloud,2018,Shuiguang Deng,Zhejiang University,AS
+IEEEcloud,2018,Schahram Dustdar,Vienna University of Technology,EU
+IEEEcloud,2018,Robert Van Engelen,Florida State University,NA
+IEEEcloud,2018,Thomas Fahringer,University of Innsbruck,EU
+IEEEcloud,2018,Elena Ferrari,University of Insubria,EU
+IEEEcloud,2018,João Eduardo Ferreira,University of São Paulo,SA
+IEEEcloud,2018,Dennis Gannon,Indiana University,NA
+IEEEcloud,2018,Debin Gao,Singapore Management University,AS
+IEEEcloud,2018,Chris Gniady,University of Arizona,NA
+IEEEcloud,2018,Andrzej Goscinski,Deakin University,OC
+IEEEcloud,2018,Kannan Govindarajan,Athabasca University,NA
+IEEEcloud,2018,Madhu Govindaraju,State Univeresity of New York - Binghamton,NA
+IEEEcloud,2018,Paul Grefen,Eindhoven University of Technology,EU
+IEEEcloud,2018,Daniel Grosu,Wayne State University,NA
+IEEEcloud,2018,Mike Goul,Arizona State University,NA
+IEEEcloud,2018,Mohammad Hamdaqa,University of Waterloo,NA
+IEEEcloud,2018,Yuxiong He,Microsoft,NA
+IEEEcloud,2018,Robert Hsu,Chung Hua University,AS
+IEEEcloud,2018,H. Howie Huang,George Washington University,NA
+IEEEcloud,2018,Sheng Huang,Umarkcloud,
+IEEEcloud,2018,Waldemar Hummer,Vienna University of Technology,EU
+IEEEcloud,2018,Marty Humphrey,University of Virginia,NA
+IEEEcloud,2018,Adriana Iamnitchi,University of South Florida,NA
+IEEEcloud,2018,Praveen Jayachandran,IBM Research India,AS
+IEEEcloud,2018,Hai Jin,Huazhong University of Science and Technology,AS
+IEEEcloud,2018,Anupam Joshi,University of Maryland Baltimore County,NA
+IEEEcloud,2018,Gueyoung Jung,AT&T Labs,NA
+IEEEcloud,2018,Vana Kalogeraki,Athens University of Economics and Business,EU
+IEEEcloud,2018,Naga Kandasamy,Drexel University,NA
+IEEEcloud,2018,Yasuhiko Kanemasa,Fujitsu Laboratories Ltd.,AS
+IEEEcloud,2018,Jacek Kitowski,Inst.Comput.Sci. AGH-UST & CYFRONET AGH,EU
+IEEEcloud,2018,Hsien-Ju Ko,Asia University,AS
+IEEEcloud,2018,Alexander Konstantinou,Google,NA
+IEEEcloud,2018,Diwakar Krishnamurthy,University of Calgary,NA
+IEEEcloud,2018,Ram Krishnan,University of Texas at San Antonio,NA
+IEEEcloud,2018,Ashish Kundu,IBM,NA
+IEEEcloud,2018,Philipp Leitner,Chalmers University of Technology and University of Gothenburg,EU
+IEEEcloud,2018,Marin Litoiu,University of York,EU
+IEEEcloud,2018,Xumin Liu,Rochester Institute of Technology,NA
+IEEEcloud,2018,Ignacio Llorente,Complutense University;Harvard University,EU;NA
+IEEEcloud,2018,Hui Lu,Binghamton University,NA
+IEEEcloud,2018,Lei Lu,VMware,NA
+IEEEcloud,2018,Shiyong Lu,Wayne State University,NA
+IEEEcloud,2018,Heiko Ludwig,IBM,NA
+IEEEcloud,2018,Brahim Medjahed,"University of Michigan, Dearborn",NA
+IEEEcloud,2018,Sameep Mehta,IBM India Research Lab,AS
+IEEEcloud,2018,Fanjing Meng,IBM China Research Lab,AS
+IEEEcloud,2018,Ningfang Mi,Northeastern University,NA
+IEEEcloud,2018,Ajay Mohindra,IBM,NA
+IEEEcloud,2018,Kwang Mong,University of Kent,EU
+IEEEcloud,2018,Klara Nahrstedt,UIUC,NA
+IEEEcloud,2018,Leandro Navarro,Universitat Politècnica de Catalunya,EU
+IEEEcloud,2018,Dirk Neumann,Albert-Ludwigs-Universität Freiburg,EU
+IEEEcloud,2018,Talal H. Noor,Taibah University,AS
+IEEEcloud,2018,Seog-Chan Oh,General Motors,NA
+IEEEcloud,2018,Sanjay Patel,LDRP-ITR,AS
+IEEEcloud,2018,Bo Peng,Indiana University,NA
+IEEEcloud,2018,Roberto Di Pietro,Bell Labs,NA
+IEEEcloud,2018,Judy Qiu,Indiana University,NA
+IEEEcloud,2018,Ioan Raicu,Illinois Institute of Technology,NA
+IEEEcloud,2018,Omer Rana,Cardiff University,EU
+IEEEcloud,2018,Kui Ren,State University of New York at Buffalo,NA
+IEEEcloud,2018,Shaolei Ren,Florida Central University,NA
+IEEEcloud,2018,Norbert Ritter,University of Hamburg,EU
+IEEEcloud,2018,Rizos Sakellariou,The University of Manchester,EU
+IEEEcloud,2018,Iman Saleh,Intel,NA
+IEEEcloud,2018,Benjamin Satzger,Microsoft,NA
+IEEEcloud,2018,Upendra Sharma,IBM,NA
+IEEEcloud,2018,Jun Shen,University of Wollongong,OC
+IEEEcloud,2018,Michael Sheng,Macquarie University,OC
+IEEEcloud,2018,Yasushi Shinjo,University of Tsukuba,AS
+IEEEcloud,2018,Marcio Silva,IBM,NA
+IEEEcloud,2018,Ignacio Silva-Lepe,IBM,NA
+IEEEcloud,2018,Aleksander Slominski,IBM,NA
+IEEEcloud,2018,Evgenia Smirni,College of William and Mary,NA
+IEEEcloud,2018,Toyotaro Suzumura,IBM,NA
+IEEEcloud,2018,Hassan Takabi,University of North Texas,NA
+IEEEcloud,2018,Ladan Tahvildari,University of Waterloo,NA
+IEEEcloud,2018,Yuzhe Tang,Syracuse University,NA
+IEEEcloud,2018,Douglas Thain,University of Notre Dame,NA
+IEEEcloud,2018,Luis Vaquero,University of Bristol,EU
+IEEEcloud,2018,Chengwei Wang,AT&T Labs Research,NA
+IEEEcloud,2018,Liqiang Wang,University of Central Florida,NA
+IEEEcloud,2018,Rich Wolski,University of California Santa Barbara,NA
+IEEEcloud,2018,Raymond Wong,The University of New South Wales,OC
+IEEEcloud,2018,Yuni Xia,IUPUI,NA
+IEEEcloud,2018,Cheng-Zhong Xu,Wayne State University,NA
+IEEEcloud,2018,I-Ling Yen,University of Texas Dallas,NA
+IEEEcloud,2018,Qi Yu,Rochester Institute of Technology,NA
+IEEEcloud,2018,Ming Zhao,Arizona State University,NA
+IEEEcloud,2018,Nianjun Zhou,IBM T.J. Watson Research,NA
+IEEEcloud,2018,Xiaobo Zhou,"University of Colorado, Colorado Springs",NA
+IEEEcloud,2018,Wolf Zimmermann,Martin Luther University Halle-Wittenberg,EU
+IEEEcloud,2019,Kento Aida,National Institute of Informatics,AS
+IEEEcloud,2019,Marco Aiello,University of Stuttgart,EU
+IEEEcloud,2019,Marco Anisetti,Universita degli Studi di Milano,EU
+IEEEcloud,2019,Danilo Ardagna,Politecnico di Milano,EU
+IEEEcloud,2019,Rasool Asal,EBTIC,AS
+IEEEcloud,2019,Janaka Balasooriya,ASU,NA
+IEEEcloud,2019,Bharath Balasubramanian,ATT Labs Research,NA
+IEEEcloud,2019,Valerio Bellandi,Universita degli Studi di Milano,EU
+IEEEcloud,2019,Rajkumar Buyya,The University of Melbourne,OC
+IEEEcloud,2019,Claris Castillo,University of North Carolina,NA
+IEEEcloud,2019,David Chadwick,University of Kent,EU
+IEEEcloud,2019,Ee-Chien Chang,National University of Singapore,AS
+IEEEcloud,2019,Feng Chen,Louisiana State University,NA
+IEEEcloud,2019,Haopeng Chen,Shanghai Jiao Tong University,AS
+IEEEcloud,2019,Keke Chen,Wright State University,NA
+IEEEcloud,2019,Yong Chen,Texas Tech University,NA
+IEEEcloud,2019,Malolan Chetlur,IBM,NA
+IEEEcloud,2019,Bruno Crispo,University of Trento,EU
+IEEEcloud,2019,Alfredo Cuzzocrea,"ICAR-CNR, University of Calabria",EU
+IEEEcloud,2019,Ernesto Damiani,University of Milan,EU
+IEEEcloud,2019,Shuiguang Deng,Zhejiang University,AS
+IEEEcloud,2019,Beniamino Di Martino,University of Campania,EU
+IEEEcloud,2019,Roberto Di Pietro,Hamad Bin Khalifa University,AS
+IEEEcloud,2019,Schahram Dustdar,Vienna University of Technology,EU
+IEEEcloud,2019,Nabil El-Ioini,,
+IEEEcloud,2019,Sotiris Ioannidis,FORTH,EU
+IEEEcloud,2019,Thomas Fahringer,University of Innsbruck,EU
+IEEEcloud,2019,Elena Ferrari,University of Insubria,EU
+IEEEcloud,2019,Chris Gnaidy,University of Arizona,NA
+IEEEcloud,2019,Madhu Govindaraju,SUNY Binghamton,NA
+IEEEcloud,2019,Michael Goul,Arizona State University,NA
+IEEEcloud,2019,Stefanos Gritzalis,University of the Aegean,EU
+IEEEcloud,2019,Daviel Grosu,Wayne State University,NA
+IEEEcloud,2019,Waldemar Hummer,IBM Research Aida,NA
+IEEEcloud,2019,Marty Humphrey,University of Virginia,NA
+IEEEcloud,2019,Praveen Jayachandran,IBM Research,NA
+IEEEcloud,2019,H. Howie Huang,George Washington University,NA
+IEEEcloud,2019,Hai Jin,Huazhong University of Science and Technology,AS
+IEEEcloud,2019,Vana Kalogeraki,Athens University of Economics and Business,EU
+IEEEcloud,2019,Naga Kandasamy,Drexel University,NA
+IEEEcloud,2019,Baekhyu Kim,Toyota InfoTechnology Center,NA
+IEEEcloud,2019,In Kee Kim,University of Georgia,NA
+IEEEcloud,2019,Ram Krishnan,University of Texas at San Antonio,NA
+IEEEcloud,2019,Diwakar Krishnamurthy,University of Calgary,NA
+IEEEcloud,2019,Ashish Kundu,IBM Research-TJ Watson,NA
+IEEEcloud,2019,Hui Lu,Binghamton University,NA
+IEEEcloud,2019,Lei Lu,VMware,NA
+IEEEcloud,2019,Heiko Ludwig,IBM,NA
+IEEEcloud,2019,Fan Jing Meng,IBM,NA
+IEEEcloud,2019,Ningfang Mi,Northeastern University,NA
+IEEEcloud,2019,Talal H. Noor,Taibah University,AS
+IEEEcloud,2019,Katsunori Oyama,Nihon University,AS
+IEEEcloud,2019,Claus Pahl,Free University of Bozen-Bolzano,EU
+IEEEcloud,2019,Sanjay Patel,"LDRP-ITR, India",AS
+IEEEcloud,2019,Bo Peng,Peking University,AS
+IEEEcloud,2019,Omer Rana,Cardiff University,EU
+IEEEcloud,2019,Shaolei Ren,University of California Riverside,NA
+IEEEcloud,2019,Julian Schutte,Fraunhofer,EU
+IEEEcloud,2019,Rizos Sakellariou,The University of Manchester,EU
+IEEEcloud,2019,Benjamin Satzger,Microsoft,NA
+IEEEcloud,2019,Upendra Sharma,IBM,NA
+IEEEcloud,2019,Supreeth Shastri,The University of Texas at Austin,NA
+IEEEcloud,2019,Jun Shen,University of Wollongong,OC
+IEEEcloud,2019,Michael Sheng,Macquarie University,OC
+IEEEcloud,2019,Marco Silva,IBM,NA
+IEEEcloud,2019,Aleksander Slominski,IBM,NA
+IEEEcloud,2019,Toyotaro Suzumura,IBM,NA
+IEEEcloud,2019,Hassan Takabi,University of North Texas,NA
+IEEEcloud,2019,Luca Vigano,King's College London,EU
+IEEEcloud,2019,Liqiang Wang,University of Central Florida,NA
+IEEEcloud,2019,Raymond Wong,The University of New South Wales,OC
+IEEEcloud,2019,Jingwei Yang,California State University Sacramento,NA
+IEEEcloud,2019,I-Ling Yen,UTD,
+IEEEcloud,2019,Qi Yu,Rochester Institute of Technology,NA
+IEEEcloud,2019,Nianjun Zhou,IBM,NA
+IEEEcloud,2019,Wolf Zimmerman,Martin Luther University Halle-Wittenberg,EU
+IEEEcloud,2020,Kento Aida,National Institute of Informatics,AS
+IEEEcloud,2020,Marco Aiello,University of Stuttgart,EU
+IEEEcloud,2020,Marco Anisetti,Universita degli Studi di Milano,EU
+IEEEcloud,2020,Claudio Ardagna,University of Milan,EU
+IEEEcloud,2020,Danilo Ardagna,Politecnico di Milano,EU
+IEEEcloud,2020,Rasool Asal,EBTIC,AS
+IEEEcloud,2020,Bharath Balasubramanian,ATT Labs Research,NA
+IEEEcloud,2020,Mohan Baruwal Chhetri,CSIRO,OC
+IEEEcloud,2020,Valerio Bellandi,University of Milan,EU
+IEEEcloud,2020,Rodrigo N. Calheiros,Western Sydney University,OC
+IEEEcloud,2020,Chun Cao,Nanjing University,AS
+IEEEcloud,2020,Claris Castillo,Renaissance Computing Institute (RENCI),NA
+IEEEcloud,2020,David Chadwick,University of Kento,EU
+IEEEcloud,2020,Ee-Chien Chang,National University of Singapore,AS
+IEEEcloud,2020,Feng Chen,Louisiana State University,NA
+IEEEcloud,2020,Haopeng Chen,Shanghai Jiao Tong University,AS
+IEEEcloud,2020,Keke Chen,Wright State University,NA
+IEEEcloud,2020,Ying Chen,Beijing Information Science & Technology University,AS
+IEEEcloud,2020,Malolan Chetlur,IBM,NA
+IEEEcloud,2020,Bruno Crispo,University of Trento,EU
+IEEEcloud,2020,Lizhen Cui,Shandong University,AS
+IEEEcloud,2020,Beniamino Di Martino,University of Campania 'Luigi Vanvitelli',EU
+IEEEcloud,2020,Roberto Di Pietro,Hamad Bin Khalifa University,AS
+IEEEcloud,2020,Weilong Ding,North China University of Technology,AS
+IEEEcloud,2020,Wei Du,WHUT,
+IEEEcloud,2020,Qiang Duan,The Pennsylvania State University,NA
+IEEEcloud,2020,Li Duan,Beijing Jiaotong University,AS
+IEEEcloud,2020,Schahram Dustdar,Vienna University of Technology,EU
+IEEEcloud,2020,Nabil El Ioini,Free University of Bozen,EU
+IEEEcloud,2020,Elena Ferrari,University of Insubria,EU
+IEEEcloud,2020,Honghao Gao,Shanghai University,AS
+IEEEcloud,2020,Chris Gnaidy,University of Arizona,NA
+IEEEcloud,2020,Dieter Gollman,Hamburg University of Technology,EU
+IEEEcloud,2020,Madhu Govindaraju,SUNY Binghamton,NA
+IEEEcloud,2020,Stefanos Grizalis,University of Piraeus,EU
+IEEEcloud,2020,Daniel Grosu,Wayne State University,NA
+IEEEcloud,2020,Qian He,Guilin University of Electronic Technology,AS
+IEEEcloud,2020,Qiang He,Swinburne University of Technology,OC
+IEEEcloud,2020,Waldemar Hummer,IBM Research AI,NA
+IEEEcloud,2020,Sotiris Ioannidis,FORTH,EU
+IEEEcloud,2020,Martin Jaatun,SINTEF ICT,EU
+IEEEcloud,2020,Praveen Jayachandran,IBM Research India,AS
+IEEEcloud,2020,Meiko Jensen,Unabhangiges Landeszentrum fur Datenschutz Schleswig-Holstein,EU
+IEEEcloud,2020,Ravi Jhawar,PwC,
+IEEEcloud,2020,Vana Kalogeraki,Athens University of Economics & Business,EU
+IEEEcloud,2020,Naga Kandasamy,Drexel University,NA
+IEEEcloud,2020,George Karabatis,University of Maryland,NA
+IEEEcloud,2020,Baekhyu Kim,"Toyota Motor North America, R&D",NA
+IEEEcloud,2020,In Kee Kim,University of Georgia,NA
+IEEEcloud,2020,Diwakar Krishnamurthy,University of Calgary,NA
+IEEEcloud,2020,Ram Krishnan,University of Texas at San Antonio,NA
+IEEEcloud,2020,Xuejun Li,Anhui University,AS
+IEEEcloud,2020,Jialei Liu,Anyang Normal University,AS
+IEEEcloud,2020,Zhizhong Liu,Henan Polytechnic University,AS
+IEEEcloud,2020,Hui Lu,Binghamton University,NA
+IEEEcloud,2020,Lei Lu,VMware,NA
+IEEEcloud,2020,Xuan Lu,Peking University,AS
+IEEEcloud,2020,Heiko Ludwig,IBM,NA
+IEEEcloud,2020,Xiao Ma,Beijing University of Posts & Telecommunications,AS
+IEEEcloud,2020,Yun Ma,Key Laboratory of High Confidence Software Technologies,AS
+IEEEcloud,2020,Fan Jing Meng,IBM,NA
+IEEEcloud,2020,Talal H. Noor,Taibah University,AS
+IEEEcloud,2020,Aljosa Pasic,ATOS,EU
+IEEEcloud,2020,Sanjay Patel,LDRP-ITR,AS
+IEEEcloud,2020,Bo Peng,Indiana University Bloomington,NA
+IEEEcloud,2020,Xin Peng,Fudan University,AS
+IEEEcloud,2020,Lianyong Qi,Qufu Normal University,AS
+IEEEcloud,2020,Xiuquan Qiao,Beijing University of Posts & Telecommunications,AS
+IEEEcloud,2020,Shaolei Ren,University of California Riverside,NA
+IEEEcloud,2020,Rizos Sakellariou,The University of Manchester,EU
+IEEEcloud,2020,Chunyan Sang,Chongqing University of Posts & Telecommunications,AS
+IEEEcloud,2020,Benjamin Satzger,Microsoft,NA
+IEEEcloud,2020,Julian Schuette,Fraunhofer,EU
+IEEEcloud,2020,Prateek Sharma,Indiana University Bloomington,NA
+IEEEcloud,2020,Jun Shen,University of Wollongong,OC
+IEEEcloud,2020,Michael Sheng,Macquarie University,OC
+IEEEcloud,2020,Yuliang Shi,Shandong University,AS
+IEEEcloud,2020,Aleksander Slominski,IBM,NA
+IEEEcloud,2020,Hassan Takabi,Georgia State University,NA
+IEEEcloud,2020,Luca Viganò,King's College London,EU
+IEEEcloud,2020,Ding Wang,Peking University,AS
+IEEEcloud,2020,Jianguo Wang,Amazon,NA
+IEEEcloud,2020,Jiliang Wang,Tsinghua University,AS
+IEEEcloud,2020,Liqiang Wang,University of Central Florida,NA
+IEEEcloud,2020,Puwei Wang,Renmin University of China,AS
+IEEEcloud,2020,Qiang Wang,Beijing University of Posts & Telecommunications,AS
+IEEEcloud,2020,Shangguang Wang,Beijing University of Posts & Telecommunications,AS
+IEEEcloud,2020,Yingjie Wang,Yantai University,AS
+IEEEcloud,2020,Bo Wei,Waseda University,AS
+IEEEcloud,2020,Song Wu,Huazhong University of Science & Technology,AS
+IEEEcloud,2020,Yunpeng Xiao,Chongqing University of Posts & Telecommunications,AS
+IEEEcloud,2020,Liguang Xie,"Futurewei Technologies, Inc.",NA
+IEEEcloud,2020,Xiaolong Xu,Nanjing University,AS
+IEEEcloud,2020,I-Ling Yen,UTD,
+IEEEcloud,2020,Chia-Mu Yu,National Chung Hsing University,AS
+IEEEcloud,2020,Qi Yu,Rochester Institute of Technology,NA
+IEEEcloud,2020,Jun Zeng,Chongqing University,AS
+IEEEcloud,2020,Pengcheng Zhang,Nanjing University,AS
+IEEEcloud,2020,Wensheng Zhang,Iowa State University,NA
+IEEEcloud,2020,Yiwen Zhang,Anhui University,AS
+IEEEcloud,2020,Zhongbao Zhang,Beijing University of Posts & Telecommunications,AS
+IEEEcloud,2020,Zhuofeng Zhao,North China University of Technology,AS
+IEEEcloud,2020,Ao Zhou,Beijing University of Posts & Telecommunications,AS
+IEEEcloud,2020,Wolf Zimmerman,Martin Luther University Halle-Wittenberg,EU
+IEEEcloud,2020,Zhangbing Zhou,China University of Geosciences,AS
+IEEEcloud,2020,Guobing Zou,Shanghai University,AS
+IEEEcloud,2021,Mohamed Abdelrazek,Deakin University,OC
+IEEEcloud,2021,Shivali Agarwal,IBM India Research Lab,AS
+IEEEcloud,2021,Kento Aida,National Institute of Informatics,AS
+IEEEcloud,2021,Marco Aiello,University of Stuttgart,EU
+IEEEcloud,2021,Nour Ali,Brunel University,EU
+IEEEcloud,2021,Dimitris Apostolou,University of Piraeus,EU
+IEEEcloud,2021,Rasool Asal,EBTIC,AS
+IEEEcloud,2021,Gagangeet Aujla,Durham University,EU
+IEEEcloud,2021,Nitin Auluck,Indian Institute of Technology,AS
+IEEEcloud,2021,Neil Ayeb,Orange S.A,EU
+IEEEcloud,2021,Remi Badonnel,LORIA - INRIA Grand Est,EU
+IEEEcloud,2021,Frank Bagehorn,IBM Zurich Research Center,EU
+IEEEcloud,2021,Madhubhashi Bamunuarachchi,Swinburne University of Technology,OC
+IEEEcloud,2021,Abhik Banerjee,Swinburne University of Technology,OC
+IEEEcloud,2021,Mutaz Barika,University of South Australia,OC
+IEEEcloud,2021,Brian Barrett,Amazon Web Services,NA
+IEEEcloud,2021,Valerio Bellandi,Universitá degli Studi di Milano,EU
+IEEEcloud,2021,Salima Benbernou,Université de Paris,EU
+IEEEcloud,2021,Elhadj Benkhlifa,Staffordshire University,EU
+IEEEcloud,2021,Cheyma Bennjima,University of Sousse,AF
+IEEEcloud,2021,Filippo Berto,Universitá degli Studi di Milano,EU
+IEEEcloud,2021,Frédérique Biennier,LIRIS - INSA Lyon,EU
+IEEEcloud,2021,Jeanpaul Calbimonte,University of Applied Sciences and Arts Western Switzerland HES-SO,EU
+IEEEcloud,2021,Rodrigo N. Calheiros,Western Sydney University,OC
+IEEEcloud,2021,Sivachandran Chandrasekaran,Swinburne University of Technology,OC
+IEEEcloud,2021,Ee-Chien Chang,National University of Singapore,AS
+IEEEcloud,2021,Shiping Chen,CSIRO,OC
+IEEEcloud,2021,Haopeng Chen,Shanghai Jiao Tong University,AS
+IEEEcloud,2021,Siguang Chen,Nanjing University of Posts and Telecommunications,AS
+IEEEcloud,2021,Gang Chen,Baidu,AS
+IEEEcloud,2021,Feng Chen,Louisiana State University,NA
+IEEEcloud,2021,Keke Chen,Marquette University,NA
+IEEEcloud,2021,Bo Cheng,Beijing University of Posts and Telecommunications,AS
+IEEEcloud,2021,Malolan Chetlur,IBM,NA
+IEEEcloud,2021,Mohan Baruwal Chhetri,CSIRO,OC
+IEEEcloud,2021,Sanjay Chitnis,Dayananda Sagar University,AS
+IEEEcloud,2021,Lei Cui,Chinese Academy of Sciences,AS
+IEEEcloud,2021,Ting Dai,IBM Research,NA
+IEEEcloud,2021,Umit Demirbaga,Newcastle University,EU
+IEEEcloud,2021,Weilong Ding,North China University of Technology,AS
+IEEEcloud,2021,Wei Du,WHUT,AS
+IEEEcloud,2021,Schahram Dustdar,Vienna University of Technology,EU
+IEEEcloud,2021,Javier Espinosa,University of Lyon,EU
+IEEEcloud,2021,Wei Feng,Tsinghua University,AS
+IEEEcloud,2021,Kaneez Fizza,Swinburne University,OC
+IEEEcloud,2021,Abdur Forkan,Swinburne University,OC
+IEEEcloud,2021,Dennis Gannon,Indiana University,NA
+IEEEcloud,2021,Hui Gao,Beijing University of Posts and Telecommunications,AS
+IEEEcloud,2021,Honghao Gao,Shanghai University,AS
+IEEEcloud,2021,Saurabh Garg,University of Tasmania,OC
+IEEEcloud,2021,Peter Garraghan,Lancaster University,EU
+IEEEcloud,2021,Giancarlo Fortino,University of Calabria,EU
+IEEEcloud,2021,Chris Gniady,University of Arizona,NA
+IEEEcloud,2021,Dieter Gollmann,Hamburg University of Technology,EU
+IEEEcloud,2021,Madhu Govindaraju,SUNY Binghamton,NA
+IEEEcloud,2021,Genady Grabarnik,St. John's University,NA
+IEEEcloud,2021,Rima Grati,Zayed University,AS
+IEEEcloud,2021,Stefanos Gritzalis,University of Piraeus,EU
+IEEEcloud,2021,Daniel Grosu,Wayne State University,NA
+IEEEcloud,2021,Marco Guazzone,University of Piemonte Orientale,EU
+IEEEcloud,2021,Thomas J Hacker,Purdue University,NA
+IEEEcloud,2021,Kawsar Haghshenas,University of Stuttgart,EU
+IEEEcloud,2021,Ali Hassani,Monash University,OC
+IEEEcloud,2021,Qiang  He,Swinburne University of Technology,OC
+IEEEcloud,2021,Qian He,Guilin University of Electronic Technology,AS
+IEEEcloud,2021,Pari Haghighi,Monash University,OC
+IEEEcloud,2021,Sotiris Ioannidis,Technical University of Crete,EU
+IEEEcloud,2021,Bahman Javadi,Western Sydney University,OC
+IEEEcloud,2021,Praveen Jayachandran,IBM Research,NA
+IEEEcloud,2021,Prem Prakash Jayaraman,Swinburne University of Technology,OC
+IEEEcloud,2021,Meiko Jensen,Kiel University of Applied Sciences,EU
+IEEEcloud,2021,Devki Jha,Newcastle University,EU
+IEEEcloud,2021,Shantenu Jha,Rutgers University,NA
+IEEEcloud,2021,Dejun Jiang,Institute of Computing Technology Chinese Academy of Sciences,AS
+IEEEcloud,2021,Karuna Joshi,University of Maryland,NA
+IEEEcloud,2021,Anup Kalia,IBM,NA
+IEEEcloud,2021,Vana Kalogeraki,Athens University of Economics and Business,EU
+IEEEcloud,2021,Naga Kandasamy,Drexel University,NA
+IEEEcloud,2021,Hana Khamfroush,University of Kentucky,NA
+IEEEcloud,2021,Latifur Khan,UT Dallas,NA
+IEEEcloud,2021,In Kee Kim,University of Georgia,NA
+IEEEcloud,2021,Baekgyu Kim,DGIST,AS
+IEEEcloud,2021,Harindu Korala,Swinburne University of Technology,OC
+IEEEcloud,2021,Lev Kozakov,St. John's University,NA
+IEEEcloud,2021,Alptekin Küpçü,Koç University,AS
+IEEEcloud,2021,Diwakar Krishnamurthy,University of Calgary,NA
+IEEEcloud,2021,Abhinav Kumar,IITH,AS
+IEEEcloud,2021,Subramaniam Kv,PES University,AS
+IEEEcloud,2021,Dimosthenis Kyriazis,University of Piraeus,EU
+IEEEcloud,2021,Marc Lacoste,Orange Labs,EU
+IEEEcloud,2021,Frank Lee,Newcastle University,EU
+IEEEcloud,2021,Kewen Liao,Australian Catholic University (ACU),OC
+IEEEcloud,2021,Yeon-sup Lim,Sungshin University,AS
+IEEEcloud,2021,Fuqi Lin,Peking University,AS
+IEEEcloud,2021,Xuanzhe Liu,Peking University,AS
+IEEEcloud,2021,Yi Liu,Peking University,AS
+IEEEcloud,2021,Zhizhong Liu,Henan Polytechnic University,AS
+IEEEcloud,2021,Faiza Loukil,University of Valencienne,EU
+IEEEcloud,2021,Lei Lu,VMware,NA
+IEEEcloud,2021,Hui Lu,Binghamton University,NA
+IEEEcloud,2021,Youyou Lu,Tsinghua University,AS
+IEEEcloud,2021,Xiao Ma,Beijing University of Posts and Telecommunications,AS
+IEEEcloud,2021,Zhongyu Ma,Northwest Normal University,AS
+IEEEcloud,2021,Yun Ma,"Key Laboratory of High Confidence Software Technologies, Ministry of Education",AS
+IEEEcloud,2021,Ruchi Mahindru,"IBM Research, TJ Watson Research Center",NA
+IEEEcloud,2021,Tariq Mahmood,Institute of Business Administration,AS
+IEEEcloud,2021,Felip Marti,Swinburne University of Technology,OC
+IEEEcloud,2021,Christopher McCarthy,Swinburne University of Technology,OC
+IEEEcloud,2021,Alexey Medvedev,Deakin University,OC
+IEEEcloud,2021,Ningfang Mi,Northeastern University,NA
+IEEEcloud,2021,Sajib Mistry,Curtin University,OC
+IEEEcloud,2021,Karan Mitra,Lulea University of Technology,EU
+IEEEcloud,2021,Ts Mohan,Pragyan Data Labs,AS
+IEEEcloud,2021,Federico Montori,University of Bologna,EU
+IEEEcloud,2021,Ahsan Morshed,CQ University,OC
+IEEEcloud,2021,Irene Moser,Swinburne University of Technology,OC
+IEEEcloud,2021,Seema Nagar,IBM India Research Lab,AS
+IEEEcloud,2021,Ranesh Naha,University of Tasmania,OC
+IEEEcloud,2021,Ayman Noor,Taibah University,AS
+IEEEcloud,2021,Katsunori Oyama,Nihon University,AS
+IEEEcloud,2021,Alex Palessandro,Politecnico di Torino,EU
+IEEEcloud,2021,Pankesh Patel,DERI,
+IEEEcloud,2021,Xin Peng,Fudan University,AS
+IEEEcloud,2021,Yang Peng,University of Washington,NA
+IEEEcloud,2021,Top Phengsuwan,Newcastle University,EU
+IEEEcloud,2021,Radhakrishna Pisipati,"National Institute of Technology, Warangal",AS
+IEEEcloud,2021,Marios Prasinos,Cablenet Communication Systems PLC,AS
+IEEEcloud,2021,Bin Qian,Newcastle University,EU
+IEEEcloud,2021,Muhammad Habib Ur Rehman,Khalifa University of Science and Technology,AS
+IEEEcloud,2021,Shaolei Ren,"University of California, Riverside",NA
+IEEEcloud,2021,Rizos Sakellariou,The University of Manchester,EU
+IEEEcloud,2021,Chunyan Sang,Chongqing University of Posts and Telecommunications,AS
+IEEEcloud,2021,Benjamin Satzger,Microsoft,NA
+IEEEcloud,2021,Seelam Seetharami,IBM Research,NA
+IEEEcloud,2021,Padmanabha Seshadri,IBM India Research Lab,AS
+IEEEcloud,2021,Brian Setz,University of Stuttgart,EU
+IEEEcloud,2021,Jun Shen,University of Wollongong,OC
+IEEEcloud,2021,Yuliang Shi,Shandong University,AS
+IEEEcloud,2021,Bin Shi,Xi'an Jiaotong University,AS
+IEEEcloud,2021,Laura Shwartz,"IBM Research, TJ Watson Research Center",NA
+IEEEcloud,2021,Lama Sleem,Loria,
+IEEEcloud,2021,Aleksander Slominski,IBM,NA
+IEEEcloud,2021,Michail Smyrlis,Sphynx Technology Solutions AG,EU
+IEEEcloud,2021,Mudhakar Srivatsa,IBM,NA
+IEEEcloud,2021,Geng Sun,Jilin University,AS
+IEEEcloud,2021,Tao Sun,China Mobile,AS
+IEEEcloud,2021,Jian Su,Nanjing University of Information Science and Technology,AS
+IEEEcloud,2021,Yuanyuan Sun,Alibaba Group,AS
+IEEEcloud,2021,Fei Teng,Southwest Jiaotong University,AS
+IEEEcloud,2021,Nipun Th,Newcastle University,EU
+IEEEcloud,2021,Srikanth Thudumu,Swinburne University of Technology,OC
+IEEEcloud,2021,Parimala Thulasiraman,University of Manitoba,NA
+IEEEcloud,2021,Ruppa Thulasiram,University of Manitoba,NA
+IEEEcloud,2021,Deyu Tian,Peking University,AS
+IEEEcloud,2021,Adel Toosi,Monash University,OC
+IEEEcloud,2021,Mauro Tortonesi,University of Ferrara,EU
+IEEEcloud,2021,Cihan Tunc,University of North Texas,NA
+IEEEcloud,2021,Ihsan Ullah,University College Dublin,EU
+IEEEcloud,2021,Sreekrishnan Venkiteswaran,IBM,NA
+IEEEcloud,2021,Yiannis Verginadis,National Technical University of Athens,EU
+IEEEcloud,2021,Shuai Wang,Southeast University,AS
+IEEEcloud,2021,Puwei Wang,Renmin University,AS
+IEEEcloud,2021,Qingshan Wang,Hefei University of Technology,AS
+IEEEcloud,2021,Shiguo Wang,Changsha University of Science and Technology,AS
+IEEEcloud,2021,Zhixiao Wang,Xi'an University of Technology,AS
+IEEEcloud,2021,Jianguo Wang,Purdue University,NA
+IEEEcloud,2021,Liqiang Wang,University of Central Florida,NA
+IEEEcloud,2021,Ding Wang,Peking University,AS
+IEEEcloud,2021,Zhenyu Wen,Newcastle University,EU
+IEEEcloud,2021,Wen Xia,Harbin Institute of Technology (Shenzhen),AS
+IEEEcloud,2021,Liguang Xie,Futurewei,NA
+IEEEcloud,2021,Zichuan Xu,Dalian University of Technology,AS
+IEEEcloud,2021,Jia Xu,Nanjing University of Posts and Telecommunications,AS
+IEEEcloud,2021,Song Yang,Beijing Institute of Technology,AS
+IEEEcloud,2021,Sami Yangui,CNRS-LAAS,EU
+IEEEcloud,2021,Renyu Yang,University of Leeds,EU
+IEEEcloud,2021,Serge Yaskolko,"College Board, South University",NA
+IEEEcloud,2021,Ali Yavari,Swinburne University of Technology,OC
+IEEEcloud,2021,I-Ling Yen,The University of Texas at Dallas,NA
+IEEEcloud,2021,Shucheng Yu,Stevens Institute of Technology,NA
+IEEEcloud,2021,Chia-Mu Yu,National Chung Hsing University,AS
+IEEEcloud,2021,Xingliang Yuan,Monash University,OC
+IEEEcloud,2021,Yifan Zhang,SUNY Binghamton,NA
+IEEEcloud,2021,Jiayi Zhang,Beijing Jiaotong University,AS
+IEEEcloud,2021,Jinbei Zhang,Sun Yat-sen University,AS
+IEEEcloud,2021,Yuxin Zhang,Monash University,OC
+IEEEcloud,2021,Siyuan Zhou,Hohai University,AS
+IEEEcloud,2021,Ao Zhou,Beijing University of Posts and Telecommunications,AS
+IEEEcloud,2021,Wolf Zimmermann,Martin Luther University Halle-Wittenberg,EU
+IEEEcloud,2021,Guobing Zou,Shanghai University,AS
+IEEEcloud,2021,Pengfei Zuo,Huawei,AS
+IEEEcloud,2022,Mohamed Abdelrazek,Deakin University,OC
+IEEEcloud,2022,Nour Ali,Brunel University,EU
+IEEEcloud,2022,Marco Anisetti,Università degli Studi di Milano,EU
+IEEEcloud,2022,Dimitris Apostolou,University of Piraeus,EU
+IEEEcloud,2022,Venki Appiah,Federation University,AS
+IEEEcloud,2022,Jagannath Aryal,University of Melbourne,OC
+IEEEcloud,2022,Nitin Auluck,"Indian Institute of Technology, Ropar",AS
+IEEEcloud,2022,Remi Badonnel,LORIA-INRIA Grand Est,EU
+IEEEcloud,2022,Frank Bagehorn,IBM,EU
+IEEEcloud,2022,Alessandro Balestrucci,Gran Sasso Science Institute,EU
+IEEEcloud,2022,Abhik Banerjee,Swinburne University of Technology,OC
+IEEEcloud,2022,Masoud Barati,Cardiff University,EU
+IEEEcloud,2022,Mutaz Barika,University of South Australia,OC
+IEEEcloud,2022,Brian Barrett,Amazon Web Services,NA
+IEEEcloud,2022,Valerio Bellandi,University of Milan,EU
+IEEEcloud,2022,Nicola Bena,University of Milan,EU
+IEEEcloud,2022,Salima Benbernou,Université de Paris,EU
+IEEEcloud,2022,Filippo Berto,Università degli Studi di Milano,EU
+IEEEcloud,2022,Jaki Bhimani,Florida International University,NA
+IEEEcloud,2022,Frederique Biennier,LIRIS-INSA Lyon,EU
+IEEEcloud,2022,Jeanpaul Calbimonte,University of Applied Sciences & Arts Western Switzerland,EU
+IEEEcloud,2022,Rodrigo Calheiros,Western Sydney University,OC
+IEEEcloud,2022,Giuliano Casale,Imperial College London,EU
+IEEEcloud,2022,Sivachandran Chandrasekaran,Swinburne University of Technology,OC
+IEEEcloud,2022,Shiping Chen,CSIRO,
+IEEEcloud,2022,Feng Chen,Louisiana State University,NA
+IEEEcloud,2022,Haopeng Chen,Shanghai Jiao Tong University,AS
+IEEEcloud,2022,Jinjun Chen,Swinburne University of Technology,OC
+IEEEcloud,2022,Keke Chen,Marquette University,NA
+IEEEcloud,2022,Bo Cheng,Beijing University of Posts & Telecommunications,AS
+IEEEcloud,2022,Malolan Chetlur,IBM,NA
+IEEEcloud,2022,Ben Cheyma,Université Jean Moulin Lyon 3,EU
+IEEEcloud,2022,Baruwal Chhetri,CSIRO,
+IEEEcloud,2022,Sanjay Chitnis,Dayananda Sagar University,AS
+IEEEcloud,2022,Michele Ciavotta,University of Milano-Bicocca,EU
+IEEEcloud,2022,Lei Cui,Chinese Academy of Sciences,AS
+IEEEcloud,2022,Ting Dai,IBM Research,NA
+IEEEcloud,2022,Petrizio Dazzi,"ISTI, National Research Council of Italy",EU
+IEEEcloud,2022,Weilong Ding,North China University of Technology,AS
+IEEEcloud,2022,Wei Du,Wuhan University of Technology,AS
+IEEEcloud,2022,Qiang Duan,Pennsylvania State University,NA
+IEEEcloud,2022,Schahram Dustdar,Vienna University of Technology,EU
+IEEEcloud,2022,Vincent Emeakaroha,Cork Institute of Technology,EU
+IEEEcloud,2022,Javier Espinosa-Oviedo,University of Lyon,EU
+IEEEcloud,2022,Kaneez Fizza,Swinburne University,OC
+IEEEcloud,2022,Abdur Forkan,Swinburne University,OC
+IEEEcloud,2022,Amir Gandomi,"University of Technology, Sydney",OC
+IEEEcloud,2022,Saurabh Garg,University of Tasmania,OC
+IEEEcloud,2022,Peter Garraghan,Lancaster University,EU
+IEEEcloud,2022,Shreya Ghosh,Pennsylvania State University,NA
+IEEEcloud,2022,Soumya Ghosh,Indian Institute of Technology Kharagpur,AS
+IEEEcloud,2022,Rahul Ghosh,American Express,NA
+IEEEcloud,2022,Sukhpal Gill,Queen Mary University of London,EU
+IEEEcloud,2022,Dieter Gollmann,Hamburg University of Technology,EU
+IEEEcloud,2022,Mingming Gong,University of Melbourne,OC
+IEEEcloud,2022,Madhu Govindaraju,SUNY Binghamton,NA
+IEEEcloud,2022,Stefanos Gritzalis,University of Piraeus,EU
+IEEEcloud,2022,Daniel Grosu,Wayne State University,NA
+IEEEcloud,2022,Marco Guazzone,University of Piemonte Orientale,EU
+IEEEcloud,2022,Thomas Hacker,Purdue University,NA
+IEEEcloud,2022,Jin Hai,Huazhong University of Science & Technology,AS
+IEEEcloud,2022,Qian He,Guilin University of Electronic Technology,AS
+IEEEcloud,2022,Qiang He,Swinburne University of Technology,OC
+IEEEcloud,2022,Yu Hua,Huazhong University of Science & Technology,AS
+IEEEcloud,2022,Shashikant Ilager,TU Wien,EU
+IEEEcloud,2022,Sotiris Ioannidis,Technical University of Crete,EU
+IEEEcloud,2022,Bahman Javadi,Western Sydney University,OC
+IEEEcloud,2022,Praveen Jayachandran,IBM Research India,AS
+IEEEcloud,2022,Prem Jayaraman,Swinburne University of Technology,OC
+IEEEcloud,2022,Meiko Jensen,Kiel University of Applied Sciences,EU
+IEEEcloud,2022,Devki Jha,Newcastle University,EU
+IEEEcloud,2022,Dejun Jiang,"Institute of Computing Technology, Chinese Academy of Sciences",AS
+IEEEcloud,2022,Karuna Joshi,"University of Maryland, Baltimore County",NA
+IEEEcloud,2022,Anup Kalia,IBM,NA
+IEEEcloud,2022,Vana Kalogeraki,Athens University of Economics & Business,EU
+IEEEcloud,2022,Naga Kandasamy,Drexel University,NA
+IEEEcloud,2022,Helen Karatza,Aristotle University of Thessaloniki,EU
+IEEEcloud,2022,Latifur Khan,University of Texas at Dallas,NA
+IEEEcloud,2022,Baekgyu Kim,Daegu Gyeonbuk Institute of Science & Technology,AS
+IEEEcloud,2022,In-Kee Kim,University of Georgia,NA
+IEEEcloud,2022,Harindu Korala,Swinburne University of Technology,OC
+IEEEcloud,2022,Kenichi Kourai,Kyushu Institute of Technology,AS
+IEEEcloud,2022,Nectarios Koziris,National Technical University of Athens,EU
+IEEEcloud,2022,Diwakar Krishnamurthy,University of Calgary,NA
+IEEEcloud,2022,Abhinav Kumar,Indian Institute of Technology Hyderabad,AS
+IEEEcloud,2022,Alpetekin Küpçü,Koç University,AS
+IEEEcloud,2022,Subramaniam Kv,PES University,AS
+IEEEcloud,2022,Dimosthenis Kyriazis,University of Piraeus,EU
+IEEEcloud,2022,Marc Lacoste,Orange Labs,EU
+IEEEcloud,2022,Qinghua Li,University of Arkansas,NA
+IEEEcloud,2022,Yeon-sup Lim,Sungshin University,AS
+IEEEcloud,2022,Yi Liu,Peking University,AS
+IEEEcloud,2022,Pinglan Liu,Iowa State University,NA
+IEEEcloud,2022,Xuanzhe Liu,Peking University,AS
+IEEEcloud,2022,Zhizhong Liu,Henan Polytechnic University,AS
+IEEEcloud,2022,Francesco Longo,University of Messina,EU
+IEEEcloud,2022,Faiza Loukil,University of Lyon,EU
+IEEEcloud,2022,Youyou Lu,Tsinghua University,AS
+IEEEcloud,2022,Zhongyu Ma,Northwest Normal University,AS
+IEEEcloud,2022,Ruchi Mahindru,IBM Research,NA
+IEEEcloud,2022,Tariq Mahmood,Institute of Business Administration,AS
+IEEEcloud,2022,Sajib Mistry,Curtin University,OC
+IEEEcloud,2022,Karan Mitra,Lulea University of Technology,EU
+IEEEcloud,2022,Ts MOhan,Pragyan Datalabs,AS
+IEEEcloud,2022,Federico Montori,University of Bologna,EU
+IEEEcloud,2022,Tridib Mukherjee,Games24X7,AS
+IEEEcloud,2022,Seema Nagar,"Indian Institute of Technology, Guwahati",AS
+IEEEcloud,2022,Ayman Noor,Taibah University,AS
+IEEEcloud,2022,Alex Palessandro,Politecnico di Torino,EU
+IEEEcloud,2022,Pankesh Patel,DERI,
+IEEEcloud,2022,Yang Peng,University of Washington,NA
+IEEEcloud,2022,Top Phengsuwan,Newcastle University,EU
+IEEEcloud,2022,Radhakrishna Pisipati,"National Institute of Technology, Warangal",AS
+IEEEcloud,2022,Daniel Pittner,IBM,NA
+IEEEcloud,2022,Viktor Prasanna,University of Southern California,NA
+IEEEcloud,2022,Marios Prasinos,Cablenet Communication Systems PLC,AS
+IEEEcloud,2022,Bin Qian,Newcastle University,EU
+IEEEcloud,2022,Muhammad Rehman,Khalifa University of Science & Technology,AS
+IEEEcloud,2022,Maria Rodriguez,University of Melbourne,OC
+IEEEcloud,2022,Rizos Sakellariou,The University of Manchester,EU
+IEEEcloud,2022,Benjamin Satzger,Microsoft,NA
+IEEEcloud,2022,Seelam Seetharami,IBM Research,NA
+IEEEcloud,2022,Padmanabha Seshadri,IBM Research,NA
+IEEEcloud,2022,Jun Shen,University of Wollongong,OC
+IEEEcloud,2022,Yuliang Shi,Shandong University,AS
+IEEEcloud,2022,Bin shi,Xi'an Jiaotong University,AS
+IEEEcloud,2022,Yogesh Simmhan,"Indian Institute of Science, Bangalore",AS
+IEEEcloud,2022,Amith Singhee,"IBM, India Research Lab",AS
+IEEEcloud,2022,Aleksander Slominski,IBM,NA
+IEEEcloud,2022,Mudhakar Srivatsa,IBM,NA
+IEEEcloud,2022,Torsten Steinchbach,IBM,NA
+IEEEcloud,2022,Jian Su,Nanjing University of Information Science & Technology,AS
+IEEEcloud,2022,Tao Sun,China Mobile,AS
+IEEEcloud,2022,Geng Sun,Jilin University,AS
+IEEEcloud,2022,Zahir Tari,Royal Melbourne Institute of Technology (RMIT),OC
+IEEEcloud,2022,Leandros Tassiulas,Yale University,NA
+IEEEcloud,2022,Fei Teng,Southwest Jiaotong University,AS
+IEEEcloud,2022,Srikanth Thudumu,Swinburne University of Technology,OC
+IEEEcloud,2022,Parimala Thulasiraman,University of Manitoba,NA
+IEEEcloud,2022,Ruppa Thulasiram,University of Manitoba,NA
+IEEEcloud,2022,Adel Toosi,Monash University,OC
+IEEEcloud,2022,Cihan Tunc,University of North Texas,NA
+IEEEcloud,2022,Ihsan Ullah,University College Dublin,EU
+IEEEcloud,2022,Blesson Varghese,Queens University Belfast,EU
+IEEEcloud,2022,Bharadwaj Veeravalli,The National University of Singapore,AS
+IEEEcloud,2022,Yiannis Verginadis,National Technical University of Athens,EU
+IEEEcloud,2022,Vladimir Vlassov,KTH Royal Institute of Technology,EU
+IEEEcloud,2022,Maja Vukovic,IBM Research,NA
+IEEEcloud,2022,Md Whaiduzzaman,Queensland University of Technology,OC
+IEEEcloud,2022,Chen Wang,IBM Research,NA
+IEEEcloud,2022,Puwei Wang,Renmin University of China,AS
+IEEEcloud,2022,Qingshan Wang,Hefei University of Technology,AS
+IEEEcloud,2022,Shiguo Wang,Changsha University of Science & Technology,AS
+IEEEcloud,2022,Ding Wang,Peking University,AS
+IEEEcloud,2022,Haibo Wang,University of Florida,NA
+IEEEcloud,2022,Liqiang Wang,University of Central Florida,NA
+IEEEcloud,2022,Zhenyu Wen,Newcastle University,EU
+IEEEcloud,2022,Guido Wirtz,"Otto-Friedrich University, Bamberg",EU
+IEEEcloud,2022,Minxian Xu,"SIAT, Chinese Academy of Sciences",AS
+IEEEcloud,2022,Zichuan Xu,Dalian University of Technology,AS
+IEEEcloud,2022,Jia Xu,Nanjing University of Posts & Telecommunications,AS
+IEEEcloud,2022,Lanyu Xu,Wayne State University,NA
+IEEEcloud,2022,Mengwei Xu,Beijing University of Posts & Telecommunications,AS
+IEEEcloud,2022,Renyu Yang,University of Leeds,EU
+IEEEcloud,2022,Song Yang,Beijing Institute of Technology,AS
+IEEEcloud,2022,Sami Yangui,CNRS-LAAS,EU
+IEEEcloud,2022,Serge Yaskolko,College Board,NA
+IEEEcloud,2022,Ali Yavari,Swinburne University of Technology,OC
+IEEEcloud,2022,I-Ling Yen,University of Texas at Dallas,NA
+IEEEcloud,2022,Alaa Youssef,IBM Research,NA
+IEEEcloud,2022,Xingliang Yuan,Monash University,OC
+IEEEcloud,2022,Chia-Mu Yu,National Chung Hsing University,AS
+IEEEcloud,2022,Wensheng Zhang,Iowa State University,NA
+IEEEcloud,2022,Yuxin Zhang,Monash University,OC
+IEEEcloud,2022,Jinbei Zhang,Sun Yat-sen University,AS
+IEEEcloud,2022,Ming Zhao,Arizona State University,NA
+IEEEcloud,2022,Cai Zhicheng,Nanjing University of Science & Technology,AS
+IEEEcloud,2022,Siyuan Zhou,Hohai University,AS
+IEEEcloud,2022,Ao Zhou,Beijing University of Posts & Telecommunications,AS
+IEEEcloud,2022,Bing Zhou,University of Sydney,OC
+IEEEcloud,2022,Weiping Zhu,Wuhan University,AS
+IEEEcloud,2022,Wolf Zimmermann,Martin Luther University Halle-Wittenberg,EU
+IEEEcloud,2022,Farhana Zulkernine,Queen's University,NA
+IEEEcloud,2022,Pengfei Zuo,Huawei,AS
+IEEEcloud,2023,Mohsen Amini Salehi,"University of Louisiana, Lafayette",NA
+IEEEcloud,2023,Marco Anisetti,Università degli Studi di Milano,EU
+IEEEcloud,2023,Gabriel Antoniu,INRIA,EU
+IEEEcloud,2023,Dimitris Apostolou,University of Piraeus,EU
+IEEEcloud,2023,Takuya Araki,NEC,
+IEEEcloud,2023,Engin Arslan,"University of Nevada, Reno",NA
+IEEEcloud,2023,Nitin Auluck,"Indian Institute of Technology, Ropar",AS
+IEEEcloud,2023,Frank Bagehorn,"IBM Research, Zurich Research Lab",EU
+IEEEcloud,2023,Alessandro Balestrucci,Gran Sasso Science Institute,EU
+IEEEcloud,2023,Abhik Banerjee,Swinburne University of Technology,OC
+IEEEcloud,2023,Masoud Barati,Newcastle University,EU
+IEEEcloud,2023,Valerio Bellandi,University of Milan,EU
+IEEEcloud,2023,Nicola Bena,University of Milan,EU
+IEEEcloud,2023,Filippo Berto,University of Milan,EU
+IEEEcloud,2023,Frederique Biennier,"INSA - Lyon, France",EU
+IEEEcloud,2023,Ali R. Butt,Virginia Tech,NA
+IEEEcloud,2023,Zhicheng Cai,Nanjing University of Science and Technology,AS
+IEEEcloud,2023,Jean-Paul Calbimonte,University of Applied Sciences and Arts Western Switzerland HES-SO,EU
+IEEEcloud,2023,Rodrigo N. Calheiros,Western Sydney University,OC
+IEEEcloud,2023,Giuliano Casale,Imperial College London,EU
+IEEEcloud,2023,Abhishek Chandra,University of Minnesota,NA
+IEEEcloud,2023,Siva Chandrasekaran,Swinburne University of Technology,OC
+IEEEcloud,2023,Feng Chen,Louisiana State University,NA
+IEEEcloud,2023,Haopeng Chen,Shanghai Jiao Tong University,AS
+IEEEcloud,2023,Keke Chen,Marquette University,NA
+IEEEcloud,2023,Yue Cheng,University of Virginia,NA
+IEEEcloud,2023,Ben Njima Cheyma,Université Jean Moulin Lyon 3,EU
+IEEEcloud,2023,Jong Youl Choi,Oak Ridge National Laboratory,NA
+IEEEcloud,2023,Lei Cui,Beihang University,AS
+IEEEcloud,2023,Ting Dai,IBM Research,NA
+IEEEcloud,2023,Patrizio Dazzi,University of Pisa,EU
+IEEEcloud,2023,Weilong Ding,"Research Center for Cloud Computing, North China University of Technology",AS
+IEEEcloud,2023,Michele Dolfi,IBM Research Zurich,EU
+IEEEcloud,2023,Wenqian Dong,Florida International University,NA
+IEEEcloud,2023,Wei Du,Wuhan University of Technology,AS
+IEEEcloud,2023,Qiang Duan,The Pennsylvania State University,NA
+IEEEcloud,2023,Schahram Dustdar,Vienna University of Technology,EU
+IEEEcloud,2023,Vincent Chimaobi Emeakaroha,Munster Technological University,EU
+IEEEcloud,2023,Reza Farivar,RefLab,
+IEEEcloud,2023,Rafael Ferreira da Silva,Oak Ridge National Laboratory,NA
+IEEEcloud,2023,Renato Figueiredo,University of Florida,NA
+IEEEcloud,2023,Abdur Forkan,Swinburne University of Technology,OC
+IEEEcloud,2023,Peter Garraghan,Lancaster University,EU
+IEEEcloud,2023,Shreya Ghosh,IIT Kharagpur,AS
+IEEEcloud,2023,Soumya Ghosh,IIT Kharagpur,AS
+IEEEcloud,2023,Sukhpal Singh Gill,Queen Mary University of London,EU
+IEEEcloud,2023,Dieter Gollmann,Hamburg University of Technology,EU
+IEEEcloud,2023,Madhu Govindaraju,SUNY Binghamton,NA
+IEEEcloud,2023,Daniel Grosu,Wayne State University,NA
+IEEEcloud,2023,Marco Guazzone,University of Piemonte Orientale,EU
+IEEEcloud,2023,Tom Hacker,Purdue University,NA
+IEEEcloud,2023,Toshihiro Hanawa,"Information Technology Center, The University of Tokyo",AS
+IEEEcloud,2023,Qian He,Guilin University of Electronic Technology,AS
+IEEEcloud,2023,Huawei Huang,Sun Yat-Sen University,AS
+IEEEcloud,2023,Shashikant Ilager,Vienna University of Technology (TU Wien),EU
+IEEEcloud,2023,Asif Imran,California State University San Marcos,NA
+IEEEcloud,2023,Ali Jannesari,Iowa State University,NA
+IEEEcloud,2023,Bahman Javadi,Western Sydney University,OC
+IEEEcloud,2023,Praveen Jayachandran,"IBM Research, India",AS
+IEEEcloud,2023,Meiko Jensen,Karlstad University,EU
+IEEEcloud,2023,Devki Nandan Jha,University of Oxford,EU
+IEEEcloud,2023,Hai Jin,Huazhong University of Science and Technology,AS
+IEEEcloud,2023,Karuna Joshi,"University of Maryland, Baltimore County",NA
+IEEEcloud,2023,Naga Kandasamy,Drexel University,NA
+IEEEcloud,2023,Akshar Kaul,"IBM Research, India",AS
+IEEEcloud,2023,Rajkumar Kettimuthu,Argonne National Lab and The University of Chicago,NA
+IEEEcloud,2023,Baekgyu Kim,DGIST,AS
+IEEEcloud,2023,In Kee Kim,University of Georgia,NA
+IEEEcloud,2023,Masaaki Kondo,Keio University,AS
+IEEEcloud,2023,Kenichi Kourai,Kyushu Institute of Technology,AS
+IEEEcloud,2023,Nectarios Koziris,National Technical University of Athens,EU
+IEEEcloud,2023,Diwakar Krishnamurthy,University of Calgary,NA
+IEEEcloud,2023,Marc Lacoste,Orange Labs,
+IEEEcloud,2023,Jack Lange,University of Pittsburgh,NA
+IEEEcloud,2023,Dong Li,"University of California, Merced",NA
+IEEEcloud,2023,Qinghua Li,University of Arkansas,NA
+IEEEcloud,2023,Yeon-sup Lim,Sungshin Women's University,AS
+IEEEcloud,2023,Felix Xiaozhu Lin,University of Virginia,NA
+IEEEcloud,2023,Pinglan Liu,Iowa State University,NA
+IEEEcloud,2023,Xiaoning Liu,RMIT University,OC
+IEEEcloud,2023,Yi Liu,Peking University,AS
+IEEEcloud,2023,Zhizhong Liu,Henan Polytechnic University,AS
+IEEEcloud,2023,Francesco Longo,University of Messina,EU
+IEEEcloud,2023,Faiza Loukil,"LISTIC Laboratory, Savoie Mont Blanc University",EU
+IEEEcloud,2023,Youyou Lu,Tsinghua University,AS
+IEEEcloud,2023,Ruchi Mahindru,IBM,NA
+IEEEcloud,2023,Tariq Mahmood,IBA Karachi,AS
+IEEEcloud,2023,Suresh Marru,Indiana University Bloomington,NA
+IEEEcloud,2023,Sajib Mistry,Curtin University,OC
+IEEEcloud,2023,Apoorve Mohan,IBM Thomas J. Watson Research Center,NA
+IEEEcloud,2023,Dr. T.S. Mohan,Pragyan Datalabs,AS
+IEEEcloud,2023,Federico Montori,University of Bologna,EU
+IEEEcloud,2023,Seema Nagar,IBM Research India,AS
+IEEEcloud,2023,Ayman Noor,Taibah University,AS
+IEEEcloud,2023,Oznur Ozkasap,Koç University,AS
+IEEEcloud,2023,Alex Palesandro,D2IQ,
+IEEEcloud,2023,Sangmi Pallickara,Colorado State University,NA
+IEEEcloud,2023,Shrideep Pallickara,Colorado State University,NA
+IEEEcloud,2023,Radha Krishna Pisipati,"National Institute of Technology, Warangal",AS
+IEEEcloud,2023,Apan Qasem,Texas State University,NA
+IEEEcloud,2023,Bin Qian,Newcastle University,EU
+IEEEcloud,2023,Gourav Rattihalli,HPE,NA
+IEEEcloud,2023,Ricardo Rocha,CERN,EU
+IEEEcloud,2023,Rizos Sakellariou,The University of Manchester,EU
+IEEEcloud,2023,Benjamin Satzger,Microsoft,NA
+IEEEcloud,2023,Matthias Schunter,Intel,NA
+IEEEcloud,2023,Seelam Seetharami,IBM,NA
+IEEEcloud,2023,Padmanabha Venkatagiri Seshadri,IBM,NA
+IEEEcloud,2023,Prateek Sharma,Indiana University Bloomington,NA
+IEEEcloud,2023,Jun Shen,University of Wollongong,OC
+IEEEcloud,2023,Bin Shi,Beihang University,AS
+IEEEcloud,2023,Yuliang Shi,Shandong University,AS
+IEEEcloud,2023,Aleksander Slominski,IBM,NA
+IEEEcloud,2023,Jian Su,Nanjing University of Information Science & Technology,AS
+IEEEcloud,2023,Geng Sun,Jilin University,AS
+IEEEcloud,2023,Tao Sun,Chinamobile,AS
+IEEEcloud,2023,Kun Suo,Kennesaw State University,NA
+IEEEcloud,2023,Byungchul Tak,Kyungpook National University,AS
+IEEEcloud,2023,Dingwen Tao,Indiana University,NA
+IEEEcloud,2023,Douglas Thain,University of Notre Dame,NA
+IEEEcloud,2023,Srikanth Thudumu,Deakin University,OC
+IEEEcloud,2023,Ruppa Thulasiram,University of Manitoba,NA
+IEEEcloud,2023,Parimala Thulasiraman,University of Manitoba,NA
+IEEEcloud,2023,Adel N. Toosi,Monash University,OC
+IEEEcloud,2023,Lewis Tseng,Boston College,NA
+IEEEcloud,2023,Cihan Tunc,University of North Texas,NA
+IEEEcloud,2023,Sreekrishnan Venkateswaran,Kyndryl,NA
+IEEEcloud,2023,Vladimir Vlassov,KTH Royal Institute of Technology,EU
+IEEEcloud,2023,Maja Vukovic,IBM Research,NA
+IEEEcloud,2023,Chen Wang,IBM,NA
+IEEEcloud,2023,Haibo Wang,University of Florida,NA
+IEEEcloud,2023,Liqiang Wang,University of Central Florida,NA
+IEEEcloud,2023,Puwei Wang,Renmin University,AS
+IEEEcloud,2023,Qingshan Wang,Hefei University of Technology,AS
+IEEEcloud,2023,Zhenyu Wen,Zhejiang University of Technology,AS
+IEEEcloud,2023,Guido Wirtz,University of Bamberg,EU
+IEEEcloud,2023,Jia Xu,Nanjing University of Posts and Telecommunications,AS
+IEEEcloud,2023,Lanyu Xu,Oakland University,NA
+IEEEcloud,2023,Minxian Xu,"Shenzhen Institutes of Advanced Technology, Chinese Academy of Sciences",AS
+IEEEcloud,2023,Zichuan Xu,Dalian University of Technology,AS
+IEEEcloud,2023,Feng Yan,University of Houston,NA
+IEEEcloud,2023,Renyu Yang,University of Leeds,EU
+IEEEcloud,2023,Sami Yangui,CNRS-LAAS,EU
+IEEEcloud,2023,Serge Yaskolko,College Board,NA
+IEEEcloud,2023,I-Ling Yen,UTD,
+IEEEcloud,2023,Alaa Youssef,IBM Research,NA
+IEEEcloud,2023,Chia-Mu Yu,National Chung Hsing University,AS
+IEEEcloud,2023,Wensheng Zhang,Iowa State University,NA
+IEEEcloud,2023,Bing Bing Zhou,University of Sidney,OC
+IEEEcloud,2023,Wolf Zimmermann,Martin Luther University Halle-Wittenberg,EU
+IEEEcloud,2023,Farhana Zulkernine,Queens University,NA
+IEEEcloud,2024,Ming Zhao,Arizona State University,NA
+IEEEcloud,2024,Mengwei Xu,Beijing University of Posts and Telecommunications,AS
+IEEEcloud,2024,Qirui Yang,ByteDance,AS
+IEEEcloud,2024,Ricardo Rocha,CERN,EU
+IEEEcloud,2024,Sami Yangui,CNRS-LAAS,EU
+IEEEcloud,2024,Jia Xu,College of Computer,AS
+IEEEcloud,2024,Mohan Baruwal Chhetri,CSIRO,OC
+IEEEcloud,2024,Sajib Mistry,Curtin University,OC
+IEEEcloud,2024,Alex Palesandro,D2IQ,EU
+IEEEcloud,2024,Srikanth Thudumu,Deakin University,OC
+IEEEcloud,2024,Patrizio Dazzi,University of Pisa,EU
+IEEEcloud,2024,Shrideep Pallickara,Colorado State University,NA
+IEEEcloud,2024,Qiang He,Swinburne University of Technology,OC
+IEEEcloud,2024,Baekgyu Kim,DGIST,AS
+IEEEcloud,2024,Naga Kandasamy,Drexel University,NA
+IEEEcloud,2024,Alessandro Balestrucci,Gran Sasso Science Institute,EU
+IEEEcloud,2024,Qian He,Guilin University of Electronic Technology,AS
+IEEEcloud,2024,Dieter Gollmann,Hamburg University of Technology,EU
+IEEEcloud,2024,Qingshan Wang,Hefei University of Technology,AS
+IEEEcloud,2024,Zhizhong Liu,Henan Polytechnic University,AS
+IEEEcloud,2024,Siyuan Zhou,Hohai University,AS
+IEEEcloud,2024,Ming-Hung Chen,IBM,NA
+IEEEcloud,2024,Runyu Jin,IBM,NA
+IEEEcloud,2024,Ruchi Mahindru,IBM,NA
+IEEEcloud,2024,Aleksander Slominski,IBM,NA
+IEEEcloud,2024,Maja Vukovic,IBM,NA
+IEEEcloud,2024,Chen Wang,IBM,NA
+IEEEcloud,2024,Ting Dai,IBM Research,NA
+IEEEcloud,2024,Saransh Gupta,IBM Research,NA
+IEEEcloud,2024,Praveen Jayachandran,IBM Research,AS
+IEEEcloud,2024,Akshar Kaul,IBM Research,AS
+IEEEcloud,2024,Bekir Turkkan,IBM Research,NA
+IEEEcloud,2024,Alaa Youssef,IBM Research,NA
+IEEEcloud,2024,Michele Dolfi,IBM Research Zurich,EU
+IEEEcloud,2024,Apoorve Mohan,IBM Thomas J. Watson Research Center,NA
+IEEEcloud,2024,Toshihiro Hanawa,The University of Tokyo,AS
+IEEEcloud,2024,Wensheng Zhang,Iowa State University,NA
+IEEEcloud,2024,Geng Sun,Jilin University,AS
+IEEEcloud,2024,Meiko Jensen,Karlstad University,EU
+IEEEcloud,2024,Kun Suo,Kennesaw State University,NA
+IEEEcloud,2024,Muhammad Habib Ur Rehman,Khalifa University of Science and Technology,AS
+IEEEcloud,2024,Byungchul Tak,Kyungpook National University,AS
+IEEEcloud,2024,Kenichi Kourai,Kyushu Institute of Technology,AS
+IEEEcloud,2024,Feng Chen,Louisiana State University,NA
+IEEEcloud,2024,Keke Chen,Marquette University,NA
+IEEEcloud,2024,Wolf Zimmermann,Martin Luther University Halle-Wittenberg,EU
+IEEEcloud,2024,Adel N. Toosi,Monash University,OC
+IEEEcloud,2024,Vincent C Emeakaroha,Munster Technological University,EU
+IEEEcloud,2024,Jian Su,Nanjing University of Information Science and Technology,AS
+IEEEcloud,2024,Zhicheng Cai,Nanjing University of science and technology,AS
+IEEEcloud,2024,Chia-Mu Yu,National Chung Hsing University,AS
+IEEEcloud,2024,Radha Krishna Pisipati,National Institute of Technology Karnataka,AS
+IEEEcloud,2024,Sourav Kanti Addya,National Institute of Technology Karnataka,AS
+IEEEcloud,2024,Nectarios Koziris,National Technical University of Athens,EU
+IEEEcloud,2024,Bin Qian,Newcaslte university,EU
+IEEEcloud,2024,Jong Choi,Oak Ridge National Laboratory,NA
+IEEEcloud,2024,Lanyu Xu,Oakland University,NA
+IEEEcloud,2024,Marc Lacoste,Orange Labs,EU
+IEEEcloud,2024,Reza Farivar,RefLab,
+IEEEcloud,2024,Weilong Ding,North China University of Technology,AS
+IEEEcloud,2024,Sanjay Chitnis,RV University,AS
+IEEEcloud,2024,Minxian Xu,Shenzhen Institutes of Advanced Technology,AS
+IEEEcloud,2024,Abhay Paroha,SLB,EU
+IEEEcloud,2024,Amey Deshpande,Snowflake,NA
+IEEEcloud,2024,Lakshmi Prathima Devarasetty,Google,NA
+IEEEcloud,2024,Raja Rao Budaraju,Oracle,NA
+IEEEcloud,2024,Jayasekhar Konduru,Google,NA
+IEEEcloud,2024,Ramprasad Chinthekindi,Meta,NA
+IEEEcloud,2024,Shyam Burkule,Meta,NA
+IEEEcloud,2024,Vikas Agarwal,IBM Research – India,AS
+IEEEcloud,2024,Engin Arslan,University of Texas Arlington,NA
+IEEEcloud,2024,Nitin Auluck,Indian Institute of Technology,AS
+IEEEcloud,2024,Brian Barrett,Amazon,NA
+IEEEcloud,2024,Frederique Biennier,LIRIS – INSA Lyon,EU
+IEEEcloud,2024,Ali R. Butt,Virginia Tech,NA
+IEEEcloud,2024,Jean-Paul Calbimonte,University of Applied Sciences and Arts Western Switzerland HES-SO,EU
+IEEEcloud,2024,Giuliano Casale,Imperial College London,EU
+IEEEcloud,2024,Abhishek Chandra,University of Minnesota,NA
+IEEEcloud,2024,Fei Teng,Southwest Jiaotong Unversity,AS
+IEEEcloud,2024,Haopeng Chen,Shanghai Jiao Tong University,AS
+IEEEcloud,2024,Yue Cheng,University of Virginia,NA
+IEEEcloud,2024,Pamela Delgado,University of Applied Sciences Western Switzerland HES-SO,EU
+IEEEcloud,2024,Huawei Huang,Sun Yat-Sen University,AS
+IEEEcloud,2024,Qiang Duan,The Pennsylvania State University,NA
+IEEEcloud,2024,Yeon-sup Lim,Sungshin Women’s University,AS
+IEEEcloud,2024,Kaneez Fizza,Swinburne University,OC
+IEEEcloud,2024,Prem Prakash Jayaraman,Swinburne University of Technology,OC
+IEEEcloud,2024,Sukhpal Singh Gill,Queen Mary University of London,EU
+IEEEcloud,2024,Jacob Goldverg,The State University of New York at Buffalo,NA
+IEEEcloud,2024,Ayman Noor,Taibah University,AS
+IEEEcloud,2024,Michael Gerndt,Technical University of Munich,EU
+IEEEcloud,2024,Zulkar Nine,Tennessee Tech University,NA
+IEEEcloud,2024,Yu Hua,Huazhong University of Science and Technology,AS
+IEEEcloud,2024,Asif Imran,California State University San Marcos,NA
+IEEEcloud,2024,Hai Jin,Huazhong University of Science and Technology,AS
+IEEEcloud,2024,Rizos Sakellariou,The University of Manchester,EU
+IEEEcloud,2024,Rajkumar Buyya,The University of Melbourne,OC
+IEEEcloud,2024,Rajkumar Kettimuthu,Argonne National Lab and The University of Chicago,NA
+IEEEcloud,2024,In Kee Kim,University of Georgia,AS
+IEEEcloud,2024,Xiaoning Liu,RMIT University,NA
+IEEEcloud,2024,Yi Liu,Peking University,AS
+IEEEcloud,2024,Pinglan Liu,Google,NA
+IEEEcloud,2024,Seema Nagar,IBM Research India,AS
+IEEEcloud,2024,Arun Pandiyan,Perumal Adobe Inc.,SA
+IEEEcloud,2024,Gourav Rattihalli,Hewlett Packard Labs (HPE),NA
+IEEEcloud,2024,Matthias Schunter,Intel,NA
+IEEEcloud,2024,Yogesh Simmhan,Indian Institute of Science,AS
+IEEEcloud,2024,Tao Sun,China Mobile,AS
+IEEEcloud,2024,Marco Anisetti,Università degli Studi di Milano,EU
+IEEEcloud,2024,Vladimir Vlassov,KTH Royal Institute of Technology,EU
+IEEEcloud,2024,Filippo Berto,Università degli Studi di Milano,EU
+IEEEcloud,2024,Haibo Wang,University of Kentucky,AS
+IEEEcloud,2024,Puwei Wang,Renmin University of China,AS
+IEEEcloud,2024,Bing Zhang,University of Illinois at Urbana-Champaign,NA
+IEEEcloud,2024,Jamil Hasibul,University at Buffalo,NA
+IEEEcloud,2024,Adithya Raman,University at Buffalo,NA
+IEEEcloud,2024,Elvis Rodrigues,University at Buffalo,NA
+IEEEcloud,2024,Qinghua Li,University of Arkansas,NA
+IEEEcloud,2024,Guido Wirtz,University of Bamberg,EU
+IEEEcloud,2024,Federico Montori,University of Bologna,EU
+IEEEcloud,2024,Diwakar Krishnamurthy,University of Calgary,NA
+IEEEcloud,2024,Mohsen Amini Salehi,University of Louisiana Lafayette,NA
+IEEEcloud,2024,Parimala Thulasiraman,University of Manitoba,NA
+IEEEcloud,2024,Karuna Joshi,University of Maryland,NA
+IEEEcloud,2024,Francesco Longo,University of Messina – Department of Mathematics,EU
+IEEEcloud,2024,Nicola Bena,University of Milan,EU
+IEEEcloud,2024,Valerio Bellandi,University of Milan,EU
+IEEEcloud,2024,Douglas Thain,University of Notre Dame,NA
+IEEEcloud,2024,Devki Nandan Jha,University of Oxford,EU
+IEEEcloud,2024,Marco Guazzone,University of Piemonte Orientale,EU
+IEEEcloud,2024,Dimitris Apostolou,University of Piraeus,EU
+IEEEcloud,2024,Blesson Varghese,University of St Andrews,EU
+IEEEcloud,2024,Jun Shen,University of Wollongong,OC
+IEEEcloud,2024,I-Ling Yen,UTD,NA
+IEEEcloud,2024,Schahram Dustdar,Vienna University of Technology,EU
+IEEEcloud,2024,Shashikant Ilager,Vienna University of Technology (TU Wien),EU
+IEEEcloud,2024,Rahul Ghosh,Walmart,NA
+IEEEcloud,2024,Daniel Grosu,Wayne State University,NA
+IEEEcloud,2024,Rodrigo N. Calheiros,Western Sydney University,OC
+IEEEcloud,2024,Wei Du,whut,
+IEEEcloud,2024,Jing Fan,Zhejiang University of Technology,AS
+IEEEcloud,2024,Madhu Govindaraju SUNY Binghamton,,
 asplos,2013,Jonathan McCune,CMU,NA
 asplos,2013,Andrew Myers,Cornell,NA
 asplos,2013,Edward Suh,Cornell,NA
@@ -11653,1720 +13367,6 @@ icdcs,2024,Zhan Qin,Zhejiang University,AS
 icdcs,2024,Zhongjie Ba,Zhejiang University,AS
 icdcs,2024,Xiaoli Zhang,Zhejiang University of Technology,AS
 icdcs,2024,Anit Kumar Sahu,,
-IEEEcloud,2012,Marco Aiello,University of Groningen,EU
-IEEEcloud,2012,Mikio Aoyama,Nanzan University,AS
-IEEEcloud,2012,Danilo Ardagna,Politecnico di Milano,EU
-IEEEcloud,2012,Janaka L. Balasooriya,Arizona State University,NA
-IEEEcloud,2012,Bhuvan Bamba,Oracle,NA
-IEEEcloud,2012,Sujoy Basu,HP Labs–Palo Alto,NA
-IEEEcloud,2012,Elisa Bertino,Purdue University,NA
-IEEEcloud,2012,Viraj Bhat,Yahoo,NA
-IEEEcloud,2012,Brain Blake,University of Notre Dame,NA
-IEEEcloud,2012,Steve Bobrowski,Salesforce.com,NA
-IEEEcloud,2012,Mario Bravetti,University of Bologna,EU
-IEEEcloud,2012,Rajkumar Buyya,University of Melbourne,OC
-IEEEcloud,2012,Jiannong Cao,Hong Kong Polytechnic University,AS
-IEEEcloud,2012,David Carrera,Technical University of Catalonia,NA
-IEEEcloud,2012,Haopeng Chen,Shanghai Jiao Tong University,AS
-IEEEcloud,2012,Keke Chen,Wright State University,NA
-IEEEcloud,2012,Peter Chen,Carnegie-Mellon University & Louisiana State University (LSU),NA
-IEEEcloud,2012,Yong Chen,Texas Tech University,NA
-IEEEcloud,2012,Ludmila Cherkasova,HP,NA
-IEEEcloud,2012,Malolan Chetlur,IBM,NA
-IEEEcloud,2012,Tzi-Cker Chiueh,Industrial Technology Research Institute,AS
-IEEEcloud,2012,Alfredo Cuzzocrea,ICAR-CNR & University of Calabria,EU
-IEEEcloud,2012,Wu Chou,"Huawei IT Lab, Huawei",AS
-IEEEcloud,2012,Ernesto Damiani,University of Milan,EU
-IEEEcloud,2012,Noel De Palma,INRIA SARDES Research Group,EU
-IEEEcloud,2012,Nirmit Desai,IBM India Research Lab,AS
-IEEEcloud,2012,Tudor A. Dumitras,Symantec Research Labs,NA
-IEEEcloud,2012,Khalil El-Khatib,University of Ontario Institute of Technology,NA
-IEEEcloud,2012,Mohamed Eltoweissy,Pacific Northwest National Laboratory,NA
-IEEEcloud,2012,Robert van Engelen,Florida State University,NA
-IEEEcloud,2012,Elena Ferrari,"Politiche e dell’Informazione, University of Insubria at Como",EU
-IEEEcloud,2012,Liana L. Fong,IBM T.J. Watson Research Center,NA
-IEEEcloud,2012,Marcus Fontoura,Google,NA
-IEEEcloud,2012,Jose Fortes,University of Florida,NA
-IEEEcloud,2012,Geoffrey Fox,Indiana University,NA
-IEEEcloud,2012,Dennis Gannon,Microsoft Research,NA
-IEEEcloud,2012,Yuqing Gao,IBM T.J. Watson Research Center,NA
-IEEEcloud,2012,Dimitrios Georgakopoulos,"CSIRO ICT Center, Canberra, ACT",OC
-IEEEcloud,2012,Vladimir Getov,University of Westminster,EU
-IEEEcloud,2012,Nathan Gnanasambandam,"XEROX Labs, Webster, NY",NA
-IEEEcloud,2012,Claude Godart,Nancy University and INRIA,EU
-IEEEcloud,2012,Karthik Gomadam,Accenture Technology Labs–Silicon Valley,NA
-IEEEcloud,2012,Nils Gruschka,University of Applied Science Kiel,EU
-IEEEcloud,2012,Yike Guo,Imperial College London,EU
-IEEEcloud,2012,Vijay K. Gurbani,"Bell Laboratories, Alcatel-Lucent",NA
-IEEEcloud,2012,Michael Head,Google,NA
-IEEEcloud,2012,Paul Hofmann,SAP Labs,NA
-IEEEcloud,2012,Ching-Hsien Hsu,Chung Hua University,AS
-IEEEcloud,2012,Patrick C.K. Hung,University of Ontario Institute of Technology,NA
-IEEEcloud,2012,Kuen-Fang Jea,National Chung-Hsing University,AS
-IEEEcloud,2012,Hai Jin,HUST,AS
-IEEEcloud,2012,James Joshi,University of Pittsburgh,NA
-IEEEcloud,2012,Jeff Kephart,IBM T.J. Watson Research Center,NA
-IEEEcloud,2012,Shinji Kikuchi,Fujitsu Laboratories Ltd.,AS
-IEEEcloud,2012,Jacek Kitowski,AGH University of Science and Technology,EU
-IEEEcloud,2012,Dzmitry Kliazovich,University of Luxembourg,EU
-IEEEcloud,2012,Andrzej Kochut,IBM T.J. Watson Research Center,NA
-IEEEcloud,2012,Alexander V. Konstantinou,Google,NA
-IEEEcloud,2012,Tevfik Kosar,University at Buffalo (SUNY),NA
-IEEEcloud,2012,Alexander Lazovik,University of Groningen,EU
-IEEEcloud,2012,Tsengdar Lee,NASA,NA
-IEEEcloud,2012,Frank Leymann,University of Stuttgart,EU
-IEEEcloud,2012,Wei Li,Chinese Academy of Sciences,AS
-IEEEcloud,2012,Grace Lin,Institute for Information Industry,AS
-IEEEcloud,2012,Ling Liu,Georgia Tech,NA
-IEEEcloud,2012,Yew-Huey Liu,IBM T.J. Watson Research Center,NA
-IEEEcloud,2012,Leslie Liu,IBM T.J. Watson Research Center,NA
-IEEEcloud,2012,Xumin Liu,Rochester Institute of Technology,NA
-IEEEcloud,2012,Shiyong Lu,Wayne State University,NA
-IEEEcloud,2012,Tiziana Margaria,University of Potsdam,EU
-IEEEcloud,2012,J.P. Martin-Flatin,NetExpert,EU
-IEEEcloud,2012,Michael Maximilien,IBM Almaden Research Center,NA
-IEEEcloud,2012,Brahim Medjahed,University of Michigan,NA
-IEEEcloud,2012,Dejan S. Milojicic,HP Laboratories,NA
-IEEEcloud,2012,Vijay Naik,IBM T.J. Watson Research Center,NA
-IEEEcloud,2012,Surya Nepal,Commonwealth Scientific and Industrial Research Organisation,OC
-IEEEcloud,2012,SeogChan Oh,GM Research,NA
-IEEEcloud,2012,Krzysztof Ostrowski,Cornell University,NA
-IEEEcloud,2012,Srinivas Padmanabhuni,Infosys India,AS
-IEEEcloud,2012,Massimo Paolucci,Docomo Euro-Labs,EU
-IEEEcloud,2012,Manish Parashar,Rutgers University,NA
-IEEEcloud,2012,Thierry Priol,INRIA,EU
-IEEEcloud,2012,Ioan Raicu,Illinois Institute of Technology,NA
-IEEEcloud,2012,Lavanya Ramakrishnan,Lawrence Berkeley National Laboratory,NA
-IEEEcloud,2012,Omer Rana,Cardiff University,EU
-IEEEcloud,2012,Anand Ranganathan,IBM T.J. Watson Research Center,NA
-IEEEcloud,2012,Manfred Reichert,University of Ulm,EU
-IEEEcloud,2012,Berthold Reinwald,IBM Almaden Research Center,NA
-IEEEcloud,2012,Norbert Ritter,University of Hamburg,EU
-IEEEcloud,2012,Indrajit Roy,HP Labs,NA
-IEEEcloud,2012,S. Masoud Sadjadi,Florida International University,NA
-IEEEcloud,2012,Josef Schiefer,Vienna University of Technology,EU
-IEEEcloud,2012,Sangeetha Seshadri,IBM Almaden,NA
-IEEEcloud,2012,Tony Shan,Keane Inc.,NA
-IEEEcloud,2012,Jun Shen,University of Wollongong,OC
-IEEEcloud,2012,Liuba Shrira,Brandeis University,NA
-IEEEcloud,2012,Kwang Mong SIM,Gwangju Institute of Science and Technology,AS
-IEEEcloud,2012,Toyotaro Suzumura,IBM Tokyo Research Laboratory,AS
-IEEEcloud,2012,Chunqiang Tang,IBM T.J. Watson Research Center,NA
-IEEEcloud,2012,Tao Tao,IBM T.J. Watson Research Center,NA
-IEEEcloud,2012,Michiaki Tatsubori,IBM Tokyo Research Laboratory,AS
-IEEEcloud,2012,Kerry Taylor,Commonwealth Scientific and Industrial Research Organisation,OC
-IEEEcloud,2012,Naohiko Uramoto,IBM Tokyo Research Laboratory,AS
-IEEEcloud,2012,Bhuvan Urgaonkar,Penn State University,NA
-IEEEcloud,2012,Kunal Verma,Accenture Technology Labs,NA
-IEEEcloud,2012,Andy Ju An Wang,Southern Polytechnic State University,NA
-IEEEcloud,2012,Mathias Weske,University of Potsdam,EU
-IEEEcloud,2012,Raymond Wong,University of New South Wales & NICTA,OC
-IEEEcloud,2012,Dongyan Xu,Purdue University,NA
-IEEEcloud,2012,Qi Yu,Rochester Institute of Technology,NA
-IEEEcloud,2012,Gianluigi Zavattaro,University of Bologna,EU
-IEEEcloud,2012,Gong Zhang,Oracle Corporation,NA
-IEEEcloud,2012,Jia Zhang,Northern Illinois University,NA
-IEEEcloud,2012,Liang-Jie Zhang,Kingdee International Software Group,AS
-IEEEcloud,2012,Nianjun (Joe) Zhou,IBM Research,NA
-IEEEcloud,2012,Wolf Zimmermann,Martin-Luther-Universität Halle-Wittenberg,EU
-IEEEcloud,2013,Marco Aiello,University of Groningen,EU
-IEEEcloud,2013,Mikio Aoyama,Nanzan University,AS
-IEEEcloud,2013,Danilo Ardagna,Politecnico di Milano,EU
-IEEEcloud,2013,Janaka L. Balasooriya,Arizona State University,NA
-IEEEcloud,2013,Bhuvan Bamba,Oracle,NA
-IEEEcloud,2013,Roger Barga,Microsoft Research,NA
-IEEEcloud,2013,Elisa Bertino,Purdue University,NA
-IEEEcloud,2013,Viraj Bhat,Yahoo,NA
-IEEEcloud,2013,Rajdeep Bhowmik,"Cisco Systems, Inc.",NA
-IEEEcloud,2013,Brain Blake,University of Miami,NA
-IEEEcloud,2013,Steve Bobrowski,Salesforce.com,NA
-IEEEcloud,2013,Mario Bravetti,University if Bologna,EU
-IEEEcloud,2013,Jiannong Cao,Hong Kong Polytechnic University,AS
-IEEEcloud,2013,David Carrera,Technical University of Catalonia,EU
-IEEEcloud,2013,Peter Chen,Carnegie-Mellon University & Louisiana State University (LSU),NA
-IEEEcloud,2013,Haopeng Chen,Shanghai Jiao Tong University,AS
-IEEEcloud,2013,Keke Chen,Wright State University,NA
-IEEEcloud,2013,Yong Chen,Texas Tech University,NA
-IEEEcloud,2013,Winnie Cheng,American Express,NA
-IEEEcloud,2013,Ludmila Cherkasova,HP,NA
-IEEEcloud,2013,Malolan Chetlur,IBM India,AS
-IEEEcloud,2013,Tzi-Cker Chiueh,Industrial Technology Research Institute,AS
-IEEEcloud,2013,Gregory Chockler,University of London,EU
-IEEEcloud,2013,Wu Chou,"Huawei IT Lab, Huawei",AS
-IEEEcloud,2013,Alfredo Cuzzocrea,ICAR-CNR & University of Calabria,EU
-IEEEcloud,2013,Dilma Da Silva,Qualcomm Inc.,NA
-IEEEcloud,2013,Ernesto Damiani,University of Milan,EU
-IEEEcloud,2013,Noel De Palma,University Joseph Fourier,EU
-IEEEcloud,2013,Robert van Engelen,Florida State University,NA
-IEEEcloud,2013,Elena Ferrari,University of Insubria,EU
-IEEEcloud,2013,Jose Fortes,University of Florida,NA
-IEEEcloud,2013,Geoffrey Fox,Indiana University,NA
-IEEEcloud,2013,Dennis Gannon,Microsoft Research,NA
-IEEEcloud,2013,Yuqing Gao,IBM T. J. Watson Research Center,NA
-IEEEcloud,2013,Dimitrios Georgakopoulos,CSIRO ICT Center,OC
-IEEEcloud,2013,Vladimir Getov,University of Westminster,EU
-IEEEcloud,2013,Claude Godart,Nancy University and INRIA,EU
-IEEEcloud,2013,Karthik Gomadam,Accenture Technology Labs - Silicon Valley,NA
-IEEEcloud,2013,Nils Gruschka,University of Applied Sciences,EU
-IEEEcloud,2013,Yike Guo,Imperial College London,EU
-IEEEcloud,2013,Vijay K. Gurbani,"Bell Laboratories, Alcatel-Lucent",NA
-IEEEcloud,2013,Michael Head,Google,NA
-IEEEcloud,2013,Paul Hofmann,Saffron Technology,NA
-IEEEcloud,2013,Ching-Hsien Hsu,Chung Hua University,AS
-IEEEcloud,2013,Marty Humphrey,University of Virginia,NA
-IEEEcloud,2013,Patrick C.K. Hung,University of Ontario Institute of Technology,NA
-IEEEcloud,2013,Shantenu Jha,Rutgers University,NA
-IEEEcloud,2013,Hai Jin,HUST,AS
-IEEEcloud,2013,James Joshi,University of Pittsburg,NA
-IEEEcloud,2013,Jeff Kephart,IBM T. J. Watson Research Center,NA
-IEEEcloud,2013,Shinji Kikuchi,Fujitsu Laboratories Ltd.,AS
-IEEEcloud,2013,Jacek Kitowski,AGH University of Science and Technology,EU
-IEEEcloud,2013,Dzmitry Kliazovich,University of Luxembourg,EU
-IEEEcloud,2013,Andrzej Kochut,IBM T. J. Watson Research Center,NA
-IEEEcloud,2013,Alexander V. Konstantinou,Google,NA
-IEEEcloud,2013,Tevfik Kosar,University at Buffalo (SUNY),NA
-IEEEcloud,2013,Alexander Lazovik,the University of Groningen (RuG),EU
-IEEEcloud,2013,Tsengdar Lee,NASA,NA
-IEEEcloud,2013,Frank Leymann,University of Stuttgart,EU
-IEEEcloud,2013,Wei Li,Chinese Academy of Sciences,AS
-IEEEcloud,2013,Grace Lin,Institute for Information Industry,AS
-IEEEcloud,2013,Yew-Huey Liu,IBM T. J. Watson Research Center,NA
-IEEEcloud,2013,Leslie Liu,IBM T. J. Watson Research Center,NA
-IEEEcloud,2013,Xumin Liu,Rochester Institute of Technology,NA
-IEEEcloud,2013,Shiyong Lu,Wayne State University,NA
-IEEEcloud,2013,Tiziana Margaria,University of Potsdam,EU
-IEEEcloud,2013,J.P. Martin-Flatin,EPFL,EU
-IEEEcloud,2013,Michael Maximilien,IBM Almaden Research Center,NA
-IEEEcloud,2013,Brahim Medjahed,University of Michigan,NA
-IEEEcloud,2013,Vijay Naik,IBM T.J. Watson Research Center,NA
-IEEEcloud,2013,Surya Nepal,Commonwealth Scientific and Industrial Research Organisation,OC
-IEEEcloud,2013,SeogChan Oh,GM Research,NA
-IEEEcloud,2013,Krzysztof Ostrowski,Cornell University,NA
-IEEEcloud,2013,Srinivas Padmanabhuni,Infosys India,AS
-IEEEcloud,2013,Massimo Paolucci,Docomo Euro-Labs,EU
-IEEEcloud,2013,Manish Parashar,Rutgers University,NA
-IEEEcloud,2013,Thierry Priol,INRIA,EU
-IEEEcloud,2013,Judy Qiu,Indiana University,NA
-IEEEcloud,2013,Lavanya Ramakrishnan,Lawrence Berkeley National Laboratory,NA
-IEEEcloud,2013,Anand Ranganathan,IBM T.J. Watson Research Center,NA
-IEEEcloud,2013,Norbert Ritter,University of Hamburg,EU
-IEEEcloud,2013,Indrajit Roy,HP Labs,NA
-IEEEcloud,2013,Rizos Sakellariou,University of Manchester,EU
-IEEEcloud,2013,Jun Shen,University of Wollongong,OC
-IEEEcloud,2013,"Shi, Weidong",University of Houston,NA
-IEEEcloud,2013,Josef Schiefer,Vienna University of Technology,EU
-IEEEcloud,2013,Liuba Shrira,Brandeis University,NA
-IEEEcloud,2013,Kwang Mong SIM,University of Kent,EU
-IEEEcloud,2013,Toyotaro Suzumura,IBM Tokyo Research Laboratory,AS
-IEEEcloud,2013,Chunqiang Tang,IBM T.J. Watson Research Center,NA
-IEEEcloud,2013,Tao Tao,IBM T.J. Watson Research Center,NA
-IEEEcloud,2013,Michiaki Tatsubori,IBM Tokyo Research Laboratory,AS
-IEEEcloud,2013,Naohiko Uramoto,IBM Tokyo Research Laboratory,AS
-IEEEcloud,2013,Kunal Verma,Accenture Technology Labs,NA
-IEEEcloud,2013,Andy Ju An Wang,Southern Illinois University,NA
-IEEEcloud,2013,Ian Whalley,Google,NA
-IEEEcloud,2013,Raymond Wong,University of New South Wales & NICTA,OC
-IEEEcloud,2013,Song Wu,HUST,AS
-IEEEcloud,2013,Qi Yu,Rochester Institute of Technology,NA
-IEEEcloud,2013,Gianluigi Zavattaro,University if Bologna,EU
-IEEEcloud,2013,Gong Zhang,Oracle Corporation,NA
-IEEEcloud,2013,Jia Zhang,Carnegie Mellon University - Silicon Valley,NA
-IEEEcloud,2013,Liang-Jie Zhang,Kingdee International Software Group,AS
-IEEEcloud,2013,Nianjun (Joe) Zhou,IBM T.J. Watson Research Center,NA
-IEEEcloud,2013,Wolf Zimmermann,Martin-Luther-Universit Halle-Wittenberg,EU
-IEEEcloud,2014,Marco Aiello,University of Groningen,EU
-IEEEcloud,2014,Mikio Aoyama,Nanzan University,AS
-IEEEcloud,2014,Danilo Ardagna,Politecnico di Milano,EU
-IEEEcloud,2014,Janaka L. Balasooriya,Arizona State University,NA
-IEEEcloud,2014,Bhuvan Bamba,Oracle,NA
-IEEEcloud,2014,Elisa Bertino,Purdue University,NA
-IEEEcloud,2014,Viraj Bhat,Yahoo,NA
-IEEEcloud,2014,Rajdeep Bhowmik,"Cisco Systems, Inc.",NA
-IEEEcloud,2014,Brain Blake,University of Miami,NA
-IEEEcloud,2014,Jiannong Cao,Hong Kong Polytechnic University,AS
-IEEEcloud,2014,Simon Caton,Karlsruhe Institute of Technology,EU
-IEEEcloud,2014,Haopeng Chen,Shanghai Jiao Tong University,AS
-IEEEcloud,2014,Keke Chen,Wright State University,NA
-IEEEcloud,2014,Yong Chen,Texas Tech University,NA
-IEEEcloud,2014,Ludmila Cherkasova,HP,NA
-IEEEcloud,2014,Malolan Chetlur,IBM India,AS
-IEEEcloud,2014,Tzi-Cker Chiueh,Industrial Technology Research Institute,AS
-IEEEcloud,2014,Steve Crago,Southern California University,NA
-IEEEcloud,2014,Alfredo Cuzzocrea,ICAR-CNR & University of Calabria,EU
-IEEEcloud,2014,Dilma Da Silva,Qualcomm Inc.,NA
-IEEEcloud,2014,Ernesto Damiani,University of Milan,EU
-IEEEcloud,2014,Noel De Palma,University Joseph Fourier,EU
-IEEEcloud,2014,Robert van Engelen,Florida State University,NA
-IEEEcloud,2014,Jose Fortes,University of Florida,NA
-IEEEcloud,2014,Dennis Gannon,Microsoft Research,NA
-IEEEcloud,2014,Yuqing Gao,IBM T.J. Watson Research Center,NA
-IEEEcloud,2014,Dimitrios Georgakopoulos,CSIRO ICT Center,OC
-IEEEcloud,2014,Claude Godart,Nancy University and INRIA,EU
-IEEEcloud,2014,Karthik Gomadam,Accenture Technology Labs - Silicon Valley,NA
-IEEEcloud,2014,Nils Gruschka,University of Applied Sciences,EU
-IEEEcloud,2014,Vijay K. Gurbani,"Bell Laboratories, Alcatel-Lucent",NA
-IEEEcloud,2014,Michael Head,Google,NA
-IEEEcloud,2014,Paul Hofmann,Saffron Technology,NA
-IEEEcloud,2014,Ching-Hsien Hsu,Chung Hua University,AS
-IEEEcloud,2014,Marty Humphrey,University of Virginia,NA
-IEEEcloud,2014,Patrick C.K. Hung,University of Ontario Institute of Technology,NA
-IEEEcloud,2014,Deepal Jayasinghe,Microsoft,NA
-IEEEcloud,2014,Shantenu Jha,Rutgers University,NA
-IEEEcloud,2014,Hai Jin,HUST,AS
-IEEEcloud,2014,James Joshi,University of Pittsburg,NA
-IEEEcloud,2014,Shinji Kikuchi,Fujitsu Laboratories Ltd.,AS
-IEEEcloud,2014,Jacek Kitowski,AGH University of Science and Technology,EU
-IEEEcloud,2014,Dzmitry Kliazovich,University of Luxembourg,EU
-IEEEcloud,2014,Alexander V. Konstantinou,Google,NA
-IEEEcloud,2014,Tevfik Kosar,University at Buffalo (SUNY),NA
-IEEEcloud,2014,Alexander Lazovik,The University of Groningen (RuG),EU
-IEEEcloud,2014,Frank Leymann,University of Stuttgart,EU
-IEEEcloud,2014,Wei Li,Chinese Academy of Sciences,AS
-IEEEcloud,2014,Grace Lin,Institute for Information Industry,AS
-IEEEcloud,2014,Yew-Huey Liu,IBM T. J. Watson Research Center,NA
-IEEEcloud,2014,Xumin Liu,Rochester Institute of Technology,NA
-IEEEcloud,2014,Shiyong Lu,Wayne State University,NA
-IEEEcloud,2014,Tiziana Margaria,University of Potsdam,EU
-IEEEcloud,2014,J.P. Martin-Flatin,EPFL,EU
-IEEEcloud,2014,Michael Maximilien,IBM Almaden Research Center,NA
-IEEEcloud,2014,Brahim Medjahed,University of Michigan,NA
-IEEEcloud,2014,Vijay Naik,IBM T.J. Watson Research Center,NA
-IEEEcloud,2014,Surya Nepal,Commonwealth Scientific and Industrial Research Organisation,OC
-IEEEcloud,2014,SeogChan Oh,GM Research,NA
-IEEEcloud,2014,Krzysztof Ostrowski,Cornell University,NA
-IEEEcloud,2014,Srinivas Padmanabhuni,Infosys India,AS
-IEEEcloud,2014,Balaji Palanisamy,University of Pittsburgh,NA
-IEEEcloud,2014,Massimo Paolucci,Docomo Euro-Labs,EU
-IEEEcloud,2014,Manish Parashar,Rutgers University,NA
-IEEEcloud,2014,Thierry Priol,INRIA,EU
-IEEEcloud,2014,Calton Pu,Georgia Tech,NA
-IEEEcloud,2014,Ioan Raicu,Illinois Institute of Technology,NA
-IEEEcloud,2014,Norbert Ritter,University of Hamburg,EU
-IEEEcloud,2014,Rizos Sakellariou,University of Manchester,EU
-IEEEcloud,2014,Josef Schiefer,Vienna University of Technology,EU
-IEEEcloud,2014,Jun Shen,University of Wollongong,OC
-IEEEcloud,2014,Weidong Shi,University of Houston,NA
-IEEEcloud,2014,Kwang Mong Sim,University of Kent,EU
-IEEEcloud,2014,Toyotaro Suzumura,IBM Tokyo Research Laboratory,AS
-IEEEcloud,2014,Tao Tao,IBM T.J. Watson Research Center,NA
-IEEEcloud,2014,Michiaki Tatsubori,IBM Tokyo Research Laboratory,AS
-IEEEcloud,2014,Naohiko Uramoto,IBM Tokyo Research Laboratory,AS
-IEEEcloud,2014,Andy Ju An Wang,Southern Illinois University,NA
-IEEEcloud,2014,Raymond Wong,University of New South Wales & NICTA,OC
-IEEEcloud,2014,Qi Yu,Rochester Institute of Technology,NA
-IEEEcloud,2014,Weider Yu,San Jose State University,NA
-IEEEcloud,2014,Gianluigi Zavattaro,University if Bologna,EU
-IEEEcloud,2014,Gong Zhang,Oracle Corporation,NA
-IEEEcloud,2014,Jia Zhang,Carnegie Mellon University - Silicon Valley,NA
-IEEEcloud,2014,Liang-Jie Zhang,Kingdee International Software Group,AS
-IEEEcloud,2014,Nianjun (Joe) Zhou,IBM T.J. Watson Research Center,NA
-IEEEcloud,2014,Wolf Zimmermann,Martin-Luther-Universit Halle-Wittenberg,EU
-IEEEcloud,2015,Gail-Joon Ahn,Arizona State University,NA
-IEEEcloud,2015,Kento Aida,NII,AS
-IEEEcloud,2015,Marco Aiello,University of Groningen,EU
-IEEEcloud,2015,Osama Al-Haj Hassan,Al-Isra University,AS
-IEEEcloud,2015,Jorn Altmann,Seoul National University,AS
-IEEEcloud,2015,Danilo Ardagna,Politecnico di Milano,EU
-IEEEcloud,2015,Bharath Balasubramanian,AT&T Labs,NA
-IEEEcloud,2015,Yungang Bao,Chinese Academy of Sciences,AS
-IEEEcloud,2015,Karin Becker,Federal University of RGS,SA
-IEEEcloud,2015,Elisa Bertino,Purdue University,NA
-IEEEcloud,2015,Viraj Bhat,Yahoo,NA
-IEEEcloud,2015,Ken Birman,Cornell University,NA
-IEEEcloud,2015,Charles Border,Rochester Institute of Technology,NA
-IEEEcloud,2015,Ivona Brandić,Vienna University of Technology,EU
-IEEEcloud,2015,Mauricio Breternitz,AMD,NA
-IEEEcloud,2015,M. Brian Blake,University of Miami,NA
-IEEEcloud,2015,Nanjangud C. Narendra,Cognizant Technology Solutions,AS
-IEEEcloud,2015,Jiannong Cao,Hong Kong Polytechnic University,AS
-IEEEcloud,2015,Giuliano Casale,Imperial College London,EU
-IEEEcloud,2015,Rong Chang,IBM China,AS
-IEEEcloud,2015,Haopeng Chen,Shanghai Jiao Tong University,AS
-IEEEcloud,2015,Feng Chen,Louisiana State University,NA
-IEEEcloud,2015,Keke Chen,Wright State University,NA
-IEEEcloud,2015,Shigang Chen,University of Florida,NA
-IEEEcloud,2015,Songqing Chen,George Mason University,NA
-IEEEcloud,2015,Yong Chen,Texas Tech University,NA
-IEEEcloud,2015,Han Chen,IBM T. J. Watson Research Center,NA
-IEEEcloud,2015,Malolan Chetlur,IBM India,AS
-IEEEcloud,2015,Charles Consel,INRIA/Univ. Bordeaux,EU
-IEEEcloud,2015,Steve Crago,University of Southern California,NA
-IEEEcloud,2015,Bruno Crispo,University of Trento,EU
-IEEEcloud,2015,Lizhen Cui,Shandong University,AS
-IEEEcloud,2015,Alfredo Cuzzocrea,ICAR-CNR & University of Calabria,EU
-IEEEcloud,2015,Dilma Da Silva,Texas A&M University,NA
-IEEEcloud,2015,Koustuv Dasgupta,Xerox India,AS
-IEEEcloud,2015,Shuiguang Deng,Zhejiang University,AS
-IEEEcloud,2015,Roberto Di Pietro,University of Rome,EU
-IEEEcloud,2015,Schahram Dustdar,Vienna University of Technology,EU
-IEEEcloud,2015,Chang Ee-Chien,National University of Singapore,AS
-IEEEcloud,2015,Omer F. Rana,Cardiff University,EU
-IEEEcloud,2015,Arash Fard,HP Vertica,NA
-IEEEcloud,2015,Elena Ferrari,University of Insubria,EU
-IEEEcloud,2015,J. E. (Joao Eduardo) Ferreira,University of Sao Paulo,SA
-IEEEcloud,2015,Debin Gao,Singapore Management Unviersity,AS
-IEEEcloud,2015,Ada Gavrilovska,Georgia Tech,NA
-IEEEcloud,2015,Bugra Gedik,Bilkent University,AS
-IEEEcloud,2015,Garth Gibson,CMU,NA
-IEEEcloud,2015,Chris Gniady,University of Arizona,NA
-IEEEcloud,2015,Claude Godart,Nancy University and INRIA,EU
-IEEEcloud,2015,Karthik Gomadam,Accenture Labs,NA
-IEEEcloud,2015,Luis Miguel Vaquero Gonzalez,HP Labs,EU
-IEEEcloud,2015,Andrzej Goscinski,Deakin University,OC
-IEEEcloud,2015,Michael Goul,Arizona State University,NA
-IEEEcloud,2015,Daniel Grosu,Wayne State University,NA
-IEEEcloud,2015,Haryadi Gunawi,University of Chicago,NA
-IEEEcloud,2015,Vijay K. Gurbani,"Bell Laboratories, Lucent",NA
-IEEEcloud,2015,Talal H. Noor,Taibah University,AS
-IEEEcloud,2015,Mohammad Hamdaqa,University of Waterloo,NA
-IEEEcloud,2015,Mohammad Hammoud,CMU/Qatar,AS
-IEEEcloud,2015,Yuxiong He,Microsoft Research,NA
-IEEEcloud,2015,Matti Hilunen,AR&T Labs,NA
-IEEEcloud,2015,Ching-Hsien Hsu,Chung Hua University,AS
-IEEEcloud,2015,Howie Huang,George Washington University,NA
-IEEEcloud,2015,Waldemar Hummer,Consultant,EU
-IEEEcloud,2015,Marty Humphrey,University of Virginia,NA
-IEEEcloud,2015,Praveen Jayachandran,IBM India,AS
-IEEEcloud,2015,Deepal Jayasinghe,Microsoft,NA
-IEEEcloud,2015,Hai Jin,HUST,AS
-IEEEcloud,2015,James Joshi,University of Pittsburg,NA
-IEEEcloud,2015,Gueyoung Jung,AT&T Labs,NA
-IEEEcloud,2015,Vana Kalogeraki,Athens University of Economics and Business,EU
-IEEEcloud,2015,Nagarajan Kandasamy,Drexel University,NA
-IEEEcloud,2015,Yasuhiko Kanemasa,Fujitsu Laboratories Ltd.,AS
-IEEEcloud,2015,Florian Kerschbaum,SAP,EU
-IEEEcloud,2015,Masaru Kitsuregawa,NII,AS
-IEEEcloud,2015,Dzmitry Kliazovich,University of Luxembourg,EU
-IEEEcloud,2015,Steve Ko,SUNY Buffalo Univ.,NA
-IEEEcloud,2015,Andrew Kochut,IBM T. J. Watson Research Center,NA
-IEEEcloud,2015,Ricardo Koller,IBM Research,NA
-IEEEcloud,2015,Murat Kontarcioglu,University of Texas at Dallas,NA
-IEEEcloud,2015,Tevfik Kosar,University at Buffalo (SUNY),NA
-IEEEcloud,2015,Diwakar Krishnamurthy,University of Calgary,NA
-IEEEcloud,2015,Ram Krishnan,UT San Antonio,NA
-IEEEcloud,2015,Vibhore Kumar,Unscrambl,NA
-IEEEcloud,2015,Ashish Kundu,IBM T.J. Watson Research Center,NA
-IEEEcloud,2015,Janaka L. Balasooriya,Arizona State University,NA
-IEEEcloud,2015,Patricia Lago,VU University Amsterdam,EU
-IEEEcloud,2015,Philipp Leitner,Vienna University of Technology,EU
-IEEEcloud,2015,Kang Li,University of Georgia,NA
-IEEEcloud,2015,Grace Lin,Institute for Information Industry,AS
-IEEEcloud,2015,Marin Litoiu,York University,NA
-IEEEcloud,2015,Xuanzhe Liu,Peking University,AS
-IEEEcloud,2015,Shijun Liu,Shandong University,AS
-IEEEcloud,2015,Xumin Liu,Rochester Institute of Technology,NA
-IEEEcloud,2015,Shiyong Lu,Wayne State University,NA
-IEEEcloud,2015,Lei Lu,VMWare,NA
-IEEEcloud,2015,Heiko Ludwig,IBM Almaden,NA
-IEEEcloud,2015,Jason Mars,"University of Michigan, Ann Arbor",NA
-IEEEcloud,2015,Brahim Medjahed,University of Michigan,NA
-IEEEcloud,2015,Sameep Mehta,IBM Research India,AS
-IEEEcloud,2015,Ningfang Mi,Northeastern University,NA
-IEEEcloud,2015,Ramses Morales,VMware,NA
-IEEEcloud,2015,Tridib Mukherjee,Xerox India,AS
-IEEEcloud,2015,Kiran-Kumar Muniswamy-Reddy,Amazon,NA
-IEEEcloud,2015,Leandro Navarro,Universitat Politecnica de Catalunya,EU
-IEEEcloud,2015,Surya Nepal,CSIRO ICT Center,OC
-IEEEcloud,2015,Dirk Neumann,University of Freiburg,EU
-IEEEcloud,2015,Bogdan Nicolae,IBM Research Ireland,EU
-IEEEcloud,2015,SeogChan Oh,GM Research,NA
-IEEEcloud,2015,Rui Oliveira,University of Minho,EU
-IEEEcloud,2015,Balaji Palanisamy,University of Pittsburgh,NA
-IEEEcloud,2015,Massimo Paolucci,Docomo Euro-Labs,EU
-IEEEcloud,2015,Manish Parashar,Rutgers University,NA
-IEEEcloud,2015,Karthik Pattabiraman,University of British Columbia,NA
-IEEEcloud,2015,Siani Pearson,HP Labs,EU
-IEEEcloud,2015,Massoud PEDRAM,University of Southern California,NA
-IEEEcloud,2015,Peter Pietzuch,Imperial College London,EU
-IEEEcloud,2015,Donald Porter,Stony Brook University,NA
-IEEEcloud,2015,Thierry Priol,INRIA,EU
-IEEEcloud,2015,Calton Pu,Georgia Tech,NA
-IEEEcloud,2015,Shannon Quinn,UGA,NA
-IEEEcloud,2015,Ioan Raicu,Illinois Institute of Technology,NA
-IEEEcloud,2015,Lakshmish Ramaswamy,University of Georgia,NA
-IEEEcloud,2015,Ajith Ranabahu,Amazon,NA
-IEEEcloud,2015,Kui Ren,SUNY Buffalo,NA
-IEEEcloud,2015,Shaolei Ren,Florida International University,NA
-IEEEcloud,2015,Norbert Ritter,University of Hamburg,EU
-IEEEcloud,2015,Isabelle Rouvellou,IBM T. J. Watson Research Center,NA
-IEEEcloud,2015,Han Rui,Chinese Academy of Sciences,AS
-IEEEcloud,2015,Rizos Sakellariou,University of Manchester,EU
-IEEEcloud,2015,Iman Saleh,Intel Corporation,NA
-IEEEcloud,2015,Benjamin Satzger,Microsoft Corporation,NA
-IEEEcloud,2015,Karsten Schwan,Georgia Tech,NA
-IEEEcloud,2015,Upendra Sharma,IBM T. J. Watson Research Center,NA
-IEEEcloud,2015,Jun Shen,University of Wollongong,OC
-IEEEcloud,2015,Weidong Shi,University of Houston,NA
-IEEEcloud,2015,Yasushi Shinjo,University of Tsukuba,AS
-IEEEcloud,2015,Marcio Silva,IBM Research,NA
-IEEEcloud,2015,Ignacio Silva-Lepe,IBM T. J. Watson Research Center,NA
-IEEEcloud,2015,Evgenia Smirni,College of William and Mary,NA
-IEEEcloud,2015,Anna Squiciarini,Penn State,NA
-IEEEcloud,2015,Ladan Tahvildari,University of Waterloo,NA
-IEEEcloud,2015,Hassan Takabi,University of North Texas,NA
-IEEEcloud,2015,Yuzhe Tang,Syracuse University,NA
-IEEEcloud,2015,Shu Tao,IBM T. J. Watson Research Center,NA
-IEEEcloud,2015,Sean Thorpe,University of Technology,NA
-IEEEcloud,2015,Cheng-Chun Tu,Oracle Labs,NA
-IEEEcloud,2015,Naohiko Uramoto,IBM Tokyo Research Laboratory,AS
-IEEEcloud,2015,Mustafa Uysal,VMWare,NA
-IEEEcloud,2015,Alexander V. Konstantinou,Google,NA
-IEEEcloud,2015,Robert van Engelen,Florida State University,NA
-IEEEcloud,2015,Kurt Vanmechelen,University of Antwerp,EU
-IEEEcloud,2015,Chenwei Wang,AT&T Labs Research,NA
-IEEEcloud,2015,De Wang,Google,NA
-IEEEcloud,2015,Qingyang Wang,Louisiana State University,NA
-IEEEcloud,2015,Zhikui Wang,HP Labs,NA
-IEEEcloud,2015,Jinpeng Wei,Florida International University,NA
-IEEEcloud,2015,Christof Weinhardt,Karlsruhe Institute of Technology,EU
-IEEEcloud,2015,Raymond Wong,NICT & UNSW,OC
-IEEEcloud,2015,Yuni Xia,IUPUI,NA
-IEEEcloud,2015,Pengcheng Xiong,NEC Labs,NA
-IEEEcloud,2015,Cheng-Zhong Xu,Wayne State University,NA
-IEEEcloud,2015,I-Ling Yen,University of Texas at Dallas,NA
-IEEEcloud,2015,Jianwei Yin,Zhejiang University,AS
-IEEEcloud,2015,Nabeel Yoosuf,Oracle,NA
-IEEEcloud,2015,Qi Yu,Rochester Institute of Technology,NA
-IEEEcloud,2015,Weider Yu,San Jose State University,NA
-IEEEcloud,2015,Quan Z. Sheng,University of Adelaide,OC
-IEEEcloud,2015,Jia Zhang,Carnegie Mellon University - Silicon Valley,NA
-IEEEcloud,2015,Liang-Jie Zhang,Kingdee International Software Group,AS
-IEEEcloud,2015,Yupu Zhang,HP Labs,NA
-IEEEcloud,2015,Jie Zheng,Facebook,NA
-IEEEcloud,2015,Ming Zhao,Florida International University,NA
-IEEEcloud,2015,Nianjun (Joe) Zhou,IBM T.J. Watson Research Center,NA
-IEEEcloud,2015,Wolf Zimmermann,Martin-Luther-Universit Halle-Wittenberg,EU
-IEEEcloud,2016,Kento Aida,NII,AS
-IEEEcloud,2016,Marco Aiello,University of Groningen,EU
-IEEEcloud,2016,Jorn Altmann,Seoul National University,AS
-IEEEcloud,2016,Andrzej Goscinski,Deakin University,OC
-IEEEcloud,2016,Danilo Ardagna,Politecnico di Milano,EU
-IEEEcloud,2016,Nanjangud Arendra,Ericsson Research,NA
-IEEEcloud,2016,Bharath Balasubramanian,AT&T Labs,NA
-IEEEcloud,2016,Karin Becker,Federal University of RGS,NA
-IEEEcloud,2016,Racha Ben Ali,Ericsson Research,NA
-IEEEcloud,2016,Elisa Bertino,Purdue University,NA
-IEEEcloud,2016,Marina Blanton,University of Notre Dame,NA
-IEEEcloud,2016,Ivona Brandi,Vienna University of Technology,EU
-IEEEcloud,2016,Jiannong Cao,Hong Kong Polytechnic University,AS
-IEEEcloud,2016,Giuliano Casale,Imperial College London,EU
-IEEEcloud,2016,Rong Chang,IBM Research,NA
-IEEEcloud,2016,Songqing Chen,George Mason University,NA
-IEEEcloud,2016,Keke Chen,Wright State University,NA
-IEEEcloud,2016,Haopeng Chen,Shanghai Jiao Tong University,AS
-IEEEcloud,2016,Feng Chen,Louisiana State University,NA
-IEEEcloud,2016,Malolan Chetlur,IBM Research,AS
-IEEEcloud,2016,Byung Chul Tak,IBM Research,NA
-IEEEcloud,2016,Steve Crago,University of Southern California,NA
-IEEEcloud,2016,Bruno Crispo,University of Trento,EU
-IEEEcloud,2016,Lizhen Cui,Shandong University,AS
-IEEEcloud,2016,Shuiguang Deng,Zhejiang University,AS
-IEEEcloud,2016,Roberto Di Pietro,Nokia Bell Labs,NA
-IEEEcloud,2016,Schahram Dustdar,Vienna University of Technology,EU
-IEEEcloud,2016,Chang Ee-Chien,National University,AS
-IEEEcloud,2016,Arash Fard,Hewlett Packard Enterprise,NA
-IEEEcloud,2016,Eugen Feller,Ericsson Research,NA
-IEEEcloud,2016,Elena Ferrari,University of Insubria,EU
-IEEEcloud,2016,J. E. (Joao Eduardo) Ferreira,University of Sao Paulo,SA
-IEEEcloud,2016,Ian Foster,University of Chicago,NA
-IEEEcloud,2016,Ada Gavrilovska,Georgia Tech,NA
-IEEEcloud,2016,Rahul Ghosh,Xerox Research Center,AS
-IEEEcloud,2016,Chris Gniady,University of Arizona,NA
-IEEEcloud,2016,Claude Godart,University of Lorraine,EU
-IEEEcloud,2016,Daniel Grosu,Wayne State University,NA
-IEEEcloud,2016,Haryadi Gunawi,University of Chicago,NA
-IEEEcloud,2016,Talal H. Noor,Taibah University,AS
-IEEEcloud,2016,Mohammad Hamdaqa,University of Waterloo,NA
-IEEEcloud,2016,Mohammad Hammoud,Carnegie Mellon University,AS
-IEEEcloud,2016,Ching-Hsien Hsu,Chung Hua University,AS
-IEEEcloud,2016,Howie Huang,George Washington University,NA
-IEEEcloud,2016,Waldemar Hummer,Vienna University of Technology,EU
-IEEEcloud,2016,Marty Humphrey,University of Virginia,NA
-IEEEcloud,2016,Praveen Jayachandran,IBM Research,AS
-IEEEcloud,2016,Deepal Jayasinghe,Georgia Tech,NA
-IEEEcloud,2016,Hai Jin,Huazhong University of Science and Technology,AS
-IEEEcloud,2016,James Joshi,University of Pittsburg,NA
-IEEEcloud,2016,Gueyoung Jung,AT&T Labs,NA
-IEEEcloud,2016,Nagarajan Kandasamy,Drexel University,NA
-IEEEcloud,2016,Yasuhiko Kanemasa,Fujitsu Laboratories Ltd.,AS
-IEEEcloud,2016,Florian Kerschbaum,SAP,NA
-IEEEcloud,2016,Hsien-Ju Ko,Asia University,AS
-IEEEcloud,2016,Andrew Kochut,IBM T. J. Watson Research Center,NA
-IEEEcloud,2016,Ricardo Koller,IBM Research,AS
-IEEEcloud,2016,Tevfik Kosar,University at Buffalo (SUNY),NA
-IEEEcloud,2016,Diwakar Krishnamurthy,University of Calgary,NA
-IEEEcloud,2016,Ram Krishnan,UT San Antonio,NA
-IEEEcloud,2016,Ashish Kundu,IBM T. J. Watson Research Center,NA
-IEEEcloud,2016,Janaka L. Balasooriya,Arizona State University,NA
-IEEEcloud,2016,Patricia Lago,VU University Amsterdam,EU
-IEEEcloud,2016,Philipp Leitner,University of Zurich,EU
-IEEEcloud,2016,Kang Li,University of Georgia,NA
-IEEEcloud,2016,Wubin Li,Ericsson Research,NA
-IEEEcloud,2016,Marin Litoiu,York University,NA
-IEEEcloud,2016,Shijun Liu,Shandong University,AS
-IEEEcloud,2016,Xuanzhe Liu,Peking University,AS
-IEEEcloud,2016,Xumin Liu,Rochester Institute of Technology,NA
-IEEEcloud,2016,Shiyong Lu,Wayne State University,NA
-IEEEcloud,2016,Heiko Ludwig,IBM Almaden,NA
-IEEEcloud,2016,Brahim Medjahed,University of Michigan,NA
-IEEEcloud,2016,Sameep Mehta,IBM Research,AS
-IEEEcloud,2016,Catalin Meirous,Ericsson Research,NA
-IEEEcloud,2016,Fanjing Meng,IBM Research,AS
-IEEEcloud,2016,Ningfang Mi,Northeastern University,NA
-IEEEcloud,2016,Dejan Milojicic,HP Labs,NA
-IEEEcloud,2016,Kwang Mong Sim,University of Kent,EU
-IEEEcloud,2016,Tridib Mukherjee,Xerox,AS
-IEEEcloud,2016,Kiran-Kumar Muniswamy-Reddy,Amazon,NA
-IEEEcloud,2016,Kiran Nagaraja,Ericsson Research,NA
-IEEEcloud,2016,Vijay Naik,IBM T.J. Watson Research Center,NA
-IEEEcloud,2016,Surya Nepal,CSIRO ICT Center,OC
-IEEEcloud,2016,Dirk Neumann,University of Freiburg,EU
-IEEEcloud,2016,SeogChan Oh,GM Research,NA
-IEEEcloud,2016,Balaji Palanisamy,University of Pittsburgh,NA
-IEEEcloud,2016,Manish Parashar,Rutgers University,NA
-IEEEcloud,2016,Karthik Pattabiraman,University of British Columbia,NA
-IEEEcloud,2016,Siani Pearson,HP Labs,NA
-IEEEcloud,2016,Shannon Quinn,UGA,NA
-IEEEcloud,2016,Nimish Radia,Ericsson,NA
-IEEEcloud,2016,Ioan Raicu,Illinois Institute of Technology,NA
-IEEEcloud,2016,Shaolei Ren,Florida International University,NA
-IEEEcloud,2016,Kui Ren,SUNY Buffalo,NA
-IEEEcloud,2016,Norbert Ritter,University of Hamburg,EU
-IEEEcloud,2016,Han Rui,Chinese Academy of Sciences,AS
-IEEEcloud,2016,Rizos Sakellariou,University of Manchester,EU
-IEEEcloud,2016,Benjamin Satzger,Microsoft Corporation,NA
-IEEEcloud,2016,Josef Schiefer,Vienna University of Technology,EU
-IEEEcloud,2016,Upendra Sharma,IBM T. J. Watson Research Center,NA
-IEEEcloud,2016,Jun Shen,University of Wollongong,OC
-IEEEcloud,2016,Yasushi Shinjo,University of Tsukuba,AS
-IEEEcloud,2016,Anna Squiciarini,Penn State,NA
-IEEEcloud,2016,Toyotaro Suzumura,IBM T.J. Watson Research Center,NA
-IEEEcloud,2016,Stefan Tai,Berlin University,EU
-IEEEcloud,2016,Hassan Takabi,University of North Texas,NA
-IEEEcloud,2016,CQ Tang,Facebook,NA
-IEEEcloud,2016,Fei Tang,the Republic of China,AS
-IEEEcloud,2016,Shu Tao,IBM T. J. Watson Research Center,AS
-IEEEcloud,2016,Sean Thorpe,University of Technology,OC
-IEEEcloud,2016,Jordi Torres,Barcelona Supercomputing Center,NA
-IEEEcloud,2016,Cheng-Chun Tu,Vmware,NA
-IEEEcloud,2016,Naohiko Uramoto,IBM,AS
-IEEEcloud,2016,Bhuvan Urgaonkar,Pennsylvania State University,NA
-IEEEcloud,2016,Qingyang Wang,Louisiana State University,NA
-IEEEcloud,2016,Chenwei Wang,AT&T,NA
-IEEEcloud,2016,De Wang,Google,NA
-IEEEcloud,2016,Zhikui Wang,Hewlett Packard Labs,NA
-IEEEcloud,2016,Liqiang Wang,University of Central Florida,NA
-IEEEcloud,2016,Jinpeng Wei,Florida International University,NA
-IEEEcloud,2016,Timothy Wood,George Washington University,NA
-IEEEcloud,2016,Pengcheng Xiong,NEC Labs,NA
-IEEEcloud,2016,I-Ling Yen,University of Texas at Dallas,NA
-IEEEcloud,2016,Jianwei Yin,Zhejiang University,AS
-IEEEcloud,2016,Nabeel Yoosuf,Oracle,NA
-IEEEcloud,2016,Qi Yu,Rochester Institute of Technology,NA
-IEEEcloud,2016,Weider Yu,San Jose State University,NA
-IEEEcloud,2016,Quan Z. Sheng,University of Adelaide,OC
-IEEEcloud,2016,Jia Zhang,Carnegie Mellon University,NA
-IEEEcloud,2016,Liang-Jie Zhang,Kingdee International Software Group,AS
-IEEEcloud,2016,Jie Zheng,Facebook,NA
-IEEEcloud,2016,Yupu Zhang,Hewlett Packard Labs,NA
-IEEEcloud,2016,Ming Zhao,Arizona State University,NA
-IEEEcloud,2016,Xiaobo Zhou,University of Colorado,NA
-IEEEcloud,2017,Gail-Joon Ahn,Arizona State University,NA
-IEEEcloud,2017,Kento Aida,NII,AS
-IEEEcloud,2017,Marco Aiello,University of Groningen,EU
-IEEEcloud,2017,Jorn Altmann,Seoul National University,AS
-IEEEcloud,2017,Danilo Ardagna,Politecnico di Milano,EU
-IEEEcloud,2017,Janaka L. Balasooriya,Arizona State University,NA
-IEEEcloud,2017,Bharath Balasubramanian,AT&T Labs,NA
-IEEEcloud,2017,Karin Becker,Federal University of RGS,SA
-IEEEcloud,2017,Elisa Bertino,Purdue University,NA
-IEEEcloud,2017,Charles Border,Rochester Institute of Technology,NA
-IEEEcloud,2017,Ivona Brandić,Vienna University of Technology,EU
-IEEEcloud,2017,Jiannong Cao,Hong Kong Polytechnic University,AS
-IEEEcloud,2017,Giuliano Casale,Imperial College London,EU
-IEEEcloud,2017,Claris Castillo,RENCI,NA
-IEEEcloud,2017,Rong Chang,IBM China,AS
-IEEEcloud,2017,Feng Chen,Louisiana State University,NA
-IEEEcloud,2017,Haopeng Chen,Shanghai Jiao Tong University,AS
-IEEEcloud,2017,Keke Chen,Wright State University,NA
-IEEEcloud,2017,Shigang Chen,University of Florida,NA
-IEEEcloud,2017,Yong Chen,Texas Tech University,NA
-IEEEcloud,2017,Ludmila Cherkasova,HP Labs,NA
-IEEEcloud,2017,Malolan Chetlur,IBM India,AS
-IEEEcloud,2017,Gregory Chockler,University of London,EU
-IEEEcloud,2017,Lizhen Cui,Shandong University,AS
-IEEEcloud,2017,Alfredo Cuzzocrea,ICAR-CNR & University of Calabria,EU
-IEEEcloud,2017,Bruno Crispo,University of Trento,EU
-IEEEcloud,2017,Shuiguang Deng,Zhejiang University,AS
-IEEEcloud,2017,Chang Ee-Chien,National University of Singapore,AS
-IEEEcloud,2017,Robert van Engelen,Florida State University,NA
-IEEEcloud,2017,Thomas Fahringer,University of Innsbruck,EU
-IEEEcloud,2017,Elena Ferrari,University of Insubria,EU
-IEEEcloud,2017,J. E. (Joao Eduardo) Ferreira,University of Sao Paulo,SA
-IEEEcloud,2017,Rahul Ghosh,Xerox Research Center,NA
-IEEEcloud,2017,Chris Gniady,University of Arizona,NA
-IEEEcloud,2017,Michael Goul,Arizona State University,NA
-IEEEcloud,2017,Tyrone Grandison,Proficiency Labs,
-IEEEcloud,2017,Paul Grefen,Eindhoven University of Technology,EU
-IEEEcloud,2017,Daniel Grosu,Wayne State University,NA
-IEEEcloud,2017,Haryadi Gunawi,University of Chicago,NA
-IEEEcloud,2017,Vijay K. Gurbani,"Bell Laboratories, Lucent",NA
-IEEEcloud,2017,Mohammad Hamdaqa,University of Waterloo,NA
-IEEEcloud,2017,Mohammad Hammoud,CMU/Qatar,AS
-IEEEcloud,2017,Matti Hilunen,AR&T Labs,NA
-IEEEcloud,2017,Ching-Hsien Hsu,Chung Hua University,AS
-IEEEcloud,2017,Howie Huang,George Washington University,NA
-IEEEcloud,2017,Waldemar Hummer,Vienna University of Technology,EU
-IEEEcloud,2017,Marty Humphrey,University of Virginia,NA
-IEEEcloud,2017,Praveen Jayachandran,IBM India,AS
-IEEEcloud,2017,Deepal Jayasinghe,Microsoft,NA
-IEEEcloud,2017,Hai Jin,HUST,AS
-IEEEcloud,2017,James Joshi,University of Pittsburg,NA
-IEEEcloud,2017,Gueyoung Jung,AT&T Labs,NA
-IEEEcloud,2017,Anupam Joshi,UMBC,NA
-IEEEcloud,2017,Vana Kalogeraki,Athens University of Economics and Business,EU
-IEEEcloud,2017,Nagarajan Kandasamy,Drexel University,NA
-IEEEcloud,2017,Yasuhiko Kanemasa,Fujitsu Laboratories Ltd.,AS
-IEEEcloud,2017,Hsien-Ju Ko,Asia University,AS
-IEEEcloud,2017,Alexander V. Konstantinou,Google,NA
-IEEEcloud,2017,Ram Krishnan,UT San Antonio,NA
-IEEEcloud,2017,Diwakar Krishnamurthy,University of Calgary,NA
-IEEEcloud,2017,Ashish Kundu,IBM T.J. Watson Research Center,NA
-IEEEcloud,2017,Shantenu Jha,Rutgers University,NA
-IEEEcloud,2017,Philipp Leitner,Vienna University of Technology,EU
-IEEEcloud,2017,Kang Li,University of Georgia,NA
-IEEEcloud,2017,Marin Litoiu,York University,EU
-IEEEcloud,2017,Shijun Liu,Shandong University,AS
-IEEEcloud,2017,Xumin Liu,Rochester Institute of Technology,NA
-IEEEcloud,2017,Lei Lu,VMWare,NA
-IEEEcloud,2017,Shiyong Lu,Wayne State University,NA
-IEEEcloud,2017,Sameep Mehta,IBM Research India,AS
-IEEEcloud,2017,Fanjing Meng,IBM Research,NA
-IEEEcloud,2017,Ningfang Mi,Northeastern University,NA
-IEEEcloud,2017,Tridib Mukherjee,Xerox India,AS
-IEEEcloud,2017,Kiran-Kumar Muniswamy-Reddy,Amazon,NA
-IEEEcloud,2017,Leandro Navarro,Universitat Politecnica de Catalunya,EU
-IEEEcloud,2017,Vijay Naik,IBM T.J. Watson Research Center,NA
-IEEEcloud,2017,Surya Nepal,CSIRO ICT Center,OC
-IEEEcloud,2017,SeogChan Oh,GM Research,NA
-IEEEcloud,2017,Rui Oliveira,University of Minho,EU
-IEEEcloud,2017,Dhabaleswar K. (DK) Panda,Ohio State University,NA
-IEEEcloud,2017,Roberto Di Pietro,University of Rome,EU
-IEEEcloud,2017,Balaji Palanisamy,University of Pittsburgh,NA
-IEEEcloud,2017,Peter Pietzuch,Imperial College London,EU
-IEEEcloud,2017,Thierry Priol,INRIA,EU
-IEEEcloud,2017,Ioan Raicu,Illinois Institute of Technology,NA
-IEEEcloud,2017,Omer F. Rana,Cardiff University,EU
-IEEEcloud,2017,Kui Ren,SUNY Buffalo,NA
-IEEEcloud,2017,Shaolei Ren,Florida International University,NA
-IEEEcloud,2017,Norbert Ritter,University of Hamburg,EU
-IEEEcloud,2017,Han Rui,Chinese Academy of Sciences,AS
-IEEEcloud,2017,Shannon Quinn,UGA,NA
-IEEEcloud,2017,Rizos Sakellariou,University of Manchester,EU
-IEEEcloud,2017,Iman Saleh,Intel Corporation,NA
-IEEEcloud,2017,Benjamin Satzger,Microsoft,NA
-IEEEcloud,2017,Upendra Sharma,IBM T. J. Watson Research Center,NA
-IEEEcloud,2017,Jun Shen,University of Wollongong,OC
-IEEEcloud,2017,Quan Z. Sheng,University of Adelaide,OC
-IEEEcloud,2017,Yasushi Shinjo,University of Tsukuba,AS
-IEEEcloud,2017,Marcio Silva,IBM Research,NA
-IEEEcloud,2017,Ignacio Silva-Lepe,IBM T. J. Watson Research Center,NA
-IEEEcloud,2017,Kwang Mong Sim,University of Kent,EU
-IEEEcloud,2017,Evgenia Smirni,College of William and Mary,NA
-IEEEcloud,2017,Toyotaro Suzumura,IBM Research,NA
-IEEEcloud,2017,Hassan Takabi,University of North Texas,NA
-IEEEcloud,2017,Byung Chul Tak,IBM Research,NA
-IEEEcloud,2017,Shu Tao,IBM T.J. Watson Research Center,NA
-IEEEcloud,2017,Sean Thorpe,University of Technology,
-IEEEcloud,2017,Jordi Torres,Barcelona Supercomputing Center,EU
-IEEEcloud,2017,Naohiko Uramoto,IBM Tokyo Research Laboratory,AS
-IEEEcloud,2017,Bhuvan Urgaonkar,Pennsylvania State University,NA
-IEEEcloud,2017,Ranga Raju Vatsavai,North Carolina State University,NA
-IEEEcloud,2017,Chengwei Wang,AT&T Labs Research,NA
-IEEEcloud,2017,De Wang,Google,NA
-IEEEcloud,2017,Qingyang Wang,Louisiana State University,NA
-IEEEcloud,2017,Raymond Wong,NICT;UNSW,AS;OC
-IEEEcloud,2017,Yuni Xia,Indiana University - Purdue University Indianapolis,NA
-IEEEcloud,2017,Pengcheng Xiong,NEC Labs America,NA
-IEEEcloud,2017,I-Ling Yen,University of Texas at Dallas,NA
-IEEEcloud,2017,Nabeel Yoosuf,Oracle,NA
-IEEEcloud,2017,Qi Yu,Rochester Institute of Technology,NA
-IEEEcloud,2017,Weider Yu,San Jose State University,NA
-IEEEcloud,2017,Jia Zhang,Carnegie Mellon University,NA
-IEEEcloud,2017,Ming Zhao,Arizona State University,NA
-IEEEcloud,2017,Wolf Zimmermann,Martin-Luther-University Halle-Wittenberg,EU
-IEEEcloud,2018,Gail-Joon Ahn,Arizona State University,NA
-IEEEcloud,2018,Kento Aida,National Institute of Informatics,AS
-IEEEcloud,2018,Marco Aiello,University of Groningen,EU
-IEEEcloud,2018,Jorn Altmann,Seoul National University,AS
-IEEEcloud,2018,Gabriel Antoniu,INRIA,EU
-IEEEcloud,2018,Amy Apon,Clemson University,NA
-IEEEcloud,2018,Danilo Ardagna,Politecnico di Milano,EU
-IEEEcloud,2018,Janaka Balasooriya,Arizona State University,NA
-IEEEcloud,2018,Bharath Balasubramanian,AT&T Labs Research,NA
-IEEEcloud,2018,Karin Becker,UFRGS,SA
-IEEEcloud,2018,Elisa Bertino,Purdue University,NA
-IEEEcloud,2018,Ken Birman,Cornell University,NA
-IEEEcloud,2018,Ivona Brandic,Vienna University of Technology,EU
-IEEEcloud,2018,Mauricio Breternitz,AMD Research,NA
-IEEEcloud,2018,Kris Bubendorfer,Victoria University of Wellington,OC
-IEEEcloud,2018,Rajkumar Buyya,The University of Melbourne,OC
-IEEEcloud,2018,Claris Castillo,UNC Chapel Hill,NA
-IEEEcloud,2018,Ee-Chien Chang,National University of Singapore,AS
-IEEEcloud,2018,Kyle Chard,University of Chicago and Argonne National Lab,NA
-IEEEcloud,2018,Feng Chen,Louisiana State University,NA
-IEEEcloud,2018,Haopeng Chen,Shanghai Jiao Tong University,AS
-IEEEcloud,2018,Keke Chen,Wright State University,NA
-IEEEcloud,2018,Songqing Chen,George Mason University,NA
-IEEEcloud,2018,Yong Chen,Texas Tech University,NA
-IEEEcloud,2018,Malolan Chetlur,IBM India Research Lab,AS
-IEEEcloud,2018,Gregory Chockler,University of London,EU
-IEEEcloud,2018,Charles Consel,Inria,EU
-IEEEcloud,2018,Bruno Crispo,University of Trento,EU
-IEEEcloud,2018,Alfredo Cuzzocrea,ICAR-CNR and University of Calabria,EU
-IEEEcloud,2018,Shuiguang Deng,Zhejiang University,AS
-IEEEcloud,2018,Schahram Dustdar,Vienna University of Technology,EU
-IEEEcloud,2018,Robert Van Engelen,Florida State University,NA
-IEEEcloud,2018,Thomas Fahringer,University of Innsbruck,EU
-IEEEcloud,2018,Elena Ferrari,University of Insubria,EU
-IEEEcloud,2018,João Eduardo Ferreira,University of São Paulo,SA
-IEEEcloud,2018,Dennis Gannon,Indiana University,NA
-IEEEcloud,2018,Debin Gao,Singapore Management University,AS
-IEEEcloud,2018,Chris Gniady,University of Arizona,NA
-IEEEcloud,2018,Andrzej Goscinski,Deakin University,OC
-IEEEcloud,2018,Kannan Govindarajan,Athabasca University,NA
-IEEEcloud,2018,Madhu Govindaraju,State Univeresity of New York - Binghamton,NA
-IEEEcloud,2018,Paul Grefen,Eindhoven University of Technology,EU
-IEEEcloud,2018,Daniel Grosu,Wayne State University,NA
-IEEEcloud,2018,Mike Goul,Arizona State University,NA
-IEEEcloud,2018,Mohammad Hamdaqa,University of Waterloo,NA
-IEEEcloud,2018,Yuxiong He,Microsoft,NA
-IEEEcloud,2018,Robert Hsu,Chung Hua University,AS
-IEEEcloud,2018,H. Howie Huang,George Washington University,NA
-IEEEcloud,2018,Sheng Huang,Umarkcloud,
-IEEEcloud,2018,Waldemar Hummer,Vienna University of Technology,EU
-IEEEcloud,2018,Marty Humphrey,University of Virginia,NA
-IEEEcloud,2018,Adriana Iamnitchi,University of South Florida,NA
-IEEEcloud,2018,Praveen Jayachandran,IBM Research India,AS
-IEEEcloud,2018,Hai Jin,Huazhong University of Science and Technology,AS
-IEEEcloud,2018,Anupam Joshi,University of Maryland Baltimore County,NA
-IEEEcloud,2018,Gueyoung Jung,AT&T Labs,NA
-IEEEcloud,2018,Vana Kalogeraki,Athens University of Economics and Business,EU
-IEEEcloud,2018,Naga Kandasamy,Drexel University,NA
-IEEEcloud,2018,Yasuhiko Kanemasa,Fujitsu Laboratories Ltd.,AS
-IEEEcloud,2018,Jacek Kitowski,Inst.Comput.Sci. AGH-UST & CYFRONET AGH,EU
-IEEEcloud,2018,Hsien-Ju Ko,Asia University,AS
-IEEEcloud,2018,Alexander Konstantinou,Google,NA
-IEEEcloud,2018,Diwakar Krishnamurthy,University of Calgary,NA
-IEEEcloud,2018,Ram Krishnan,University of Texas at San Antonio,NA
-IEEEcloud,2018,Ashish Kundu,IBM,NA
-IEEEcloud,2018,Philipp Leitner,Chalmers University of Technology and University of Gothenburg,EU
-IEEEcloud,2018,Marin Litoiu,University of York,EU
-IEEEcloud,2018,Xumin Liu,Rochester Institute of Technology,NA
-IEEEcloud,2018,Ignacio Llorente,Complutense University;Harvard University,EU;NA
-IEEEcloud,2018,Hui Lu,Binghamton University,NA
-IEEEcloud,2018,Lei Lu,VMware,NA
-IEEEcloud,2018,Shiyong Lu,Wayne State University,NA
-IEEEcloud,2018,Heiko Ludwig,IBM,NA
-IEEEcloud,2018,Brahim Medjahed,"University of Michigan, Dearborn",NA
-IEEEcloud,2018,Sameep Mehta,IBM India Research Lab,AS
-IEEEcloud,2018,Fanjing Meng,IBM China Research Lab,AS
-IEEEcloud,2018,Ningfang Mi,Northeastern University,NA
-IEEEcloud,2018,Ajay Mohindra,IBM,NA
-IEEEcloud,2018,Kwang Mong,University of Kent,EU
-IEEEcloud,2018,Klara Nahrstedt,UIUC,NA
-IEEEcloud,2018,Leandro Navarro,Universitat Politècnica de Catalunya,EU
-IEEEcloud,2018,Dirk Neumann,Albert-Ludwigs-Universität Freiburg,EU
-IEEEcloud,2018,Talal H. Noor,Taibah University,AS
-IEEEcloud,2018,Seog-Chan Oh,General Motors,NA
-IEEEcloud,2018,Sanjay Patel,LDRP-ITR,AS
-IEEEcloud,2018,Bo Peng,Indiana University,NA
-IEEEcloud,2018,Roberto Di Pietro,Bell Labs,NA
-IEEEcloud,2018,Judy Qiu,Indiana University,NA
-IEEEcloud,2018,Ioan Raicu,Illinois Institute of Technology,NA
-IEEEcloud,2018,Omer Rana,Cardiff University,EU
-IEEEcloud,2018,Kui Ren,State University of New York at Buffalo,NA
-IEEEcloud,2018,Shaolei Ren,Florida Central University,NA
-IEEEcloud,2018,Norbert Ritter,University of Hamburg,EU
-IEEEcloud,2018,Rizos Sakellariou,The University of Manchester,EU
-IEEEcloud,2018,Iman Saleh,Intel,NA
-IEEEcloud,2018,Benjamin Satzger,Microsoft,NA
-IEEEcloud,2018,Upendra Sharma,IBM,NA
-IEEEcloud,2018,Jun Shen,University of Wollongong,OC
-IEEEcloud,2018,Michael Sheng,Macquarie University,OC
-IEEEcloud,2018,Yasushi Shinjo,University of Tsukuba,AS
-IEEEcloud,2018,Marcio Silva,IBM,NA
-IEEEcloud,2018,Ignacio Silva-Lepe,IBM,NA
-IEEEcloud,2018,Aleksander Slominski,IBM,NA
-IEEEcloud,2018,Evgenia Smirni,College of William and Mary,NA
-IEEEcloud,2018,Toyotaro Suzumura,IBM,NA
-IEEEcloud,2018,Hassan Takabi,University of North Texas,NA
-IEEEcloud,2018,Ladan Tahvildari,University of Waterloo,NA
-IEEEcloud,2018,Yuzhe Tang,Syracuse University,NA
-IEEEcloud,2018,Douglas Thain,University of Notre Dame,NA
-IEEEcloud,2018,Luis Vaquero,University of Bristol,EU
-IEEEcloud,2018,Chengwei Wang,AT&T Labs Research,NA
-IEEEcloud,2018,Liqiang Wang,University of Central Florida,NA
-IEEEcloud,2018,Rich Wolski,University of California Santa Barbara,NA
-IEEEcloud,2018,Raymond Wong,The University of New South Wales,OC
-IEEEcloud,2018,Yuni Xia,IUPUI,NA
-IEEEcloud,2018,Cheng-Zhong Xu,Wayne State University,NA
-IEEEcloud,2018,I-Ling Yen,University of Texas Dallas,NA
-IEEEcloud,2018,Qi Yu,Rochester Institute of Technology,NA
-IEEEcloud,2018,Ming Zhao,Arizona State University,NA
-IEEEcloud,2018,Nianjun Zhou,IBM T.J. Watson Research,NA
-IEEEcloud,2018,Xiaobo Zhou,"University of Colorado, Colorado Springs",NA
-IEEEcloud,2018,Wolf Zimmermann,Martin Luther University Halle-Wittenberg,EU
-IEEEcloud,2019,Kento Aida,National Institute of Informatics,AS
-IEEEcloud,2019,Marco Aiello,University of Stuttgart,EU
-IEEEcloud,2019,Marco Anisetti,Universita degli Studi di Milano,EU
-IEEEcloud,2019,Danilo Ardagna,Politecnico di Milano,EU
-IEEEcloud,2019,Rasool Asal,EBTIC,AS
-IEEEcloud,2019,Janaka Balasooriya,ASU,NA
-IEEEcloud,2019,Bharath Balasubramanian,ATT Labs Research,NA
-IEEEcloud,2019,Valerio Bellandi,Universita degli Studi di Milano,EU
-IEEEcloud,2019,Rajkumar Buyya,The University of Melbourne,OC
-IEEEcloud,2019,Claris Castillo,University of North Carolina,NA
-IEEEcloud,2019,David Chadwick,University of Kent,EU
-IEEEcloud,2019,Ee-Chien Chang,National University of Singapore,AS
-IEEEcloud,2019,Feng Chen,Louisiana State University,NA
-IEEEcloud,2019,Haopeng Chen,Shanghai Jiao Tong University,AS
-IEEEcloud,2019,Keke Chen,Wright State University,NA
-IEEEcloud,2019,Yong Chen,Texas Tech University,NA
-IEEEcloud,2019,Malolan Chetlur,IBM,NA
-IEEEcloud,2019,Bruno Crispo,University of Trento,EU
-IEEEcloud,2019,Alfredo Cuzzocrea,"ICAR-CNR, University of Calabria",EU
-IEEEcloud,2019,Ernesto Damiani,University of Milan,EU
-IEEEcloud,2019,Shuiguang Deng,Zhejiang University,AS
-IEEEcloud,2019,Beniamino Di Martino,University of Campania,EU
-IEEEcloud,2019,Roberto Di Pietro,Hamad Bin Khalifa University,AS
-IEEEcloud,2019,Schahram Dustdar,Vienna University of Technology,EU
-IEEEcloud,2019,Nabil El-Ioini,,
-IEEEcloud,2019,Sotiris Ioannidis,FORTH,EU
-IEEEcloud,2019,Thomas Fahringer,University of Innsbruck,EU
-IEEEcloud,2019,Elena Ferrari,University of Insubria,EU
-IEEEcloud,2019,Chris Gnaidy,University of Arizona,NA
-IEEEcloud,2019,Madhu Govindaraju,SUNY Binghamton,NA
-IEEEcloud,2019,Michael Goul,Arizona State University,NA
-IEEEcloud,2019,Stefanos Gritzalis,University of the Aegean,EU
-IEEEcloud,2019,Daviel Grosu,Wayne State University,NA
-IEEEcloud,2019,Waldemar Hummer,IBM Research Aida,NA
-IEEEcloud,2019,Marty Humphrey,University of Virginia,NA
-IEEEcloud,2019,Praveen Jayachandran,IBM Research,NA
-IEEEcloud,2019,H. Howie Huang,George Washington University,NA
-IEEEcloud,2019,Hai Jin,Huazhong University of Science and Technology,AS
-IEEEcloud,2019,Vana Kalogeraki,Athens University of Economics and Business,EU
-IEEEcloud,2019,Naga Kandasamy,Drexel University,NA
-IEEEcloud,2019,Baekhyu Kim,Toyota InfoTechnology Center,NA
-IEEEcloud,2019,In Kee Kim,University of Georgia,NA
-IEEEcloud,2019,Ram Krishnan,University of Texas at San Antonio,NA
-IEEEcloud,2019,Diwakar Krishnamurthy,University of Calgary,NA
-IEEEcloud,2019,Ashish Kundu,IBM Research-TJ Watson,NA
-IEEEcloud,2019,Hui Lu,Binghamton University,NA
-IEEEcloud,2019,Lei Lu,VMware,NA
-IEEEcloud,2019,Heiko Ludwig,IBM,NA
-IEEEcloud,2019,Fan Jing Meng,IBM,NA
-IEEEcloud,2019,Ningfang Mi,Northeastern University,NA
-IEEEcloud,2019,Talal H. Noor,Taibah University,AS
-IEEEcloud,2019,Katsunori Oyama,Nihon University,AS
-IEEEcloud,2019,Claus Pahl,Free University of Bozen-Bolzano,EU
-IEEEcloud,2019,Sanjay Patel,"LDRP-ITR, India",AS
-IEEEcloud,2019,Bo Peng,Peking University,AS
-IEEEcloud,2019,Omer Rana,Cardiff University,EU
-IEEEcloud,2019,Shaolei Ren,University of California Riverside,NA
-IEEEcloud,2019,Julian Schutte,Fraunhofer,EU
-IEEEcloud,2019,Rizos Sakellariou,The University of Manchester,EU
-IEEEcloud,2019,Benjamin Satzger,Microsoft,NA
-IEEEcloud,2019,Upendra Sharma,IBM,NA
-IEEEcloud,2019,Supreeth Shastri,The University of Texas at Austin,NA
-IEEEcloud,2019,Jun Shen,University of Wollongong,OC
-IEEEcloud,2019,Michael Sheng,Macquarie University,OC
-IEEEcloud,2019,Marco Silva,IBM,NA
-IEEEcloud,2019,Aleksander Slominski,IBM,NA
-IEEEcloud,2019,Toyotaro Suzumura,IBM,NA
-IEEEcloud,2019,Hassan Takabi,University of North Texas,NA
-IEEEcloud,2019,Luca Vigano,King's College London,EU
-IEEEcloud,2019,Liqiang Wang,University of Central Florida,NA
-IEEEcloud,2019,Raymond Wong,The University of New South Wales,OC
-IEEEcloud,2019,Jingwei Yang,California State University Sacramento,NA
-IEEEcloud,2019,I-Ling Yen,UTD,
-IEEEcloud,2019,Qi Yu,Rochester Institute of Technology,NA
-IEEEcloud,2019,Nianjun Zhou,IBM,NA
-IEEEcloud,2019,Wolf Zimmerman,Martin Luther University Halle-Wittenberg,EU
-IEEEcloud,2020,Kento Aida,National Institute of Informatics,AS
-IEEEcloud,2020,Marco Aiello,University of Stuttgart,EU
-IEEEcloud,2020,Marco Anisetti,Universita degli Studi di Milano,EU
-IEEEcloud,2020,Claudio Ardagna,University of Milan,EU
-IEEEcloud,2020,Danilo Ardagna,Politecnico di Milano,EU
-IEEEcloud,2020,Rasool Asal,EBTIC,AS
-IEEEcloud,2020,Bharath Balasubramanian,ATT Labs Research,NA
-IEEEcloud,2020,Mohan Baruwal Chhetri,CSIRO,OC
-IEEEcloud,2020,Valerio Bellandi,University of Milan,EU
-IEEEcloud,2020,Rodrigo N. Calheiros,Western Sydney University,OC
-IEEEcloud,2020,Chun Cao,Nanjing University,AS
-IEEEcloud,2020,Claris Castillo,Renaissance Computing Institute (RENCI),NA
-IEEEcloud,2020,David Chadwick,University of Kento,EU
-IEEEcloud,2020,Ee-Chien Chang,National University of Singapore,AS
-IEEEcloud,2020,Feng Chen,Louisiana State University,NA
-IEEEcloud,2020,Haopeng Chen,Shanghai Jiao Tong University,AS
-IEEEcloud,2020,Keke Chen,Wright State University,NA
-IEEEcloud,2020,Ying Chen,Beijing Information Science & Technology University,AS
-IEEEcloud,2020,Malolan Chetlur,IBM,NA
-IEEEcloud,2020,Bruno Crispo,University of Trento,EU
-IEEEcloud,2020,Lizhen Cui,Shandong University,AS
-IEEEcloud,2020,Beniamino Di Martino,University of Campania 'Luigi Vanvitelli',EU
-IEEEcloud,2020,Roberto Di Pietro,Hamad Bin Khalifa University,AS
-IEEEcloud,2020,Weilong Ding,North China University of Technology,AS
-IEEEcloud,2020,Wei Du,WHUT,
-IEEEcloud,2020,Qiang Duan,The Pennsylvania State University,NA
-IEEEcloud,2020,Li Duan,Beijing Jiaotong University,AS
-IEEEcloud,2020,Schahram Dustdar,Vienna University of Technology,EU
-IEEEcloud,2020,Nabil El Ioini,Free University of Bozen,EU
-IEEEcloud,2020,Elena Ferrari,University of Insubria,EU
-IEEEcloud,2020,Honghao Gao,Shanghai University,AS
-IEEEcloud,2020,Chris Gnaidy,University of Arizona,NA
-IEEEcloud,2020,Dieter Gollman,Hamburg University of Technology,EU
-IEEEcloud,2020,Madhu Govindaraju,SUNY Binghamton,NA
-IEEEcloud,2020,Stefanos Grizalis,University of Piraeus,EU
-IEEEcloud,2020,Daniel Grosu,Wayne State University,NA
-IEEEcloud,2020,Qian He,Guilin University of Electronic Technology,AS
-IEEEcloud,2020,Qiang He,Swinburne University of Technology,OC
-IEEEcloud,2020,Waldemar Hummer,IBM Research AI,NA
-IEEEcloud,2020,Sotiris Ioannidis,FORTH,EU
-IEEEcloud,2020,Martin Jaatun,SINTEF ICT,EU
-IEEEcloud,2020,Praveen Jayachandran,IBM Research India,AS
-IEEEcloud,2020,Meiko Jensen,Unabhangiges Landeszentrum fur Datenschutz Schleswig-Holstein,EU
-IEEEcloud,2020,Ravi Jhawar,PwC,
-IEEEcloud,2020,Vana Kalogeraki,Athens University of Economics & Business,EU
-IEEEcloud,2020,Naga Kandasamy,Drexel University,NA
-IEEEcloud,2020,George Karabatis,University of Maryland,NA
-IEEEcloud,2020,Baekhyu Kim,"Toyota Motor North America, R&D",NA
-IEEEcloud,2020,In Kee Kim,University of Georgia,NA
-IEEEcloud,2020,Diwakar Krishnamurthy,University of Calgary,NA
-IEEEcloud,2020,Ram Krishnan,University of Texas at San Antonio,NA
-IEEEcloud,2020,Xuejun Li,Anhui University,AS
-IEEEcloud,2020,Jialei Liu,Anyang Normal University,AS
-IEEEcloud,2020,Zhizhong Liu,Henan Polytechnic University,AS
-IEEEcloud,2020,Hui Lu,Binghamton University,NA
-IEEEcloud,2020,Lei Lu,VMware,NA
-IEEEcloud,2020,Xuan Lu,Peking University,AS
-IEEEcloud,2020,Heiko Ludwig,IBM,NA
-IEEEcloud,2020,Xiao Ma,Beijing University of Posts & Telecommunications,AS
-IEEEcloud,2020,Yun Ma,Key Laboratory of High Confidence Software Technologies,AS
-IEEEcloud,2020,Fan Jing Meng,IBM,NA
-IEEEcloud,2020,Talal H. Noor,Taibah University,AS
-IEEEcloud,2020,Aljosa Pasic,ATOS,EU
-IEEEcloud,2020,Sanjay Patel,LDRP-ITR,AS
-IEEEcloud,2020,Bo Peng,Indiana University Bloomington,NA
-IEEEcloud,2020,Xin Peng,Fudan University,AS
-IEEEcloud,2020,Lianyong Qi,Qufu Normal University,AS
-IEEEcloud,2020,Xiuquan Qiao,Beijing University of Posts & Telecommunications,AS
-IEEEcloud,2020,Shaolei Ren,University of California Riverside,NA
-IEEEcloud,2020,Rizos Sakellariou,The University of Manchester,EU
-IEEEcloud,2020,Chunyan Sang,Chongqing University of Posts & Telecommunications,AS
-IEEEcloud,2020,Benjamin Satzger,Microsoft,NA
-IEEEcloud,2020,Julian Schuette,Fraunhofer,EU
-IEEEcloud,2020,Prateek Sharma,Indiana University Bloomington,NA
-IEEEcloud,2020,Jun Shen,University of Wollongong,OC
-IEEEcloud,2020,Michael Sheng,Macquarie University,OC
-IEEEcloud,2020,Yuliang Shi,Shandong University,AS
-IEEEcloud,2020,Aleksander Slominski,IBM,NA
-IEEEcloud,2020,Hassan Takabi,Georgia State University,NA
-IEEEcloud,2020,Luca Viganò,King's College London,EU
-IEEEcloud,2020,Ding Wang,Peking University,AS
-IEEEcloud,2020,Jianguo Wang,Amazon,NA
-IEEEcloud,2020,Jiliang Wang,Tsinghua University,AS
-IEEEcloud,2020,Liqiang Wang,University of Central Florida,NA
-IEEEcloud,2020,Puwei Wang,Renmin University of China,AS
-IEEEcloud,2020,Qiang Wang,Beijing University of Posts & Telecommunications,AS
-IEEEcloud,2020,Shangguang Wang,Beijing University of Posts & Telecommunications,AS
-IEEEcloud,2020,Yingjie Wang,Yantai University,AS
-IEEEcloud,2020,Bo Wei,Waseda University,AS
-IEEEcloud,2020,Song Wu,Huazhong University of Science & Technology,AS
-IEEEcloud,2020,Yunpeng Xiao,Chongqing University of Posts & Telecommunications,AS
-IEEEcloud,2020,Liguang Xie,"Futurewei Technologies, Inc.",NA
-IEEEcloud,2020,Xiaolong Xu,Nanjing University,AS
-IEEEcloud,2020,I-Ling Yen,UTD,
-IEEEcloud,2020,Chia-Mu Yu,National Chung Hsing University,AS
-IEEEcloud,2020,Qi Yu,Rochester Institute of Technology,NA
-IEEEcloud,2020,Jun Zeng,Chongqing University,AS
-IEEEcloud,2020,Pengcheng Zhang,Nanjing University,AS
-IEEEcloud,2020,Wensheng Zhang,Iowa State University,NA
-IEEEcloud,2020,Yiwen Zhang,Anhui University,AS
-IEEEcloud,2020,Zhongbao Zhang,Beijing University of Posts & Telecommunications,AS
-IEEEcloud,2020,Zhuofeng Zhao,North China University of Technology,AS
-IEEEcloud,2020,Ao Zhou,Beijing University of Posts & Telecommunications,AS
-IEEEcloud,2020,Wolf Zimmerman,Martin Luther University Halle-Wittenberg,EU
-IEEEcloud,2020,Zhangbing Zhou,China University of Geosciences,AS
-IEEEcloud,2020,Guobing Zou,Shanghai University,AS
-IEEEcloud,2021,Mohamed Abdelrazek,Deakin University,OC
-IEEEcloud,2021,Shivali Agarwal,IBM India Research Lab,AS
-IEEEcloud,2021,Kento Aida,National Institute of Informatics,AS
-IEEEcloud,2021,Marco Aiello,University of Stuttgart,EU
-IEEEcloud,2021,Nour Ali,Brunel University,EU
-IEEEcloud,2021,Dimitris Apostolou,University of Piraeus,EU
-IEEEcloud,2021,Rasool Asal,EBTIC,AS
-IEEEcloud,2021,Gagangeet Aujla,Durham University,EU
-IEEEcloud,2021,Nitin Auluck,Indian Institute of Technology,AS
-IEEEcloud,2021,Neil Ayeb,Orange S.A,EU
-IEEEcloud,2021,Remi Badonnel,LORIA - INRIA Grand Est,EU
-IEEEcloud,2021,Frank Bagehorn,IBM Zurich Research Center,EU
-IEEEcloud,2021,Madhubhashi Bamunuarachchi,Swinburne University of Technology,OC
-IEEEcloud,2021,Abhik Banerjee,Swinburne University of Technology,OC
-IEEEcloud,2021,Mutaz Barika,University of South Australia,OC
-IEEEcloud,2021,Brian Barrett,Amazon Web Services,NA
-IEEEcloud,2021,Valerio Bellandi,Universitá degli Studi di Milano,EU
-IEEEcloud,2021,Salima Benbernou,Université de Paris,EU
-IEEEcloud,2021,Elhadj Benkhlifa,Staffordshire University,EU
-IEEEcloud,2021,Cheyma Bennjima,University of Sousse,AF
-IEEEcloud,2021,Filippo Berto,Universitá degli Studi di Milano,EU
-IEEEcloud,2021,Frédérique Biennier,LIRIS - INSA Lyon,EU
-IEEEcloud,2021,Jeanpaul Calbimonte,University of Applied Sciences and Arts Western Switzerland HES-SO,EU
-IEEEcloud,2021,Rodrigo N. Calheiros,Western Sydney University,OC
-IEEEcloud,2021,Sivachandran Chandrasekaran,Swinburne University of Technology,OC
-IEEEcloud,2021,Ee-Chien Chang,National University of Singapore,AS
-IEEEcloud,2021,Shiping Chen,CSIRO,OC
-IEEEcloud,2021,Haopeng Chen,Shanghai Jiao Tong University,AS
-IEEEcloud,2021,Siguang Chen,Nanjing University of Posts and Telecommunications,AS
-IEEEcloud,2021,Gang Chen,Baidu,AS
-IEEEcloud,2021,Feng Chen,Louisiana State University,NA
-IEEEcloud,2021,Keke Chen,Marquette University,NA
-IEEEcloud,2021,Bo Cheng,Beijing University of Posts and Telecommunications,AS
-IEEEcloud,2021,Malolan Chetlur,IBM,NA
-IEEEcloud,2021,Mohan Baruwal Chhetri,CSIRO,OC
-IEEEcloud,2021,Sanjay Chitnis,Dayananda Sagar University,AS
-IEEEcloud,2021,Lei Cui,Chinese Academy of Sciences,AS
-IEEEcloud,2021,Ting Dai,IBM Research,NA
-IEEEcloud,2021,Umit Demirbaga,Newcastle University,EU
-IEEEcloud,2021,Weilong Ding,North China University of Technology,AS
-IEEEcloud,2021,Wei Du,WHUT,AS
-IEEEcloud,2021,Schahram Dustdar,Vienna University of Technology,EU
-IEEEcloud,2021,Javier Espinosa,University of Lyon,EU
-IEEEcloud,2021,Wei Feng,Tsinghua University,AS
-IEEEcloud,2021,Kaneez Fizza,Swinburne University,OC
-IEEEcloud,2021,Abdur Forkan,Swinburne University,OC
-IEEEcloud,2021,Dennis Gannon,Indiana University,NA
-IEEEcloud,2021,Hui Gao,Beijing University of Posts and Telecommunications,AS
-IEEEcloud,2021,Honghao Gao,Shanghai University,AS
-IEEEcloud,2021,Saurabh Garg,University of Tasmania,OC
-IEEEcloud,2021,Peter Garraghan,Lancaster University,EU
-IEEEcloud,2021,Giancarlo Fortino,University of Calabria,EU
-IEEEcloud,2021,Chris Gniady,University of Arizona,NA
-IEEEcloud,2021,Dieter Gollmann,Hamburg University of Technology,EU
-IEEEcloud,2021,Madhu Govindaraju,SUNY Binghamton,NA
-IEEEcloud,2021,Genady Grabarnik,St. John's University,NA
-IEEEcloud,2021,Rima Grati,Zayed University,AS
-IEEEcloud,2021,Stefanos Gritzalis,University of Piraeus,EU
-IEEEcloud,2021,Daniel Grosu,Wayne State University,NA
-IEEEcloud,2021,Marco Guazzone,University of Piemonte Orientale,EU
-IEEEcloud,2021,Thomas J Hacker,Purdue University,NA
-IEEEcloud,2021,Kawsar Haghshenas,University of Stuttgart,EU
-IEEEcloud,2021,Ali Hassani,Monash University,OC
-IEEEcloud,2021,Qiang  He,Swinburne University of Technology,OC
-IEEEcloud,2021,Qian He,Guilin University of Electronic Technology,AS
-IEEEcloud,2021,Pari Haghighi,Monash University,OC
-IEEEcloud,2021,Sotiris Ioannidis,Technical University of Crete,EU
-IEEEcloud,2021,Bahman Javadi,Western Sydney University,OC
-IEEEcloud,2021,Praveen Jayachandran,IBM Research,NA
-IEEEcloud,2021,Prem Prakash Jayaraman,Swinburne University of Technology,OC
-IEEEcloud,2021,Meiko Jensen,Kiel University of Applied Sciences,EU
-IEEEcloud,2021,Devki Jha,Newcastle University,EU
-IEEEcloud,2021,Shantenu Jha,Rutgers University,NA
-IEEEcloud,2021,Dejun Jiang,Institute of Computing Technology Chinese Academy of Sciences,AS
-IEEEcloud,2021,Karuna Joshi,University of Maryland,NA
-IEEEcloud,2021,Anup Kalia,IBM,NA
-IEEEcloud,2021,Vana Kalogeraki,Athens University of Economics and Business,EU
-IEEEcloud,2021,Naga Kandasamy,Drexel University,NA
-IEEEcloud,2021,Hana Khamfroush,University of Kentucky,NA
-IEEEcloud,2021,Latifur Khan,UT Dallas,NA
-IEEEcloud,2021,In Kee Kim,University of Georgia,NA
-IEEEcloud,2021,Baekgyu Kim,DGIST,AS
-IEEEcloud,2021,Harindu Korala,Swinburne University of Technology,OC
-IEEEcloud,2021,Lev Kozakov,St. John's University,NA
-IEEEcloud,2021,Alptekin Küpçü,Koç University,AS
-IEEEcloud,2021,Diwakar Krishnamurthy,University of Calgary,NA
-IEEEcloud,2021,Abhinav Kumar,IITH,AS
-IEEEcloud,2021,Subramaniam Kv,PES University,AS
-IEEEcloud,2021,Dimosthenis Kyriazis,University of Piraeus,EU
-IEEEcloud,2021,Marc Lacoste,Orange Labs,EU
-IEEEcloud,2021,Frank Lee,Newcastle University,EU
-IEEEcloud,2021,Kewen Liao,Australian Catholic University (ACU),OC
-IEEEcloud,2021,Yeon-sup Lim,Sungshin University,AS
-IEEEcloud,2021,Fuqi Lin,Peking University,AS
-IEEEcloud,2021,Xuanzhe Liu,Peking University,AS
-IEEEcloud,2021,Yi Liu,Peking University,AS
-IEEEcloud,2021,Zhizhong Liu,Henan Polytechnic University,AS
-IEEEcloud,2021,Faiza Loukil,University of Valencienne,EU
-IEEEcloud,2021,Lei Lu,VMware,NA
-IEEEcloud,2021,Hui Lu,Binghamton University,NA
-IEEEcloud,2021,Youyou Lu,Tsinghua University,AS
-IEEEcloud,2021,Xiao Ma,Beijing University of Posts and Telecommunications,AS
-IEEEcloud,2021,Zhongyu Ma,Northwest Normal University,AS
-IEEEcloud,2021,Yun Ma,"Key Laboratory of High Confidence Software Technologies, Ministry of Education",AS
-IEEEcloud,2021,Ruchi Mahindru,"IBM Research, TJ Watson Research Center",NA
-IEEEcloud,2021,Tariq Mahmood,Institute of Business Administration,AS
-IEEEcloud,2021,Felip Marti,Swinburne University of Technology,OC
-IEEEcloud,2021,Christopher McCarthy,Swinburne University of Technology,OC
-IEEEcloud,2021,Alexey Medvedev,Deakin University,OC
-IEEEcloud,2021,Ningfang Mi,Northeastern University,NA
-IEEEcloud,2021,Sajib Mistry,Curtin University,OC
-IEEEcloud,2021,Karan Mitra,Lulea University of Technology,EU
-IEEEcloud,2021,Ts Mohan,Pragyan Data Labs,AS
-IEEEcloud,2021,Federico Montori,University of Bologna,EU
-IEEEcloud,2021,Ahsan Morshed,CQ University,OC
-IEEEcloud,2021,Irene Moser,Swinburne University of Technology,OC
-IEEEcloud,2021,Seema Nagar,IBM India Research Lab,AS
-IEEEcloud,2021,Ranesh Naha,University of Tasmania,OC
-IEEEcloud,2021,Ayman Noor,Taibah University,AS
-IEEEcloud,2021,Katsunori Oyama,Nihon University,AS
-IEEEcloud,2021,Alex Palessandro,Politecnico di Torino,EU
-IEEEcloud,2021,Pankesh Patel,DERI,
-IEEEcloud,2021,Xin Peng,Fudan University,AS
-IEEEcloud,2021,Yang Peng,University of Washington,NA
-IEEEcloud,2021,Top Phengsuwan,Newcastle University,EU
-IEEEcloud,2021,Radhakrishna Pisipati,"National Institute of Technology, Warangal",AS
-IEEEcloud,2021,Marios Prasinos,Cablenet Communication Systems PLC,AS
-IEEEcloud,2021,Bin Qian,Newcastle University,EU
-IEEEcloud,2021,Muhammad Habib Ur Rehman,Khalifa University of Science and Technology,AS
-IEEEcloud,2021,Shaolei Ren,"University of California, Riverside",NA
-IEEEcloud,2021,Rizos Sakellariou,The University of Manchester,EU
-IEEEcloud,2021,Chunyan Sang,Chongqing University of Posts and Telecommunications,AS
-IEEEcloud,2021,Benjamin Satzger,Microsoft,NA
-IEEEcloud,2021,Seelam Seetharami,IBM Research,NA
-IEEEcloud,2021,Padmanabha Seshadri,IBM India Research Lab,AS
-IEEEcloud,2021,Brian Setz,University of Stuttgart,EU
-IEEEcloud,2021,Jun Shen,University of Wollongong,OC
-IEEEcloud,2021,Yuliang Shi,Shandong University,AS
-IEEEcloud,2021,Bin Shi,Xi'an Jiaotong University,AS
-IEEEcloud,2021,Laura Shwartz,"IBM Research, TJ Watson Research Center",NA
-IEEEcloud,2021,Lama Sleem,Loria,
-IEEEcloud,2021,Aleksander Slominski,IBM,NA
-IEEEcloud,2021,Michail Smyrlis,Sphynx Technology Solutions AG,EU
-IEEEcloud,2021,Mudhakar Srivatsa,IBM,NA
-IEEEcloud,2021,Geng Sun,Jilin University,AS
-IEEEcloud,2021,Tao Sun,China Mobile,AS
-IEEEcloud,2021,Jian Su,Nanjing University of Information Science and Technology,AS
-IEEEcloud,2021,Yuanyuan Sun,Alibaba Group,AS
-IEEEcloud,2021,Fei Teng,Southwest Jiaotong University,AS
-IEEEcloud,2021,Nipun Th,Newcastle University,EU
-IEEEcloud,2021,Srikanth Thudumu,Swinburne University of Technology,OC
-IEEEcloud,2021,Parimala Thulasiraman,University of Manitoba,NA
-IEEEcloud,2021,Ruppa Thulasiram,University of Manitoba,NA
-IEEEcloud,2021,Deyu Tian,Peking University,AS
-IEEEcloud,2021,Adel Toosi,Monash University,OC
-IEEEcloud,2021,Mauro Tortonesi,University of Ferrara,EU
-IEEEcloud,2021,Cihan Tunc,University of North Texas,NA
-IEEEcloud,2021,Ihsan Ullah,University College Dublin,EU
-IEEEcloud,2021,Sreekrishnan Venkiteswaran,IBM,NA
-IEEEcloud,2021,Yiannis Verginadis,National Technical University of Athens,EU
-IEEEcloud,2021,Shuai Wang,Southeast University,AS
-IEEEcloud,2021,Puwei Wang,Renmin University,AS
-IEEEcloud,2021,Qingshan Wang,Hefei University of Technology,AS
-IEEEcloud,2021,Shiguo Wang,Changsha University of Science and Technology,AS
-IEEEcloud,2021,Zhixiao Wang,Xi'an University of Technology,AS
-IEEEcloud,2021,Jianguo Wang,Purdue University,NA
-IEEEcloud,2021,Liqiang Wang,University of Central Florida,NA
-IEEEcloud,2021,Ding Wang,Peking University,AS
-IEEEcloud,2021,Zhenyu Wen,Newcastle University,EU
-IEEEcloud,2021,Wen Xia,Harbin Institute of Technology (Shenzhen),AS
-IEEEcloud,2021,Liguang Xie,Futurewei,NA
-IEEEcloud,2021,Zichuan Xu,Dalian University of Technology,AS
-IEEEcloud,2021,Jia Xu,Nanjing University of Posts and Telecommunications,AS
-IEEEcloud,2021,Song Yang,Beijing Institute of Technology,AS
-IEEEcloud,2021,Sami Yangui,CNRS-LAAS,EU
-IEEEcloud,2021,Renyu Yang,University of Leeds,EU
-IEEEcloud,2021,Serge Yaskolko,"College Board, South University",NA
-IEEEcloud,2021,Ali Yavari,Swinburne University of Technology,OC
-IEEEcloud,2021,I-Ling Yen,The University of Texas at Dallas,NA
-IEEEcloud,2021,Shucheng Yu,Stevens Institute of Technology,NA
-IEEEcloud,2021,Chia-Mu Yu,National Chung Hsing University,AS
-IEEEcloud,2021,Xingliang Yuan,Monash University,OC
-IEEEcloud,2021,Yifan Zhang,SUNY Binghamton,NA
-IEEEcloud,2021,Jiayi Zhang,Beijing Jiaotong University,AS
-IEEEcloud,2021,Jinbei Zhang,Sun Yat-sen University,AS
-IEEEcloud,2021,Yuxin Zhang,Monash University,OC
-IEEEcloud,2021,Siyuan Zhou,Hohai University,AS
-IEEEcloud,2021,Ao Zhou,Beijing University of Posts and Telecommunications,AS
-IEEEcloud,2021,Wolf Zimmermann,Martin Luther University Halle-Wittenberg,EU
-IEEEcloud,2021,Guobing Zou,Shanghai University,AS
-IEEEcloud,2021,Pengfei Zuo,Huawei,AS
-IEEEcloud,2022,Mohamed Abdelrazek,Deakin University,OC
-IEEEcloud,2022,Nour Ali,Brunel University,EU
-IEEEcloud,2022,Marco Anisetti,Università degli Studi di Milano,EU
-IEEEcloud,2022,Dimitris Apostolou,University of Piraeus,EU
-IEEEcloud,2022,Venki Appiah,Federation University,AS
-IEEEcloud,2022,Jagannath Aryal,University of Melbourne,OC
-IEEEcloud,2022,Nitin Auluck,"Indian Institute of Technology, Ropar",AS
-IEEEcloud,2022,Remi Badonnel,LORIA-INRIA Grand Est,EU
-IEEEcloud,2022,Frank Bagehorn,IBM,EU
-IEEEcloud,2022,Alessandro Balestrucci,Gran Sasso Science Institute,EU
-IEEEcloud,2022,Abhik Banerjee,Swinburne University of Technology,OC
-IEEEcloud,2022,Masoud Barati,Cardiff University,EU
-IEEEcloud,2022,Mutaz Barika,University of South Australia,OC
-IEEEcloud,2022,Brian Barrett,Amazon Web Services,NA
-IEEEcloud,2022,Valerio Bellandi,University of Milan,EU
-IEEEcloud,2022,Nicola Bena,University of Milan,EU
-IEEEcloud,2022,Salima Benbernou,Université de Paris,EU
-IEEEcloud,2022,Filippo Berto,Università degli Studi di Milano,EU
-IEEEcloud,2022,Jaki Bhimani,Florida International University,NA
-IEEEcloud,2022,Frederique Biennier,LIRIS-INSA Lyon,EU
-IEEEcloud,2022,Jeanpaul Calbimonte,University of Applied Sciences & Arts Western Switzerland,EU
-IEEEcloud,2022,Rodrigo Calheiros,Western Sydney University,OC
-IEEEcloud,2022,Giuliano Casale,Imperial College London,EU
-IEEEcloud,2022,Sivachandran Chandrasekaran,Swinburne University of Technology,OC
-IEEEcloud,2022,Shiping Chen,CSIRO,
-IEEEcloud,2022,Feng Chen,Louisiana State University,NA
-IEEEcloud,2022,Haopeng Chen,Shanghai Jiao Tong University,AS
-IEEEcloud,2022,Jinjun Chen,Swinburne University of Technology,OC
-IEEEcloud,2022,Keke Chen,Marquette University,NA
-IEEEcloud,2022,Bo Cheng,Beijing University of Posts & Telecommunications,AS
-IEEEcloud,2022,Malolan Chetlur,IBM,NA
-IEEEcloud,2022,Ben Cheyma,Université Jean Moulin Lyon 3,EU
-IEEEcloud,2022,Baruwal Chhetri,CSIRO,
-IEEEcloud,2022,Sanjay Chitnis,Dayananda Sagar University,AS
-IEEEcloud,2022,Michele Ciavotta,University of Milano-Bicocca,EU
-IEEEcloud,2022,Lei Cui,Chinese Academy of Sciences,AS
-IEEEcloud,2022,Ting Dai,IBM Research,NA
-IEEEcloud,2022,Petrizio Dazzi,"ISTI, National Research Council of Italy",EU
-IEEEcloud,2022,Weilong Ding,North China University of Technology,AS
-IEEEcloud,2022,Wei Du,Wuhan University of Technology,AS
-IEEEcloud,2022,Qiang Duan,Pennsylvania State University,NA
-IEEEcloud,2022,Schahram Dustdar,Vienna University of Technology,EU
-IEEEcloud,2022,Vincent Emeakaroha,Cork Institute of Technology,EU
-IEEEcloud,2022,Javier Espinosa-Oviedo,University of Lyon,EU
-IEEEcloud,2022,Kaneez Fizza,Swinburne University,OC
-IEEEcloud,2022,Abdur Forkan,Swinburne University,OC
-IEEEcloud,2022,Amir Gandomi,"University of Technology, Sydney",OC
-IEEEcloud,2022,Saurabh Garg,University of Tasmania,OC
-IEEEcloud,2022,Peter Garraghan,Lancaster University,EU
-IEEEcloud,2022,Shreya Ghosh,Pennsylvania State University,NA
-IEEEcloud,2022,Soumya Ghosh,Indian Institute of Technology Kharagpur,AS
-IEEEcloud,2022,Rahul Ghosh,American Express,NA
-IEEEcloud,2022,Sukhpal Gill,Queen Mary University of London,EU
-IEEEcloud,2022,Dieter Gollmann,Hamburg University of Technology,EU
-IEEEcloud,2022,Mingming Gong,University of Melbourne,OC
-IEEEcloud,2022,Madhu Govindaraju,SUNY Binghamton,NA
-IEEEcloud,2022,Stefanos Gritzalis,University of Piraeus,EU
-IEEEcloud,2022,Daniel Grosu,Wayne State University,NA
-IEEEcloud,2022,Marco Guazzone,University of Piemonte Orientale,EU
-IEEEcloud,2022,Thomas Hacker,Purdue University,NA
-IEEEcloud,2022,Jin Hai,Huazhong University of Science & Technology,AS
-IEEEcloud,2022,Qian He,Guilin University of Electronic Technology,AS
-IEEEcloud,2022,Qiang He,Swinburne University of Technology,OC
-IEEEcloud,2022,Yu Hua,Huazhong University of Science & Technology,AS
-IEEEcloud,2022,Shashikant Ilager,TU Wien,EU
-IEEEcloud,2022,Sotiris Ioannidis,Technical University of Crete,EU
-IEEEcloud,2022,Bahman Javadi,Western Sydney University,OC
-IEEEcloud,2022,Praveen Jayachandran,IBM Research India,AS
-IEEEcloud,2022,Prem Jayaraman,Swinburne University of Technology,OC
-IEEEcloud,2022,Meiko Jensen,Kiel University of Applied Sciences,EU
-IEEEcloud,2022,Devki Jha,Newcastle University,EU
-IEEEcloud,2022,Dejun Jiang,"Institute of Computing Technology, Chinese Academy of Sciences",AS
-IEEEcloud,2022,Karuna Joshi,"University of Maryland, Baltimore County",NA
-IEEEcloud,2022,Anup Kalia,IBM,NA
-IEEEcloud,2022,Vana Kalogeraki,Athens University of Economics & Business,EU
-IEEEcloud,2022,Naga Kandasamy,Drexel University,NA
-IEEEcloud,2022,Helen Karatza,Aristotle University of Thessaloniki,EU
-IEEEcloud,2022,Latifur Khan,University of Texas at Dallas,NA
-IEEEcloud,2022,Baekgyu Kim,Daegu Gyeonbuk Institute of Science & Technology,AS
-IEEEcloud,2022,In-Kee Kim,University of Georgia,NA
-IEEEcloud,2022,Harindu Korala,Swinburne University of Technology,OC
-IEEEcloud,2022,Kenichi Kourai,Kyushu Institute of Technology,AS
-IEEEcloud,2022,Nectarios Koziris,National Technical University of Athens,EU
-IEEEcloud,2022,Diwakar Krishnamurthy,University of Calgary,NA
-IEEEcloud,2022,Abhinav Kumar,Indian Institute of Technology Hyderabad,AS
-IEEEcloud,2022,Alpetekin Küpçü,Koç University,AS
-IEEEcloud,2022,Subramaniam Kv,PES University,AS
-IEEEcloud,2022,Dimosthenis Kyriazis,University of Piraeus,EU
-IEEEcloud,2022,Marc Lacoste,Orange Labs,EU
-IEEEcloud,2022,Qinghua Li,University of Arkansas,NA
-IEEEcloud,2022,Yeon-sup Lim,Sungshin University,AS
-IEEEcloud,2022,Yi Liu,Peking University,AS
-IEEEcloud,2022,Pinglan Liu,Iowa State University,NA
-IEEEcloud,2022,Xuanzhe Liu,Peking University,AS
-IEEEcloud,2022,Zhizhong Liu,Henan Polytechnic University,AS
-IEEEcloud,2022,Francesco Longo,University of Messina,EU
-IEEEcloud,2022,Faiza Loukil,University of Lyon,EU
-IEEEcloud,2022,Youyou Lu,Tsinghua University,AS
-IEEEcloud,2022,Zhongyu Ma,Northwest Normal University,AS
-IEEEcloud,2022,Ruchi Mahindru,IBM Research,NA
-IEEEcloud,2022,Tariq Mahmood,Institute of Business Administration,AS
-IEEEcloud,2022,Sajib Mistry,Curtin University,OC
-IEEEcloud,2022,Karan Mitra,Lulea University of Technology,EU
-IEEEcloud,2022,Ts MOhan,Pragyan Datalabs,AS
-IEEEcloud,2022,Federico Montori,University of Bologna,EU
-IEEEcloud,2022,Tridib Mukherjee,Games24X7,AS
-IEEEcloud,2022,Seema Nagar,"Indian Institute of Technology, Guwahati",AS
-IEEEcloud,2022,Ayman Noor,Taibah University,AS
-IEEEcloud,2022,Alex Palessandro,Politecnico di Torino,EU
-IEEEcloud,2022,Pankesh Patel,DERI,
-IEEEcloud,2022,Yang Peng,University of Washington,NA
-IEEEcloud,2022,Top Phengsuwan,Newcastle University,EU
-IEEEcloud,2022,Radhakrishna Pisipati,"National Institute of Technology, Warangal",AS
-IEEEcloud,2022,Daniel Pittner,IBM,NA
-IEEEcloud,2022,Viktor Prasanna,University of Southern California,NA
-IEEEcloud,2022,Marios Prasinos,Cablenet Communication Systems PLC,AS
-IEEEcloud,2022,Bin Qian,Newcastle University,EU
-IEEEcloud,2022,Muhammad Rehman,Khalifa University of Science & Technology,AS
-IEEEcloud,2022,Maria Rodriguez,University of Melbourne,OC
-IEEEcloud,2022,Rizos Sakellariou,The University of Manchester,EU
-IEEEcloud,2022,Benjamin Satzger,Microsoft,NA
-IEEEcloud,2022,Seelam Seetharami,IBM Research,NA
-IEEEcloud,2022,Padmanabha Seshadri,IBM Research,NA
-IEEEcloud,2022,Jun Shen,University of Wollongong,OC
-IEEEcloud,2022,Yuliang Shi,Shandong University,AS
-IEEEcloud,2022,Bin shi,Xi'an Jiaotong University,AS
-IEEEcloud,2022,Yogesh Simmhan,"Indian Institute of Science, Bangalore",AS
-IEEEcloud,2022,Amith Singhee,"IBM, India Research Lab",AS
-IEEEcloud,2022,Aleksander Slominski,IBM,NA
-IEEEcloud,2022,Mudhakar Srivatsa,IBM,NA
-IEEEcloud,2022,Torsten Steinchbach,IBM,NA
-IEEEcloud,2022,Jian Su,Nanjing University of Information Science & Technology,AS
-IEEEcloud,2022,Tao Sun,China Mobile,AS
-IEEEcloud,2022,Geng Sun,Jilin University,AS
-IEEEcloud,2022,Zahir Tari,Royal Melbourne Institute of Technology (RMIT),OC
-IEEEcloud,2022,Leandros Tassiulas,Yale University,NA
-IEEEcloud,2022,Fei Teng,Southwest Jiaotong University,AS
-IEEEcloud,2022,Srikanth Thudumu,Swinburne University of Technology,OC
-IEEEcloud,2022,Parimala Thulasiraman,University of Manitoba,NA
-IEEEcloud,2022,Ruppa Thulasiram,University of Manitoba,NA
-IEEEcloud,2022,Adel Toosi,Monash University,OC
-IEEEcloud,2022,Cihan Tunc,University of North Texas,NA
-IEEEcloud,2022,Ihsan Ullah,University College Dublin,EU
-IEEEcloud,2022,Blesson Varghese,Queens University Belfast,EU
-IEEEcloud,2022,Bharadwaj Veeravalli,The National University of Singapore,AS
-IEEEcloud,2022,Yiannis Verginadis,National Technical University of Athens,EU
-IEEEcloud,2022,Vladimir Vlassov,KTH Royal Institute of Technology,EU
-IEEEcloud,2022,Maja Vukovic,IBM Research,NA
-IEEEcloud,2022,Md Whaiduzzaman,Queensland University of Technology,OC
-IEEEcloud,2022,Chen Wang,IBM Research,NA
-IEEEcloud,2022,Puwei Wang,Renmin University of China,AS
-IEEEcloud,2022,Qingshan Wang,Hefei University of Technology,AS
-IEEEcloud,2022,Shiguo Wang,Changsha University of Science & Technology,AS
-IEEEcloud,2022,Ding Wang,Peking University,AS
-IEEEcloud,2022,Haibo Wang,University of Florida,NA
-IEEEcloud,2022,Liqiang Wang,University of Central Florida,NA
-IEEEcloud,2022,Zhenyu Wen,Newcastle University,EU
-IEEEcloud,2022,Guido Wirtz,"Otto-Friedrich University, Bamberg",EU
-IEEEcloud,2022,Minxian Xu,"SIAT, Chinese Academy of Sciences",AS
-IEEEcloud,2022,Zichuan Xu,Dalian University of Technology,AS
-IEEEcloud,2022,Jia Xu,Nanjing University of Posts & Telecommunications,AS
-IEEEcloud,2022,Lanyu Xu,Wayne State University,NA
-IEEEcloud,2022,Mengwei Xu,Beijing University of Posts & Telecommunications,AS
-IEEEcloud,2022,Renyu Yang,University of Leeds,EU
-IEEEcloud,2022,Song Yang,Beijing Institute of Technology,AS
-IEEEcloud,2022,Sami Yangui,CNRS-LAAS,EU
-IEEEcloud,2022,Serge Yaskolko,College Board,NA
-IEEEcloud,2022,Ali Yavari,Swinburne University of Technology,OC
-IEEEcloud,2022,I-Ling Yen,University of Texas at Dallas,NA
-IEEEcloud,2022,Alaa Youssef,IBM Research,NA
-IEEEcloud,2022,Xingliang Yuan,Monash University,OC
-IEEEcloud,2022,Chia-Mu Yu,National Chung Hsing University,AS
-IEEEcloud,2022,Wensheng Zhang,Iowa State University,NA
-IEEEcloud,2022,Yuxin Zhang,Monash University,OC
-IEEEcloud,2022,Jinbei Zhang,Sun Yat-sen University,AS
-IEEEcloud,2022,Ming Zhao,Arizona State University,NA
-IEEEcloud,2022,Cai Zhicheng,Nanjing University of Science & Technology,AS
-IEEEcloud,2022,Siyuan Zhou,Hohai University,AS
-IEEEcloud,2022,Ao Zhou,Beijing University of Posts & Telecommunications,AS
-IEEEcloud,2022,Bing Zhou,University of Sydney,OC
-IEEEcloud,2022,Weiping Zhu,Wuhan University,AS
-IEEEcloud,2022,Wolf Zimmermann,Martin Luther University Halle-Wittenberg,EU
-IEEEcloud,2022,Farhana Zulkernine,Queen's University,NA
-IEEEcloud,2022,Pengfei Zuo,Huawei,AS
-IEEEcloud,2023,Mohsen Amini Salehi,"University of Louisiana, Lafayette",NA
-IEEEcloud,2023,Marco Anisetti,Università degli Studi di Milano,EU
-IEEEcloud,2023,Gabriel Antoniu,INRIA,EU
-IEEEcloud,2023,Dimitris Apostolou,University of Piraeus,EU
-IEEEcloud,2023,Takuya Araki,NEC,
-IEEEcloud,2023,Engin Arslan,"University of Nevada, Reno",NA
-IEEEcloud,2023,Nitin Auluck,"Indian Institute of Technology, Ropar",AS
-IEEEcloud,2023,Frank Bagehorn,"IBM Research, Zurich Research Lab",EU
-IEEEcloud,2023,Alessandro Balestrucci,Gran Sasso Science Institute,EU
-IEEEcloud,2023,Abhik Banerjee,Swinburne University of Technology,OC
-IEEEcloud,2023,Masoud Barati,Newcastle University,EU
-IEEEcloud,2023,Valerio Bellandi,University of Milan,EU
-IEEEcloud,2023,Nicola Bena,University of Milan,EU
-IEEEcloud,2023,Filippo Berto,University of Milan,EU
-IEEEcloud,2023,Frederique Biennier,"INSA - Lyon, France",EU
-IEEEcloud,2023,Ali R. Butt,Virginia Tech,NA
-IEEEcloud,2023,Zhicheng Cai,Nanjing University of Science and Technology,AS
-IEEEcloud,2023,Jean-Paul Calbimonte,University of Applied Sciences and Arts Western Switzerland HES-SO,EU
-IEEEcloud,2023,Rodrigo N. Calheiros,Western Sydney University,OC
-IEEEcloud,2023,Giuliano Casale,Imperial College London,EU
-IEEEcloud,2023,Abhishek Chandra,University of Minnesota,NA
-IEEEcloud,2023,Siva Chandrasekaran,Swinburne University of Technology,OC
-IEEEcloud,2023,Feng Chen,Louisiana State University,NA
-IEEEcloud,2023,Haopeng Chen,Shanghai Jiao Tong University,AS
-IEEEcloud,2023,Keke Chen,Marquette University,NA
-IEEEcloud,2023,Yue Cheng,University of Virginia,NA
-IEEEcloud,2023,Ben Njima Cheyma,Université Jean Moulin Lyon 3,EU
-IEEEcloud,2023,Jong Youl Choi,Oak Ridge National Laboratory,NA
-IEEEcloud,2023,Lei Cui,Beihang University,AS
-IEEEcloud,2023,Ting Dai,IBM Research,NA
-IEEEcloud,2023,Patrizio Dazzi,University of Pisa,EU
-IEEEcloud,2023,Weilong Ding,"Research Center for Cloud Computing, North China University of Technology",AS
-IEEEcloud,2023,Michele Dolfi,IBM Research Zurich,EU
-IEEEcloud,2023,Wenqian Dong,Florida International University,NA
-IEEEcloud,2023,Wei Du,Wuhan University of Technology,AS
-IEEEcloud,2023,Qiang Duan,The Pennsylvania State University,NA
-IEEEcloud,2023,Schahram Dustdar,Vienna University of Technology,EU
-IEEEcloud,2023,Vincent Chimaobi Emeakaroha,Munster Technological University,EU
-IEEEcloud,2023,Reza Farivar,RefLab,
-IEEEcloud,2023,Rafael Ferreira da Silva,Oak Ridge National Laboratory,NA
-IEEEcloud,2023,Renato Figueiredo,University of Florida,NA
-IEEEcloud,2023,Abdur Forkan,Swinburne University of Technology,OC
-IEEEcloud,2023,Peter Garraghan,Lancaster University,EU
-IEEEcloud,2023,Shreya Ghosh,IIT Kharagpur,AS
-IEEEcloud,2023,Soumya Ghosh,IIT Kharagpur,AS
-IEEEcloud,2023,Sukhpal Singh Gill,Queen Mary University of London,EU
-IEEEcloud,2023,Dieter Gollmann,Hamburg University of Technology,EU
-IEEEcloud,2023,Madhu Govindaraju,SUNY Binghamton,NA
-IEEEcloud,2023,Daniel Grosu,Wayne State University,NA
-IEEEcloud,2023,Marco Guazzone,University of Piemonte Orientale,EU
-IEEEcloud,2023,Tom Hacker,Purdue University,NA
-IEEEcloud,2023,Toshihiro Hanawa,"Information Technology Center, The University of Tokyo",AS
-IEEEcloud,2023,Qian He,Guilin University of Electronic Technology,AS
-IEEEcloud,2023,Huawei Huang,Sun Yat-Sen University,AS
-IEEEcloud,2023,Shashikant Ilager,Vienna University of Technology (TU Wien),EU
-IEEEcloud,2023,Asif Imran,California State University San Marcos,NA
-IEEEcloud,2023,Ali Jannesari,Iowa State University,NA
-IEEEcloud,2023,Bahman Javadi,Western Sydney University,OC
-IEEEcloud,2023,Praveen Jayachandran,"IBM Research, India",AS
-IEEEcloud,2023,Meiko Jensen,Karlstad University,EU
-IEEEcloud,2023,Devki Nandan Jha,University of Oxford,EU
-IEEEcloud,2023,Hai Jin,Huazhong University of Science and Technology,AS
-IEEEcloud,2023,Karuna Joshi,"University of Maryland, Baltimore County",NA
-IEEEcloud,2023,Naga Kandasamy,Drexel University,NA
-IEEEcloud,2023,Akshar Kaul,"IBM Research, India",AS
-IEEEcloud,2023,Rajkumar Kettimuthu,Argonne National Lab and The University of Chicago,NA
-IEEEcloud,2023,Baekgyu Kim,DGIST,AS
-IEEEcloud,2023,In Kee Kim,University of Georgia,NA
-IEEEcloud,2023,Masaaki Kondo,Keio University,AS
-IEEEcloud,2023,Kenichi Kourai,Kyushu Institute of Technology,AS
-IEEEcloud,2023,Nectarios Koziris,National Technical University of Athens,EU
-IEEEcloud,2023,Diwakar Krishnamurthy,University of Calgary,NA
-IEEEcloud,2023,Marc Lacoste,Orange Labs,
-IEEEcloud,2023,Jack Lange,University of Pittsburgh,NA
-IEEEcloud,2023,Dong Li,"University of California, Merced",NA
-IEEEcloud,2023,Qinghua Li,University of Arkansas,NA
-IEEEcloud,2023,Yeon-sup Lim,Sungshin Women's University,AS
-IEEEcloud,2023,Felix Xiaozhu Lin,University of Virginia,NA
-IEEEcloud,2023,Pinglan Liu,Iowa State University,NA
-IEEEcloud,2023,Xiaoning Liu,RMIT University,OC
-IEEEcloud,2023,Yi Liu,Peking University,AS
-IEEEcloud,2023,Zhizhong Liu,Henan Polytechnic University,AS
-IEEEcloud,2023,Francesco Longo,University of Messina,EU
-IEEEcloud,2023,Faiza Loukil,"LISTIC Laboratory, Savoie Mont Blanc University",EU
-IEEEcloud,2023,Youyou Lu,Tsinghua University,AS
-IEEEcloud,2023,Ruchi Mahindru,IBM,NA
-IEEEcloud,2023,Tariq Mahmood,IBA Karachi,AS
-IEEEcloud,2023,Suresh Marru,Indiana University Bloomington,NA
-IEEEcloud,2023,Sajib Mistry,Curtin University,OC
-IEEEcloud,2023,Apoorve Mohan,IBM Thomas J. Watson Research Center,NA
-IEEEcloud,2023,Dr. T.S. Mohan,Pragyan Datalabs,AS
-IEEEcloud,2023,Federico Montori,University of Bologna,EU
-IEEEcloud,2023,Seema Nagar,IBM Research India,AS
-IEEEcloud,2023,Ayman Noor,Taibah University,AS
-IEEEcloud,2023,Oznur Ozkasap,Koç University,AS
-IEEEcloud,2023,Alex Palesandro,D2IQ,
-IEEEcloud,2023,Sangmi Pallickara,Colorado State University,NA
-IEEEcloud,2023,Shrideep Pallickara,Colorado State University,NA
-IEEEcloud,2023,Radha Krishna Pisipati,"National Institute of Technology, Warangal",AS
-IEEEcloud,2023,Apan Qasem,Texas State University,NA
-IEEEcloud,2023,Bin Qian,Newcastle University,EU
-IEEEcloud,2023,Gourav Rattihalli,HPE,NA
-IEEEcloud,2023,Ricardo Rocha,CERN,EU
-IEEEcloud,2023,Rizos Sakellariou,The University of Manchester,EU
-IEEEcloud,2023,Benjamin Satzger,Microsoft,NA
-IEEEcloud,2023,Matthias Schunter,Intel,NA
-IEEEcloud,2023,Seelam Seetharami,IBM,NA
-IEEEcloud,2023,Padmanabha Venkatagiri Seshadri,IBM,NA
-IEEEcloud,2023,Prateek Sharma,Indiana University Bloomington,NA
-IEEEcloud,2023,Jun Shen,University of Wollongong,OC
-IEEEcloud,2023,Bin Shi,Beihang University,AS
-IEEEcloud,2023,Yuliang Shi,Shandong University,AS
-IEEEcloud,2023,Aleksander Slominski,IBM,NA
-IEEEcloud,2023,Jian Su,Nanjing University of Information Science & Technology,AS
-IEEEcloud,2023,Geng Sun,Jilin University,AS
-IEEEcloud,2023,Tao Sun,Chinamobile,AS
-IEEEcloud,2023,Kun Suo,Kennesaw State University,NA
-IEEEcloud,2023,Byungchul Tak,Kyungpook National University,AS
-IEEEcloud,2023,Dingwen Tao,Indiana University,NA
-IEEEcloud,2023,Douglas Thain,University of Notre Dame,NA
-IEEEcloud,2023,Srikanth Thudumu,Deakin University,OC
-IEEEcloud,2023,Ruppa Thulasiram,University of Manitoba,NA
-IEEEcloud,2023,Parimala Thulasiraman,University of Manitoba,NA
-IEEEcloud,2023,Adel N. Toosi,Monash University,OC
-IEEEcloud,2023,Lewis Tseng,Boston College,NA
-IEEEcloud,2023,Cihan Tunc,University of North Texas,NA
-IEEEcloud,2023,Sreekrishnan Venkateswaran,Kyndryl,NA
-IEEEcloud,2023,Vladimir Vlassov,KTH Royal Institute of Technology,EU
-IEEEcloud,2023,Maja Vukovic,IBM Research,NA
-IEEEcloud,2023,Chen Wang,IBM,NA
-IEEEcloud,2023,Haibo Wang,University of Florida,NA
-IEEEcloud,2023,Liqiang Wang,University of Central Florida,NA
-IEEEcloud,2023,Puwei Wang,Renmin University,AS
-IEEEcloud,2023,Qingshan Wang,Hefei University of Technology,AS
-IEEEcloud,2023,Zhenyu Wen,Zhejiang University of Technology,AS
-IEEEcloud,2023,Guido Wirtz,University of Bamberg,EU
-IEEEcloud,2023,Jia Xu,Nanjing University of Posts and Telecommunications,AS
-IEEEcloud,2023,Lanyu Xu,Oakland University,NA
-IEEEcloud,2023,Minxian Xu,"Shenzhen Institutes of Advanced Technology, Chinese Academy of Sciences",AS
-IEEEcloud,2023,Zichuan Xu,Dalian University of Technology,AS
-IEEEcloud,2023,Feng Yan,University of Houston,NA
-IEEEcloud,2023,Renyu Yang,University of Leeds,EU
-IEEEcloud,2023,Sami Yangui,CNRS-LAAS,EU
-IEEEcloud,2023,Serge Yaskolko,College Board,NA
-IEEEcloud,2023,I-Ling Yen,UTD,
-IEEEcloud,2023,Alaa Youssef,IBM Research,NA
-IEEEcloud,2023,Chia-Mu Yu,National Chung Hsing University,AS
-IEEEcloud,2023,Wensheng Zhang,Iowa State University,NA
-IEEEcloud,2023,Bing Bing Zhou,University of Sidney,OC
-IEEEcloud,2023,Wolf Zimmermann,Martin Luther University Halle-Wittenberg,EU
-IEEEcloud,2023,Farhana Zulkernine,Queens University,NA
-IEEEcloud,2024,Ming Zhao,Arizona State University,NA
-IEEEcloud,2024,Mengwei Xu,Beijing University of Posts and Telecommunications,AS
-IEEEcloud,2024,Qirui Yang,ByteDance,AS
-IEEEcloud,2024,Ricardo Rocha,CERN,EU
-IEEEcloud,2024,Sami Yangui,CNRS-LAAS,EU
-IEEEcloud,2024,Jia Xu,College of Computer,AS
-IEEEcloud,2024,Mohan Baruwal Chhetri,CSIRO,OC
-IEEEcloud,2024,Sajib Mistry,Curtin University,OC
-IEEEcloud,2024,Alex Palesandro,D2IQ,EU
-IEEEcloud,2024,Srikanth Thudumu,Deakin University,OC
-IEEEcloud,2024,Patrizio Dazzi,University of Pisa,EU
-IEEEcloud,2024,Shrideep Pallickara,Colorado State University,NA
-IEEEcloud,2024,Qiang He,Swinburne University of Technology,OC
-IEEEcloud,2024,Baekgyu Kim,DGIST,AS
-IEEEcloud,2024,Naga Kandasamy,Drexel University,NA
-IEEEcloud,2024,Alessandro Balestrucci,Gran Sasso Science Institute,EU
-IEEEcloud,2024,Qian He,Guilin University of Electronic Technology,AS
-IEEEcloud,2024,Dieter Gollmann,Hamburg University of Technology,EU
-IEEEcloud,2024,Qingshan Wang,Hefei University of Technology,AS
-IEEEcloud,2024,Zhizhong Liu,Henan Polytechnic University,AS
-IEEEcloud,2024,Siyuan Zhou,Hohai University,AS
-IEEEcloud,2024,Ming-Hung Chen,IBM,NA
-IEEEcloud,2024,Runyu Jin,IBM,NA
-IEEEcloud,2024,Ruchi Mahindru,IBM,NA
-IEEEcloud,2024,Aleksander Slominski,IBM,NA
-IEEEcloud,2024,Maja Vukovic,IBM,NA
-IEEEcloud,2024,Chen Wang,IBM,NA
-IEEEcloud,2024,Ting Dai,IBM Research,NA
-IEEEcloud,2024,Saransh Gupta,IBM Research,NA
-IEEEcloud,2024,Praveen Jayachandran,IBM Research,AS
-IEEEcloud,2024,Akshar Kaul,IBM Research,AS
-IEEEcloud,2024,Bekir Turkkan,IBM Research,NA
-IEEEcloud,2024,Alaa Youssef,IBM Research,NA
-IEEEcloud,2024,Michele Dolfi,IBM Research Zurich,EU
-IEEEcloud,2024,Apoorve Mohan,IBM Thomas J. Watson Research Center,NA
-IEEEcloud,2024,Toshihiro Hanawa,The University of Tokyo,AS
-IEEEcloud,2024,Wensheng Zhang,Iowa State University,NA
-IEEEcloud,2024,Geng Sun,Jilin University,AS
-IEEEcloud,2024,Meiko Jensen,Karlstad University,EU
-IEEEcloud,2024,Kun Suo,Kennesaw State University,NA
-IEEEcloud,2024,Muhammad Habib Ur Rehman,Khalifa University of Science and Technology,AS
-IEEEcloud,2024,Byungchul Tak,Kyungpook National University,AS
-IEEEcloud,2024,Kenichi Kourai,Kyushu Institute of Technology,AS
-IEEEcloud,2024,Feng Chen,Louisiana State University,NA
-IEEEcloud,2024,Keke Chen,Marquette University,NA
-IEEEcloud,2024,Wolf Zimmermann,Martin Luther University Halle-Wittenberg,EU
-IEEEcloud,2024,Adel N. Toosi,Monash University,OC
-IEEEcloud,2024,Vincent C Emeakaroha,Munster Technological University,EU
-IEEEcloud,2024,Jian Su,Nanjing University of Information Science and Technology,AS
-IEEEcloud,2024,Zhicheng Cai,Nanjing University of science and technology,AS
-IEEEcloud,2024,Chia-Mu Yu,National Chung Hsing University,AS
-IEEEcloud,2024,Radha Krishna Pisipati,National Institute of Technology Karnataka,AS
-IEEEcloud,2024,Sourav Kanti Addya,National Institute of Technology Karnataka,AS
-IEEEcloud,2024,Nectarios Koziris,National Technical University of Athens,EU
-IEEEcloud,2024,Bin Qian,Newcaslte university,EU
-IEEEcloud,2024,Jong Choi,Oak Ridge National Laboratory,NA
-IEEEcloud,2024,Lanyu Xu,Oakland University,NA
-IEEEcloud,2024,Marc Lacoste,Orange Labs,EU
-IEEEcloud,2024,Reza Farivar,RefLab,
-IEEEcloud,2024,Weilong Ding,North China University of Technology,AS
-IEEEcloud,2024,Sanjay Chitnis,RV University,AS
-IEEEcloud,2024,Minxian Xu,Shenzhen Institutes of Advanced Technology,AS
-IEEEcloud,2024,Abhay Paroha,SLB,EU
-IEEEcloud,2024,Amey Deshpande,Snowflake,NA
-IEEEcloud,2024,Lakshmi Prathima Devarasetty,Google,NA
-IEEEcloud,2024,Raja Rao Budaraju,Oracle,NA
-IEEEcloud,2024,Jayasekhar Konduru,Google,NA
-IEEEcloud,2024,Ramprasad Chinthekindi,Meta,NA
-IEEEcloud,2024,Shyam Burkule,Meta,NA
-IEEEcloud,2024,Vikas Agarwal,IBM Research – India,AS
-IEEEcloud,2024,Engin Arslan,University of Texas Arlington,NA
-IEEEcloud,2024,Nitin Auluck,Indian Institute of Technology,AS
-IEEEcloud,2024,Brian Barrett,Amazon,NA
-IEEEcloud,2024,Frederique Biennier,LIRIS – INSA Lyon,EU
-IEEEcloud,2024,Ali R. Butt,Virginia Tech,NA
-IEEEcloud,2024,Jean-Paul Calbimonte,University of Applied Sciences and Arts Western Switzerland HES-SO,EU
-IEEEcloud,2024,Giuliano Casale,Imperial College London,EU
-IEEEcloud,2024,Abhishek Chandra,University of Minnesota,NA
-IEEEcloud,2024,Fei Teng,Southwest Jiaotong Unversity,AS
-IEEEcloud,2024,Haopeng Chen,Shanghai Jiao Tong University,AS
-IEEEcloud,2024,Yue Cheng,University of Virginia,NA
-IEEEcloud,2024,Pamela Delgado,University of Applied Sciences Western Switzerland HES-SO,EU
-IEEEcloud,2024,Huawei Huang,Sun Yat-Sen University,AS
-IEEEcloud,2024,Qiang Duan,The Pennsylvania State University,NA
-IEEEcloud,2024,Yeon-sup Lim,Sungshin Women’s University,AS
-IEEEcloud,2024,Kaneez Fizza,Swinburne University,OC
-IEEEcloud,2024,Prem Prakash Jayaraman,Swinburne University of Technology,OC
-IEEEcloud,2024,Sukhpal Singh Gill,Queen Mary University of London,EU
-IEEEcloud,2024,Jacob Goldverg,The State University of New York at Buffalo,NA
-IEEEcloud,2024,Ayman Noor,Taibah University,AS
-IEEEcloud,2024,Michael Gerndt,Technical University of Munich,EU
-IEEEcloud,2024,Zulkar Nine,Tennessee Tech University,NA
-IEEEcloud,2024,Yu Hua,Huazhong University of Science and Technology,AS
-IEEEcloud,2024,Asif Imran,California State University San Marcos,NA
-IEEEcloud,2024,Hai Jin,Huazhong University of Science and Technology,AS
-IEEEcloud,2024,Rizos Sakellariou,The University of Manchester,EU
-IEEEcloud,2024,Rajkumar Buyya,The University of Melbourne,OC
-IEEEcloud,2024,Rajkumar Kettimuthu,Argonne National Lab and The University of Chicago,NA
-IEEEcloud,2024,In Kee Kim,University of Georgia,AS
-IEEEcloud,2024,Xiaoning Liu,RMIT University,NA
-IEEEcloud,2024,Yi Liu,Peking University,AS
-IEEEcloud,2024,Pinglan Liu,Google,NA
-IEEEcloud,2024,Seema Nagar,IBM Research India,AS
-IEEEcloud,2024,Arun Pandiyan,Perumal Adobe Inc.,SA
-IEEEcloud,2024,Gourav Rattihalli,Hewlett Packard Labs (HPE),NA
-IEEEcloud,2024,Matthias Schunter,Intel,NA
-IEEEcloud,2024,Yogesh Simmhan,Indian Institute of Science,AS
-IEEEcloud,2024,Tao Sun,China Mobile,AS
-IEEEcloud,2024,Marco Anisetti,Università degli Studi di Milano,EU
-IEEEcloud,2024,Vladimir Vlassov,KTH Royal Institute of Technology,EU
-IEEEcloud,2024,Filippo Berto,Università degli Studi di Milano,EU
-IEEEcloud,2024,Haibo Wang,University of Kentucky,AS
-IEEEcloud,2024,Puwei Wang,Renmin University of China,AS
-IEEEcloud,2024,Bing Zhang,University of Illinois at Urbana-Champaign,NA
-IEEEcloud,2024,Jamil Hasibul,University at Buffalo,NA
-IEEEcloud,2024,Adithya Raman,University at Buffalo,NA
-IEEEcloud,2024,Elvis Rodrigues,University at Buffalo,NA
-IEEEcloud,2024,Qinghua Li,University of Arkansas,NA
-IEEEcloud,2024,Guido Wirtz,University of Bamberg,EU
-IEEEcloud,2024,Federico Montori,University of Bologna,EU
-IEEEcloud,2024,Diwakar Krishnamurthy,University of Calgary,NA
-IEEEcloud,2024,Mohsen Amini Salehi,University of Louisiana Lafayette,NA
-IEEEcloud,2024,Parimala Thulasiraman,University of Manitoba,NA
-IEEEcloud,2024,Karuna Joshi,University of Maryland,NA
-IEEEcloud,2024,Francesco Longo,University of Messina – Department of Mathematics,EU
-IEEEcloud,2024,Nicola Bena,University of Milan,EU
-IEEEcloud,2024,Valerio Bellandi,University of Milan,EU
-IEEEcloud,2024,Douglas Thain,University of Notre Dame,NA
-IEEEcloud,2024,Devki Nandan Jha,University of Oxford,EU
-IEEEcloud,2024,Marco Guazzone,University of Piemonte Orientale,EU
-IEEEcloud,2024,Dimitris Apostolou,University of Piraeus,EU
-IEEEcloud,2024,Blesson Varghese,University of St Andrews,EU
-IEEEcloud,2024,Jun Shen,University of Wollongong,OC
-IEEEcloud,2024,I-Ling Yen,UTD,NA
-IEEEcloud,2024,Schahram Dustdar,Vienna University of Technology,EU
-IEEEcloud,2024,Shashikant Ilager,Vienna University of Technology (TU Wien),EU
-IEEEcloud,2024,Rahul Ghosh,Walmart,NA
-IEEEcloud,2024,Daniel Grosu,Wayne State University,NA
-IEEEcloud,2024,Rodrigo N. Calheiros,Western Sydney University,OC
-IEEEcloud,2024,Wei Du,whut,
-IEEEcloud,2024,Jing Fan,Zhejiang University of Technology,AS
-IEEEcloud,2024,Madhu Govindaraju SUNY Binghamton,,
 middleware,2012,Jean Bacon,University of Cambridge,EU
 middleware,2012,Ken Birman,Cornell University,NA
 middleware,2012,Gordon Blair,Lancaster University,EU
