@@ -327,12 +327,12 @@ create_violin_plot <- function(df) {
   
   # Create the complete plot
   ggplot(df, aes(x = Conference, y = Percentage)) +
-    geom_violin(fill = "#c5c5c5", alpha = 0.2, color = NA) +
+    geom_violin(fill = "#c5c5c5", alpha = 0.3, color = NA) +
     geom_boxplot(fill = NA, width = 0.2, outlier.size = 0.5) +
     geom_point(
       aes(color = as.numeric(as.character(Year))),
       position = position_jitter(width = 0.01, height = 0, seed = 123),
-      alpha = 0.3, 
+      alpha = 0.4, 
       size = 2
     ) +
     scale_color_viridis_c(
@@ -354,6 +354,7 @@ create_violin_plot <- function(df) {
     theme_conference_standard() +
     theme(
       axis.text.x = element_text(face = "bold", angle = 45, hjust = 1),
+      panel.grid.major.x = element_blank(),
       legend.title = element_text(size = 8, face = "bold", hjust = 0.8, vjust = 1.0),
       legend.position = "top",
       legend.justification = "center"
