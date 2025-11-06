@@ -338,7 +338,7 @@ if (!file.exists(INPUT_COMMITTEE)) {
 # ggsave(OUTPUT_PDF, plot = plot, device = "pdf", width = 9.5, height = pdf_height, units = "in")
 
 # Generate plot for year 2024
-data <- process_heatmap_data_2024()(INPUT_PAPERS, INPUT_COMMITTEE)
+data <- process_heatmap_data_2024(INPUT_PAPERS, INPUT_COMMITTEE)
 plot <- create_heatmap_plot(data)
 
 n_conf <- length(unique(data$Conference))
