@@ -1,5 +1,5 @@
 # =============================================================================
-# Big Tech Companies Analysis - Accepted Papers Distribution
+# Big Tech Companies Analysis by Year - Accepted Papers Distribution
 # =============================================================================
 
 script_dir <- tryCatch({

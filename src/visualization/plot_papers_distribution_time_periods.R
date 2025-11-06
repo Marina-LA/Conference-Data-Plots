@@ -1,0 +1,62 @@
+#!/usr/bin/env Rscript
+# =============================================================================
+# Plot: Accepted Papers by Continent Distribution compared over Time Periods
+# =============================================================================
+# Generates stacked bar chart showing distribution of accepted papers
+# across continents for each conference.
+# =============================================================================
+
+# Source utilities
+tryCatch({
+  script_dir <- dirname(sys.frame(1)$ofile)
+}, error = function(e) {
+  script_dir <<- getwd()
+})
+if (file.exists("src/visualization/plot_utils.R")) {
+  source("src/visualization/plot_utils.R")
+} else {
+  source(file.path(script_dir, "plot_utils.R"))
+}
+
+# =============================================================================
+# CONFIGURATION
+# =============================================================================
+
+INPUT_CSV <- "data/processed/csv/unifiedPaperData.csv"
+OUTPUT_PDF <- "outputs/plots/accepted_papers_continent_distribution_facets.pdf"
+PLOT_WIDTH <- PLOT_WIDTH_STANDARD
+PLOT_HEIGHT <- PLOT_HEIGHT_STANDARD
+
+# =============================================================================
+# MAIN EXECUTION
+# =============================================================================
+
+main <- function() {
+  message("Generating accepted papers distribution divided by time periods plot...")
+  
+  # Check input file exists
+  if (!file.exists(INPUT_CSV)) {
+    stop("Input file not found: ", INPUT_CSV)
+  }
+  
+  # Create output directory
+  dir.create(dirname(OUTPUT_PDF), recursive = TRUE, showWarnings = FALSE)
+  
+  # Generate plot using pipeline function
+  plot <- pipeline_papers_distribution_time_period(
+    csv_path = INPUT_CSV,
+    output_path = OUTPUT_PDF,
+    width = PLOT_WIDTH,
+    height = PLOT_HEIGHT
+  )
+  
+  message("Plot saved: ", OUTPUT_PDF)
+  
+  invisible(plot)
+}
+
+# Run if called as script
+if (!interactive()) {
+  main()
+}
+

@@ -184,9 +184,10 @@ def main():
         ("plot_gini_simpson.R", "Gini-Simpson diversity index"),
         ("plot_big_tech_companies_by_year.R", "Big Tech vs Academic papers for each year"),
         ("plot_big_tech_by_continent.R", "Big Tech by continent"),
-        ("plot_committee_papers_heatmap.R", "Committee vs Papers heatmap"),
+        ("plot_committee_papers_heatmap.R", "Committee vs Papers heatmap (year 2024)"),
         ("plot_big_tech_companies.R", "Big Tech Companies Analysis"),
         ("plot_asian_trend_distribution.R", "Asian Papers Distribution Trend"),
+        ("plot_papers_distribution_time_periods.R", "Papers distribution by time periods (2012-2018 vs 2020-2024)"),
     ]
     
     generated_count = 0

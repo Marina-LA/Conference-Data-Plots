@@ -169,6 +169,51 @@ apply_readable_labels <- function(df, apply_conference_mapping = TRUE) {
   result
 }
 
+#' Define time periods based on year ranges
+#' @param df Dataframe containing a Year column
+#' @return Dataframe with added Period factor column
+define_time_periods <- function(df) {
+  df %>%
+    mutate(
+      Period = case_when(
+        Year <= 2017 ~ "2012-2018",
+        Year >= 2018 ~ "2020-2024",
+        TRUE ~ "Other"
+      ),
+      Period = factor(Period, levels = c("2012-2018", "2020-2024"))
+    )
+}
+
+#' Calculate Paper Statistics by Period and Prepare for Visualization
+#' @param df Dataframe containing Conference, Period, and Predominant_Continent_Clean columns
+#' @return Dataframe prepared for visualization with percentages and factor levels
+calculate_and_prepare_paper_stats <- function(df) {
+  # Total papers per conference and period (including Unknown)
+  total_papers <- df %>%
+    group_by(Conference, Period) %>%
+    summarise(Total = n(), .groups = "drop")
+  
+  # Counts per continent by period (excluding Unknown)
+  continent_counts <- df %>%
+    filter(Continent_Clean != "Unknown") %>%
+    group_by(Conference, Period, Continent_Clean) %>%
+    summarise(Count = n(), .groups = "drop")
+  
+  # Calculate percentages and prepare for visualization
+  continent_counts %>%
+    left_join(total_papers, by = c("Conference", "Period")) %>%
+    mutate(Percentage = Count / Total * 100) %>%
+    ungroup() %>%
+    mutate(
+      Continent = recode(Continent_Clean, !!!CONTINENT_MAPPING),
+      Conference = recode(Conference, !!!CONFERENCE_MAPPING)
+    ) %>%
+    mutate(
+      Conference = factor(Conference, levels = CONFERENCE_ORDER),
+      Continent = factor(Continent, 
+                                     levels = rev(names(CONTINENT_COLORS))))
+}
+
 # =============================================================================
 # PLOT CREATION UTILITIES
 # =============================================================================
@@ -316,6 +361,46 @@ create_comparison_plot <- function(df) {
       axis.text.y = element_text(size = 8, face = "bold")
     )
 }
+
+create_distribution_plot_facets <- function(df, 
+                                         y_label = "Percentage",
+                                         show_unknown = FALSE) {
+  
+  ggplot(df, aes(x = Conference, y = Percentage, fill = Continent)) +
+    geom_bar(stat = "identity", width = 0.7) +
+    facet_wrap(~ Period, ncol = 2) +
+    scale_fill_manual(
+      values = CONTINENT_COLORS,
+      breaks = if (show_unknown) names(CONTINENT_COLORS) 
+               else setdiff(names(CONTINENT_COLORS), "Unknown")
+    ) +
+    labs(
+      y = y_label,
+      x = NULL,
+      fill = NULL
+    ) +
+    scale_y_continuous(
+      breaks = seq(0, 100, 20),
+      labels = function(x) paste0(x, "%"),
+      expand = c(0, 0),
+      limits = c(0, 100)
+    ) +
+    theme_conference_bars() +
+    theme(
+      plot.title = element_text(hjust = 0.5, face = "bold"),
+      axis.text.x = element_text(angle = 45, hjust = 1, face = "bold"),
+      legend.position = "top",
+      legend.key.size = unit(0.25, "cm"),
+      panel.grid.minor = element_blank(),
+      panel.grid.major.x = element_blank(),
+      text = element_text(family = "serif"),
+      panel.grid.major.y = element_line(linewidth = 0.2),
+      plot.margin = margin(t=10, r=10, b=10, l=10),
+      strip.text = element_text(face = "bold", size = 10)
+    )
+
+}
+
 
 #' Create violin plot with distribution of percentages by conference
 #' @param df Dataframe with Conference, Year, Percentage columns
@@ -524,6 +609,45 @@ pipeline_continent_trend_distribution <- function(csv_path, output_path, contine
   plot
 }
 
+
+#' Complete pipeline: Load papers data and create distribution plot
+#' @param csv_path Path to papers CSV
+#' @param output_path Output PDF path
+#' @param width Plot width in inches
+#' @param height Plot height in inches
+#' @return ggplot object
+pipeline_papers_distribution_time_period <- function(csv_path, output_path,
+                                        width = PLOT_WIDTH_WIDE,
+                                        height = PLOT_HEIGHT_WIDE) {
+  
+  # Load and process data
+  df <- load_csv_data(csv_path) %>%
+    rename(Predominant_Continent = `Predominant Continent`) %>%
+    process_paper_continents("Predominant_Continent")
+
+  df <- clean_continent_codes(df, "Predominant_Continent") %>%
+    standardize_conference_names()
+
+  # Define time periods
+  df <- define_time_periods(df)
+  
+  # Calculate percentages
+  df_stats <- calculate_and_prepare_paper_stats(df)
+
+  print(df_stats)
+
+  # Create plot
+  plot <- create_distribution_plot_facets(
+    df_stats,
+    y_label = "Percentage of Papers",
+    show_unknown = FALSE
+  )
+  
+  # Save
+  save_conference_plot(plot, output_path, width, height)
+  
+  plot
+}
 
 # Plot utilities loaded
 
