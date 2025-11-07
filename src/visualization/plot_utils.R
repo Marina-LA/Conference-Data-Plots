@@ -176,11 +176,11 @@ define_time_periods <- function(df) {
   df %>%
     mutate(
       Period = case_when(
-        Year <= 2017 ~ "2012-2018",
-        Year >= 2018 ~ "2020-2024",
+        Year <= 2019 ~ "2012-2019",
+        Year >= 2020 ~ "2020-2024",
         TRUE ~ "Other"
       ),
-      Period = factor(Period, levels = c("2012-2018", "2020-2024"))
+      Period = factor(Period, levels = c("2012-2019", "2020-2024"))
     )
 }
 
